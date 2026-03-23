@@ -27,10 +27,10 @@ config["data_vendors"] = {
 }
 
 # Initialize with custom config
-ta = TradingAgentsGraph(debug=True, config=config)
+ta = TradingAgentsGraph(debug=True, selected_analysts=["market"], config=config)
 
 # forward propagate
-_, decision = ta.propagate("NVDA", "2024-3-20")
+_, decision = ta.propagate("WETH/USDC", "2026-3-20")
 print(decision)
 
 # Memorize mistakes and reflect

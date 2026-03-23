@@ -60,7 +60,7 @@ class GraphSetup:
         if "market" in selected_analysts:
             analyst_nodes["market"] = create_market_analyst(
                 self.quick_thinking_llm
-            )
+            ) # 这个函数返回一个 相当于节点的函数
             delete_nodes["market"] = create_msg_delete()
             tool_nodes["market"] = self.tool_nodes["market"]
 

@@ -24,6 +24,9 @@ from .alpha_vantage import (
 )
 from .alpha_vantage_common import AlphaVantageRateLimitError
 
+from .AAA_GeckoTerminal_price import get_dex_ohlcv as get_geckoterminal_ohlcv
+from .AAA_DexScreenrt_price import get_aerodrome_pool_data as get_dexscreenrt_spot_data
+
 # Configuration and routing logic
 from .config import get_config
 
@@ -33,6 +36,12 @@ TOOLS_CATEGORIES = {
         "description": "OHLCV stock price data",
         "tools": [
             "get_stock_data"
+        ]
+    },
+    "dex_data":{
+        "description": "Decentralized exchange data",
+        "tools": [
+            "get_dex_ohlcv"
         ]
     },
     "technical_indicators": {
@@ -71,6 +80,11 @@ VENDOR_METHODS = {
     "get_stock_data": {
         "alpha_vantage": get_alpha_vantage_stock,
         "yfinance": get_YFin_data_online,
+    },
+    # dex_data
+    "get_dex_ohlcv": {
+        "geckoterminal": get_geckoterminal_ohlcv,
+        "aerodrome": get_dexscreenrt_spot_data,
     },
     # technical_indicators
     "get_indicators": {

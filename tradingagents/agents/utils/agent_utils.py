@@ -18,6 +18,10 @@ from tradingagents.agents.utils.news_data_tools import (
     get_insider_transactions,
     get_global_news
 )
+from tradingagents.agents.utils.AAA_dex_data_tools import (
+    get_dex_ohlcv
+)
+
 
 def create_msg_delete():
     def delete_messages(state):

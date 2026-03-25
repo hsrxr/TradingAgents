@@ -26,32 +26,39 @@ from .alpha_vantage_common import AlphaVantageRateLimitError
 
 from .AAA_GeckoTerminal_price import get_dex_ohlcv as get_geckoterminal_ohlcv
 from .AAA_DexScreenrt_price import get_aerodrome_pool_data as get_dexscreenrt_spot_data
+from .AAA_caculate_indicators import calculate_indicators as get_dex_indicators
 
 # Configuration and routing logic
 from .config import get_config
 
 # Tools organized by category
 TOOLS_CATEGORIES = {
-    "core_stock_apis": {
-        "description": "OHLCV stock price data",
-        "tools": [
-            "get_stock_data"
-        ]
-    },
     "dex_data":{
-        "description": "Decentralized exchange data",
+        "description": "Decentralized exchange data for pairs",
         "tools": [
             "get_dex_ohlcv"
         ]
     },
-    "technical_indicators": {
-        "description": "Technical analysis indicators",
+    "dex_technical_indicators":{
+        "description": "Technical indicators for DEX trading pairs",
+        "tools": [
+            "get_dex_indicators"
+        ]
+    },
+    "core_stock_apis": {
+        "description": "OHLCV stock price data for stocks",
+        "tools": [
+            "get_stock_data"
+        ]
+    },
+    "stock_technical_indicators": {
+        "description": "Technical analysis indicators for stocks",
         "tools": [
             "get_indicators"
         ]
     },
     "fundamental_data": {
-        "description": "Company fundamentals",
+        "description": "Company fundamentals for stocks",
         "tools": [
             "get_fundamentals",
             "get_balance_sheet",
@@ -60,7 +67,7 @@ TOOLS_CATEGORIES = {
         ]
     },
     "news_data": {
-        "description": "News and insider data",
+        "description": "News and insider data for stocks",
         "tools": [
             "get_news",
             "get_global_news",
@@ -76,17 +83,21 @@ VENDOR_LIST = [
 
 # Mapping of methods to their vendor-specific implementations
 VENDOR_METHODS = {
-    # core_stock_apis
-    "get_stock_data": {
-        "alpha_vantage": get_alpha_vantage_stock,
-        "yfinance": get_YFin_data_online,
-    },
     # dex_data
     "get_dex_ohlcv": {
         "geckoterminal": get_geckoterminal_ohlcv,
         "aerodrome": get_dexscreenrt_spot_data,
     },
-    # technical_indicators
+    # dex_indicators
+    "get_dex_indicators": {
+            "custom": get_dex_indicators
+    },
+    # core_stock_apis
+    "get_stock_data": {
+        "alpha_vantage": get_alpha_vantage_stock,
+        "yfinance": get_YFin_data_online,
+    },
+    # stock_technical_indicators
     "get_indicators": {
         "alpha_vantage": get_alpha_vantage_indicator,
         "yfinance": get_stock_stats_indicators_window,

@@ -1,3 +1,4 @@
+import os
 from tradingagents.graph.trading_graph import TradingAgentsGraph
 from tradingagents.default_config import DEFAULT_CONFIG
 
@@ -30,7 +31,9 @@ config["data_vendors"] = {
 ta = TradingAgentsGraph(debug=True, selected_analysts=["market"], config=config)
 
 # forward propagate
-_, decision = ta.propagate("WETH/USDC", "2026-3-20")
+final_state, decision = ta.propagate("WETH/USDC", "2026-3-25")
+with os.popen('cls' if os.name == 'nt' else 'clear') as f:
+    print(f.read())
 print(decision)
 
 # Memorize mistakes and reflect

@@ -31,7 +31,8 @@ from tradingagents.agents.utils.agent_utils import (
     get_news,
     get_insider_transactions,
     get_global_news,
-    get_dex_ohlcv
+    get_dex_ohlcv,
+    get_dex_indicators
 )
 
 from .conditional_logic import ConditionalLogic
@@ -161,7 +162,8 @@ class TradingAgentsGraph:
                     # Technical indicators
                     get_indicators,
                     # Decentralized exchange data
-                    get_dex_ohlcv                                        
+                    get_dex_ohlcv,
+                    get_dex_indicators,                                      
                 ]
             ),
             "social": ToolNode(

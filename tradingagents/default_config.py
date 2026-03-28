@@ -17,11 +17,17 @@ DEFAULT_CONFIG = {
     # Provider-specific thinking configuration
     "google_thinking_level": None,      # "high", "minimal", etc.
     "openai_reasoning_effort": None,    # "medium", "high", "low"
+    "llm_timeout_seconds": 180.0,
+    "llm_max_retries": 5,
     
     # Debate and discussion settings
     "max_debate_rounds": 1,
     "max_risk_discuss_rounds": 1,
     "max_recur_limit": 100,
+    "graph_invoke_retries": 3,
+    "graph_invoke_backoff_seconds": 2.0,
+    "max_position_pct": 0.20,
+    "max_single_order_pct": 0.10,
     
     # Data vendor configuration
     # Category-level configuration (default for all tools in category)
@@ -36,4 +42,8 @@ DEFAULT_CONFIG = {
     "tool_vendors": {
         # Example: "get_stock_data": "alpha_vantage",  # Override category default
     },
+    
+    # Progress tracking settings
+    "enable_progress_tracking": True,   # Enable real-time progress display
+    "enable_colored_output": True,      # Use colored output for better readability
 }

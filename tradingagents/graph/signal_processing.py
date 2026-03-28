@@ -1,5 +1,6 @@
 # TradingAgents/graph/signal_processing.py
 
+import json
 from langchain_openai import ChatOpenAI
 
 
@@ -20,12 +21,17 @@ class SignalProcessor:
         Returns:
             Extracted decision (BUY, SELL, or HOLD)
         """
-        messages = [
-            (
-                "system",
-                "You are an efficient assistant designed to analyze paragraphs or financial reports provided by a group of analysts. Your task is to extract the investment decision: SELL, BUY, or HOLD. Provide only the extracted decision (SELL, BUY, or HOLD) as your output, without adding any additional text or information.",
-            ),
-            ("human", full_signal),
-        ]
+        try:
+            obj = json.loads(full_signal)
+            action = str(obj.get("action", "HOLD")).upper()
+            if action in {"BUY", "SELL", "HOLD"}:
+                return action
+        except Exception:
+            pass
 
-        return self.quick_thinking_llm.invoke(messages).content
+        upper_text = full_signal.upper()
+        if "SELL" in upper_text:
+            return "SELL"
+        if "BUY" in upper_text:
+            return "BUY"
+        return "HOLD"

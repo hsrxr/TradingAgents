@@ -29,13 +29,14 @@ config["data_vendors"] = {
 }
 start_time = time.time()
 # Initialize with custom config
-ta = TradingAgentsGraph(debug=True, selected_analysts=["news"], config=config)
+ta = TradingAgentsGraph(debug=True, selected_analysts=["market", "news"], config=config)
 
 # forward propagate NVDA
-final_state, decision = ta.propagate("WETH/USDC", "2026-3-25")
+final_state, decision = ta.propagate("WETH/USDC", "2026-3-28")
 end_time = time.time()
-print(f"Execution time: {end_time - start_time:.2f} seconds")
-print(decision)
 
+print(decision)
+print('\n',"=" * 50,'\n')
+print(f"Execution time: {end_time - start_time:.2f} seconds")
 # Memorize mistakes and reflect
 # ta.reflect_and_remember(1000) # parameter is the position returns

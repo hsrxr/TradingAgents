@@ -45,10 +45,8 @@ class ConditionalLogic:
 
     def should_continue_debate(self, state: AgentState) -> str:
         """Determine if debate should continue."""
-
-        if (
-            state["investment_debate_state"]["count"] >= 2 * self.max_debate_rounds
-        ):  # 3 rounds of back-and-forth between 2 agents
+        # Simplified architecture: hard cap at 2 total turns (Bull + Bear).
+        if state["investment_debate_state"]["count"] >= 2:
             return "Research Manager"
         if state["investment_debate_state"]["current_response"].startswith("Bull"):
             return "Bear Researcher"

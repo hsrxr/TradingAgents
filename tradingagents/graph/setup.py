@@ -1,6 +1,6 @@
 # TradingAgents/graph/setup.py
 
-from typing import Dict, Any
+from typing import Dict, Any, List
 from langchain_openai import ChatOpenAI
 from langgraph.graph import END, StateGraph, START
 from langgraph.prebuilt import ToolNode
@@ -37,9 +37,25 @@ class GraphSetup:
         self.risk_manager_memory = risk_manager_memory
         self.conditional_logic = conditional_logic
 
-    def setup_graph(
-        self, selected_analysts=["market", "social", "news", "fundamentals"]
-    ):
+    def _normalize_selected_analysts(self, selected_analysts: List[str]) -> List[str]:
+        """Keep only analysts used by the simplified architecture."""
+        allowed = [a for a in selected_analysts if a in ("market", "news")]
+        if not allowed:
+            raise ValueError(
+                "Trading Agents Graph Setup Error: simplified architecture requires at least one of ['market', 'news']."
+            )
+        return allowed
+
+    @staticmethod
+    def _context_merge_node(state: AgentState) -> Dict[str, Any]:
+        """Merge analyst outputs into one debate context payload."""
+        merged_context = (
+            f"Market Report:\n{state.get('market_report', '')}\n\n"
+            f"News Report:\n{state.get('news_report', '')}"
+        )
+        return {"investment_plan": merged_context}
+
+    def setup_graph(self, selected_analysts=["market", "news"]):
         """Set up and compile the agent workflow graph.
 
         Args:
@@ -49,8 +65,7 @@ class GraphSetup:
                 - "news": News analyst
                 - "fundamentals": Fundamentals analyst
         """
-        if len(selected_analysts) == 0:
-            raise ValueError("Trading Agents Graph Setup Error: no analysts selected!")
+        selected_analysts = self._normalize_selected_analysts(selected_analysts)
 
         # Create analyst nodes
         analyst_nodes = {}
@@ -64,26 +79,12 @@ class GraphSetup:
             delete_nodes["market"] = create_msg_delete()
             tool_nodes["market"] = self.tool_nodes["market"]
 
-        if "social" in selected_analysts:
-            analyst_nodes["social"] = create_social_media_analyst(
-                self.quick_thinking_llm
-            )
-            delete_nodes["social"] = create_msg_delete()
-            tool_nodes["social"] = self.tool_nodes["social"]
-
         if "news" in selected_analysts:
             analyst_nodes["news"] = create_news_analyst(
                 self.quick_thinking_llm
             )
             delete_nodes["news"] = create_msg_delete()
             tool_nodes["news"] = self.tool_nodes["news"]
-
-        if "fundamentals" in selected_analysts:
-            analyst_nodes["fundamentals"] = create_fundamentals_analyst(
-                self.quick_thinking_llm
-            )
-            delete_nodes["fundamentals"] = create_msg_delete()
-            tool_nodes["fundamentals"] = self.tool_nodes["fundamentals"]
 
         # Create researcher and manager nodes
         bull_researcher_node = create_bull_researcher(
@@ -92,18 +93,8 @@ class GraphSetup:
         bear_researcher_node = create_bear_researcher(
             self.quick_thinking_llm, self.bear_memory
         )
-        research_manager_node = create_research_manager(
-            self.deep_thinking_llm, self.invest_judge_memory
-        )
-        trader_node = create_trader(self.quick_thinking_llm, self.trader_memory)
-
-        # Create risk analysis nodes
-        aggressive_analyst = create_aggressive_debator(self.quick_thinking_llm)
-        neutral_analyst = create_neutral_debator(self.quick_thinking_llm)
-        conservative_analyst = create_conservative_debator(self.quick_thinking_llm)
-        risk_manager_node = create_risk_manager(
-            self.deep_thinking_llm, self.risk_manager_memory
-        )
+        chief_trader_node = create_trader(self.quick_thinking_llm, self.trader_memory)
+        risk_engine_node = create_risk_engine()
 
         # Create workflow
         workflow = StateGraph(AgentState)
@@ -119,12 +110,9 @@ class GraphSetup:
         # Add other nodes
         workflow.add_node("Bull Researcher", bull_researcher_node)
         workflow.add_node("Bear Researcher", bear_researcher_node)
-        workflow.add_node("Research Manager", research_manager_node)
-        workflow.add_node("Trader", trader_node)
-        workflow.add_node("Aggressive Analyst", aggressive_analyst)
-        workflow.add_node("Neutral Analyst", neutral_analyst)
-        workflow.add_node("Conservative Analyst", conservative_analyst)
-        workflow.add_node("Risk Judge", risk_manager_node)
+        workflow.add_node("Context Merge", self._context_merge_node)
+        workflow.add_node("Chief Trader", chief_trader_node)
+        workflow.add_node("Risk Engine", risk_engine_node)
 
         # Define edges
         # Start with the first analyst
@@ -145,12 +133,14 @@ class GraphSetup:
             )
             workflow.add_edge(current_tools, current_analyst)
 
-            # Connect to next analyst or to Bull Researcher if this is the last analyst
+            # Connect to next analyst or to Context Merge if this is the last analyst
             if i < len(selected_analysts) - 1:
                 next_analyst = f"{selected_analysts[i+1].capitalize()} Analyst"
                 workflow.add_edge(current_clear, next_analyst)
             else:
-                workflow.add_edge(current_clear, "Bull Researcher")
+                workflow.add_edge(current_clear, "Context Merge")
+
+        workflow.add_edge("Context Merge", "Bull Researcher")
 
         # Add remaining edges
         workflow.add_conditional_edges(
@@ -158,7 +148,7 @@ class GraphSetup:
             self.conditional_logic.should_continue_debate,
             {
                 "Bear Researcher": "Bear Researcher",
-                "Research Manager": "Research Manager",
+                "Research Manager": "Chief Trader",
             },
         )
         workflow.add_conditional_edges(
@@ -166,37 +156,11 @@ class GraphSetup:
             self.conditional_logic.should_continue_debate,
             {
                 "Bull Researcher": "Bull Researcher",
-                "Research Manager": "Research Manager",
+                "Research Manager": "Chief Trader",
             },
         )
-        workflow.add_edge("Research Manager", "Trader")
-        workflow.add_edge("Trader", "Aggressive Analyst")
-        workflow.add_conditional_edges(
-            "Aggressive Analyst",
-            self.conditional_logic.should_continue_risk_analysis,
-            {
-                "Conservative Analyst": "Conservative Analyst",
-                "Risk Judge": "Risk Judge",
-            },
-        )
-        workflow.add_conditional_edges(
-            "Conservative Analyst",
-            self.conditional_logic.should_continue_risk_analysis,
-            {
-                "Neutral Analyst": "Neutral Analyst",
-                "Risk Judge": "Risk Judge",
-            },
-        )
-        workflow.add_conditional_edges(
-            "Neutral Analyst",
-            self.conditional_logic.should_continue_risk_analysis,
-            {
-                "Aggressive Analyst": "Aggressive Analyst",
-                "Risk Judge": "Risk Judge",
-            },
-        )
-
-        workflow.add_edge("Risk Judge", END)
+        workflow.add_edge("Chief Trader", "Risk Engine")
+        workflow.add_edge("Risk Engine", END)
 
         # Compile and return
         return workflow.compile()

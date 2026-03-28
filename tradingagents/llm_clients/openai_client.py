@@ -41,7 +41,10 @@ class OpenAIClient(BaseLLMClient):
 
     def get_llm(self) -> Any:
         """Return configured ChatOpenAI instance."""
-        llm_kwargs = {"model": self.model}
+        llm_kwargs = {"model": self.model, 
+                      'timeout': 120.0, 
+                      'max_retries': 3}
+        
 
         if self.provider == "xai":
             llm_kwargs["base_url"] = "https://api.x.ai/v1"

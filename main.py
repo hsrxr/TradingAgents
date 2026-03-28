@@ -1,4 +1,5 @@
 import os
+import time
 from tradingagents.graph.trading_graph import TradingAgentsGraph
 from tradingagents.default_config import DEFAULT_CONFIG
 
@@ -26,14 +27,14 @@ config["data_vendors"] = {
     "fundamental_data": "alpha_vantage",          # Options: alpha_vantage, yfinance
     "news_data": "alpha_vantage",                 # Options: alpha_vantage, yfinance
 }
-
+start_time = time.time()
 # Initialize with custom config
-ta = TradingAgentsGraph(debug=True, selected_analysts=["market"], config=config)
+ta = TradingAgentsGraph(debug=True, selected_analysts=["news"], config=config)
 
-# forward propagate
+# forward propagate NVDA
 final_state, decision = ta.propagate("WETH/USDC", "2026-3-25")
-with os.popen('cls' if os.name == 'nt' else 'clear') as f:
-    print(f.read())
+end_time = time.time()
+print(f"Execution time: {end_time - start_time:.2f} seconds")
 print(decision)
 
 # Memorize mistakes and reflect

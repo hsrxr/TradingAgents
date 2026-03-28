@@ -5,9 +5,7 @@ from pathlib import Path
 import json
 from datetime import date
 from typing import Dict, Any, Tuple, List, Optional
-
 from langgraph.prebuilt import ToolNode
-
 from tradingagents.llm_clients import create_llm_client
 
 from tradingagents.agents import *
@@ -34,6 +32,8 @@ from tradingagents.agents.utils.agent_utils import (
     get_dex_ohlcv,
     get_dex_indicators
 )
+from tradingagents.dataflows.AAA_rss_processor import fetch_and_parse_crypto_news
+from tradingagents.dataflows.AAA_get_full_articles import fetch_article_full_text
 
 from .conditional_logic import ConditionalLogic
 from .setup import GraphSetup
@@ -175,9 +175,11 @@ class TradingAgentsGraph:
             "news": ToolNode(
                 [
                     # News and insider information
-                    get_news,
-                    get_global_news,
-                    get_insider_transactions,
+                    # get_news,
+                    # get_global_news,
+                    # get_insider_transactions,
+                    fetch_and_parse_crypto_news,
+                    fetch_article_full_text,
                 ]
             ),
             "fundamentals": ToolNode(

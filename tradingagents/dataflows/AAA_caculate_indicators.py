@@ -7,7 +7,7 @@ from typing import List, Union, Callable, Dict
 
 def load_price_data(pair: str) -> pd.DataFrame:
     DATA_CACHE_DIR = os.getenv("DATA_CACHE_DIR", "tradingagents/dataflows/data_cache")
-    file_path = f"{DATA_CACHE_DIR}/{pair.replace('/', '_')}_ohlcv.csv"
+    file_path = f"{DATA_CACHE_DIR}/prices/{pair.replace('/', '_')}_ohlcv.csv"
     
     if not os.path.exists(file_path):
         raise FileNotFoundError(f"Data cache not found: {file_path}")

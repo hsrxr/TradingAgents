@@ -68,7 +68,7 @@ def get_dex_ohlcv(pair: str, tradedate: str, timeframe: str = "hour", limit: int
             os.makedirs(DATA_CACHE_DIR, exist_ok=True) 
             
             # 保存全量 K 线数据 (预热 + Agent 请求)
-            csv_path = os.path.join(DATA_CACHE_DIR, f"{pair.replace('/', '_')}_ohlcv.csv")
+            csv_path = os.path.join(f"{DATA_CACHE_DIR}/prices", f"{pair.replace('/', '_')}_ohlcv.csv")
             df.to_csv(csv_path, index=False)
 
             total_fetched = len(df)      

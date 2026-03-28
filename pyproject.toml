@@ -30,6 +30,8 @@ dependencies = [
     "tqdm>=4.67.1",
     "typing-extensions>=4.14.0",
     "yfinance>=0.2.63",
+    "feedparser>=6.0.12",
+    "beautifulsoup4>=4.13.4",
 ]
 
 [project.scripts]

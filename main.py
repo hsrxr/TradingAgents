@@ -19,17 +19,9 @@ config["backend_url"] = "https://api.deepseek.com/v1"
 config["deep_think_llm"] = "deepseek-reasoner"  
 config["quick_think_llm"] = "deepseek-chat"  
 
-
-# Configure data vendors (default uses yfinance, no extra API keys needed)
-config["data_vendors"] = {
-    "core_stock_apis": "alpha_vantage",           # Options: alpha_vantage, yfinance
-    "technical_indicators": "alpha_vantage",      # Options: alpha_vantage, yfinance
-    "fundamental_data": "alpha_vantage",          # Options: alpha_vantage, yfinance
-    "news_data": "alpha_vantage",                 # Options: alpha_vantage, yfinance
-}
 start_time = time.time()
 # Initialize with custom config
-ta = TradingAgentsGraph(debug=True, selected_analysts=["market", "news"], config=config)
+ta = TradingAgentsGraph(debug=True, selected_analysts=['market', 'news'], config=config, parallel_mode=True)
 
 # forward propagate NVDA
 final_state, decision = ta.propagate("WETH/USDC", "2026-3-28")

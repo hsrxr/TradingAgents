@@ -3,16 +3,23 @@ import pandas as pd
 import json
 import os
 import datetime
-from tradingagents.dataflows.AAA_adress_mapping import AERODROME_PAIRS
+from typing import Annotated
+from langchain_core.tools import tool
+from tradingagents.dataflows.address_mapping import AERODROME_PAIRS
 
 
-
-def get_dex_ohlcv(pair: str, tradedate: str, timeframe: str = "hour", limit: int = 100) -> pd.DataFrame:
+@tool
+def get_dex_ohlcv(
+    pair: Annotated[str, "Trading pair name, such as 'WETH/USDC'"],
+    tradedate: Annotated[str, "Date and time before which data is requested, format 'YYYY-MM-DD HH:MM:SS'"],
+    timeframe: Annotated[str, "OHLCV timeframe: day, hour, minute"] = "hour",
+    limit: Annotated[int, "Number of OHLCV rows to return, max 1000"] = 100,
+) -> pd.DataFrame:
     """
     获取指定流动性池的历史 OHLCV 时间序列数据，并注入预热长度到全局状态。
     """
     if pair not in AERODROME_PAIRS:
-        raise ValueError(f"❌ 交易对 {pair} 的池地址未配置，请检查 AAA_adress_mapping.py 中的 AERODROME_PAIRS 字典")
+        raise ValueError(f"❌ 交易对 {pair} 的池地址未配置，请检查 address_mapping.py 中的 AERODROME_PAIRS 字典")
         
     try:
         dt_obj = pd.to_datetime(tradedate)

@@ -4,9 +4,12 @@ Displays agent prompts, outputs, and execution progress.
 """
 
 import logging
+import json
 from datetime import datetime
 from typing import Any, Dict, List, Optional
 from enum import Enum
+from pathlib import Path
+from langchain_core.callbacks import BaseCallbackHandler
 
 try:
     from colorama import Fore, Back, Style, init
@@ -68,6 +71,61 @@ class ProgressTracker:
         self.llm_calls: List[Dict[str, Any]] = []
         self.start_time: Optional[float] = None
         self.phase_start_times: Dict[str, float] = {}
+        self.log_file_path: Optional[str] = None
+
+    def start_run(self, log_file_path: str, metadata: Optional[Dict[str, Any]] = None) -> None:
+        """Start a new run-level JSONL log file and reset in-memory counters."""
+        self.node_history = []
+        self.llm_calls = []
+        self.log_file_path = log_file_path
+
+        path = Path(log_file_path)
+        path.parent.mkdir(parents=True, exist_ok=True)
+
+        header = {
+            "event": "run_started",
+            "timestamp": datetime.now().isoformat(),
+            "metadata": metadata or {},
+        }
+        self._write_jsonl_event(header)
+
+        if self.verbose:
+            print(f"📁 Full trace log: {path.as_posix()}")
+
+    def _write_jsonl_event(self, event: Dict[str, Any]) -> None:
+        """Append a JSON line event when file logging is enabled."""
+        if not self.log_file_path:
+            return
+
+        path = Path(self.log_file_path)
+        try:
+            with path.open("a", encoding="utf-8") as f:
+                f.write(json.dumps(self._to_jsonable(event), ensure_ascii=False) + "\n")
+        except Exception as exc:
+            logger.warning("Failed to write progress log event: %s", exc)
+
+    def _to_jsonable(self, value: Any) -> Any:
+        """Best-effort conversion for non-JSON-serializable objects."""
+        if value is None or isinstance(value, (str, int, float, bool)):
+            return value
+        if isinstance(value, dict):
+            return {str(k): self._to_jsonable(v) for k, v in value.items()}
+        if isinstance(value, (list, tuple, set)):
+            return [self._to_jsonable(v) for v in value]
+
+        # Common LangChain message objects
+        content = getattr(value, "content", None)
+        msg_type = getattr(value, "type", None)
+        tool_calls = getattr(value, "tool_calls", None)
+        if content is not None or msg_type is not None or tool_calls is not None:
+            return {
+                "type": msg_type,
+                "content": self._to_jsonable(content),
+                "tool_calls": self._to_jsonable(tool_calls),
+            }
+
+        # DataFrame or other objects: string fallback
+        return str(value)
         
     def track_node_start(self, node_name: str, state: Dict[str, Any]) -> None:
         """
@@ -89,9 +147,17 @@ class ProgressTracker:
             "start_timestamp": timestamp,
             "state_keys": list(state.keys()) if isinstance(state, dict) else [],
         })
+
+        self._write_jsonl_event({
+            "event": "node_start",
+            "timestamp": timestamp,
+            "node_name": node_name,
+            "node_type": node_type.value,
+            "input_state": state,
+        })
         
         if self.verbose:
-            self._print_node_start(node_name, node_type, timestamp)
+            self._print_node_start(node_name, node_type, timestamp, state)
     
     def track_node_end(self, node_name: str, output: Any) -> None:
         """
@@ -104,11 +170,21 @@ class ProgressTracker:
         import time
         
         # Find the matching node in history
+        node_duration = None
         for node in reversed(self.node_history):
             if node["name"] == node_name and "end_time" not in node:
                 node["end_time"] = time.time()
                 node["duration"] = node["end_time"] - node["start_time"]
+                node_duration = node["duration"]
                 break
+
+        self._write_jsonl_event({
+            "event": "node_end",
+            "timestamp": datetime.now().strftime("%Y-%m-%d %H:%M:%S"),
+            "node_name": node_name,
+            "duration": node_duration,
+            "output": output,
+        })
         
         if self.verbose:
             self._print_node_end(node_name, output)
@@ -130,6 +206,15 @@ class ProgressTracker:
         self.llm_calls.append({
             "analyst": analyst_name,
             "timestamp": datetime.now().strftime("%Y-%m-%d %H:%M:%S"),
+            "prompt": prompt,
+            "response": response,
+            "duration": duration,
+        })
+
+        self._write_jsonl_event({
+            "event": "llm_call",
+            "timestamp": datetime.now().strftime("%Y-%m-%d %H:%M:%S"),
+            "analyst": analyst_name,
             "prompt": prompt,
             "response": response,
             "duration": duration,
@@ -192,6 +277,18 @@ class ProgressTracker:
             print(f"\nSlowest Nodes:")
             for node in slow_nodes:
                 print(f"  {node['name']:30} {node['duration']:8.2f}s")
+
+        self._write_jsonl_event({
+            "event": "summary",
+            "timestamp": datetime.now().strftime("%Y-%m-%d %H:%M:%S"),
+            "total_execution_time": total_time,
+            "total_llm_calls": len(self.llm_calls),
+            "time_by_type": by_type,
+            "slowest_nodes": [
+                {"name": node["name"], "duration": node.get("duration", 0)}
+                for node in slow_nodes
+            ],
+        })
     
     def get_llm_calls_json(self) -> List[Dict[str, Any]]:
         """Get all LLM calls in JSON format for external processing."""
@@ -214,7 +311,7 @@ class ProgressTracker:
         else:
             return NodeType.OTHER
     
-    def _print_node_start(self, node_name: str, node_type: NodeType, timestamp: str) -> None:
+    def _print_node_start(self, node_name: str, node_type: NodeType, timestamp: str, state: Optional[Dict[str, Any]] = None) -> None:
         """Print node start information."""
         node_type_str = node_type.value.upper()
         
@@ -231,6 +328,22 @@ class ProgressTracker:
             print(f"\n{color}▶ [{timestamp}] {node_type_str:15} {node_name}{Style.RESET_ALL}")
         else:
             print(f"\n▶ [{timestamp}] {node_type_str:15} {node_name}")
+
+        if not isinstance(state, dict):
+            return
+
+        input_fields = []
+        if state.get("company_of_interest"):
+            input_fields.append(f"pair={state.get('company_of_interest')}")
+        if state.get("trade_date"):
+            input_fields.append(f"date={state.get('trade_date')}")
+        if "messages" in state and isinstance(state.get("messages"), list):
+            input_fields.append(f"messages={len(state.get('messages'))}")
+        if state.get("sender"):
+            input_fields.append(f"sender={state.get('sender')}")
+
+        if input_fields:
+            print(f"   INPUT: {', '.join(input_fields)}")
     
     def _print_node_end(self, node_name: str, output: Any) -> None:
         """Print node end information."""
@@ -245,6 +358,34 @@ class ProgressTracker:
             print(f"{Fore.GREEN}✓ {node_name} completed in {duration:.2f}s{Style.RESET_ALL}" if duration else f"{Fore.GREEN}✓ {node_name} completed{Style.RESET_ALL}")
         else:
             print(f"✓ {node_name} completed in {duration:.2f}s" if duration else f"✓ {node_name} completed")
+
+        if isinstance(output, dict):
+            output_keys = [
+                k for k in [
+                    "market_report",
+                    "news_report",
+                    "investment_plan",
+                    "trader_investment_plan",
+                    "final_trade_decision",
+                    "risk_debate_state",
+                    "investment_debate_state",
+                ]
+                if k in output and output.get(k)
+            ]
+            if output_keys:
+                print(f"   OUTPUT KEYS: {', '.join(output_keys)}")
+
+            messages = output.get("messages")
+            if isinstance(messages, list) and messages:
+                last_msg = messages[-1]
+                content = getattr(last_msg, "content", None)
+                if isinstance(content, list):
+                    content = " ".join(str(item) for item in content)
+                if content:
+                    preview = str(content).replace("\n", " ")
+                    if len(preview) > 220:
+                        preview = preview[:220] + "..."
+                    print(f"   OUTPUT MSG: {preview}")
     
     def _print_llm_call(self, analyst_name: str, prompt: str, response: str, duration: float) -> None:
         """Print LLM call information."""
@@ -277,7 +418,7 @@ class ProgressTracker:
             print(f"{summary}")
 
 
-class LangChainProgressCallback:
+class LangChainProgressCallback(BaseCallbackHandler):
     """LangChain callback handler for tracking LLM events."""
     
     def __init__(self, progress_tracker: ProgressTracker):
@@ -297,6 +438,23 @@ class LangChainProgressCallback:
         self.start_time = time.time()
         if prompts:
             self.current_prompt = prompts[0]
+
+    def on_chat_model_start(self, serialized, messages, **kwargs):
+        """Called at the start of chat model execution."""
+        import time
+        self.start_time = time.time()
+        try:
+            if messages and messages[0]:
+                chunks = []
+                for m in messages[0]:
+                    role = getattr(m, "type", "message")
+                    content = getattr(m, "content", "")
+                    if isinstance(content, list):
+                        content = " ".join(str(item) for item in content)
+                    chunks.append(f"[{role}] {content}")
+                self.current_prompt = "\n".join(chunks)
+        except Exception:
+            self.current_prompt = None
     
     def on_llm_end(self, response, **kwargs):
         """Called at the end of LLM execution."""
@@ -307,8 +465,17 @@ class LangChainProgressCallback:
         response_text = ""
         if hasattr(response, "generations") and response.generations:
             for generation in response.generations:
-                if hasattr(generation[0], "text"):
-                    response_text += generation[0].text
+                candidate = generation[0] if generation else None
+                if candidate is None:
+                    continue
+                if hasattr(candidate, "text") and candidate.text:
+                    response_text += str(candidate.text)
+                elif hasattr(candidate, "message"):
+                    msg = candidate.message
+                    content = getattr(msg, "content", "")
+                    if isinstance(content, list):
+                        content = " ".join(str(item) for item in content)
+                    response_text += str(content)
         
         if self.current_prompt and response_text:
             analyst_name = kwargs.get("name", "Unknown")

@@ -2,6 +2,8 @@ import os
 import json
 import pandas as pd
 import numpy as np
+from langchain_core.tools import tool
+from typing import Annotated
 
 from typing import List, Union, Callable, Dict
 
@@ -166,6 +168,15 @@ def calc_vwma(df: pd.DataFrame) -> pd.Series:
     price_vol = (df['close'] * df['volume']).rolling(window=window_vwma).sum()
     vol_sum = df['volume'].rolling(window=window_vwma).sum()
     return price_vol / vol_sum
+
+
+@tool
+def get_dex_indicators(
+    pair: Annotated[str, "The trading pair for which to fetch indicators"],
+    indicators: Annotated[List[str], "The list of indicators to calculate"],
+):
+    """LangChain tool wrapper over calculate_indicators for direct graph binding."""
+    return calculate_indicators(pair=pair, indicators=indicators)
 
 
 if __name__ == "__main__":

@@ -5,6 +5,7 @@ from pathlib import Path
 import json
 import logging
 import time
+import datetime
 from datetime import date
 from typing import Dict, Any, Tuple, List, Optional
 from langgraph.prebuilt import ToolNode
@@ -20,22 +21,11 @@ from tradingagents.agents.utils.agent_states import (
 )
 from tradingagents.dataflows.config import set_config
 
-# Import the new abstract tool methods from agent_utils
-from tradingagents.agents.utils.agent_utils import (
-    get_stock_data,
-    get_indicators,
-    get_fundamentals,
-    get_balance_sheet,
-    get_cashflow,
-    get_income_statement,
-    get_news,
-    get_insider_transactions,
-    get_global_news,
-    get_dex_ohlcv,
-    get_dex_indicators
-)
-from tradingagents.dataflows.AAA_rss_processor import fetch_and_parse_crypto_news
-from tradingagents.dataflows.AAA_get_full_articles import fetch_article_full_text
+# Import direct DEX tools from dataflow layer
+from tradingagents.dataflows.geckoterminal_price import get_dex_ohlcv
+from tradingagents.dataflows.calculate_indicators import get_dex_indicators
+from tradingagents.dataflows.rss_processor import fetch_and_parse_crypto_news
+from tradingagents.dataflows.get_full_articles import fetch_article_full_text
 
 from .conditional_logic import ConditionalLogic
 from .setup import GraphSetup
@@ -43,7 +33,7 @@ from .parallel_setup import ParallelGraphSetup
 from .propagation import Propagator
 from .reflection import Reflector
 from .signal_processing import SignalProcessor
-from .progress_tracker import ProgressTracker, setup_progress_tracking
+from .progress_tracker import ProgressTracker, LangChainProgressCallback
 
 
 logger = logging.getLogger(__name__)
@@ -94,9 +84,18 @@ class TradingAgentsGraph:
         # Initialize LLMs with provider-specific thinking configuration
         llm_kwargs = self._get_provider_kwargs()
 
-        # Add callbacks to kwargs if provided (passed to LLM constructor)
+        # Progress tracking
+        self.progress_tracker = ProgressTracker(
+            verbose=self.config.get("enable_progress_tracking", True),
+            enable_colors=self.config.get("enable_colored_output", True)
+        )
+        self.progress_callback = LangChainProgressCallback(self.progress_tracker)
+
+        # Add callbacks to kwargs (internal progress callback + optional external callbacks)
+        llm_callbacks = [self.progress_callback]
         if self.callbacks:
-            llm_kwargs["callbacks"] = self.callbacks
+            llm_callbacks.extend(self.callbacks)
+        llm_kwargs["callbacks"] = llm_callbacks
 
         deep_client = create_llm_client(
             provider=self.config["llm_provider"],
@@ -160,12 +159,6 @@ class TradingAgentsGraph:
         self.reflector = Reflector(self.quick_thinking_llm)
         self.signal_processor = SignalProcessor(self.quick_thinking_llm)
 
-        # Progress tracking
-        self.progress_tracker = ProgressTracker(
-            verbose=self.config.get("enable_progress_tracking", True),
-            enable_colors=self.config.get("enable_colored_output", True)
-        )
-
         # State tracking
         self.curr_state = None
         self.ticker = None
@@ -192,14 +185,21 @@ class TradingAgentsGraph:
 
     def _invoke_graph(self, graph, init_agent_state, args):
         """Invoke a graph in debug or normal mode and return final state."""
-        if self.debug:
+        if self.debug or self.config.get("enable_progress_tracking", True):
             trace = []
-            for chunk in graph.stream(init_agent_state, **args):
-                if len(chunk["messages"]) == 0:
-                    pass
-                else:
-                    chunk["messages"][-1].pretty_print()
-                    trace.append(chunk)
+            for idx, chunk in enumerate(graph.stream(init_agent_state, **args), start=1):
+                step_name = f"Graph Step {idx}"
+                self.progress_tracker.track_node_start(step_name, chunk)
+
+                messages = chunk.get("messages", []) if isinstance(chunk, dict) else []
+                if self.debug and messages:
+                    messages[-1].pretty_print()
+
+                self.progress_tracker.track_node_end(step_name, chunk)
+                trace.append(chunk)
+
+            if not trace:
+                raise RuntimeError("Graph stream produced no chunks.")
             return trace[-1]
 
         return graph.invoke(init_agent_state, **args)
@@ -257,19 +257,9 @@ class TradingAgentsGraph:
         return {
             "market": ToolNode(
                 [
-                    # Core stock data tools
-                    get_stock_data,
-                    # Technical indicators
-                    get_indicators,
                     # Decentralized exchange data
                     get_dex_ohlcv,
                     get_dex_indicators,                                      
-                ]
-            ),
-            "social": ToolNode(
-                [
-                    # News tools for social media analysis
-                    get_news,
                 ]
             ),
             "news": ToolNode(
@@ -282,15 +272,6 @@ class TradingAgentsGraph:
                     fetch_article_full_text,
                 ]
             ),
-            "fundamentals": ToolNode(
-                [
-                    # Fundamental analysis tools
-                    get_fundamentals,
-                    get_balance_sheet,
-                    get_cashflow,
-                    get_income_statement,
-                ]
-            ),
         }
 
     def propagate(self, company_name, trade_date):
@@ -298,6 +279,17 @@ class TradingAgentsGraph:
 
         self.ticker = company_name
         args = self.propagator.get_graph_args()
+
+        # Create per-run full trace log file for step-by-step I/O and LLM prompt/response.
+        trace_dir = Path(f"eval_results/{company_name}/TradingAgentsStrategy_logs/")
+        trace_dir.mkdir(parents=True, exist_ok=True)
+        run_ts = datetime.datetime.now().strftime("%Y%m%d_%H%M%S")
+        safe_trade_date = str(trade_date).replace(":", "-").replace("/", "-")
+        trace_file = trace_dir / f"full_trace_{safe_trade_date}_{run_ts}.jsonl"
+        self.progress_tracker.start_run(
+            str(trace_file),
+            metadata={"company": company_name, "trade_date": str(trade_date), "parallel_mode": self.parallel_mode},
+        )
 
         max_attempts = int(self.config.get("graph_invoke_retries", 3))
         base_backoff = float(self.config.get("graph_invoke_backoff_seconds", 2.0))
@@ -370,34 +362,42 @@ class TradingAgentsGraph:
 
     def _log_state(self, trade_date, final_state):
         """Log the final state to a JSON file."""
+        # Safely build investment_debate_state (may have partial fields in simplified architecture)
+        invest_debate_log = {}
+        if "investment_debate_state" in final_state:
+            invest_debate = final_state["investment_debate_state"]
+            invest_debate_log = {
+                "bull_history": invest_debate.get("bull_history", ""),
+                "bear_history": invest_debate.get("bear_history", ""),
+                "history": invest_debate.get("history", ""),
+                "current_response": invest_debate.get("current_response", ""),
+                "judge_decision": invest_debate.get("judge_decision", ""),
+            }
+        
+        # Safely build risk_debate_state (pure Python risk engine may not populate all fields)
+        risk_debate_log = {}
+        if "risk_debate_state" in final_state:
+            risk_debate = final_state["risk_debate_state"]
+            risk_debate_log = {
+                "aggressive_history": risk_debate.get("aggressive_history", ""),
+                "conservative_history": risk_debate.get("conservative_history", ""),
+                "neutral_history": risk_debate.get("neutral_history", ""),
+                "history": risk_debate.get("history", ""),
+                "judge_decision": risk_debate.get("judge_decision", ""),
+            }
+        
         self.log_states_dict[str(trade_date)] = {
-            "company_of_interest": final_state["company_of_interest"],
-            "trade_date": final_state["trade_date"],
-            "market_report": final_state["market_report"],
-            "sentiment_report": final_state["sentiment_report"],
-            "news_report": final_state["news_report"],
-            "fundamentals_report": final_state["fundamentals_report"],
-            "investment_debate_state": {
-                "bull_history": final_state["investment_debate_state"]["bull_history"],
-                "bear_history": final_state["investment_debate_state"]["bear_history"],
-                "history": final_state["investment_debate_state"]["history"],
-                "current_response": final_state["investment_debate_state"][
-                    "current_response"
-                ],
-                "judge_decision": final_state["investment_debate_state"][
-                    "judge_decision"
-                ],
-            },
-            "trader_investment_decision": final_state["trader_investment_plan"],
-            "risk_debate_state": {
-                "aggressive_history": final_state["risk_debate_state"]["aggressive_history"],
-                "conservative_history": final_state["risk_debate_state"]["conservative_history"],
-                "neutral_history": final_state["risk_debate_state"]["neutral_history"],
-                "history": final_state["risk_debate_state"]["history"],
-                "judge_decision": final_state["risk_debate_state"]["judge_decision"],
-            },
-            "investment_plan": final_state["investment_plan"],
-            "final_trade_decision": final_state["final_trade_decision"],
+            "company_of_interest": final_state.get("company_of_interest", ""),
+            "trade_date": final_state.get("trade_date", ""),
+            "market_report": final_state.get("market_report", ""),
+            "sentiment_report": final_state.get("sentiment_report", ""),
+            "news_report": final_state.get("news_report", ""),
+            "fundamentals_report": final_state.get("fundamentals_report", ""),
+            "investment_debate_state": invest_debate_log,
+            "trader_investment_decision": final_state.get("trader_investment_plan", ""),
+            "risk_debate_state": risk_debate_log,
+            "investment_plan": final_state.get("investment_plan", ""),
+            "final_trade_decision": final_state.get("final_trade_decision", ""),
         }
 
         # Save to file

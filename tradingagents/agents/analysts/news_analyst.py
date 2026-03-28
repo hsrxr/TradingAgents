@@ -1,10 +1,9 @@
 from langchain_core.prompts import ChatPromptTemplate, MessagesPlaceholder
 import time
 import json
-from tradingagents.agents.utils.agent_utils import get_news, get_global_news
 from tradingagents.dataflows.config import get_config
-from tradingagents.dataflows.AAA_rss_processor import fetch_and_parse_crypto_news
-from tradingagents.dataflows.AAA_get_full_articles import fetch_article_full_text
+from tradingagents.dataflows.rss_processor import fetch_and_parse_crypto_news
+from tradingagents.dataflows.get_full_articles import fetch_article_full_text
 
 def create_news_analyst(llm):
     def news_analyst_node(state):
@@ -24,8 +23,11 @@ def create_news_analyst(llm):
         # )
         # Given the limitations of the context window, we recommend that you do not select more than three articles to view in full at any one time.
         system_message = (
-            "You are a news researcher tasked with analyzing recent news and trends over the past week. Please write a comprehensive report of the current state of the world that is relevant for trading and macroeconomics. First, use the available tools: fetch_and_parse_crypto_news(limit) for the latest cryptocurrency news and analyze the provided news' summaries and titles to choose the most relevant ones, and then use fetch_article_full_text to retrieve the complete articles for further analysis. Do not simply state the trends are mixed, provide detailed and finegrained analysis and insights that may help traders make decisions."
-            + """ Make sure to append a Markdown table at the end of the report to organize key points in the report, organized and easy to read."""
+            "You are a crypto news analyst focused on **hourly trading impact** (next 6-24 hours). Your task is to identify and explain news that can move prices soon, not broad long-term narratives. First call fetch_and_parse_crypto_news(limit), rank items by near-term tradability, then call fetch_article_full_text only for the highest-impact items. Keep article selection disciplined (prefer depth on a few high-impact stories over shallow coverage on many stories)."
+            " Prioritize catalysts such as exchange listings/delistings, exploits/hacks, regulation headlines, ETF/fund flow headlines, protocol/governance changes, token unlocks, and macro surprises that affect crypto beta."
+            " For each selected story, explain expected direction, likely time-to-impact, affected assets, and whether impact is likely one-shot or persistent."
+            " Avoid generic language like 'market sentiment is mixed' without concrete implications."
+            + """ Make sure to append a Markdown table at the end with columns: headline, catalyst type, affected assets, expected 6-24h impact, confidence, and invalidation/watch items."""
         )
         prompt = ChatPromptTemplate.from_messages(
             [
@@ -38,7 +40,7 @@ def create_news_analyst(llm):
                     " If you or any other assistant has the FINAL TRANSACTION PROPOSAL: **BUY/HOLD/SELL** or deliverable,"
                     " prefix your response with FINAL TRANSACTION PROPOSAL: **BUY/HOLD/SELL** so the team knows to stop."
                     " You have access to the following tools: {tool_names}.\n{system_message}"
-                    "For your reference, the current date is {current_date}. We are looking at the company {ticker}",
+                    "For your reference, the current date is {current_date}. We are analyzing crypto asset/pair {ticker}",
                 ),
                 MessagesPlaceholder(variable_name="messages"),
             ]

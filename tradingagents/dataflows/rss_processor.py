@@ -82,7 +82,7 @@ def fetch_and_parse_crypto_news(
     """
     Fetches the latest cryptocurrency news from CoinDesk, Cointelegraph, and Decrypt RSS feeds.
     Parses the XML, cleans HTML from summaries, stores new articles in a local SQLite database,
-    and returns a JSON payload of 'PENDING' articles sorted by publication time (newest first),
+    and returns the latest articles from the entire database sorted by publication time (newest first),
     containing incremental IDs, titles, and summaries for the agent to evaluate.
     
     :param limit: Maximum number of newest pending articles to retrieve in this batch.
@@ -125,23 +125,22 @@ def fetch_and_parse_crypto_news(
 
     conn.commit()
 
-    # 2. Extract PENDING articles, sort by publication time (newest first), and apply limit
+    # 2. Extract latest articles from the entire database, then apply limit
     cursor.execute('''
-        SELECT url_hash, title, summary, pub_time, source 
+        SELECT url_hash, title, summary, pub_time, source, status
         FROM articles 
-        WHERE status = 'PENDING'
     ''')
 
-    pending_articles = cursor.fetchall()
-    pending_articles.sort(key=lambda article: _parse_pub_time_to_timestamp(article[3]), reverse=True)
-    pending_articles = pending_articles[:limit]
+    recent_articles = cursor.fetchall()
+    recent_articles.sort(key=lambda article: _parse_pub_time_to_timestamp(article[3]), reverse=True)
+    recent_articles = recent_articles[:limit]
     
     agent_payload = []
     id_mapping = {}
     
     # 3. Generate incremental IDs for this specific batch
-    for incremental_id, article in enumerate(pending_articles, start=1):
-        url_hash, title, summary, pub_time, source = article
+    for incremental_id, article in enumerate(recent_articles, start=1):
+        url_hash, title, summary, pub_time, source, status = article
         
         id_mapping[str(incremental_id)] = url_hash
         
@@ -150,7 +149,8 @@ def fetch_and_parse_crypto_news(
             "source": source,
             "title": title,
             "pub_time": pub_time,
-            "summary": summary
+            "summary": summary,
+            "status": status,
         })
 
     conn.close()

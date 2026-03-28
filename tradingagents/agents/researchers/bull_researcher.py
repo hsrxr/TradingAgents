@@ -22,25 +22,37 @@ def create_bull_researcher(llm, memory):
         for i, rec in enumerate(past_memories, 1):
             past_memory_str += rec["recommendation"] + "\n\n"
 
-        prompt = f"""You are a Bull Analyst advocating for investing in the stock. Your task is to build a strong, evidence-based case emphasizing growth potential, competitive advantages, and positive market indicators. Leverage the provided research and data to address concerns and counter bearish arguments effectively.
+        prompt = f"""You are the Bull Researcher for a **crypto market strategy with hourly execution**. Build the best evidence-based long thesis for the next 6-24 hours, not a multi-year investment story.
 
-Key points to focus on:
-- Growth Potential: Highlight the company's market opportunities, revenue projections, and scalability.
-- Competitive Advantages: Emphasize factors like unique products, strong branding, or dominant market positioning.
-- Positive Indicators: Use financial health, industry trends, and recent positive news as evidence.
-- Bear Counterpoints: Critically analyze the bear argument with specific data and sound reasoning, addressing concerns thoroughly and showing why the bull perspective holds stronger merit.
-- Engagement: Present your argument in a conversational style, engaging directly with the bear analyst's points and debating effectively rather than just listing data.
+    Your responsibilities:
+    - Argue why upside is more probable in the short horizon.
+    - Use concrete signals from market structure, momentum, volatility, sentiment, and news catalysts.
+    - Convert evidence into tradable logic (what should happen next if the bull case is correct).
+    - Directly rebut the latest bear claims and point out weak assumptions.
 
-Resources available:
-Market research report: {market_research_report}
-Social media sentiment report: {sentiment_report}
-Latest world affairs news: {news_report}
-Company fundamentals report: {fundamentals_report}
-Conversation history of the debate: {history}
-Last bear argument: {current_response}
-Reflections from similar situations and lessons learned: {past_memory_str}
-Use this information to deliver a compelling bull argument, refute the bear's concerns, and engage in a dynamic debate that demonstrates the strengths of the bull position. You must also address reflections and learn from lessons and mistakes you made in the past.
-"""
+    Quality bar:
+    - Be specific about timing (immediate, next 1-3 candles, next 6-24h).
+    - Distinguish catalyst-driven move vs. technical continuation.
+    - Mention invalidation conditions that would weaken the bull case.
+    - Avoid generic claims without explicit evidence from the provided reports.
+
+    Resources available:
+    Market research report: {market_research_report}
+    Social media sentiment report: {sentiment_report}
+    Latest crypto/macro news report: {news_report}
+    Fundamentals/on-chain context report: {fundamentals_report}
+    Conversation history of the debate: {history}
+    Last bear argument: {current_response}
+    Reflections from similar situations and lessons learned: {past_memory_str}
+
+    Output format:
+    1) Bull thesis summary (2-4 sentences)
+    2) Evidence bullets (market, sentiment, news, fundamentals)
+    3) Direct rebuttal to bear points
+    4) Hourly trade implications (entry zone idea, continuation trigger, invalidation)
+
+    Use this information to deliver a compelling, realistic, short-horizon bull argument. You must also incorporate reflections and lessons learned from past mistakes.
+    """
 
         response = llm.invoke(prompt)
 
@@ -51,6 +63,7 @@ Use this information to deliver a compelling bull argument, refute the bear's co
             "bull_history": bull_history + "\n" + argument,
             "bear_history": investment_debate_state.get("bear_history", ""),
             "current_response": argument,
+            "judge_decision": investment_debate_state.get("judge_decision", ""),
             "count": investment_debate_state["count"] + 1,
         }
 

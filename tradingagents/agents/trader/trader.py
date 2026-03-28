@@ -26,13 +26,19 @@ def create_trader(llm, memory):
 
         context = {
             "role": "user",
-            "content": f"You are the Chief Trader and portfolio manager for {company_name}. Use the merged analyst context, bull/bear debate transcript, and portfolio constraints to produce a trade intent.\n\nMerged Analyst Context:\n{investment_plan}\n\nBull/Bear Debate Transcript:\n{debate_history}\n\nPortfolio Balance:\n{json.dumps(portfolio_balance, ensure_ascii=False)}\n\nReturn ONLY JSON with this schema:\n{{\n  \"action\": \"BUY\" | \"SELL\" | \"HOLD\",\n  \"confidence\": 0.0-1.0,\n  \"thesis\": \"short explanation\",\n  \"time_horizon\": \"intraday|swing|position\"\n}}",
+            "content": f"You are the Chief Trader and portfolio manager for {company_name} in the crypto market. Use the merged analyst context, bull/bear debate transcript, and portfolio constraints to produce a **hourly trade intent** for the next 6-24h.\n\nDecision rules:\n- Prioritize executable short-horizon setups over long-term narratives.\n- If signal quality is weak or conflicting, choose HOLD with clear reasoning.\n- Confidence must reflect signal quality and consistency across market/news/sentiment/fundamentals.\n\nMerged Analyst Context:\n{investment_plan}\n\nBull/Bear Debate Transcript:\n{debate_history}\n\nPortfolio Balance:\n{json.dumps(portfolio_balance, ensure_ascii=False)}\n\nReturn ONLY JSON with this schema:\n{{\n  \"action\": \"BUY\" | \"SELL\" | \"HOLD\",\n  \"confidence\": 0.0-1.0,\n  \"thesis\": \"short explanation for next 6-24h\",\n  \"time_horizon\": \"intraday|swing|position\"\n}}\n\nFor this strategy, default to \"intraday\" unless strong evidence supports a longer horizon.",
         }
 
         messages = [
             {
                 "role": "system",
-                "content": f"""You are the Chief Trader. Produce strict JSON only (no markdown, no prose outside JSON). Use BUY/SELL/HOLD for action and include confidence between 0 and 1. Leverage these past lessons: {past_memory_str}""",
+                "content": f"""You are the Chief Trader for a crypto, hourly-frequency strategy. Produce strict JSON only (no markdown, no prose outside JSON).
+Requirements:
+- action must be exactly BUY, SELL, or HOLD.
+- confidence must be a float between 0 and 1.
+- thesis must be concise and focused on the next 6-24h.
+- Prefer time_horizon='intraday' for this strategy unless there is strong cross-signal confirmation for longer duration.
+Leverage these past lessons: {past_memory_str}""",
             },
             context,
         ]

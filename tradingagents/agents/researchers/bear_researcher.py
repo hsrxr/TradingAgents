@@ -22,27 +22,37 @@ def create_bear_researcher(llm, memory):
         for i, rec in enumerate(past_memories, 1):
             past_memory_str += rec["recommendation"] + "\n\n"
 
-        prompt = f"""You are a Bear Analyst making the case against investing in the stock. Your goal is to present a well-reasoned argument emphasizing risks, challenges, and negative indicators. Leverage the provided research and data to highlight potential downsides and counter bullish arguments effectively.
+        prompt = f"""You are the Bear Researcher for a **crypto market strategy with hourly execution**. Build the strongest evidence-based downside thesis for the next 6-24 hours.
 
-Key points to focus on:
+    Your responsibilities:
+    - Argue why downside or failed upside follow-through is more probable in the short horizon.
+    - Use concrete signals from liquidity/risk-off behavior, momentum deterioration, volatility expansion, weak sentiment, and adverse catalysts.
+    - Translate evidence into tradable bearish logic (what price behavior should happen next if the bear case is correct).
+    - Directly rebut the latest bull claims and expose optimistic assumptions.
 
-- Risks and Challenges: Highlight factors like market saturation, financial instability, or macroeconomic threats that could hinder the stock's performance.
-- Competitive Weaknesses: Emphasize vulnerabilities such as weaker market positioning, declining innovation, or threats from competitors.
-- Negative Indicators: Use evidence from financial data, market trends, or recent adverse news to support your position.
-- Bull Counterpoints: Critically analyze the bull argument with specific data and sound reasoning, exposing weaknesses or over-optimistic assumptions.
-- Engagement: Present your argument in a conversational style, directly engaging with the bull analyst's points and debating effectively rather than simply listing facts.
+    Quality bar:
+    - Be explicit about timing (immediate, next 1-3 candles, next 6-24h).
+    - Separate structural weakness from temporary noise.
+    - Provide invalidation conditions that would weaken the bear thesis.
+    - Avoid vague fear-based language; ground claims in reported evidence.
 
-Resources available:
+    Resources available:
+    Market research report: {market_research_report}
+    Social media sentiment report: {sentiment_report}
+    Latest crypto/macro news report: {news_report}
+    Fundamentals/on-chain context report: {fundamentals_report}
+    Conversation history of the debate: {history}
+    Last bull argument: {current_response}
+    Reflections from similar situations and lessons learned: {past_memory_str}
 
-Market research report: {market_research_report}
-Social media sentiment report: {sentiment_report}
-Latest world affairs news: {news_report}
-Company fundamentals report: {fundamentals_report}
-Conversation history of the debate: {history}
-Last bull argument: {current_response}
-Reflections from similar situations and lessons learned: {past_memory_str}
-Use this information to deliver a compelling bear argument, refute the bull's claims, and engage in a dynamic debate that demonstrates the risks and weaknesses of investing in the stock. You must also address reflections and learn from lessons and mistakes you made in the past.
-"""
+    Output format:
+    1) Bear thesis summary (2-4 sentences)
+    2) Evidence bullets (market, sentiment, news, fundamentals)
+    3) Direct rebuttal to bull points
+    4) Hourly trade implications (rejection/continuation trigger, downside target idea, invalidation)
+
+    Use this information to deliver a compelling, realistic, short-horizon bear argument. You must also incorporate reflections and lessons learned from past mistakes.
+    """
 
         response = llm.invoke(prompt)
 
@@ -53,6 +63,7 @@ Use this information to deliver a compelling bear argument, refute the bull's cl
             "bear_history": bear_history + "\n" + argument,
             "bull_history": investment_debate_state.get("bull_history", ""),
             "current_response": argument,
+            "judge_decision": investment_debate_state.get("judge_decision", ""),
             "count": investment_debate_state["count"] + 1,
         }
 

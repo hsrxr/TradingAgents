@@ -1,0 +1,49 @@
+Title: Court rejects dev’s bid to shield software from money transmitter laws
+Source: Cointelegraph
+URL: https://cointelegraph.com/news/crypto-developer-michael-lewellen-case-dismissed?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+
+Pharos developer Michael Lewellen said his lawyers are exploring all options for a path forward after a Texas judge dismissed the case without prejudice.
+
+Cointelegraph in your social feed
+
+A Texas court has dismissed a lawsuit filed by crypto developer Michael Lewellen, seeking a declaratory judgment that his software, Pharos, which facilitates donations to charitable crowdfunding campaigns, won’t be prosecuted for violating money-transmission laws.
+
+Chief US District Judge Reed O’Connordismissedthe case on Wednesday, finding that Lewellen had failed to demonstrate a credible threat of imminent prosecution.
+
+“Disappointed to see the court dismiss my suit today,”saidLewellen on X on Wednesday.
+
+In its dismissal, the court also cited a Department of Justice memo stating that it will no longer target virtual currency exchanges,mixing and tumbling servicesor offline wallets for the acts of their end users or for unwitting violations of regulations.
+
+“A non-binding DoJ memo is no substitute for real legal certainty,” added Lewellen.
+
+Crypto software developers are increasingly seeking legal protections to shield themselves from criminal liability over the software they create.
+
+Lewellen, a fellow at crypto advocacy group Coin Center, which backed the suit,argued in his legal complaint last Januarythat developers of software similar to his product, such as those behind Tornado Cash and Samourai Wallet, have faced prosecution under these laws.
+
+Tornado Cash co-founderRoman Storm was convicted last yearon charges of conspiracy to operate an unlicensed money-transmitting business. The co-founders of privacy-focused Bitcoin wallet Samourai Walletwere found guilty on the same charge— both cases cited by Lewellen as evidence of a real legal threat to developers like himself.
+
+However, Judge O’Connor argued that the “core conduct of those cases is money laundering.”
+
+“By contrast, the core conduct here would be running a business. And Lewellen disclaims any knowing transmission of criminal funds, which is central to the prosecutions he invokes,” Judge O’Connor wrote.
+
+Lewellen said his lawyers are exploring all options for a path forward.
+
+Judge O’Connor dismissed the case without prejudice, meaning Lewellen could pursue the same action again with certain corrections or modifications.
+
+Related:SEC sends proposed crypto interpretation to White House for review
+
+Peter Van Valkenburgh, the executive director at Coin Center,saidthe memo cited by Judge O’Connor “has not provided meaningful protection to developers, given the outcomes in the Tornado Cash and Samourai Wallet cases.”
+
+Both Valkenburgh and Lewellen have now called for Congress to pass the Blockchain Regulatory Certainty Act of 2026.
+
+Introduced by Senator Cynthia Lummis in January, the legislationaimsto clarify that developers and providers of non-custodial software who do not control user funds are not subject to money transmitter laws.
+
+“So while I hope the court is right that non-custodial software developers are not at real risk, the Blanche memo is not enough to secure their rights. It is a vague enforcement signal, not a durable limit on government power,” Valkenburgh added.
+
+Magazine:Nobody knows if quantum secure cryptography will even work
+
+Cointelegraph covers fintech, blockchain and Bitcoin bringing you the latest crypto news and analyses on the future of money.
+
+Cointelegraph is committed to providing independent, high-quality journalism across the crypto, blockchain, AI, and fintech industries. To support open access to our website and sustain editorial operations, certain commercial or partner references may appear on our site. These arrangements help maintain an accessible platform and do not result in additional costs to readers.
+
+All news, reviews, and analysis are produced with full journalistic independence and integrity. For more details on our standards and processes, please read ourEditorial Policy.

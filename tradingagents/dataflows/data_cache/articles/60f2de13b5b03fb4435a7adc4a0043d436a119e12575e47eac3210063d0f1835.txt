@@ -1,0 +1,27 @@
+Title: The NYSE wants to bring blockchain to Wall Street without breaking the existing system
+Source: CoinDesk
+URL: https://www.coindesk.com/markets/2026/03/26/the-nyse-wants-to-bring-blockchain-to-wall-street-without-breaking-the-current-system
+
+The New York Stock Exchange (NYSE) is focused on integrating blockchain technology into existing market infrastructure rather than replacing it, according to chief product officer Jon Herrick.
+
+The exchange is “striving for interoperability” and “building on top of what exists,” as it explores how tokenized assets could function within current systems, Herrick said.
+
+That approach reflects a broader stance on market evolution. “You have to be mindful of the inherent good things of the market that has developed up to now … it’s this balance of both things,” he said on stage at the Digital Asset Summit in New York on Thursday, referring to the need to preserve elements like regulation, clearing systems and investor protections.
+
+Rather than framing blockchain as a replacement for traditional finance, Herrick described a model where both systems merge. “It really isn’t about one side being more right than the other … [they] should, I think, in time, come together.”
+
+His comments come as exchanges, asset managers and banks test tokenization, which allows assets like stocks and funds to be represented on blockchain systems. Advocates argue the model could enable faster settlement, round-the-clock trading and broader global access to markets.
+
+The NYSE is exploring some of those uses, including real-time or near real-time settlement and extended trading hours. The Intercontinental Exchange (ICE), NYSE’s parent, earlier this month made astrategic investment in crypto exchange OKX. ICE will license OKX’s spot crypto prices for crypto futures products, while OKX will offer ICE futures and tokenized equities to its customers in the U.S.
+
+Still, Herrick cautioned that existing systems offer efficiencies that may not be easily replaced. Centralized clearing, for example, helps reduce risk by netting transactions across market participants.
+
+Nevertheless, over time, the distinction between traditional and tokenized assets may fade. “Maybe 10 years from now, whether [a] security is tokenized or not shouldn’t matter,” he said.
+
+For now, the exchange’s strategy suggests a slower, more incremental path forward, introducing blockchain technology gradually into the existing financial system rather than reshaping it overnight.
+
+As stablecoins evolve into core financial infrastructure, North America leads. This report maps the regulation, market shifts, and players driving adoption.
+
+Stablecoins are entering their third phase of evolution - the institutionalization era - becoming increasingly embedded into core financial infrastructure. As institutions prioritize transparency and compliance, regulated issuers like USDC, RLUSD, and PYUSD are steadily gaining share with RLUSD surpassing $1B in market cap within its first year. North America, leading in regulatory frameworks and institutional distribution, is at the center of it all.
+
+ETFs show institutional demand for bitcoin is cooling after a strong start to the month.

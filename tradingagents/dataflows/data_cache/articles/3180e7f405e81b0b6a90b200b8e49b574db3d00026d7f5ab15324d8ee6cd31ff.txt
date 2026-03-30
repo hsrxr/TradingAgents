@@ -1,0 +1,87 @@
+Title: Crypto for Advisors: The evolution of stablecoins
+Source: CoinDesk
+URL: https://www.coindesk.com/coindesk-indices/2026/03/25/crypto-for-advisors-the-evolution-of-stablecoins
+
+You’re readingCrypto for Advisors, CoinDesk’s weekly newsletter that unpacks digital assets for financial advisors.Subscribe hereto get it every Thursday.
+
+In today’s newsletter,Claudia Marcela Hernándezanalyzes how stablecoins have evolved past volatility-fixers to become the foundational settlement asset for global tokenized markets and cross-border payments, following the clarity provided by the GENIUS Act.
+
+Then, inAsk an Expert,Morva Rohanibreaks down how stablecoin regulation serves as a foundation for tokenized capital markets, why some jurisdictions see U.S. stablecoin policy as a risk, and the key factors advisors must use to assess a stablecoin’s credibility.
+
+Learn about the latest advancements in the Clarity Act inKeep Reading.
+
+Stablecoins were originally designed to solve one of crypto’s earliest problems: volatility. By pegging their value to fiat currencies such as the U.S. dollar, stablecoins gave traders a reliable unit of account that could move across blockchains without the price swings associated with assets like bitcoin. For years, they functioned primarily as liquidity tools inside crypto markets. But that role is rapidly changing.
+
+Stablecoins are evolving from niche trading instruments into a foundational layer of global financial infrastructure. They now serve as settlement assets in decentralized finance (DeFi), payment rails for cross-border transfers and the preferred settlement currency for tokenized financial markets.
+
+Institutions that once approached crypto cautiously are beginning to acknowledge the technology’s potential. The International Monetary Fund (IMF) has noted that stablecoins could improve the efficiency of cross-border payments by reducing the number of intermediaries involved in global transactions. Meanwhile, policymakers in the United States are moving to integrate stablecoins into the regulated financial system.
+
+Because most of these tokens are pegged to the U.S. dollar, they may also be doing something far more consequential: quietly extending the reach of the dollar across the blockchain-based global economy.
+
+How a Stablecoin Is Issued and why they matter?
+
+A user provides fiat currency, typically U.S. dollars, to a licensed issuer. In return, the issuer mints an equivalent amount of stablecoins on a blockchain, maintaining a 1:1 peg. The fiat received is placed into reserve accounts, usually held in cash or short-term U.S. Treasuries, which back the value of the tokens in circulation.
+
+When a user wants to exit, the process works in reverse: the stablecoins are redeemed, and the user receives fiat from the reserves. This issuance-redemption mechanism is what anchors the stablecoin’s price to its reference asset.
+
+Stablecoins enable near-instant, 24/7 settlement, independent of banking hours. They allow for programmable transactions, where payments can be automated and embedded into digital systems. And they provide access to dollar-denominated value, often without requiring a traditional bank account.
+
+The World Economic Forum established that stablecoins transaction volumes have reached tens of trillions of dollars annually, underscoring their growing role as a core component of digital financial activity.
+
+For policymakers, this presents both an opportunity and a challenge. The U.S. Treasury has noted that digital payment innovations, including stablecoins, can enhance efficiency, reduce costs and promote financial inclusion, provided that appropriate safeguards are in place.
+
+·Cross-border payments: Stablecoins enable near-instant international transfers at a fraction of the cost of traditional correspondent banking systems.
+
+·	Remittances: In many emerging markets, stablecoins offer faster and cheaper alternatives to traditional remittance providers, which often charge significant fees.
+
+·	Decentralized finance (DeFi): Stablecoins serve as collateral, liquidity pools and settlement assets across lending protocols, decentralized exchanges and derivatives markets.
+
+·	Tokenized real-world assets: As tokenization expands to include bonds, real estate and commodities, stablecoins increasingly function as the settlement currency for digital financial markets.
+
+·	Corporate treasury and global settlement: Fintech companies and multinational firms are experimenting with stablecoins to facilitate cross-border treasury operations and instant settlement of international transactions.
+
+In short, stablecoins are gradually becoming the base layer of digital financial activity.
+
+The Regulatory Turning Point: The GENIUS Act
+
+The transition of stablecoins from niche crypto instruments to recognized financial infrastructure accelerated significantly in 2025 with the passage of the GENIUS Act (the Guiding and Establishing National Innovation for U.S. Stablecoins Act in the United States).
+
+The legislation created the first comprehensive federal framework governing the issuance of payment stablecoins. Under the law, regulated entities, including banks and approved non-bank financial institutions, are allowed to issue stablecoins backed by high-quality liquid assets and subject to strict requirements including reserve transparency, regular audits, anti-money laundering and counter-terrorism financing (AML/CTF) under the Bank Secrecy Act.
+
+One of the most important aspects of the GENIUS Act was regulatory clarity. For years, uncertainty around whether stablecoins should be treated as securities, commodities or banking products created hesitation among institutional players. The law addressed this ambiguity by establishing stablecoins as a distinct category of digital payment instruments.
+
+Dollar-denominated stablecoins dominate the market by a wide margin compared with those linked to other currencies. That dominance has an important implication because stablecoins may extend the reach of the U.S. dollar beyond the traditional banking system.
+
+Other jurisdictions are responding with their own regulatory strategies. For example, the European Union, through its Markets in Crypto-Assets (MiCA) framework, has introduced strict requirements for stablecoin issuers operating within the EU, including reserve requirements and limits designed to protect monetary sovereignty — but is also exploring the creation of a Central Bank Digital Currency (CBDC)
+
+In Asia, financial hubs such as Hong Kong and Singapore are developing licensing regimes aimed at supervising stablecoin issuance and integrating the technology into regulated financial markets. China, meanwhile, has taken a different path by prioritizing the development of a central bank digital currency and exploring digital yuan settlement systems that could expand its monetary influence internationally.
+
+The future of stablecoins will depend on trust in their reserves, in their governance and in the systems that oversee them. And ultimately, their long-term value will not be defined by how fast they scale, but by how safely and sustainably they become part of the global financial system.
+
+-Claudia Marcela Hernández, digital assets specialist
+
+Q. How important is stablecoin regulation to tokenized capital markets?
+
+Stablecoin regulation is important because tokenized capital markets need a credible on-chain settlement asset. But regulation alone is not enough. For stablecoins to support institutional tokenized markets, there must also be legal certainty around settlement finality, redemption at par, issuer credit risk and how stablecoin-based settlement fits within payment system and securities laws.
+
+In that sense, stablecoin regulation is a necessary foundation for tokenized capital markets, but not the whole framework. What institutions ultimately need is confidence that the settlement asset is reliable, that obligations are legally discharged when transactions settle on-chain and that the broader market structure can operate with clear, coordinated oversight.
+
+Q. Are some jurisdictions starting to see U.S. stablecoin policy as a risk?
+
+Yes, there is growing recognition that stablecoins carry geopolitical and monetary implications. Because the vast majority of fiat-backed stablecoins are denominated in U.S. dollars, their adoption could extend the reach of the dollar into blockchain-based financial systems. As U.S. policy frameworks formalize regulated dollar-backed stablecoins, this dynamic becomes more entrenched, positioning the U.S. to shape both the currency and standards of digital financial infrastructure.
+
+In Canada, for example, proximity to the U.S., deep financial integration and broader geopolitical uncertainty have sharpened this focus. The concern is less about direct competition and more about dependency. Without a domestic framework, Canadian users and institutions could default to foreign-issued, USD-based stablecoins.
+
+Canada’s approach has been to create a framework that enables innovation and competition while ensuring safety, consumer protection, and interoperability with global regimes. The objective is to allow both domestic and foreign stablecoins to operate under Canadian oversight, while preserving monetary relevance and ensuring Canadians have trusted, regulated options in a digital financial system.
+
+Q. How can advisors assess whether a stablecoin is credible?
+
+As stablecoins integrate into regulated systems, credibility comes down to a few core factors. First, reserve quality and transparency: assets should be fully backed by high-quality liquid instruments with regular disclosure or audits. Second, redemption: holders must have a clear, enforceable right to redeem at par. Third, regulatory oversight: credible issuers operate within defined legal and compliance frameworks. Governance also matters, including issuer structure, jurisdiction and custody of reserves. Ultimately, the key question is not just whether a stablecoin trades at $1, but whether its structure ensures it can consistently meet redemptions and retain user confidence during periods of stress.
+
+-Morva Rohani, executive director, Canadian Web3 Council
+
+As stablecoins evolve into core financial infrastructure, North America leads. This report maps the regulation, market shifts, and players driving adoption.
+
+Stablecoins are entering their third phase of evolution - the institutionalization era - becoming increasingly embedded into core financial infrastructure. As institutions prioritize transparency and compliance, regulated issuers like USDC, RLUSD, and PYUSD are steadily gaining share with RLUSD surpassing $1B in market cap within its first year. North America, leading in regulatory frameworks and institutional distribution, is at the center of it all.
+
+Aave (AAVE) declined 5.6% and Cardano (ADA) dropped 4.8%, leading the index lower from Wednesday.

@@ -1,0 +1,49 @@
+Title: Nvidia to Face Class Action Lawsuit Over Alleged Crypto Mining Revenue Gaps
+Source: Decrypt
+URL: https://decrypt.co/362410/nvidia-class-action-lawsuit-alleged-crypto-mining-revenue-gaps
+
+Nvidia to Face Class Action Lawsuit Over Alleged Crypto Mining Revenue Gaps
+
+A federal judge has certified a class of investors alleging that American tech giant Nvidia and its CEO, Jensen Huang, concealed the extent to which the company's gaming GPU revenues depended on sales tied to crypto mining between 2017 and 2018.
+
+Nvidia was unable to show that its statements about crypto mining revenue had no effect on its stock price, according to anorderfiled Wednesday by Judge Haywood S. Gilliam Jr. in California federal court.
+
+Investors first sued Nvidia in 2018, alleging the companyconcealedmore than $1 billion in GPU sales tied to crypto mining and that Huang downplayed the scale of that demand. In 2022, the SECfinedNvidia $5.5 million for failing to disclose the impact of crypto mining on its business.
+
+Nvidia had maintained that crypto mining accounted for only a small part of its business and that most mining-related sales were tracked separately from its core gaming division.
+
+The company also said it had its supply chain under control and could clear out excess graphics card inventory without issue.
+
+In reality, plaintiffs allege a significant share of crypto-driven revenue flowed through Nvidia’s GeForce gaming GPUs, with most of that revenue recorded in its gaming segment, exposing the company to volatility tied to crypto market cycles.
+
+The court pointed to an internal email from an Nvidia vice president in what was characterized as particularly telling.
+
+One of Nvidia's own executives “expressed the view that its stock price remained high” because of those earlier statements, and the court “cannot conclude that there was no price impact in the face of such evidence," Judge Gilliam Jr. wrote.
+
+Plaintiffs point to disclosures in 2018 as revealing that exposure, first in August of that year when Nvidia cut guidance, acknowledged excess inventory, and said crypto demand had dropped.
+
+The exposure was more fully unraveled on November 15, 2018, when Nvidia CFO Colette Kress said gaming was “short of expectations as post crypto channel inventory took longer than expected to sell through,” and that gaming card prices “took longer than expected to normalize” after the “sharp crypto falloff,” statements cited in the order read.
+
+Plaintiffs say those statements marked the point when the company’s exposure became clear, after which the stock fell about 28.5% over the next two trading sessions following the November disclosure.
+
+Decryptsought comment from Nvidia on how these internal statements affected its argument on price impact, and whether it plans to challenge the case further.
+
+After a 2021 dismissal, the case was revived on appeal,survivedNvidia’s failed Supreme Court bid, and now moves forward as a certified class action.
+
+Class certification lets investors pursue the case as a group rather than through individual lawsuits. It does not decide whether Nvidia is liable, but it moves the case closer to trial.
+
+Having that certification “tells every company straddling crypto and AI the same thing: courts will not accept segment-level reporting as a shield when what's actually driving revenue carries a fundamentally different risk profile from what you're telling investors,” Renz Chong, CEO of modular on-chain platform Sovrun, toldDecrypt.
+
+At this point, the certification “reinforces” the need for companies to “get ahead of the disclosure gap now, or litigate it later,” he added.
+
+“The lesson is simple. When the market eventually corrects, the first thing investors and regulators will examine is what management knew, when they knew it, and what they told the public,” Chong said. “Companies that get ahead of that question now will be in a far better position than those that wait for the subpoenas to arrive.”
+
+The certified class covers investors who bought Nvidia stock between August 10, 2017, and November 15, 2018. A case conference is scheduled for April 21, during which the judge will outline the next steps.
+
+Editor's note: Adds comments from Chong
+
+Your gateway into the world of Web3
+
+The latest news, articles, and resources, sent to your inbox weekly.
+
+© A next-generation media company.2026Decrypt Media, Inc.

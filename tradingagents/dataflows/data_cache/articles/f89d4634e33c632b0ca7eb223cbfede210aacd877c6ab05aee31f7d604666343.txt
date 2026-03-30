@@ -1,0 +1,33 @@
+Title: Brazil passes law allowing seized crypto to be used for public security
+Source: Cointelegraph
+URL: https://cointelegraph.com/news/brazil-law-seized-crypto-public-security?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+
+Aimed at fighting organized crime groups, the new law allows confiscated assets including crypto to be used for ”police re-equipment, training, and special operations.”
+
+Cointelegraph in your social feed
+
+Brazil’s public security agencies have a new weapon for fighting organized crime after national legislators approved a measure allowing them to use confiscated cryptocurrency in their efforts.
+
+On Wednesday, Brazil’s legislative branchpublishedLaw No. 15.358, establishing a legal framework for combating organized crime. The law allows authorities to prohibit transactions on crypto exchanges by treating digital assets as instruments in a crime, and confiscate crypto to be used to fund public security.
+
+“For the purposes of forfeiture of assets, any asset that has been used to commit a crime shall be considered an instrument of the crime, even if it was not intended exclusively for that purpose,” said a translation of the law, which included:
+
+Notably, the law would authorize Brazil to coordinate and cooperate with international authorities for investigation and asset recovery, including in cases potentially involving digital assets. With a population of more than 213 million, many of whom use crypto, the legislation could have significant implications for the Brazilian government’s war chest.
+
+Related:Brazil's Pix instant payment system expands to Argentina
+
+The signing of the law followed reports that Brazil’s Finance Minister, Dario Durigan,planned to delay talkson changing the country’s tax policy on crypto. According to reports, Durigan aimed to avoid divisive changes to tax policy and would push discussions until after Brazil’s presidential election in October.
+
+In 2025, the Brazilian Federal Police’s Operation Lusocoin targeted a laundering and foreign exchange evasion architecture of massive scale,accordingto TRM Labs. Authorities estimate that the network moved tens of billions of Brazilian reais through a web of shell companies, OTC crypto brokers, and non-custodial wallets.
+
+In contrast to countries like the US, where crypto seized as part of criminal cases could be used to bolster a national digital asset stockpile, Brazil’s law would divert the funds to public security measures like police training. However, Brazil’s governmentdiscussed a proposalto create a national Bitcoin (BTC) reserve in August 2025.
+
+The BTC reserve bill, initially introduced in 2024, could allow Brazil to allocate up to 5% of the country’s treasury to purchase Bitcoin. In February, lawmakers reintroduced the legislation, expanding its scope to allow for the purchase of up to one million BTC. It was unclear as of March if the bill would have enough support to pass in the future.
+
+Magazine:Nobody knows if quantum secure cryptography will even work
+
+Cointelegraph covers fintech, blockchain and Bitcoin bringing you the latest crypto news and analyses on the future of money.
+
+Cointelegraph is committed to providing independent, high-quality journalism across the crypto, blockchain, AI, and fintech industries. To support open access to our website and sustain editorial operations, certain commercial or partner references may appear on our site. These arrangements help maintain an accessible platform and do not result in additional costs to readers.
+
+All news, reviews, and analysis are produced with full journalistic independence and integrity. For more details on our standards and processes, please read ourEditorial Policy.

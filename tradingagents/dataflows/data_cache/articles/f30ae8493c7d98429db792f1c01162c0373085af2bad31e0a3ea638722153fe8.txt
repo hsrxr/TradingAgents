@@ -1,0 +1,29 @@
+Title: Bitcoin macro risks spike as Ukraine throws a spanner in Trump's plan to stabilize oil markets
+Source: CoinDesk
+URL: https://www.coindesk.com/markets/2026/03/27/bitcoin-macro-risks-spike-as-ukraine-throws-a-spanner-in-trump-s-plan-to-stabilize-oil-markets
+
+Ukraine has complicated President Donald Trump's efforts to stabilize oil markets amid the Iran war, amplifying risks for financial markets, including cryptocurrencies.
+
+For nearly a month, markets have been gripped by a single concern: the Iran war. Disruptions in the Strait of Hormuz – a critical oil chokepoint – have driven prices sharply higher, stoking fears of sticky inflation, a risk-off shift, and renewed Fed rate hikes.
+
+To cool things down, the Trump administration quickly lifted sanctions on Russian crude for the short term, opening the tap to compensate for oil supply disruptions caused by the Iran war.
+
+It came across as a solid plan to stabilize energy markets until Ukraine blew it up.This week, Ukraine launched drone strikes on ports and refiners inRussia's Leningrad, leading to what one observer described as "the most serious threat" to the country's oil exports since Putin's full-scale invasion of Ukraine in 2022.
+
+The damage is significant, with roughly 40% of Russia's oil export capacity offline. Oilprice.com editor Michael Kerndescribed itas "a logistics problem first – and a supply problem second," underscoring that moving oil to buyers is now as difficult as producing it.
+
+"In conjunction with the war in the Middle East and de facto closure of the Strait of Hormuz and subsequent oil/LNG production outages, the Russian disruption adds a fresh element to already sky-high oil prices," Kern noted.
+
+In other words, oil prices may remain elevated longer than initially expected. For risk assets, including bitcoin and other cryptocurrencies, that's an issue because higher sticky energy prices could lead to sticky inflation, potentially putting pressure on global central banks to raise borrowing costs and drain liquidity.
+
+Traders are already prepping for a potential Fed rate hike in the short term. According to Bloomberg, flows in the options market tied to overnight interest rates indicate traders are wagering on a rate increase within two weeks.
+
+Taken together, these factors suggest bitcoin's recent resilience may face tests, with the $65,000–$75,000 range vulnerable to a downside break.
+
+At press time,bitcoin traded near $68,500, down nearly 2% over the past 24 hours, according to CoinDesk data. WTI oil, which slipped nearly 10% to $83.95 per barrel on Monday, has since bounced back to $93.50. Brent crude is once again trading above the $100 mark.
+
+As stablecoins evolve into core financial infrastructure, North America leads. This report maps the regulation, market shifts, and players driving adoption.
+
+Stablecoins are entering their third phase of evolution - the institutionalization era - becoming increasingly embedded into core financial infrastructure. As institutions prioritize transparency and compliance, regulated issuers like USDC, RLUSD, and PYUSD are steadily gaining share with RLUSD surpassing $1B in market cap within its first year. North America, leading in regulatory frameworks and institutional distribution, is at the center of it all.
+
+ETFs show institutional demand for bitcoin is cooling after a strong start to the month.

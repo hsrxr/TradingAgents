@@ -1,0 +1,39 @@
+Title: US lawmakers publish crypto tax proposal without Bitcoin tax exemption
+Source: Cointelegraph
+URL: https://cointelegraph.com/news/us-lawmakers-crypto-tax-no-bitcoin-exemption?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+
+The bill proposes exempting dollar-pegged stablecoins from gains or losses if the tokens remain tightly pegged to the underlying fiat currency.
+
+Cointelegraph in your social feed
+
+US Representatives Max Miller and Steven Horsford published a discussion draft bill on Thursday titled the ‘‘Digital Asset Protection, Accountability, Regulation, Innovation, Taxation, and Yields Act’’ or the ‘‘Digital Asset PARITY Act,” to overhaul the tax code for digital assets.
+
+The Digital Asset PARITY Act seeks to overhaul the Internal Revenue Code of 1986 by adding provisions that would clarify the tax treatment of digital assets.
+
+The legislation said that stablecoins are not subject to gains if the cost basis, or the amount paid by the investor, does not fluctuate by more than 1% of $1 or $0.01, according to the discussiondraft.
+
+Transaction costs incurred to acquire or moveregulated dollar-pegged stablecoinscannot be counted toward an investor’s cost basis, according to the bill.
+
+The bill also introduces a de minimis tax exemption for stablecoin transactions below $200, meaning that stablecoin transactions below the $200 threshold do not trigger tax or reporting requirements. A total annual exemption cap is yet to be determined.
+
+Income from lending, staking or income earned through “passive” validator services is treated as part of the recipient's gross income every year, and calculated using “fair market” value, the draft said.
+
+The Digital Asset PARITY Act has not yet been introduced to Congress; it was published as a discussion draft to open up debate between lawmakers, stakeholders and the crypto industry about how tooverhaul crypto tax policy in the US.
+
+Related:Coinbase execs deny lobbying against Bitcoin de minimis tax exemption
+
+“We need digital asset tax clarity or activity will never fully onshore,” Cody Carbone, the CEO of crypto advocacy organization Digital Chamber,saidin response to the discussion draft.
+
+However, Bitcoiners noted that the bill includes only a de minimis tax exemption for stablecoins, not Bitcoin (BTC), similar to pending legislation, including the CLARITY crypto market structure bill, which alsolacks a BTC de minimis tax exemption.
+
+“This is the wrong direction to go in,” Pierre Rochard, CEO of The Bitcoin Bond Company, a BTC financial product issuer, said about the draft.
+
+“It’s Bitcoin that should have a de minimis tax exemption. Stablecoins are not decentralized, and they are not permissionless. They’re not real money; they’re just fiat,” he added.
+
+Magazine:How crypto laws changed in 2025 — and how they’ll change in 2026
+
+Cointelegraph covers fintech, blockchain and Bitcoin bringing you the latest crypto news and analyses on the future of money.
+
+Cointelegraph is committed to providing independent, high-quality journalism across the crypto, blockchain, AI, and fintech industries. To support open access to our website and sustain editorial operations, certain commercial or partner references may appear on our site. These arrangements help maintain an accessible platform and do not result in additional costs to readers.
+
+All news, reviews, and analysis are produced with full journalistic independence and integrity. For more details on our standards and processes, please read ourEditorial Policy.

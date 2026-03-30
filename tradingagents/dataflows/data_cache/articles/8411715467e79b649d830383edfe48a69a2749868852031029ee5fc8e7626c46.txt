@@ -1,0 +1,47 @@
+Title: $18.6B in Bitcoin options expire Friday: Should traders prepare for $75K BTC?
+Source: Cointelegraph
+URL: https://cointelegraph.com/news/18-6b-in-bitcoin-options-expire-friday-should-traders-prepare-for-75k-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+
+Bitcoin bulls face an uphill battle to turn the March options expiry in their favor, requiring a 6% price rally to $75,000 before Friday.
+
+Cointelegraph in your social feed
+
+Over 90% of Bitcoin call options may expire worthless if the price fails to break above $71,000 by Friday.
+
+Traders fear rising inflation and worsening credit conditions as the US and Israel-Iran war continues.
+
+Bitcoin (BTC) has been stuck in a narrow range between $67,700 and $71,600 over the past week, closely following how the US stock markets reacted to the US and Israel-Iran war. Traders have high hopes that the upcoming $18.6 billion Bitcoin monthly options expiry on Friday could provide the bullish momentum needed tobreak above the $75,000 level.
+
+The Bitcoin call (buy) options dominate March’s total open interest, totaling $11.2 billion, while put (sell) instruments stood 34% lower at $7.4 billion. However, this advantage means little given that Bitcoin has failed to sustain levels above $74,000 for the past seven weeks. Investors fear thatinflation will remain a concernas WTI oil prices sustained levels above $90.
+
+Initial signs of cracks in the US economy emerged after private credit funds limited redemptions amid concerns of deteriorating loan quality. The $3 trillion sector has been under scrutiny after asset managers Ares Management, Apollo Global Management, Blue Owl Capital, and Cliffwater were forced to halt or restrict withdrawals in recent weeks,accordingto CNBC.
+
+Broader macroeconomic uncertainty might be precisely what bears need for Bitcoin's quarterly expiry. To better assess the forces driving Bitcoin’s price ahead of Friday’s event at 8:00 am UTC, analysts are looking at what prices the call and put options were placed.
+
+Deribit holds a clear lead with a 76% market share with $14.1 billion in open interest, followed by OKX with 7.1% and CME at 6.6%. Despite the greater demand for call options, Bitcoin bulls at Deribit were overconfident, placing the majority of their bets on $90,000 and higher levels.
+
+Only $2 billion of the call options at Deribit were placed below $78,000, meaning 77% of those instruments will likely become worthless on Friday. This suggests that Bitcoin bulls did not anticipate a quarterly expiry at $71,000, a price that would invalidate 92% of the call options open interest.
+
+Related:Bitcoin’s battle for $70K continues as data shows traders avoiding bullish positioning
+
+Part of those positions might have been placed before February, when Bitcoin was trading above $86,000, which explains the heavy positions far above current price levels.
+
+The put options open interest at $66,000 or higher stood at $2.2 billion at Deribit, meaning 40% of those instruments remain in play for Friday’s expiry. Therefore, at first sight, there is a slight advantage for the put options, but a more granular view is required to understand at what level the situation might change.
+
+Below are four probable outcomes for Friday’s BTC options expiry at Deribit based on current price trends:
+
+Between $65,000 and $69,000:The net result favors the put (sell) instruments by $1.8 billion.
+
+Between $69,001 and $72,000:The net result favors the put (sell) instruments by $950 million.
+
+Between $72,001 and $75,000:The net result favors the put (sell) instruments by $430 million.
+
+Between $75,001 and $78,000:The net result favors the call (buy) instruments by $790 million.
+
+Ultimately, Bitcoin bulls need a 6% rally from the present $70,900 level to shift the outcome of the March options expiry in their favor.
+
+Cointelegraph covers fintech, blockchain and Bitcoin bringing you the latest crypto news and analyses on the future of money.
+
+Cointelegraph is committed to providing independent, high-quality journalism across the crypto, blockchain, AI, and fintech industries. To support open access to our website and sustain editorial operations, certain commercial or partner references may appear on our site. These arrangements help maintain an accessible platform and do not result in additional costs to readers.
+
+All news, reviews, and analysis are produced with full journalistic independence and integrity. For more details on our standards and processes, please read ourEditorial Policy.

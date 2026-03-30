@@ -1,0 +1,8 @@
+# Addition to requirements.txt for Memory & State Management Refactoring
+
+# Core dependencies
+chromadb>=0.4.0              # Persistent vector database for semantic memory
+sentence-transformers>=2.2.0 # Local embeddings for memory retrieval (33M model)
+
+# Note: sentence-transformers will auto-install torch and transformers if not present
+# If you want a lighter installation, specify device='cpu' in initialization

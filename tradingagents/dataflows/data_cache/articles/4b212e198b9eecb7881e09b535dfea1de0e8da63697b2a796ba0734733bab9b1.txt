@@ -1,0 +1,19 @@
+Title: AI agents to help investigators unearth crypto criminals, according to new TRM program
+Source: CoinDesk
+URL: https://www.coindesk.com/policy/2026/03/25/ai-agents-to-help-investigators-unearth-crypto-criminals-according-to-new-trm-program
+
+Artificial intelligence agents will bedeployed starting Wednesdayby law enforcement agencies using analytical tools provided by TRM Labs, which added the new agents that are meant to allow investigators to use regular language to frame their searches.
+
+The new investigative assistant is embedded in the TRM Forensics service that's extended to law enforcement agencies, crypto businesses and financial firms, and it "translates natural language prompts into complex investigative actions," TRM said in a press release. A user can request information about the flow of funds without needing highly technical inputs, speeding up the time-dependent process of chasing bad actors.
+
+Last year, illicit crypto volume hit $158 billion, according to the analysis firm.
+
+"What we’re seeing every day is that the caseload is growing faster than the workforce, and investigators are being asked to operate across dozens of blockchains, jurisdictions, and typologies simultaneously," said Ari Redbord, head of legal and government affairs for TRM.
+
+An AI tool on investigators' side, he said, could help overcome "a sharp acceleration in AI-enabled fraud and scams," which TRM data puts at a 500% increase "as criminal actors use automation, deepfakes and AI-driven tools to scale operations with speed and precision that simply didn’t exist before."
+
+As stablecoins evolve into core financial infrastructure, North America leads. This report maps the regulation, market shifts, and players driving adoption.
+
+Stablecoins are entering their third phase of evolution - the institutionalization era - becoming increasingly embedded into core financial infrastructure. As institutions prioritize transparency and compliance, regulated issuers like USDC, RLUSD, and PYUSD are steadily gaining share with RLUSD surpassing $1B in market cap within its first year. North America, leading in regulatory frameworks and institutional distribution, is at the center of it all.
+
+White House AI and Crypto Czar David Sacks said Thursday he was joining the President’s Council of Advisors on Science and Technology and leaving the czar role.

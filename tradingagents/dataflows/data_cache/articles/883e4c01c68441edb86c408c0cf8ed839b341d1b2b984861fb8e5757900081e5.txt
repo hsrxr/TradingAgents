@@ -1,0 +1,45 @@
+Title: Lawmakers push another bill to curb prediction market insider trading
+Source: Cointelegraph
+URL: https://cointelegraph.com/news/lawmakers-push-second-bill-this-week-prediction-market-insider-trading?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+
+The bill proposes to prohibit government officials from using insider information to bet on prediction market contracts, with fines up to double the amount of profits.
+
+Cointelegraph in your social feed
+
+US lawmakers have introduced a second bill this week aimed at curbing prediction market insider trading by government officials, amid growing concerns over such activity on major platforms such as Kalshi and Polymarket.
+
+In anannouncementon Thursday, US lawmakers Todd Young, Elissa Slotkin, John Curtis and Adam Schiff unveiled the bipartisan Public Integrity in Financial Prediction Markets Act of 2026.
+
+"No one should be profiting off the information and knowledge gained as a public servant, period," Slotkin said, adding: "This bill is an important first step in placing common sense rules around prediction markets, and it has real teeth to ensure those who break these rules face real consequences."
+
+The bill underscores growing unease that prediction markets could become a new frontier for insider trading, as bets tied to real-world events blur the line between wagering and financial activity.
+
+The latestbill, introduced in the second session of the 119th Congress, aims to prohibit government executives from using "insider information to bet on a prediction market contract."
+
+If enacted, the Public Integrity in Financial Prediction Markets Act of 2026 would cover the president, vice president and politicians across Congress, the House of Representatives and the Senate.
+
+It would also cover political appointees and “employees of an Executive agency or independent regulatory agency.”
+
+The bill defines insider information as anything that a "reasonable investor would consider important in making a decision related to a prediction market contract and is not publicly available."
+
+It also outlines reporting requirements under which a government official must report any contract wagers over $250 within 30 days to the supervising ethics office. The individual must include "the number of contracts purchased, price of contract, date and time of transaction, name of contract, position taken on contract, name of trading platform used, profit or loss made on transaction."
+
+The penalties will see individuals charged the greater of $500 or twice the profit made from the prediction market contract.
+
+Related:SEC is no longer a ‘cop on the beat‘ on crypto, says US lawmaker
+
+The bills comeamid an increasing numberof state and federal lawmakers taking aim at prediction markets.
+
+It also marks thesecond bill introduced this weekto try to stop government officials from using insider information to profit from prediction markets, the first being the PREDICT Act, introduced by US Representatives Adrian Smith and Nikki Budzinski on Tuesday.
+
+However, the PREDICT Act focuses on preventing insider trading on prediction markets relating to political events, policy decisions and other government actions.
+
+Recently, both Kalshi and Polymarket have made attempts to tighten their rules to stopinsiders from wagering on their platforms.
+
+Magazine:Nobody knows if quantum secure cryptography will even work
+
+Cointelegraph covers fintech, blockchain and Bitcoin bringing you the latest crypto news and analyses on the future of money.
+
+Cointelegraph is committed to providing independent, high-quality journalism across the crypto, blockchain, AI, and fintech industries. To support open access to our website and sustain editorial operations, certain commercial or partner references may appear on our site. These arrangements help maintain an accessible platform and do not result in additional costs to readers.
+
+All news, reviews, and analysis are produced with full journalistic independence and integrity. For more details on our standards and processes, please read ourEditorial Policy.

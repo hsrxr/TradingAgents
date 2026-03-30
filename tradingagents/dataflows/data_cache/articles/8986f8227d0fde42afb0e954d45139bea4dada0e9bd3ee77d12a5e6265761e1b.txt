@@ -1,0 +1,53 @@
+Title: XRP price risks 50% drop despite Goldman Sachs' $152M ETF exposure
+Source: Cointelegraph
+URL: https://cointelegraph.com/news/xrp-price-risks-50-drop-despite-goldman-sachs-152m-etf?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+
+Goldman Sachs revealed a $152 million exposure to spot XRP ETFs, while volatility contracted to levels seen ahead of strong price moves.
+
+Cointelegraph in your social feed
+
+XRP (XRP) traded at $1.37 after a 3.5% decline in the last 24 hours, shrugging off Goldman Sachs’ disclosure of exposure to spot XRP exchange-traded funds (ETFs).
+
+While this highlights long-term institutional confidence, it comes amid fragile risk sentiment and a typical breakdown from a bearish setup.
+
+Goldman Sachs disclosed $152.17 million in spot XRP ETF holdings across four funds, making it the largest institutional holder in this segment.
+
+XRP maintains its bear pennant breakdown setup targeting $0.72.
+
+Goldman Sachs has emerged as the largest disclosed institutional holder of US spot XRP ETFs, revealing a $152 million position in its Q4 202513F filingwith the SEC.
+
+Related:XRP treasury Evernorth files with SEC to list shares on Nasdaq
+
+The $3.5 trillion asset manager has spread its exposure across four funds: $39.8 million in Bitwise XRP ETF, $38.5 million in Franklin XRP Trust, $38 million in Grayscale XRP ETF, and $35.9 million in 21Shares XRP ETF.
+
+Goldman isn’t alone. Its allocation accounts for roughly 73% of the about $211 million held by the top 30 institutional investors in XRP ETFs, according to Bloomberg Senior ETF analyst James  Seyffart.
+
+While this institutional move highlights long-term confidence, XRP price remains 25% below its yearly open around $1.84, driven by slowing ETF inflows andmacro headwinds.
+
+Cumulative net inflows intoUS-based XRP ETFscrossed the $1 billion mark within the first few months of trading, peaking at $1.28 billion on Jan. 16. The pace has since cooled to $1.21 billion today.
+
+Total assets under management peaked around $1.65 billion in early January but have dropped to roughly $995 million, dragged down byXRP's price declineand a stretch of net outflows, according to data from SoSoValue.
+
+XRP ETFs recorded a total of $56.5 million in net outflows between March 3 and March 16. Since then, the daily inflows have been muted below $5 million.
+
+XRP price broke down from its prevailing bear pennant when it dropped below the lower trend line of the pattern at $1.40 on Thursday. The price could retest the lower trend line as new resistance, a move that could confirm the breakdown.
+
+Bear pennants form when price consolidates inside a triangle following a steep decline. Once the price breaks below that triangle, it triggers another massive downward move.
+
+For XRP, the measured target of the bear pennant is $0.72, roughly 48% below the current price.
+
+AsCointelegraph reported, a break below $1.27 would suggest that the bears are still in control, fueling XRP/USD drop toward $1.
+
+XRP’s volatility metrics are warning of an imminent massive price move.
+
+The 30-day Realized Volatility (RV 30D) hasdroppedto around 0.5266, marking the lowest level for 2026.
+
+Meanwhile, the Volatility Z-Score is at -0.9048, “reflecting a clear decline in volatility compared to the historical average,” CryptoQuant analyst Arab Chainsaidin a recent Quicktake note, adding:
+
+This article does not contain investment advice or recommendations. Every investment and trading move involves risk, and readers should conduct their own research when making a decision. While we strive to provide accurate and timely information, Cointelegraph does not guarantee the accuracy, completeness, or reliability of any information in this article. This article may contain forward-looking statements that are subject to risks and uncertainties. Cointelegraph will not be liable for any loss or damage arising from your reliance on this information.
+
+Cointelegraph covers fintech, blockchain and Bitcoin bringing you the latest crypto news and analyses on the future of money.
+
+Cointelegraph is committed to providing independent, high-quality journalism across the crypto, blockchain, AI, and fintech industries. To support open access to our website and sustain editorial operations, certain commercial or partner references may appear on our site. These arrangements help maintain an accessible platform and do not result in additional costs to readers.
+
+All news, reviews, and analysis are produced with full journalistic independence and integrity. For more details on our standards and processes, please read ourEditorial Policy.

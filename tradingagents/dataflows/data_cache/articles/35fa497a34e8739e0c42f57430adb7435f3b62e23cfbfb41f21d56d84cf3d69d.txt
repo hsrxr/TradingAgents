@@ -1,0 +1,51 @@
+Title: Crypto Biz: Stablecoin jitters meet institutional momentum
+Source: Cointelegraph
+URL: https://cointelegraph.com/news/crypto-biz-stablecoin-regulation-institutions-ai-micropayments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+
+Regulatory uncertainty shakes stablecoins as institutions push forward, prediction markets tighten rules and AI agents reshape micropayment economics.
+
+Cointelegraph in your social feed
+
+Stablecoins are once again at the center of the crypto business narrative — but for very different reasons.
+
+Circle’s sharp sell-off this week highlights how sensitive crypto equities remain to regulatory headlines, even when the underlying business fundamentals appear unchanged. At the same time, developments in Canada show institutions are moving in the opposite direction, quietly laying the groundwork for stablecoin integration into traditional finance.
+
+Elsewhere, prediction markets are facing growing pressure to clean up their act as regulators zero in on manipulation risks, while a new thesis from Forrester suggests the long-promised micropayments economy may depend less on infrastructure — and more on AI agents.
+
+The latest edition of Crypto Biz points to a market where regulation, automation and institutional adoption are reshaping how value moves across crypto rails.
+
+Shares of Circle plunged 20% on Tuesday after reports that a draft of the proposed CLARITY Act could restrict stablecoin rewards, butanalysts at Bernsteinsay the market reaction may be mispriced.
+
+In a Wednesday note, Bernstein analysts said investors are conflating “who earns yield” with “who distributes yield.” The draft legislation targets platforms that pass yield to users, they said, while Circle’s core revenue comes from reserve income on USDC (USDC), not reward distribution.
+
+The legislativeproposal would prohibit yieldon passive stablecoin holdings or products deemed equivalent to interest, but leaves room for rewards tied to user activity, such as trading or payments. Bernstein said these carve-outs could still allow incentive structures without disrupting issuer economics.
+
+Circle generates revenue primarily from interest on reserves backing USDC, which are largely invested in short-term US Treasurys. Bernstein estimates this income reached about $2.6 billion in 2025, underscoring what it views as limited direct impact from the draft bill.
+
+Deloitte Canada is partnering with Stablecorp to bringstablecoin infrastructure into the country’s financial system, signaling growing institutional readiness ahead of new regulations. The initiative centers on integrating QCAD, a Canadian dollar–pegged stablecoin, into payment and settlement workflows.
+
+The goal is to help financial institutions prepare for stablecoin adoption as Canada moves toward a formal regulatory framework for fiat-backed digital assets. Potential use cases include round-the-clock payments, faster settlement and improved transparency using blockchain-based systems.
+
+QCAD is designed as afully backed digital versionof the Canadian dollar, aligning with expected regulatory requirements around reserves, compliance and risk management. This positions it as a candidate for institutional use once rules are finalized.
+
+Prediction platform Polymarket isoverhauling its rulebookamid intensifying scrutiny of allegations of insider trading and market manipulation. The updates apply to both its decentralized platform and its US-regulated exchange, signaling a push toward stronger compliance standards.
+
+The new framework introduces stricter market design rules, clearer criteria for resolving outcomes and expanded surveillance systems to detect suspicious activity. Polymarket is also limiting certain markets considered highly manipulable or ethically sensitive.
+
+The changes come amid mounting concerns that prediction markets may be vulnerable to traders with privileged information — especially in geopolitical or political event markets. Lawmakers and regulators have increasingly questioned whether such platforms blur the line between financial markets and gambling.
+
+AI agents may finally make micropayments viable, according toa new analysis from Forrester, which points to Stripe’s Machine Payments Protocol (MPP) as an early example of the trend.
+
+Forrester analyst Meng Liu saidmicropaymentshave historically struggled due to user friction, as consumers are reluctant to repeatedly approve small transactions worth just a few cents or dollars. AI agents change that dynamic by executing payments automatically as part of completing tasks, removing the need for user interaction at checkout.
+
+Stripe’s MPP is designed as a coordination layer that works across existing payment systems rather than a standalone network. Forrester’s Liu views this as a sign that infrastructure is emerging to support machine-to-machine transactions without requiring entirely new rails.
+
+Liu said agent-driven payments could enable new business models, including pay-per-use services and automated digital commerce, while increasing demand for low-cost, high-frequency payment solutions such as stablecoins.
+
+Crypto Biz is your weekly pulse on the business behind blockchain and crypto, delivered directly to your inbox every Thursday.
+
+Cointelegraph covers fintech, blockchain and Bitcoin bringing you the latest crypto news and analyses on the future of money.
+
+Cointelegraph is committed to providing independent, high-quality journalism across the crypto, blockchain, AI, and fintech industries. To support open access to our website and sustain editorial operations, certain commercial or partner references may appear on our site. These arrangements help maintain an accessible platform and do not result in additional costs to readers.
+
+All news, reviews, and analysis are produced with full journalistic independence and integrity. For more details on our standards and processes, please read ourEditorial Policy.

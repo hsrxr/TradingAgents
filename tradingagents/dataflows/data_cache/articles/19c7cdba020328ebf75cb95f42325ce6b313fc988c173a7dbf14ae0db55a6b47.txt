@@ -1,0 +1,21 @@
+Title: Investors yank $171 million from bitcoin ETFs in largest single-day outflow in three weeks
+Source: CoinDesk
+URL: https://www.coindesk.com/markets/2026/03/27/investors-yank-usd171-million-from-bitcoin-etfs-in-largest-single-day-outflow-in-three-weeks
+
+Institutional demand for bitcoin appears to be cooling after a strong start to the month.
+
+On Thursday, investors withdrew a combined $171.12 million from the 11 U.S.-listed spot bitcoin exchange-traded funds, marking the largest single-day outflow in just over three weeks, according to data fromSoSoValue.
+
+BlackRock’s IBIT saw $41.92 million in outflows, while funds such as FBTC, GBTC, BITB and ARKB each recorded withdrawals in the $20 million to $30 million range.
+
+The recent pullback follows a period of robust inflows, with these funds attracting more than $2 billion between late February and mid-month. Since then, momentum has slowed, with just $95.8 million in inflows last week and net outflows of $70.71 million so far this week.
+
+The moderation in flows may point to a pause in institutional accumulation, with investors adopting a more measured approach to these ETFs. Launched in January 2024, the funds allow market participants to take exposure to bitcoin without requiring direct ownership.
+
+The slowdown in demand raises questions about how long bitcoin can maintain resilience near $70,000 amid broader macroeconomic shocks.
+
+As stablecoins evolve into core financial infrastructure, North America leads. This report maps the regulation, market shifts, and players driving adoption.
+
+Stablecoins are entering their third phase of evolution - the institutionalization era - becoming increasingly embedded into core financial infrastructure. As institutions prioritize transparency and compliance, regulated issuers like USDC, RLUSD, and PYUSD are steadily gaining share with RLUSD surpassing $1B in market cap within its first year. North America, leading in regulatory frameworks and institutional distribution, is at the center of it all.
+
+Ukraine’s disruption of Russian oil flows has added fresh uncertainty to already strained energy markets, complicating inflation outlooks and keeping pressure on risk assets including bitcoin.

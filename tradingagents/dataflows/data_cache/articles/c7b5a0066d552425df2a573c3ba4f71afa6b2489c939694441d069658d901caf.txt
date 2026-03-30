@@ -1,0 +1,39 @@
+Title: Delaware Moves to Establish State Framework for Stablecoin Issuers
+Source: Decrypt
+URL: https://decrypt.co/362254/delaware-establish-state-framework-stablecoin-issuers
+
+Delaware Moves to Establish State Framework for Stablecoin Issuers
+
+Delaware lawmakers have introduced legislation that would establish a comprehensive regulatory framework for payment stablecoin issuers, as states position themselves to compete for digital asset firms under federal rules.
+
+Known as the Delaware Payment Stablecoins Act and introduced on Tuesday,Senate Bill 19would create licensing, reserve, custody, and disclosure requirements for companies issuing stablecoins to residents of the state.
+
+If passed, the measure would further Delaware’s longstanding role as a hub for corporate and financial law, potentially making it a preferred jurisdiction for stablecoin issuers seeking state-level oversight rather than a federal charter.
+
+"Delaware's move reflects a more modular approach to regulating stablecoins (similar to the existing money transmitter regulations)," Effie Dimitropoulos, CEO of Australian dollar-backed stablecoin AUDD, toldDecrypt. "This structure allows states to compete to create issuance frameworks while still operating within an overarching federal framework."
+
+That structure should make it easier for new entrants to get involved and experiment, particularly when immediate global scale isn't required," Dimitropoulos added. "It is unlikely to materially displace the structural advantages that companies like Circle and Tether have, given that network effects, liquidity, and global distribution remain the most important success factors."
+
+Dollar-pegged stablecoins now account for roughly$305 billionin circulation globally, with the vast majority tied to the U.S. dollar. Standard Chartered forecasts the sector will grow substantially, reaching over$2 trillionby the end of 2028.
+
+And that figure could continue to balloon beyond the end of the decade as legislation now enshrined in U.S. law provides an established avenue for firms to expand.
+
+Tuesday’s proposal is designed to operate alongside the federal Guiding and Establishing National Innovation for U.S. Stablecoins Act, known as the GENIUS Act, which was enacted in July of last year.
+
+That law created a national framework for stablecoin regulation and allows state-chartered issuers to operate under state supervision if the state's regime is deemed “substantially similar” to federal standards.
+
+The bill explicitly positions the state to take advantage of that structure, with language claiming that Delaware has a “compelling interest in establishing a payment stablecoin regulatory framework that is competitive, protective of consumers, and consistent with the federal framework.”
+
+The legislation would also require stablecoin issuers to maintain reserves on at least a one-to-one basis using cash, bank deposits, and short-term U.S. Treasurys, publish monthly reserve reports, and meet redemption requests within specified timeframes.
+
+Issuers would be required to obtain one of several licenses, including a payment stablecoin issuer license or a digital asset service provider license.
+
+The bill also prohibits issuers from paying interest on stablecoins unless federal law permits it, reflecting a broaderWashington policy debateover whether stablecoins should function more like bank deposits or payment instruments.
+
+Editor's note: Adds comments from AUDD's Dimitropoulos
+
+Your gateway into the world of Web3
+
+The latest news, articles, and resources, sent to your inbox weekly.
+
+© A next-generation media company.2026Decrypt Media, Inc.

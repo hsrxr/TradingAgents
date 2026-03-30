@@ -1,0 +1,39 @@
+Title: Bitcoin traders see 53% odds of sub-$66K BTC by April 24
+Source: Cointelegraph
+URL: https://cointelegraph.com/news/bitcoin-traders-see-53-odds-of-sub-66k-btc-by-april-24?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+
+Bitcoin price slumped on Friday as uncertainty over the US economy and war in Iran negatively impacted stock and crypto markets.
+
+Cointelegraph in your social feed
+
+Bearish sentiment is rising as Bitcoin options professional traders lose confidence that the $66,000 level will hold for long.
+
+The exit of David Sacks as the Crypto and AI czar and a lack of a clear US Strategic Bitcoin Reserve plan added to investors’ doubts.
+
+Bitcoin (BTC) fell to $65,530 on Friday, an 8% decline from the $71,300 level seen on Thursday. This move wiped out over $210 million in leveraged bullish Bitcoin futures and left most call (buy) options worthless during the $18.6 billion monthly expiry. Traders now anticipate a 53% chance that Bitcoin will stay below $66,000 by April 24.
+
+On Friday, the April 24 Bitcoin $66,000 put (sell) options traded at 0.0566 BTC or roughly $3,730. With a 53% implied probability of Bitcoin trading below $66,000 by late April, the mood remains decidedly bearish following the increased uncertainty in the US and Israel-Iran war, pushing traders into a risk-averse mode.
+
+Rising oil prices and a potential $200 billion in extra US military spending led investors to demand higher returns on government bonds and dragged the S&P 500 to its lowest levels since September 2025. West Texas Intermediate (WTI) oil surged to $100 on Friday, while 5-year Treasury yields reached 4.07%, up from 3.72% three weeks prior.
+
+Inflationary fear and weaker corporate earnings perspectives alone cannot explain Bitcoin’s 20% underperformance against the S&P 500 in 2026. Other factors are likely at play, including investors’ discomfort over the lack of progress on theUS Bitcoin Strategic Reserve.
+
+David Sacks has stepped downfrom his role as the Trump administration’s crypto and AI czar. While Sacks remains an advisor on the President’s Council on Science & Technology, his departure follows earlier comments that inflated Bitcoin investors’ expectations. Sacks had previously hinted that the US could acquire more Bitcoin through budget-neutral methods without raising taxes.
+
+Related:US lawmakers publish crypto tax proposal without Bitcoin tax exemption
+
+The Bitcoin options delta skew jumped to 15% on Friday, showing that put options are trading at a significant premium relative to call instruments. In balanced market conditions, this metric usually ranges between -6% and +6%. The current level indicates a lack of conviction among whales that the $66,000 level will hold. Fear has largely dominated the Bitcoin options market since mid-January.
+
+Friday’s monthly options expiry at $68,610 proved unfavorable for neutral-to-bullish strategies, as 97% of call options became void. Bears gained the upper hand as put options at $69,000 or higher surpassed$2 billion in open interest. Critically, part of Friday’s downward move reflects a growing unwillingness among traders to maintain Bitcoin exposure over the weekend.
+
+X social platform user WhalePanda, suggested that the crash in risk markets anticipates President Trump making "another dumb escalating move" after US markets close. Consequently, the current fear seen in the options market could reverse if no major geopolitical events occur before Monday.
+
+During bearish cycles, traders often rush for the exits at the mere sight of any event that could be deemed negative. Investors should not take Bitcoin's implied odds at face value, as these metrics are heavily impacted by recent news and headlines. However, expectations could shift more favorably if Iran effectively releases a counter-offer to the US peace proposal.
+
+This article does not contain investment advice or recommendations. Every investment and trading move involves risk, and readers should conduct their own research when making a decision. While we strive to provide accurate and timely information, Cointelegraph does not guarantee the accuracy, completeness, or reliability of any information in this article. This article may contain forward-looking statements that are subject to risks and uncertainties. Cointelegraph will not be liable for any loss or damage arising from your reliance on this information.
+
+Cointelegraph covers fintech, blockchain and Bitcoin bringing you the latest crypto news and analyses on the future of money.
+
+Cointelegraph is committed to providing independent, high-quality journalism across the crypto, blockchain, AI, and fintech industries. To support open access to our website and sustain editorial operations, certain commercial or partner references may appear on our site. These arrangements help maintain an accessible platform and do not result in additional costs to readers.
+
+All news, reviews, and analysis are produced with full journalistic independence and integrity. For more details on our standards and processes, please read ourEditorial Policy.

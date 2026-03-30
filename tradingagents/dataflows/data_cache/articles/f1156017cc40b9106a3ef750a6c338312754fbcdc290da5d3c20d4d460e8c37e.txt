@@ -1,0 +1,41 @@
+Title: US lawmakers hash out tokenized securities concerns in latest hearing
+Source: Cointelegraph
+URL: https://cointelegraph.com/news/us-lawmakers-tokenized-securities-concerns?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+
+Industry executives told US lawmakers that existing investor protection and financial surveillance regulations should apply to tokenized securities.
+
+Cointelegraph in your social feed
+
+Crypto industry executives on Wednesday told the US House of Representatives Committee on Financial Services that existing investor protections and financial surveillance regulations should apply to tokenized securities.
+
+The hearing was held as legislators consider the Capital Markets Technology Modernization Act of 2026 and are exploring the impact of asset tokenization on capital markets and the “need to balance innovation with investor protection and market integrity,” according to astatementby panel chairman, Representative French Hill.
+
+Tokenized real-world assets(RWA), traditional financial instruments represented by tokens on blockchain networks, reduce transaction costs and settlement times, Summer Mersinger, CEO of crypto advocacy organization Blockchain Association,toldthe committee.
+
+“By replacing flawed manual record-keeping processes with more transparent timestamps and stamped records, tokenization lowers the cost and re-imagines US financial markets,” she said.
+
+Mersinger and the other witnesses agreed that existing securities laws apply to tokenized instruments, arguing that the technology and the medium used to record securities transactions do not fundamentally alter investor protection laws or jurisdictional oversight.
+
+Supporters of RWA tokenization contendthe technology removes intermediariesfrom the settlement and clearing process, reducing transaction costs and improving capital velocity by introducing near-instant settlement times.
+
+Lawmakers questioned the panel about how tokenized asset issuers and platforms could enforceknow-your-customer(KYC) checks, anti-money laundering provisions, and sanctions compliance.
+
+Illinois Representative Bill Foster asked: “Once things are tokenized, are they going to be treated on a private, permissioned blockchain, or a variety of public blockchains, which often allow anonymous participation through self-hosted wallets?”
+
+John Zecca, Nasdaq executive vice president and global chief legal, risk and regulatory officer, told Foster that the exchange can collect KYC information at the protocol level because its system runs on a permissioned blockchain network.
+
+Christian Sabella, managing director and deputy general counsel of the Depository Trust and Clearing Corporation (DTCC), the world’s largest clearinghouse company, said it was also possible to embed identifying information at the token level.
+
+These identifiers would be immutable and would remain regardless of whether the RWA token was trading on a permissioned or a permissionless network, Sabella added.
+
+Salman Banaei, general counsel for Plume Network, a permissionless RWA-focused blockchain, said the network embeds anti-money laundering (AML) and sanctions compliance checks at the token level, which allows tokens to be frozen.
+
+However, Banaei told Foster that government regulators do not yet have a technological solution to identify wash trades or market participants with 100% confidence.
+
+Magazine:Meet the onchain crypto detectives fighting crime better than the cops
+
+Cointelegraph covers fintech, blockchain and Bitcoin bringing you the latest crypto news and analyses on the future of money.
+
+Cointelegraph is committed to providing independent, high-quality journalism across the crypto, blockchain, AI, and fintech industries. To support open access to our website and sustain editorial operations, certain commercial or partner references may appear on our site. These arrangements help maintain an accessible platform and do not result in additional costs to readers.
+
+All news, reviews, and analysis are produced with full journalistic independence and integrity. For more details on our standards and processes, please read ourEditorial Policy.

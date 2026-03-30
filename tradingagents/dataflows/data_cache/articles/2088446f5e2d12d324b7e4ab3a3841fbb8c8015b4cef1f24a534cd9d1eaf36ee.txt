@@ -1,0 +1,43 @@
+Title: Australia fines local Binance unit $6.9M over client onboarding failures
+Source: Cointelegraph
+URL: https://cointelegraph.com/news/australia-court-fines-binance-6-9-million-onboarding-failures?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+
+An Australian court ordered Binance Australia Derivatives to pay $6.9 million after misclassifying retail clients and exposing them to high-risk crypto products.
+
+Cointelegraph in your social feed
+
+Update March 27, 11:53 am UTC: This article has been updated to include a comment from a Binance spokesperson.
+
+The Federal Court of Australia has ordered Oztures Trading Pty Ltd, trading as Binance Australia Derivatives, to pay a 10 million Australian dollar ($6.9 million) penalty after the company admitted to misclassifying more than 85% of its Australian client base and exposing retail investors to high-risk crypto derivatives without required protections.
+
+The Australian Securities and Investments Commission (ASIC)saidthe affected group included 524 retail investors who were wrongly treated as wholesale clients between July 2022 and April 2023. Those clients later incurred $6.3 million in trading losses and paid $2.6 million in fees.
+
+Binance alsoadmittedin a statement of agreed facts to multiple compliance failures, including not providing product disclosure statements to retail clients, not making a target market determination and not maintaining a compliant internal dispute resolution system.
+
+The new penalty comes on top of the around $9 million incompensationthat Binance’s local derivatives unit paid to affected clients in November 2023.
+
+A spokesperson for Binance told Cointelegraph that the “issue was self-identified, ​reported to ASIC, and fully remediated in 2023,” with the $9 million paid to affected users in November 2023.
+
+Binance Australia Derivatives’ licensewas cancelled by the country’s securities regulator in April 2023, following a review of the company’s operations in Australia, including its classification of retail and wholesale clients.
+
+Related:White House clears review of proposal to allow crypto in 401(k) retirement plans
+
+Binance admitted to poor staff training and client onboarding failures in the statement of agreed facts, including allowing sophisticated investors to make unlimited attempts at a multiple-choice quiz until they achieve a passing score for Binance to award them the sophisticated investor status.
+
+Of the 524 users, 460 were incorrectly classified as sophisticated investors and 33 as meeting the individual wealth test.
+
+It also admitted to failing to provide a product disclosure statement to retail clients, not maintaining a compliant internal dispute resolution system, failing to comply with Australian Financial Services licence conditions and inadequately training employees.
+
+ASIC said Binance’s senior compliance staff provided “inadequate oversight” of client applications, further weakening the onboarding and classification process.
+
+“Binance’s shortcomings left more than 85% of their Australian customer base exposed to high-risk products they should have never been able to access,” said ASIC Chair Joe Longo, adding that this is a “clear warning to global financial services entities looking to set up shop in Australia.”
+
+The ruling also follows aseparate August 2025 actionby the Australian Transaction Reports and Analysis Centre against Investbybit Pty Ltd, another Binance-linked Australian entity, ordering it to appoint an external auditor over Anti-Money Laundering and Counter-Terrorist Financing concerns.
+
+Magazine:How crypto laws changed in 2025 — and how they’ll change in 2026
+
+Cointelegraph covers fintech, blockchain and Bitcoin bringing you the latest crypto news and analyses on the future of money.
+
+Cointelegraph is committed to providing independent, high-quality journalism across the crypto, blockchain, AI, and fintech industries. To support open access to our website and sustain editorial operations, certain commercial or partner references may appear on our site. These arrangements help maintain an accessible platform and do not result in additional costs to readers.
+
+All news, reviews, and analysis are produced with full journalistic independence and integrity. For more details on our standards and processes, please read ourEditorial Policy.

@@ -1,0 +1,31 @@
+Title: Wall Street's Crypto Ties Deepen as NYSE Taps Securitize for Tokenized Securities
+Source: Decrypt
+URL: https://decrypt.co/362185/wall-streets-crypto-ties-deepen-nyse-securitize-tokenized-securities
+
+Wall Street's Crypto Ties Deepen as NYSE Taps Securitize for Tokenized Securities
+
+The New York Stock Exchange said Tuesday that it’s collaborating with Securitize, the BlackRock-backedtokenizationspecialist, on a program aimed at accelerating Wall Street’s shift toward trading infrastructure underpinned by digital assets.
+
+As part of the arrangement, the world's largest stock exchange by market capitalization will work with Securitize on developing standards for tokens that represent real-world assets like stocks and bonds, as well as exchange-traded funds, according to a joint press release.
+
+Securitize is also slated to serve as the first digital transfer agent for NYSE’s Digital Trading Platform, the companies said. That will enable Securitize to create “blockchain-native securities” on the NYSE-affiliated platform, which is designed to facilitate round-the-clock trading.
+
+The collaboration comes as the latest sign that giants in traditional finance are growing serious about perceived opportunities with blockchain-based trading infrastructure. Last year, SEC Chair Paul Atkins unveiled Project Crypto,describingit as an agency-wide initiative to develop rules and regulations that “enable America’s financial markets to move on-chain.”
+
+Last week, Nasdaqgained approvalfrom the watchdog for a pilot program involving tokenized securities. The system is expected to keep trading and settlement within traditional market rails through coordination with a subsidiary of Depository Trust & Clearing Corporation.
+
+As experimentation with tokenization intensified last year, Securitize CEO Carlos Domingo toldDecryptthatthe only wayto truly represent securities on-chain is through “native” tokenization. That means a token representing a stock, for example, would carry the same rights as its traditional counterpart, including the ability to vote or receive dividends.
+
+Transfer agents typically record ownership of securities in “book-entry” form using centralized databases. Securitize uses a black-chain based system for that instead, including BlackRock’s $2 billion tokenized money-market fund BUIDL, which primarily exists onEthereum.
+
+“We are proud to support NYSE in helping design the foundational transfer agent infrastructure,” Domingo said in a statement. “This is about building tokenization in a way that works within real market structure, with the protections, controls, and operational integrity.”
+
+Last month, World Liberty Financial, the DeFi project backed by U.S. President Donald Trump,tappedSecuritize for issuing tokens tied to the development of a luxury Maldivian resort.
+
+In October, the firm backed by the world’s largest asset managerunveiledplans to list on the Nasdaq at a $1.25 billion valuation. Before the president was elected on a pro-crypto platform, BlackRockleda $47 million strategic funding round for Securitize in 2024
+
+Your gateway into the world of Web3
+
+The latest news, articles, and resources, sent to your inbox weekly.
+
+© A next-generation media company.2026Decrypt Media, Inc.

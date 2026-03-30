@@ -1,0 +1,105 @@
+Title: What Is Bluesky? The Decentralized Social Media Rival to Elon Musk's X
+Source: Decrypt
+URL: https://decrypt.co/resources/what-is-bluesky-twitter-x-decentralized-social-media-rival
+
+What Is Bluesky? The Decentralized Social Media Rival to Elon Musk's X
+
+Social media platformBlueskyis often touted as an alternative to X (formerly Twitter), and viewed as a competitor to the tech giant.
+
+However, its underlying architecture is quite different—where X is a single company with a siloed ecosystem, Bluesky is based on a decentralized infrastructure.
+
+Bluesky is a decentralized social media platform based on theauthenticated transport (AT) protocol.
+
+The basic underlying idea behind decentralized social media platforms is that users should be able to own their own data, and migrate to different servers, of which Bluesky is only one among many.
+
+While it’s been portrayed as a competitor to X, Bluesky can actually trace its roots back to the social media platform. In December 2019, Twitter announced that it was funding an independent team to work on an open and decentralized social media standard.
+
+At the time, Twitter founder Jack Dorsey expressed a desire for Twitter to eventually be a client (user) of the standard that Bluesky was working on.
+
+In August 2021, it was announced thatJay Graber, formerly a developer forprivacy coinprojectZcash, would be helming the Bluesky team and its initiatives going forward. In February 2022, Bluesky became a completely independent organization following the formation of its Public Benefit LLC.
+
+In October 2022, the iOS Bluesky app was announced to notable fanfare—with its waitlist receiving approximately 30,000 sign ups in two days.
+
+Following itsbeta launchin February 2023, Blueskylaunched on Androidin April 2023 before fullyopening to the publicin February 2024, having amassed some 3 million users since it launched in beta. Within 24 hours of its public launch, Graber claimed that550,000 new usershad signed up to the platform. A further influx of new users came in September 2024, when some2.6 million usersjoined the platform in a week after X wasbanned in Brazil.
+
+In the wake of the U.S. presidential election in November 2024, Bluesky saw another growth spurt, withover a million new usersjoining the platform in the week following the election, and usage of its app growing by over 500% versus the first 10 months of the year, according toSimilarWeb. According to social media researcher Axel Bruns, Blueskyoffersa "refuge" for "the more liberal kind of Twitter community."
+
+By late November, Bluesky's user numbers in the U.S. hadovertakenthose of Meta's rival social media platform Threads, surging past 20 million. As of March 2026, Bluesky has over43 million users, where Threads claims to have some150 million daily active usersas of January 2026.
+
+In March 2026, Graberannouncedthat she was stepping back as CEO of Bluesky and transitioning to the role of Chief Innovation Officer,handing over the reinsto former Automattic CEO Toni Schneider as interim CEO.
+
+Days later, Blueskydisclosedthat it had completed a $100 million Series B funding round in April 2025, led by Bain Capital Crypto, with participation from Alumni Ventures, Anthos Capital, Bloomberg Beta, Knight Foundation and True Ventures.
+
+In a statement, the firm said that the funding would be directed towards building out “the future of the open social web without compromising our mission and values.”
+
+Bluesky as an app appears to be largely modeled on X itself, with features including comments, likes, and reposts. This includes how these posts, replies, and the feed itself are visually presented to Bluesky users. While there are some differences, they are largely minor (a post character limit of 265 instead of 280, for example).
+
+Those similarities have become more apparent with each new update, as Bluesky has added features includingdirect messaging,GIFs,video,livestreaming badgesandcashtags.
+
+Novel features include the ability to create custom feeds (of which more later) and“starter packs,”a set of personalized invites that enable users to recommend custom feeds and users.
+
+Bluesky also enables users toblock other users, hiding their posts and restricting their ability to interact with you. In August 2024, Bluesky introduced a set of“anti-toxicity features”including the ability to detach posts from quote posts and hide replies.
+
+While the Blueskyuser experience (UX)is familiar to X users, others point out that you need to look below the surface-level UX to understand why the platform could be a social media gamechanger.
+
+While the UX and the features of Bluesky resemble X to a significant degree, the key goal of Bluesky isn’t aesthetics, features, or the UX. Indeed, the chief goal wasn’t even to create a decentralized X competitor; superseding all of these objectives was the desire to create a decentralized social network protocol that could be used by anyone. Called authenticated transport (AT) protocol, this is the technology upon which Bluesky is built.
+
+While Bluesky is the first major release on AT protocol, the technology is open and available for use by any user, developer, or company (in much the same way anyone can build on a public blockchain likeEthereum). This means that others could create their own social media platforms using AT protocol technology. Even X could potentially be run on AT protocol, as Jack Dorsey had hoped, although with its change of ownership this may be a less likely scenario.
+
+AT protocol enables new ways for users to transparently communicate with each other.
+
+Thanks to these features, many see the AT protocol, rather than the Bluesky app, as the key innovation. While Bluesky gets all the headlines, the AT protocol could fundamentally change the social media landscape in ways that aren’t merely technical or abstract (more on that later). The AT protocol is an amalgamation of decentralized technologies (but not a blockchain writ large). In essence, the AT protocol would enable the creation of not a single social network, but a federation of social networks that could interact with each other.
+
+AT protocol enables new ways for users to transparently communicate with each other. At a technical level, this would allow you to self-host the servers of your own company, profile, or social media platform. This is in stark contrast to existing social media platforms where the self-hosting of servers and data simply isn’t possible.
+
+The goal of such a design is to secure user data and make the user platform experience resistant to influence from corporations, governments, and other centralized entities. As Bluesky's head of growth Emily Liuput it, the company's motto is that "the company is a future adversary,"adding that, "if bluesky ever tried pulling funny business, users can easily pack their bags (take all of their data and relationships with them) and move to a different server."
+
+AT protocol has the ability to put users in control of their data and how it is used (or not used). While being able to host your own servers is an option, users that don’t want to run their own servers can simply delegate a host of their choosing and use Bluesky like any other social media app.
+
+In the current landscape, major social media platforms (X, Facebook, TikTok, Instagram, YouTube) are largely siloed ecosystems that don’t interact with each other. If you are on multiple social media platforms, you likely have different followers, friends, and content—and view different content. And if you don’t like a social media network you are using, you don’t have a lot of good options. While you can always use an app less, stop using it, or find an alternative, it can often be a hard choice to make.
+
+If you decide to leave, you often find yourself in a smaller ecosystem than the one you left. Further, you often have to start over by creating a new account, adding new friends and followers, and so on. Beyond that, you may find that many of the people you want to engage with don’t use these social media alternatives. Regardless of your reason for disliking a platform or certain aspects of it (over/under moderation, the algorithm, data privacy, censorship, and so on), users often continue to use these platforms due to a lack of viable alternatives and the headache associated with starting from scratch on a new social network. With AT protocol, one key feature is the ability to port over a social media profile to another network—without losing the key data and social contacts you value.
+
+For example, let's say you have a Bluesky account with a username handle, hundreds of contacts, messaging history, and so on. If for some reason you didn’t like how Bluesky was operating, you could simply port over your entire account to a Bluesky alternative that is built on the AT protocol and continue as if nothing changed. This solves one of the major pain points of leaving and joining social networks.
+
+Not to say that you would necessarily want to leave Bluesky, however, as it allows for a great degree of customization and user control not available on other social media platforms. One goal of Bluesky is to revitalize transparent and public conversation on social media by tamping down on the disinformation and authoritarian manipulation sometimes found in the digital social media landscape.
+
+In much the same way that the internet is public infrastructure available to all, Bluesky’s team wants the social media layer to also be common infrastructure through their AT protocol framework.
+
+“We wanted this to someday be the last social identity you’ll ever have to create because you can move it in between apps and services,” Bluesky’s then CEO Jay Graber said in a March 2024interview. “You can take your identity and your relationships and your data with you. And so that’s the underlying protocol layer.”
+
+They want to see an “evolution from platforms to protocols.”Satoshi NakamotodesignedBitcoinas an independent blockchain protocol; Bitcoin (BTC) wouldn’t be sent via wire transfer or a credit card network; it needed a completely new technological framework. In much the same way that Bitcoin decentralized currency, Bluesky’s team wants to decentralize—and revolutionize—social media. With the interoperability baked in, your social media contacts and interactions are kept intact. In much the same way that you can now switch your cryptowalletand keep your crypto, AT protocol will allow you to switch social media platforms and keep your contacts (in a relatively painless manner).
+
+Bluesky’s trifecta of objectives is: trust, scale, and portability. The aforementioned ability to migrate your social network contacts and handle to a competing network comprises the portability component. If you want to leave a network (or it goes offline via bankruptcy or technical issues), you don’t want to lose everything. Just as you can change your smartphone provider without losing your number, Bluesky envisions this same portability for social network profiles. While changing your provider without losing your phone number seems natural now, you actually did lose your number when changing providers prior to 2003 in the U.S. While phone number portability required a Federal Communications Commission ruling, Bluesky is enabling portability through the optional adoption of its AT protocol-powered app.
+
+”We wanted this to someday be the last social identity you’ll ever have to create.”
+
+They also want Bluesky to enable conversations at a global scale. While some decentralized networks do a good job of giving users control and transparency, many of them can only function smoothly and reliably as smaller online communities. They envision a social network that can handle the global conversations of centralized social media sites while preserving the freedom and options provided by an open protocol.
+
+Perhaps most desired by social media users, Bluesky wants to reestablish trust. Using cryptography, Bluesky users can verify the authenticity of content that was created by other users—ensuring that they created the content themselves. Another feature is the ability to use a domain name (a website address) as your username. This is another way you can build trust and verify yourself to other users—and vice versa.
+
+Another point of contention that sows distrust on the large, centralized social media platforms popular today is how their proprietary algorithms shape public discourse and curate your social media feed.
+
+In perhaps one of its most praised features, Bluesky offers “algorithmic choice.” This allows you to see how an algorithm operates, modify it, or simply choose to use a different algorithm. The open-source nature of the project enables developers and users to introduce their own bespoke algorithms; many different algorithmically generated feeds are already live, encompassing everything from posts by furries to posts by accounts that follow you, to posts about moss.
+
+While algorithms themselves have largely been written off as social media manipulation, Bluesky doesn’t see algorithms as the issue, but rather the lack of transparency and control of these algorithms as the major shortcoming of centralized social media offerings.
+
+If you want a simple chronological timeline algorithm, that will be an option. For those that want something different, an open “marketplace of algorithms” will allow users to choose which algorithm they want to use—and switch algorithms at will (much like you can now freely switch phone carriers). In fact, users can swipe between their favorite algorithms or view a multi-algorithmic feed. These algorithms are searchable, allowing you to find new algorithms, share them, or even publish your own algorithms that others can use.
+
+While algorithmic choice will largely let you decide what you see, Bluesky’s vision for moderation will determine what you don’t see. Bluesky sees “composable moderation” as a key feature of their social app. While there’s a basic default moderation filter, users can also change it, or layer in custom filters that can work in tandem with each other. Ultimately, this moderation would have components that are done automatically and also manually through either network admins or by the community itself.
+
+Bluesky is one of a number of different decentralized social media platforms that have gained traction following Elon Musk's 2022 acquisition of Twitter, includingNostr,MastodonandThreads. Each takes a different approach to decentralization; Mastodon and Threads support the rival ActivityPub protocol, for example.
+
+Other social media platforms have leveraged blockchain, includingFarcasterandLens Protocol.
+
+Bluesky and its AT protocol seem to hold promise as a two-pronged alternative and solution (app and decentralized protocol) that could ameliorate the critiques aimed at the centralized social media behemoths.
+
+However, Bluesky's 43 million-strong user base, while growing, is small compared to the social media behemoths it's challenging; X hasover 404 million daily active usersas of Q2 2025, for example. Bluesky has attracted investment, though; in mid-2023 itraised $8 millionin a seed funding round, with a further$15 millionraised in October 2024 and a$100 million Series B raisein April 2025.
+
+While it's too early to determine if mostdecentralized social mediawill largely be on theblockchainor simply use technological aspects of decentralized networks, many predict that the social media landscape will increasingly become more transparent, flexible, and open as we transition from aWeb2 to Web3paradigm.
+
+Your gateway into the world of Web3
+
+The latest news, articles, and resources, sent to your inbox weekly.
+
+© A next-generation media company.2026Decrypt Media, Inc.

@@ -1,0 +1,37 @@
+Title: Mezo taps Aerodrome to support token trading on Base in Bitcoin DeFi push
+Source: Cointelegraph
+URL: https://cointelegraph.com/news/mezo-aerodrome-base-token-trading-bitcoin-defi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+
+The Bitcoin lending protocol will allocate 2.25% of its token supply to Aerodrome users as it looks to expand activity for its token and stablecoin.
+
+Cointelegraph in your social feed
+
+Mezo, a Bitcoin-native lending protocol, will collaborate with Aerodrome Finance to support trading activity for its token and Bitcoin-backed stablecoin on the Base network, as projects look for ways to bring more financial use cases to Bitcoin.
+
+In a Thursday announcement, Mezo said it will allocate 2.25% of its MEZO token supply to Aerodrome’s vote-escrow (veAERO) participants — users who lock tokens in exchange for governance rights and rewards. The program is designed to encourage those users to direct funds into MEZO trading pairs, increasing activity around the token and its US dollar-backed stablecoin, MUSD.
+
+Aerodrome is a liquidity provideron Base built by the team behind Optimism, a configurable enterprise blockchain infrastructure.
+
+The partnership links Base-based traders with a newer group of Bitcoin-focused applications, as developers experiment with adapting existing DeFi models to Bitcoin.
+
+Mezo, which allows users to borrow against their Bitcoin (BTC) holdings, said it has issued more than 2,000 loans and helped move roughly $23 million in Bitcoin-denominated assets from Ethereum.
+
+The move gives Mezo access to a large and active DeFi user base on the Base network. Bitcoin-native applications often struggle to attract enough trading activity. On Base, infrastructure such as Aerodrome can help support more consistent trading in new tokens and stablecoins.
+
+Related:Coinbase’s Base transitions to its own architecture with eye on streamlining
+
+Bitcoin is increasingly being positioned as a base layer for decentralized finance, driven in part by increasing institutional participation and long-term holders seeking ways to generate returns on idle assets.
+
+Bitcoin-based DeFi activity has picked upsince 2024, with a growing number of platforms aiming to bring lending, borrowing and yield strategies to the network.
+
+Recent examples include Lombard, which is building Bitcoin-based lending infrastructure and hasteamed with Bitwiseto allow institutional investors to earn yield and borrow against their Bitcoin holdings.
+
+Another project, Hashi, has recentlylaunched on the Sui networkwith early participation from BitGo, Bullish and FalconX, among others. The platform enables users to earn yield on Bitcoin through onchain lending and borrowing.
+
+Related:Babylon-Ledger tie-up expands access to Bitcoin Vaults for collateral use
+
+Cointelegraph covers fintech, blockchain and Bitcoin bringing you the latest crypto news and analyses on the future of money.
+
+Cointelegraph is committed to providing independent, high-quality journalism across the crypto, blockchain, AI, and fintech industries. To support open access to our website and sustain editorial operations, certain commercial or partner references may appear on our site. These arrangements help maintain an accessible platform and do not result in additional costs to readers.
+
+All news, reviews, and analysis are produced with full journalistic independence and integrity. For more details on our standards and processes, please read ourEditorial Policy.

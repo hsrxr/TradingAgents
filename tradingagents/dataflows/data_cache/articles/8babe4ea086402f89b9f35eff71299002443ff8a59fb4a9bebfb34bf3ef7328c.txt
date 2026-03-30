@@ -1,0 +1,41 @@
+Title: Crypto stocks battered as Nasdaq enters correction in $17 trillion market rout
+Source: CoinDesk
+URL: https://www.coindesk.com/markets/2026/03/27/crypto-stocks-battered-as-nasdaq-enters-correction-in-usd17-trillion-market-rout
+
+Crypto stocks are getting hit hard Friday as weakness in U.S. equities rippled through high-risk assets, driving bitcoinBTC$66,227.01below $66,000.
+
+Crypto exchange Coinbase (COIN) and digital asset conglomerate Galaxy (GLXY) dropped nearly 7%, while exchange Gemini (GEMI) slid almost 9%, marking one of the steepest losses in the group. Crypto-friendly broker Robinhood (HOOD) also fell nearly 6% asincreasing its stock buyback paceoffered little help in arresting the downtrend.
+
+Bitcoin-linked balance sheet plays also moved lower.Strategy(MSTR) and Twenty One Capital (XXI) plunged about 6%. Ethereum-focused treasury names such as Bitmine Immersion (BMNR) and Sharplink Gaming (SBET) were down roughly 5%.
+
+Miners — many of which trade as leveraged bets on both bitcoin and AI infrastructure — extended their declines. Riot Platforms (RIOT), CleanSpark (CLSK), IREN (IREN), HIVE Digital (HIVE) and Hut 8 (HUT) all posted 5%-8% losses.
+
+Even MARA (MARA) and Bitdeer (BTDR), which outperformed Thursday, have given back all their gains and were down 6% and 8%, respectively, joining the sector-wide plunge.
+
+The Federal Reserve faces an increasingly complicated backdrop, weighing renewed inflation pressure from rising oil prices against signs of a deteriorating labor market.
+
+Richmond Fed President Tom Barkin warned that higher gas costs could dent consumer spending while describing hiring conditions as "fragile." Meanwhile, Philadelphia Fed President Anna Paulson said the war in Iran created "new risks to both inflation and growth."
+
+The 10-year Treasury bond yield, which hit nearly 4.5% earlier Friday, erased today's rise following the central bankers' remarks. The two-year yield, which is more sensitive to Fed policy, fell all the way back to 3.91% after earlier rising to 4.03%.
+
+Still, investors have turned from predominantly expecting rate cuts this year to consider the central bank hiking rates in face of rising inflation.
+
+The selloff over the past months has been broad across equities, with roughly $17 trillion in market cap wiped out from peak levels across the Magnificent Seven — the seven largest tech stocks, including Nvidia (NVDA), Google (GOOG) and Microsoft (MSFT) — gold, silver, and bitcoinBTC$66,227.01.
+
+Bitcoin reached its all-time high in early October at $126,000, while gold, silver and U.S. equities peaked in late January before reversing sharply. Since then, bitcoin is down around 45%, silver has fallen 45%, gold roughly 20%, and the Magnificent Seven have all entered double digit drawdowns from their peaks.
+
+The tech-heavy Nasdaq 100 index has now entered correction territory, trading more than 10% off its January all time high. The broad-based S&P 500 is inching closer to a correction, too, currently down 8.5%.
+
+While bonds have also been hit hard, global fixed-income markets remain under broad pressure, with the iShares 20+ Year Treasury Bond ETF (TLT) down around 0.3% on Friday and 5% over the past month since the conflict began.
+
+Over the same period, the S&P 500 has fallen roughly 6%, highlighting the underperformance of the traditional 60/40 portfolio as global yields continue to rise, weighing on sovereign debt markets.
+
+This week has followed a familiar playbook seen since the Middle East conflict started in late February, with strong gains on Monday, partly driven by relief that "Black Monday" scenario did not occur, averaging around 3%, followed by steady profit taking into weakness as the week progresses, particularly as optimism fades around the Strait of Hormuz fully reopening.
+
+By Thursday and Friday, performance typically deteriorates further as investors reduce risk ahead of the weekend amid ongoing geopolitical uncertainty.
+
+As stablecoins evolve into core financial infrastructure, North America leads. This report maps the regulation, market shifts, and players driving adoption.
+
+Stablecoins are entering their third phase of evolution - the institutionalization era - becoming increasingly embedded into core financial infrastructure. As institutions prioritize transparency and compliance, regulated issuers like USDC, RLUSD, and PYUSD are steadily gaining share with RLUSD surpassing $1B in market cap within its first year. North America, leading in regulatory frameworks and institutional distribution, is at the center of it all.
+
+The average public miner spent $79,995 to produce one bitcoin last quarter. Bitcoin is trading at $70,000. The math doesn't work, so the industry is pivoting to AI, taking on $70 billion in contracts, and liquidating bitcoin treasuries to finance the shift.

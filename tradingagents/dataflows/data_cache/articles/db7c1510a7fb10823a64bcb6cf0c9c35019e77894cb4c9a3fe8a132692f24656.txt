@@ -1,0 +1,33 @@
+Title: MARA sells $1.1B in Bitcoin to buy back debt at 9% discount
+Source: Cointelegraph
+URL: https://cointelegraph.com/news/mara-sells-1-1b-btc-in-march-to-purchase-debt-at-a-discount?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+
+MARA Holdings sold 15,133 Bitcoin for roughly $1.1 billion in March to buy back $1 billion of zero-coupon convertible notes at a discount, reducing its convertible debt by roughly 30%.
+
+Cointelegraph in your social feed
+
+MARA Holdings sold more than $1 billion of Bitcoin in March to repurchase convertible debt at a discount, using its BTC holdings to reduce leverage, the company said Thursday.
+
+In a US Securities and Exchange Commissionfiling, the largest listed US Bitcoin miner said it would buy back about $1 billion of zero-coupon convertible notes due 2030 and 2031 for roughly $913 million in cash, capturing about $88 million in savings, or close to a 9% discount to par.
+
+The company said it sold 15,133 Bitcoin (BTC) for around $1.1 billion between March 4 and March 25 to fund the transactions, which it said will cut its outstanding convertible debt by about 30% to roughly $2.3 billion once the deals close at the end of the month. According to Bitcointreasuries.net, MARA nowholds38,689 BTC on its public balance sheet.
+
+MARA’s chairman and chief executive officer, Fred Thiel, commented in areleasethat the transaction enhanced the company’s “financial flexibility” and increased its “strategic optionality” as MARA expands “beyond pure-play Bitcoin mining into digital energy and AI/HPC infrastructure.”
+
+Related:Riot Platforms’ AI/HPC push could net up to $21B, says activist holder
+
+MARA’s premarket share price reacted positively to the news, rising from yesterday’s close of $8.25 to $9.29, a gain of around 12.6%, and traded at $8.74 (+5.56%) at the time of writing, according todatafrom Yahoo Finance.
+
+The move follows a$1.7 billion net loss in the fourth quarter of 2025, driven largely by non-cash fair-value adjustments on MARA’s Bitcoin holdings. At the time, MARApushed back against speculationthat it was quietly selling down its BTC holdings, saying it continued to view Bitcoin as a strategic treasury asset while actively managing its balance sheet.
+
+MARA is part of a broader shift among crypto miners seeking more stable revenue streams, redeploying energy and infrastructure toward artificial intelligence and high-performance computing. The company recently agreed toacquire a majority stake in Exaion’s AI-focuseddata centers, and peers are making similar moves.
+
+Bitdeersold down its Bitcoin treasury to zeroin February as it pivots toward infrastructure and service‑based revenues in cloud and AI compute, whileCanaan has invested in US mining sites in Texas to run both Bitcoin mining and AI workloads from the same energy-intensive facilities.
+
+Magazine:Bitcoin may take 7 years to upgrade to post-quantum — BIP-360 co-author
+
+Cointelegraph covers fintech, blockchain and Bitcoin bringing you the latest crypto news and analyses on the future of money.
+
+Cointelegraph is committed to providing independent, high-quality journalism across the crypto, blockchain, AI, and fintech industries. To support open access to our website and sustain editorial operations, certain commercial or partner references may appear on our site. These arrangements help maintain an accessible platform and do not result in additional costs to readers.
+
+All news, reviews, and analysis are produced with full journalistic independence and integrity. For more details on our standards and processes, please read ourEditorial Policy.

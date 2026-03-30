@@ -1,0 +1,71 @@
+Title: Is Bitcoin’s governance too slow to fend off quantum risks?
+Source: Cointelegraph
+URL: https://cointelegraph.com/news/bitcoin-governance-slow-fend-quantum-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+
+BOLT Technologies founder Yoon Auh says the real challenge in the quantum transition is whether blockchain networks can coordinate system-wide upgrades.
+
+Cointelegraph in your social feed
+
+The race to make blockchains quantum-resistant is shaping into a test of governance, and decentralized networks may be at a disadvantage.
+
+Quantum upgrades don’t stop at protocol-level changes. For major networks, they require wallet-level migration across millions of users, making coordination the bottleneck.
+
+“The hard part is not changing the node itself, it’s having the wallets do the same,” said Yoon Auh, founder of BOLT Technologies, adding that each asset holder would need to migrate and do so in a coordinated way.
+
+“If you go talk to Bitcoin or Ethereum, it’s a bit more perplexing because of the really decentralized and kind of ad hoc participation. It seems like whenever I hear about it, it’s more like herding cats.”
+
+A sufficiently powerful quantum computer could theoreticallybreak the public-key cryptographythat underpins digital signatures and secure communications, threatening both blockchain wallets and core financial infrastructure.
+
+Post-quantum cryptography (PQC) is the proposed countermeasure, and the transition is already underway. The National Institute of Standards and Technology (NIST) hasurgedorganizations to begin preparing for “harvest now, decrypt later” threats, while US policysets2035 as the target for completing migration across federal systems.
+
+One place coordination may be easier is in institutional blockchain networks, where governance is tighter and the chain of authority is clearer.
+
+Auh’s BOLT Technologies is running a pilot with the Canton Network to test a system that allows institutions to use and switch between multiple cryptographic signature schemes. Canton describes itself as anopen blockchain for regulated institutions, designed to let participants exchange data and value without giving up privacy or control.
+
+In regulated financial markets, infrastructure changes must meet internal controls, risk management standards, privacy requirements and interoperability demands across firms.
+
+Canton is built around those constraints, positioning itself as infrastructure for regulated institutions and a way to connect siloed financial systems without sacrificing control.
+
+In August 2024, NISTfinalizedits first set of post-quantum cryptography standards and explicitly urged system administrators to begin transitioning to them as soon as possible.
+
+For regulated institutions, that kind of guidance makes delays harder to justify. Once migration becomes a recognized security and compliance issue, the networks most likely to move first are the ones that can turn technical advice into a managed operational process. Auh said that is one reason permissioned networks may be better positioned to move first.
+
+“Because of their governance structure, you only need a few people there who are very knowledgeable to understand what’s going on,” he said. “And then because their governance is a lot quicker and a lot more organized, you can make those changes quicker.”
+
+That does not mean permissioned networks have solved the post-quantum problem. It means they may be better equipped to test, approve and stage upgrades under real-world constraints.
+
+Related:Banks will run RWAs on two blockchain rails, says RedStone co-founder
+
+Public blockchains face a different coordination problem because major protocol changes cannot be approved by a small governing group.
+
+On Bitcoin, protocol changes are suggested through the Bitcoin Improvement Proposal (BIP) process, and the project’s owndocumentationsays that “acceptance and adoption rests with the Bitcoin users.”
+
+That makes a system-wide cryptographic migration harder to stage on public chains than on permissioned ones.
+
+Given these coordination constraints, a post-quantum upgrade may require more disruptive upgrade paths, including a hard fork.
+
+“I think it’s a very difficult thing to do with a soft fork,” he said. “They’re going to have to take the bitter medicine at some point and do a hard fork.
+
+On Ethereum, core changes move through the EIP process, where authors are expected to build consensus within the community and document dissenting opinions.
+
+Ethereum’s governance documentation describes a process involving multiple stakeholder groups, including node operators, validators and EIP authors, while the AllCoreDevs process exists to coordinate technical work across contributors from different organizations.
+
+Related:Are quantum-proof Bitcoin wallets insurance or a fear tax?
+
+The post-quantum transition is often framed as a technical race to find the right cryptography, but the harder question may be whether a network can carry out the migration at all.
+
+Auh said the industry should spend less time trying to predict the exact arrival of a cryptographically relevant quantum computer — often called “Q-Day” — and more time thinking about whether blockchain networks are structurally capable of responding.
+
+“The recognition of the risk should spur you into action,” he said, arguing that preparation matters more than timeline guessing.
+
+For permissioned blockchains, that process can be channeled through tighter governance, formal approval paths and institutional pressure to act. For public chains, the same migration has to pass through a wider and slower process shaped by developers, client teams, wallet providers and users.
+
+General investors are more likely to focus on post-quantum readiness for networks like Bitcoin and Ethereum, whose growth has tracked the broader industry, though views on the risk remain split. Jefferies strategist Christopher Woodremoved Bitcoin from a model portfolio, citing quantum concerns, while Blockstream CEO Adam Back has said the threat maystill be decades away.
+
+Magazine:Bitcoin may face hard fork over any attempt to freeze Satoshi’s coins
+
+Cointelegraph covers fintech, blockchain and Bitcoin bringing you the latest crypto news and analyses on the future of money.
+
+Cointelegraph is committed to providing independent, high-quality journalism across the crypto, blockchain, AI, and fintech industries. To support open access to our website and sustain editorial operations, certain commercial or partner references may appear on our site. These arrangements help maintain an accessible platform and do not result in additional costs to readers.
+
+All news, reviews, and analysis are produced with full journalistic independence and integrity. For more details on our standards and processes, please read ourEditorial Policy.

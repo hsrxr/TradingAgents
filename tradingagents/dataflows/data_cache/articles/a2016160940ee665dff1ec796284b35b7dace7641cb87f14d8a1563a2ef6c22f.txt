@@ -1,0 +1,63 @@
+Title: 'All to Play For': Walrus Hits 450TB of Data Stored Amid Renewed AI Push
+Source: Decrypt
+URL: https://decrypt.co/362558/all-to-play-for-walrus-hits-450tb-of-data-stored-amid-renewed-ai-push
+
+'All to Play For': Walrus Hits 450TB of Data Stored Amid Renewed AI Push
+
+Walruscelebrates its one-year anniversary on March 27, bringing to a close 12 months in which it passed many significant milestones.
+
+Launched by Sui developer Mysten Labs, the decentralized data storage layerwent livebarely a week after the Walrus Foundationraised $140 million in a private funding roundled by Standard Crypto, with participation also coming from a16z, Electric Capital and Franklin Templeton Digital Assets.
+
+Based on the simple premise of programmable storage and greater scalability, Walrus enables developers to customize the logic by which their apps store and access data, while also harnessing an advanced data encoding algorithm—Red Stuff—that increases throughput and resilience.
+
+And it’s thanks to its capabilities that Walrus has attracted significant adoption over the past year, signing numerous partnerships that have served to highlight its real-world utility and potential.
+
+This includes deals withreal-world asset blockchain Plume,developer CCP Games,esports organization Team Liquid, andDecrypt, which is now storing its news articles, videos and photos on Walrus’ platform.
+
+Such adoption has enabled Walrus to grow precipitously within its first 12 months, hitting409 TB in total data storedin early March before passing 450 TB this week—surpassing the385 TB stored on Arweave.
+
+For Rebecca Simmonds, the Walrus Foundation’s Managing Executive, this milestone is significant not simply because of the quantity of data stored, but because of its quality.
+
+“The fact that we've now surpassed 450TB of unencoded data in under a year is meaningful precisely because the data comes from real organizations,” she said. “This includes Team Liquid migrating 250TB of esports archives,Decryptmoving over their media library, Allium bringing 65TB of institutional-grade blockchain data from Bitcoin, Ethereum, Sui and other top networks.”
+
+According to Simmonds, there are several reasons why organizations are choosing Walrus, including its use of erasure coding—which breaks data into fragments—enabling it to offer stronger fault tolerance at a lower replication factor.
+
+She said, “That translates directly into lower costs at scale, and it makes us viable for organizations storing hundreds of terabytes, not just small files.”
+
+Walrus didn’t sit still once the platform went live last year, but rather began adding new features and capabilities, often in response to feedback from partners and developers.
+
+That includes the launches ofQuilt in Julyand thenSeal in September, which respectively provided for more efficient storage of small files at scale and fordifferent levels of data privacy and access.
+
+Quilt optimized costs for small files so substantially that “it actually reduced” Walrus’ network revenue when it was first rolled out, Simmonds said.
+
+“It was an interesting moment, but absolutely the right thing to do,” she added. “That responsiveness, combined with strong underlying tech, is what created the adoption flywheel.”
+
+Simmonds notes that earlier file storage platforms, such as Arweave and Filecoin, helped to lay important groundwork for what Walrus is now doing, and that Walrus regards its growth as part of growth of the decentralized physical infrastructure (DePIN) sector, which the World Economic Forumhas estimatedwill grow from around $50 billion in 2025 to $3.5 trillion by 2028.
+
+The area where Walrus believes demand for decentralized storage is going to increase most significantly is AI, which will require trusted data in order to operate autonomously.
+
+“As AI agents become more autonomous: executing financial transactions, making decisions on our behalf, it becomes critical that we can verify what data those agents used to make those decisions, how they got there, and where the data came from,” she explained.
+
+Because the data on Walrus is verifiable, tamper-proof and always accessible, it could function as a long-term memory layer for agentic AI, securely providing the latter with the equivalent of memories and skills.
+
+“As we’ve seen with OpenClaw and now NemoClaw for enterprise, our reliance on agents and the sensitivity of the data we put through them is growing exponentially,” she said. “We believe this creates a big opportunity for Walrus, and it’s all to play for.”
+
+Walrus is planning for AI to feature heavily in its second year, with the Foundation actively discussing Walrus integration with AI developers and infrastructure providers, while also optimizing its platform for agent-mediated development.
+
+Walrus is also building first-party products that aim to make the data layer more seamless to use, having this past week beta launchedan SDK called MemWal, a “really exciting product that builders can use to equip their agents with long-term memory—with all the performance, availability and programmability that Walrus offers,” Simmonds said.
+
+Walrus is also looking to grow its involvement in onchain finance, building onits recent partnership with blockchain data platform Allium, where “institutional-grade blockchain data is now being delivered through Walrus with encrypted, programmable access,” Simmonds said.
+
+This could be a key growth area for Walrus, which could capitalize on not only the growth of DeFi platforms, but also the need to comply with expanding regulations worldwide.
+
+More generally, the next year will see the Walrus Foundation continuing to invest in the development and growth of its ecosystem, including viaits Request for Proposals (RFP) program.
+
+Simmons said, “We're already seeing meaningful projects come out of that work, from developer tools to applications that demonstrate what you can build on Walrus.”
+
+Learn Moreabout partnering with Decrypt.
+
+Your gateway into the world of Web3
+
+The latest news, articles, and resources, sent to your inbox weekly.
+
+© A next-generation media company.2026Decrypt Media, Inc.

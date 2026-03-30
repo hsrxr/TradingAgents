@@ -9,6 +9,7 @@ from tradingagents.agents import *
 from tradingagents.agents.utils.agent_states import AgentState
 
 from .conditional_logic import ConditionalLogic
+from .context_merger import create_context_merge_node
 
 
 class GraphSetup:
@@ -36,34 +37,39 @@ class GraphSetup:
         self.invest_judge_memory = invest_judge_memory
         self.risk_manager_memory = risk_manager_memory
         self.conditional_logic = conditional_logic
+        self.global_context_node = create_context_merge_node()
 
     def _normalize_selected_analysts(self, selected_analysts: List[str]) -> List[str]:
         """Keep only analysts used by the simplified architecture."""
-        allowed = [a for a in selected_analysts if a in ("market", "news")]
+        allowed = [a for a in selected_analysts if a in ("market", "news", "quant")]
         if not allowed:
             raise ValueError(
-                "Trading Agents Graph Setup Error: simplified architecture requires at least one of ['market', 'news']."
+                "Trading Agents Graph Setup Error: simplified architecture requires at least one of ['market', 'news', 'quant']."
             )
         return allowed
 
-    @staticmethod
-    def _context_merge_node(state: AgentState) -> Dict[str, Any]:
-        """Merge analyst outputs into one debate context payload."""
+    def _context_merge_node(self, state: AgentState) -> Dict[str, Any]:
+        """Merge analyst outputs and refresh portfolio broadcast context."""
+        enriched_state = self.global_context_node(dict(state))
         merged_context = (
-            f"Market Report:\n{state.get('market_report', '')}\n\n"
-            f"News Report:\n{state.get('news_report', '')}"
+            f"Market Report:\n{enriched_state.get('market_report', '')}\n\n"
+            f"News Report:\n{enriched_state.get('news_report', '')}\n\n"
+            f"Quant Strategy Signal Report:\n{enriched_state.get('quant_strategy_report', '')}"
         )
-        return {"investment_plan": merged_context}
+        return {
+            "investment_plan": merged_context,
+            "global_portfolio_context": enriched_state.get("global_portfolio_context", ""),
+            "portfolio_balance": enriched_state.get("portfolio_balance", state.get("portfolio_balance", {})),
+        }
 
-    def setup_graph(self, selected_analysts=["market", "news"]):
+    def setup_graph(self, selected_analysts=["market", "news", "quant"]):
         """Set up and compile the agent workflow graph.
 
         Args:
             selected_analysts (list): List of analyst types to include. Options are:
                 - "market": Market analyst
-                - "social": Social media analyst
                 - "news": News analyst
-                - "fundamentals": Fundamentals analyst
+                - "quant": Quant strategy signal analyst
         """
         selected_analysts = self._normalize_selected_analysts(selected_analysts)
 
@@ -85,6 +91,13 @@ class GraphSetup:
             )
             delete_nodes["news"] = create_msg_delete()
             tool_nodes["news"] = self.tool_nodes["news"]
+
+        if "quant" in selected_analysts:
+            analyst_nodes["quant"] = create_quant_signal_analyst(
+                self.quick_thinking_llm
+            )
+            delete_nodes["quant"] = create_msg_delete()
+            tool_nodes["quant"] = self.tool_nodes["quant"]
 
         # Create researcher and manager nodes
         bull_researcher_node = create_bull_researcher(

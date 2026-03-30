@@ -1,0 +1,55 @@
+Title: Morning Minute: Fannie Mae Accepts Crypto for Mortgages
+Source: Decrypt
+URL: https://decrypt.co/362565/morning-minute-fannie-mae-accepts-crypto-for-mortgages
+
+Morning Minute: Fannie Mae Accepts Crypto for Mortgages
+
+Morning Minute is a daily newsletter written byTyler Warner. The analysis and opinions expressed are his own and do not necessarily reflect those of Decrypt.And check out ournew daily news showcovering all of the top stories in 5 minutes or less, downloadable on Apple Pod or Spotify.
+
+BTCfell below $67,000overnight afterAxiosreported the Pentagon is actively preparing plans for a “final blow” in Iran, including ground forces and a massive bombing campaign.
+
+Trump posted on Truth Social that he’s extending the military pause to 10 days, citing ongoing diplomatic talks that are “going very well,” which led to a brief rebound in prices before the deeper selloff overnight.
+
+Now the week closes with three convergent events in a 24-hour window: a $15B options expiry on Deribit Friday morning at 8am UTC, PCE inflation data, and the expiration of Trump’s original diplomatic window.
+
+It’s going to be a rocky Friday.
+
+The $12 trillion US residential mortgage market just formally recognized Bitcoin as a legitimate asset.
+
+Coinbase and Better Home & Financelaunched the first Fannie Mae-conforming mortgagethat lets borrowers pledge BTC or USDC as down payment collateral instead of selling.
+
+The primary mortgage is a standard conforming loan with all of Fannie Mae’s usual protections. Where crypto comes in is via a separate, overcollateralized loan that covers the down payment. And it has no margin calls and no forced selling on price drops.
+
+Here’s an example of how it works: On a $500,000 home requiring a $100,000 down payment, the buyer can pledge $250,000 in BTC to Coinbase Prime custody, receive a $100,000 loan against that collateral, use it as the down payment on a conventional $400,000 Fannie Mae mortgage. Note that the interest rates are 0.5% to 1% higher than standard.
+
+The Bitcoin stays intact (no sale, no taxable event) and is returned once the loan is repaid or refinanced.
+
+Liquidation triggers only on a 60-day payment delinquency, same as any mortgage.
+
+Bitcoin miner turned AI infrastructure player MARAsold 15,133 BTCbetween March 4 and March 25 for approximately $1.1B.
+
+The company used those proceeds to buy back roughly $1B of its own convertible notes at a 9% discount, capturing approximately $88 million in value in the process.
+
+The concerns here from Bitcoin enthusiasts are twofold:
+
+Coin Centersayscrypto privacy tool developers are in a “very bad state” despite the most pro-crypto administration in US history.
+
+The DOJ continues to actively prosecute Tornado Cash developer Roman Storm and the Samourai Wallet developers as unlicensed money transmitters, despite the Trump administration dropping enforcement actions against exchanges and rolling back Biden-era crypto policy across the board.
+
+The House version of the Clarity Act included explicit developer protections that would have prevented exactly this. The Senate let them die.
+
+If the Clarity Act passes without those developer shields, the message to anyone building privacy infrastructure in the US is clear: proceed at your own risk.
+
+Strategy’s CEOrevealedThursday that retail investors own 80% of STRC versus 40% of MSTR common stock.
+
+At a $5B market cap, that’s $4 billion of retail capital in the 11.5% annual dividend product engineered to trade near its $100 par value. Strategy has raised $1.5B via STRC just this month.
+
+The product is available on Robinhood, Kraken, and Webull, common platforms for retail investors. Benchmark-StoneX analyst Mark Palmer said this makes sense from a risk-adjusted lens because Institutions tend to prefer MSTR’s liquidity and asymmetric upside, while retail investors are accustomed to thinking about yield.
+
+STRC fits that mental model. And notably, the product is starting to show up on other Bitcoin treasury firms’ balance sheets as a reserve asset - so it’s not just a consumer product.
+
+Your gateway into the world of Web3
+
+The latest news, articles, and resources, sent to your inbox weekly.
+
+© A next-generation media company.2026Decrypt Media, Inc.

@@ -1,9 +1,7 @@
 from langchain_core.prompts import ChatPromptTemplate, MessagesPlaceholder
-import time
-import json
-from tradingagents.dataflows.config import get_config
 from tradingagents.dataflows.rss_processor import fetch_and_parse_crypto_news
 from tradingagents.dataflows.get_full_articles import fetch_article_full_text
+from tradingagents.triggers.observers import fetch_trigger_watch_news
 
 def create_news_analyst(llm):
     def news_analyst_node(state):
@@ -11,8 +9,7 @@ def create_news_analyst(llm):
         ticker = state["company_of_interest"]
 
         tools = [
-            # get_news,
-            # get_global_news,
+            fetch_trigger_watch_news,
             fetch_and_parse_crypto_news,
             fetch_article_full_text,
         ]
@@ -23,7 +20,12 @@ def create_news_analyst(llm):
         # )
         # Given the limitations of the context window, we recommend that you do not select more than three articles to view in full at any one time.
         system_message = (
-            "You are a crypto news analyst focused on **hourly trading impact** (next 6-24 hours). Your task is to identify and explain news that can move prices soon, not broad long-term narratives. First call fetch_and_parse_crypto_news(limit), rank items by near-term tradability, then call fetch_article_full_text only for the highest-impact items. Keep article selection disciplined (prefer depth on a few high-impact stories over shallow coverage on many stories)."
+            "You are a crypto news analyst focused on **hourly trading impact** (next 6-24 hours)."
+            " Your analysis scope must include both:"
+            " (1) SEC press releases + watched X accounts via fetch_trigger_watch_news(limit), and"
+            " (2) broader crypto RSS via fetch_and_parse_crypto_news(limit)."
+            " First call fetch_trigger_watch_news(limit), then fetch_and_parse_crypto_news(limit), merge both feeds, rank by near-term tradability, then call fetch_article_full_text only for the highest-impact items."
+            " Keep article selection disciplined (prefer depth on a few high-impact stories over shallow coverage on many stories)."
             " Prioritize catalysts such as exchange listings/delistings, exploits/hacks, regulation headlines, ETF/fund flow headlines, protocol/governance changes, token unlocks, and macro surprises that affect crypto beta."
             " For each selected story, explain expected direction, likely time-to-impact, affected assets, and whether impact is likely one-shot or persistent."
             " Avoid generic language like 'market sentiment is mixed' without concrete implications."

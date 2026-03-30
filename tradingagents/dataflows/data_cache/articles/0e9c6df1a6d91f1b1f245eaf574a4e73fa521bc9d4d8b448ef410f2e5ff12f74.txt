@@ -1,0 +1,55 @@
+Title: OpenAI to Shut Down Sora Video App, Derailing $1 Billion Deal with Disney
+Source: Decrypt
+URL: https://decrypt.co/362243/openai-shut-down-sora-derailing-1-billion-deal-disney
+
+OpenAI to Shut Down Sora Video App, Derailing $1 Billion Deal with Disney
+
+OpenAI will shut down Sora, its AI video-generation platform that allowed users to create short videos from text prompts, as it pivots to "world simulation research to advance robotics," the company toldDecrypton Tuesday.
+
+The decision to end its standalone generative video product appears to also disrupt a planned entertainment partnership with Disney tied to the app.
+
+"As we continue to focus on our roadmap to AGI and the compute needed to deliver agentic AI capabilities, we’re making the tough decision to discontinue supporting Sora as a consumer app and API offerings," the company added.
+
+No changes will be made to the AI Image Generator inside ChatGPT, OpenAI confirmed.
+
+OpenAI said it will share more information soon, including timelines for shutting down the app and its API and details on how users can preserve their work.
+
+The fallout from OpenAI’s announcement has been swift.
+
+A proposed $1 billion investment from Disney connected to Sora is no longer moving forward after OpenAI announced it would shut down the app, according to areportbyDeadline.
+
+OpenAI firstintroducedSora in February 2024 as a text‑to‑video model that could turn written prompts into short clips.
+
+The company later expanded the technology withSora 2, a more advanced model released alongside a standalone Sora mobile app.
+
+"When we released Sora, our goal was to teach AI to understand and simulate the physical world in motion," the company said. "We will continue to prioritize longer-term world simulation research, especially as it pertains to robotics and helping people solve problems that require real-world interaction.
+
+While OpenAI’s entry into video generation was highly anticipated, it became a consistent money drain for the company, reportedly costing about$15 millionper day.
+
+The Sora iOS app introduced a social-style video feed where users could generate and share AI-created clips.
+
+It also included “cameos,” a feature that allowed users to insert themselves into AI-generated scenes after recording a short video to capture their likeness and voice.
+
+Sora quickly drew scrutiny as it became widely available.
+
+Legal expertswarnedthe system could recreate recognizable characters and copyrighted franchises, raising intellectual property concerns.
+
+Researchers also warned that Sora could be used to spreadmisinformation, noting that the system produced realistic-looking news footage depicting events that never happened, including of OpenAI CEO Sam Altman wearing a cat suit.
+
+Critics also argued that tools like Sora, designed to generate and distribute low-quality synthetic media, also known asAI slop, could flood the internet.
+
+In December, OpenAI and Disneyannounceda three-yearagreementthat would have allowed the company to license roughly 250 Disney characters from franchises including Frozen, Star Wars, and Marvel for use in AI-generated videos.
+
+“This agreement shows how AI companies and creative leaders can work together responsibly to promote innovation that benefits society, respect the importance of creativity, and help works reach vast new audiences,” Altman said in a statement at the time.
+
+Disney said it respects OpenAI’s decision to exit the video-generation business and will continue exploring other ways to work with generative AI.
+
+“We appreciate the constructive collaboration between our teams and what we learned from it, and we will continue to engage with AI platforms to find new ways to meet fans where they are while responsibly embracing new technologies that respect IP and the rights of creators,” a Disney spokesperson reportedly said.
+
+Editor's note: Adds comments from OpenAI
+
+Your gateway into the world of Web3
+
+The latest news, articles, and resources, sent to your inbox weekly.
+
+© A next-generation media company.2026Decrypt Media, Inc.

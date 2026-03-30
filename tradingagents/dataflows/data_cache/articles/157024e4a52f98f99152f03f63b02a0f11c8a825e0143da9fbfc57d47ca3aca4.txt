@@ -1,0 +1,39 @@
+Title: P2P.me team discloses and apologizes for prediction market bets
+Source: Cointelegraph
+URL: https://cointelegraph.com/news/p2p-me-apologizes-prediction-bets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+
+The P2P.me team opened positions on the Polymarket prediction platform to wager whether the project would hit its $6 million fundraising goal.
+
+Cointelegraph in your social feed
+
+The team behind the P2P.me decentralized trading platform disclosed that it opened positions on the Polymarket prediction market related to its recent capital raise.
+
+The team opened the positions 10 days before the raise went live, wagering whether the project would hit its $6 million fundraising target, according to adisclosurepublished on the X social media platform.
+
+At the time the positions were opened, P2P.me had only one “oral commitment” from venture firm Multicoin Capital for $3 million in funding, “no signed term sheets” and “no guaranteed allocations,” the team said.
+
+However, the project only managed to raise $5.2 million in the funding round, which resulted in the market resolving to a “no.” Following the outcome, the team said:
+
+Any profits made from the prediction market positions will be funneled back into the project’s MetaDAO treasury, the reserve for the decentralized autonomous organization (DAO) governing the platform, the P2P.me team said.
+
+The team also said it is liquidating all open positions on Polymarket and adopting a “formal company policy” on prediction market trading activity.
+
+Cointelegraph reached out toP2P.meabout the disclosure, but did not receive a response by the time of publication.
+
+Prediction markets have come underincreased scrutiny from US lawmakersfor insider trading activity, and in response, popular prediction market platforms like Polymarket and Kalshi have announcedcountermeasures to curb insider trading.
+
+Related:Federal regulation looms as 11 states go after prediction markets
+
+US lawmakers are seeking to restrict insider trading activity on prediction markets, particularly those linked to elections, legislation andgeopolitical issues with national security implications.
+
+Congress members Adrian Smith and Nikki Budzinski introduced the “Preventing Real-time Exploitation and Deceptive Insider Congressional Trading Act,” also known as the PREDICTAct, on Wednesday toban the US president and lawmakersfrom prediction markets.
+
+A competing bill was also introduced on Thursday, aiming tocurb political insider trading activityon prediction market platforms.
+
+Magazine:IronClaw rivals OpenClaw, Olas launches bots for Polymarket — AI Eye
+
+Cointelegraph covers fintech, blockchain and Bitcoin bringing you the latest crypto news and analyses on the future of money.
+
+Cointelegraph is committed to providing independent, high-quality journalism across the crypto, blockchain, AI, and fintech industries. To support open access to our website and sustain editorial operations, certain commercial or partner references may appear on our site. These arrangements help maintain an accessible platform and do not result in additional costs to readers.
+
+All news, reviews, and analysis are produced with full journalistic independence and integrity. For more details on our standards and processes, please read ourEditorial Policy.

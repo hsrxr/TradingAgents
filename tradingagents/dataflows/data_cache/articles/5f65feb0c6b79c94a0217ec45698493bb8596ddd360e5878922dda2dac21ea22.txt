@@ -1,0 +1,27 @@
+Title: Solana bets on AI agents: Foundation says network is becoming core infrastructure for ‘agentic’ internet
+Source: CoinDesk
+URL: https://www.coindesk.com/business/2026/03/25/solana-bets-on-ai-agents-foundation-says-network-is-becoming-core-infrastructure-for-agentic-internet
+
+The Solana Foundation is positioning the network as core infrastructure for an emerging “agentic” internet, where AI systems—not humans—initiate and execute economic activity.
+
+“AI is not really a vertical. It's a platform shift… affecting everything across every industry, including crypto,” said Vibhu Norby, chief product officer of the Solana Foundation, during a panel at the Digital Asset Summit (DAS) in New York.
+
+At the center of Solana’s strategy is payments. Norby said the network has already “processed 15 million payments onchain from agents,” largely tied to machine-to-machine commerce. “The programmatic aspect of crypto payments is what is making it interesting for agents,” he said, adding that “stablecoins are going to be the default thing that agents use to pay for any computational resource.”
+
+This shift could fundamentally reshape internet business models, Norby believes. “Agentic payments are probably going to change the entire way that the internet is monetized,” he said, pointing to the ability to support sub-cent, pay-per-use transactions that traditional rails cannot handle.
+
+The Solana Foundation argues that the network’s performance-focused design gives it an edge in this new paradigm. “Agents are cold, calculated machines… they don’t subscribe to crypto religiosity,” Norby said. “If you ask an agent what’s the best way to pay for something with crypto, most of the time, Solana is showing up at the top.”
+
+At the same time, advances in AI are eroding long-standing developer barriers, noting that tools now allow developers and machines to build across ecosystems more easily.
+
+In response, Solana developers are building directly for AI systems. “What agents like is APIs and documentation and skills,” Norby said, pointing to initiatives like machine-readable “skill” files and AI-first developer platforms.
+
+Looking ahead, Norby expects a dramatic shift in user behavior: “The default way people will interact with crypto is going to be through their agent… 95 to 99% of all transactions… will be coming from LLMs.”
+
+Read more:Solana Foundation taps Mastercard, Western Union, Worldpay for institutional developer platform
+
+As stablecoins evolve into core financial infrastructure, North America leads. This report maps the regulation, market shifts, and players driving adoption.
+
+Stablecoins are entering their third phase of evolution - the institutionalization era - becoming increasingly embedded into core financial infrastructure. As institutions prioritize transparency and compliance, regulated issuers like USDC, RLUSD, and PYUSD are steadily gaining share with RLUSD surpassing $1B in market cap within its first year. North America, leading in regulatory frameworks and institutional distribution, is at the center of it all.
+
+The integration provides institutions with a compliant way to hold TRX and will be expanded to include TRC-20 assets and native TRX staking.

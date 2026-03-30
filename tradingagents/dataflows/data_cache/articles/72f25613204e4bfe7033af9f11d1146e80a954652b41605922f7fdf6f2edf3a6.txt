@@ -1,0 +1,31 @@
+Title: Bitcoin slips below $69,000 as oil rebounds on fading Middle East peace hopes
+Source: CoinDesk
+URL: https://www.coindesk.com/markets/2026/03/26/bitcoin-slips-below-usd69-000-as-oil-rebounds-on-fading-middle-east-peace-hopes
+
+BitcoinBTC$67.902,62slipped below $69,000 on Thursday as a broader pullback in risk assets gathered pace, with early optimism aroundIran-U.S. peaceand easing Middle East tensions fading.
+
+The largest crypto lost more than 3% from its overnight high above $71,000, while major altcoins ether (ETH), XRP (XRP), Solana's SOL (SOL) and Cardano's ADA (ADA) plunged 4%-5% during the same period.
+
+Oil prices remain the barometer for the broader market. Crude oil futures rose about 4%, reversing earlier declines and reinforcing concerns about inflation and supply disruptions tied to the Iran conflict.
+
+U.S. stocks were at session lows just after noon on the East Coast, led by the Nasdaq's 1.4% decline. Bond yields were sharply higher: the U.S. 10-year Treasury up 7 basis points to 4.40%, and the 10-year German Bund up 10.5 basis points to 3.06%.
+
+Notably, all Magnificent Seven stocks are now all off double digit percentages from their all-time highs, with NVIDIA (NVDA) down 18%, Meta (META) 30%, Amazon (AMZN) 20%, Alphabet (GOOG) 19%, Microsoft (MSFT) 34%, Tesla (TSLA) 25% and Apple (APPL) down 14%.
+
+"Looking ahead, the near-term trajectory will likely remain tied to macro developments," said Joel Kruger, market strategist at LMAX Group.
+
+A clearer path toward de-escalation could push risk assets, including bitcoin, higher, he said, while continued uncertainty may leave them stuck in a choppy range.
+
+Crypto-related stocks were posting major losses as well: Coinbase (COIN), Circle (CRCL) and Strategy (MSTR) were down 3%-4%.
+
+The sharpest losses came from bitcoin miners, nearly all of which are either in transition or have fully transitioned to being AI infrastructure plays and thus tied more to tech in general rather than crypto prices. Hut 8 (HUT) dropped 8.6%, while IREN (IREN) and Riot Platforms (RIOT) fell more than 7%. TeraWulf (WULF) and HIVE Digital (HIVE) also posted steep declines.
+
+WhiteFiber(WYFI) shares fell 14% after its fourth quarter results showed worsening fundamentals, with a net loss widening to $1.5 million and a full-year loss of $24.7 million. The parent company of WhiteFiber, Bit Digital (BTBT), saw its shares down around 8%.
+
+A few names bucked the trend, though.MARA Holdings(MARA) was up 8.7% after reporting the sale of $1.1 billion in bitcoin to pay down debt.
+
+As stablecoins evolve into core financial infrastructure, North America leads. This report maps the regulation, market shifts, and players driving adoption.
+
+Stablecoins are entering their third phase of evolution - the institutionalization era - becoming increasingly embedded into core financial infrastructure. As institutions prioritize transparency and compliance, regulated issuers like USDC, RLUSD, and PYUSD are steadily gaining share with RLUSD surpassing $1B in market cap within its first year. North America, leading in regulatory frameworks and institutional distribution, is at the center of it all.
+
+ETFs show institutional demand for bitcoin is cooling after a strong start to the month.

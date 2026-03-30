@@ -1,0 +1,47 @@
+Title: Ether traders see ‘further decline’ as ETH price slips below $2K
+Source: Cointelegraph
+URL: https://cointelegraph.com/news/ether-traders-see-further-decline-eth-price-slips-below-2k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+
+Ether traders said ETH price could see further downside after bulls failed to defend the $2,000 support as signs of declining demand were apparent.
+
+Cointelegraph in your social feed
+
+Ether’s (ETH) drop below the $2,000 on Friday put it at risk of a deeper correction in the coming weeks or months.
+
+Ether’s price shows structural weakness as it fails to hold above the $2,000 psychological support.
+
+Analysts say ETH price may drop further toward the $1,750-$1,850 support zone.
+
+Ether’s demand stays negative, increasing its downward potential.
+
+Data from TradingView showed ETH/USD trading at $1,975, down 5% over the last 24 hours. This drop wasaccompaniedby more than $111 million in long ETH liquidations.
+
+Related:Bitmine launches institutional Ethereum staking platform
+
+The pair hadfailed to crack through resistance at $2,200earlier in the week, as spot Ether exchange-traded fund (ETF) outflows, falling DEX volumes, and declining ETH futures premiumderailed Ether’s recovery.
+
+“$ETH keeps pressing into the same resistance, but the story sits beneath price action,” trader Onursaidin an X post on Friday, adding:
+
+Fellow analyst CryptoWZRDsaida ETH could see a “further decline” toward the $1,800 support zone after the altcoin closed below $2,200 on Thursday.
+
+“$ETH has dropped below the $2,100 level,” analyst and trader Ted Pillowssaidin a Friday X post, adding:
+
+An accompanying chart suggested that the price could first drop toward the $1,800 support level, before rebounding.
+
+AsCointelegraph reported, a close below the 50-day simplemoving averageat $2,000 may pull the ETH/USD pair to $1,900 and subsequently to the $1,850-$1,750 level.
+
+Ether’s Apparent Demand has flipped negative after dropping to its lowest level since October 2024, as traders adopted a risk-off stance due togeopolitical uncertaintyandmacro headwinds.
+
+Capriole Investment’s Ethereum Apparent Demand metric shows that the demand for ETH has been negative since March 3, bottoming around -58,000 ETH on March 16, marking 16-month lows. The metric has since improved to -23,475 ETH at the time of writing.
+
+Meanwhile, spot ETH ETFs have recorded net outflows for seven consecutive days, totaling $391.8 million.
+
+Global Etherexchange-traded products (ETPs)alsorecorded $27.2 million of outflowslast week, reinforcing reduced appetite for ETH among institutional investors.
+
+This article does not contain investment advice or recommendations. Every investment and trading move involves risk, and readers should conduct their own research when making a decision. While we strive to provide accurate and timely information, Cointelegraph does not guarantee the accuracy, completeness, or reliability of any information in this article. This article may contain forward-looking statements that are subject to risks and uncertainties. Cointelegraph will not be liable for any loss or damage arising from your reliance on this information.
+
+Cointelegraph covers fintech, blockchain and Bitcoin bringing you the latest crypto news and analyses on the future of money.
+
+Cointelegraph is committed to providing independent, high-quality journalism across the crypto, blockchain, AI, and fintech industries. To support open access to our website and sustain editorial operations, certain commercial or partner references may appear on our site. These arrangements help maintain an accessible platform and do not result in additional costs to readers.
+
+All news, reviews, and analysis are produced with full journalistic independence and integrity. For more details on our standards and processes, please read ourEditorial Policy.

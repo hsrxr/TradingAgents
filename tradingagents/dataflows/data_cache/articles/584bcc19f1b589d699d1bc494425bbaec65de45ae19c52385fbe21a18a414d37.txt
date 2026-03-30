@@ -1,0 +1,27 @@
+Title: Visa Becomes First Major Payments Company to Join Canton Network as Super Validator
+Source: Decrypt
+URL: https://decrypt.co/362327/visa-payments-canton-network-super-validator
+
+Visa Becomes First Major Payments Company to Join Canton Network as Super Validator
+
+Visa announced Wednesday that it will join Canton Network as the first major global payments company to serve as a Super Validator, helping extend privacy-preserving blockchain infrastructure to banks and financial institutions worldwide.
+
+The payments giant will be one of 40 Super Validators on the layer-1 Canton network, applying "the same trusted and reliable standards it uses to operate critical payment systems today," it said in anannouncement.
+
+As a Super Validator with voting powers to shape Canton's network decisions, Visa will help institutions experiment with and scale stablecoin payments, settlement, and treasury use cases without changing how they manage risk, compliance, and operations.
+
+“Many banks see the lack of privacy as a dealbreaker for moving meaningful activity on-chain,” said Rubail Birwadker, Visa’s global head of growth products and strategic partnerships, in a statement. “By operating as a Super Validator on Canton Network, we’re bringing Visa-grade trust, governance and operational rigor that define Visa’s global network to privacy‑preserving blockchain infrastructure, so regulated financial institutions can bring payments on-chain without having to rethink how they operate.”
+
+Canton's configurable privacy model allows institutions to adopt blockchain without compromising confidentiality—addressing concerns that banks can't run payroll if salaries are public and trading firms can't reveal positions without hurting price discovery.
+
+The move builds on Visa's expanding digital asset work, including stablecoin settlement that has reached an annualized run rate of $4.6 billion globally and stablecoin-linked card programs spanning more than 130 programs across more than 50 countries.
+
+Canton has seen significant uptake from major financial players, with Franklin Templetonexpanding its tokenized fund platform Benjito the network and JPMorganbringing over its JPM Coinfor institutional client payments. In December, the Depository Trust & Clearing Company—which processes quadrillions of dollars’ worth of transactions annually—said it wouldissue tokenized securities on Canton.
+
+Since launching in November, Canton’s native CC token has rapidly become one of the most valuable cryptocurrencies on the market. It’s up more than 3% over the last day to arecent price of $0.145and a market cap above $5.5 billion, making it the 21st biggest coin by that metric per data fromCoinGecko.
+
+Your gateway into the world of Web3
+
+The latest news, articles, and resources, sent to your inbox weekly.
+
+© A next-generation media company.2026Decrypt Media, Inc.

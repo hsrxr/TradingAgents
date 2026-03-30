@@ -1,0 +1,35 @@
+Title: Bitcoin holds ground as gold, silver slide on ETF outflows and liquidity strains: JPMorgan
+Source: CoinDesk
+URL: https://www.coindesk.com/markets/2026/03/26/bitcoin-holds-ground-as-gold-silver-slide-on-etf-outflows-and-liquidity-strains-jpmorgan
+
+BitcoinBTC$67,902.62is proving more resilient than traditional safe-haven assets as gold and silver come under pressure from outflows, positioning unwinds and deteriorating liquidity, according to Wall Street investment bank JPMorgan.
+
+"The deterioration in liquidity conditions in gold has seen its market breadthdecline below that of bitcoin currently," analysts led by Nikolaos Panigirtzoglou, wrote in the Wednesday report.
+
+Bitcoin has shown relative resilience in recent weeks following the outbreak of war in Iran, even after a steep correction from its October all-time highs.
+
+The cryptocurrency initially dropped sharply alongside broader risk assets, briefly falling into the low-$60,000 range and triggering large liquidations as investors rushed to de-risk amid geopolitical uncertainty.
+
+But the sell-off proved short-lived. Prices have since stabilized in the high-$60,000 to low-$70,000 range, even as tensions persist and oil prices surge above $100 a barrel.
+
+The price action suggests bitcoin is behaving less like a pure safe haven in the immediate shock phase and more like a high-beta macro asset, selling off initially, then finding support as flows return and longer-term holders step in once panic subsides.
+
+Gold has fallen roughly 15% month to date, reversing a crowded rally that pushed prices to record highs near $5,500 in January. Silver, which peaked near $120, has followed a similar path lower. JPMorgan analysts attributed the sell-off to rising interest rates, a stronger U.S. dollar and broad profit-taking by both retail and institutional investors.
+
+Flows data reinforce the shift. Gold ETFs saw nearly $11 billion in outflows in the first three weeks of March, while silver ETF inflows built since last summer have been unwound, the report said. In contrast, bitcoin funds have continued to attract net inflows over the same period.
+
+Positioning data tells a similar story. JPMorgan’s proxy for institutional activity, based on Chicago Mercantile Exchange (CME) futures open interest, shows a sharp buildup in gold and silver exposure through late 2025 into early 2026, followed by a steep decline since January as investors cut positions. Bitcoin futures positioning, by comparison, has remained relatively stable in recent weeks.
+
+Momentum signals also diverge. The bank noted that trend-following investors, such as Commodity Trading Advisors (CTAs), have aggressively reduced exposure to gold and silver, with indicators swinging from overbought to below-neutral levels. That positioning shift has likely amplified recent price declines. Bitcoin momentum, meanwhile, is recovering from oversold conditions toward neutral, suggesting selling pressure may be easing.
+
+Liquidity conditions further highlight the divergence. Gold’s market breadth has deteriorated to the point where it now trails bitcoin, a reversal of the typical relationship. Silver’s liquidity has weakened further, with thinner market depth exacerbating recent price moves, the report added.
+
+The world's largest cryptocurrency was trading around $69,000 at the time of publication. Gold was trading around $4,450/oz, and silver $69/oz.
+
+Read more:Wall Street broker Bernstein calls bitcoin bottom, keeps $150,000 year-end target
+
+As stablecoins evolve into core financial infrastructure, North America leads. This report maps the regulation, market shifts, and players driving adoption.
+
+Stablecoins are entering their third phase of evolution - the institutionalization era - becoming increasingly embedded into core financial infrastructure. As institutions prioritize transparency and compliance, regulated issuers like USDC, RLUSD, and PYUSD are steadily gaining share with RLUSD surpassing $1B in market cap within its first year. North America, leading in regulatory frameworks and institutional distribution, is at the center of it all.
+
+ETFs show institutional demand for bitcoin is cooling after a strong start to the month.

@@ -1,0 +1,19 @@
+Title: Retail investors drive widespread bitcoin selling as prices fall
+Source: CoinDesk
+URL: https://www.coindesk.com/markets/2026/03/27/retail-investors-drive-widespread-bitcoin-selling-as-prices-fall
+
+Glassnode’s Accumulation Trend Scoreby cohort is signaling broad-based selling led by retail participants as bitcoin falls below $67,000.
+
+The 30-day Accumulation Trend Score, broken down by wallet cohorts, measures the relative behavior of entities accumulating or distributing coins on-chain. It combines both the size of each cohort’s holdings and their net balance change over the past 30 days. A score closer to 1 indicates accumulation, particularly by larger entities, while a score near 0 reflects distribution or a lack of accumulation.
+
+Currently, the heaviest selling pressure is coming from retail participants holding less than 10 BTC. Wallets with under 1 BTC have a score of 0.11, while those holding 1 to 10 BTC are even lower at 0.05, indicating aggressive distribution.
+
+Further up the spectrum, selling pressure becomes less pronounced. Whales holding 1,000 to 10,000 BTC are neutral with a score around 0.5, suggesting neither strong accumulation nor distribution, waiting to see where prices head next.The largest cohort, those holding over 10,000 BTC, are showing mild distribution but not at levels seen late last year when Bitcoin traded above $90,000. Meanwhile, entities holding 100 to 1,000 BTC are also in notable distribution.
+
+There has been limited accumulation since early February, when bitcoin briefly dropped toward $60,000. The current trend suggests retail investors are capitulating, while larger players remain on the sidelines, waiting rather than actively buying.
+
+As stablecoins evolve into core financial infrastructure, North America leads. This report maps the regulation, market shifts, and players driving adoption.
+
+Stablecoins are entering their third phase of evolution - the institutionalization era - becoming increasingly embedded into core financial infrastructure. As institutions prioritize transparency and compliance, regulated issuers like USDC, RLUSD, and PYUSD are steadily gaining share with RLUSD surpassing $1B in market cap within its first year. North America, leading in regulatory frameworks and institutional distribution, is at the center of it all.
+
+The average public miner spent $79,995 to produce one bitcoin last quarter. Bitcoin is trading at $70,000. The math doesn't work, so the industry is pivoting to AI, taking on $70 billion in contracts, and liquidating bitcoin treasuries to finance the shift.

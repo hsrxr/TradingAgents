@@ -1,0 +1,23 @@
+Title: Russian Hacker Jailed for 81 Months Over $9M Ransomware Attacks
+Source: Decrypt
+URL: https://decrypt.co/362217/russian-hacker-jailed-for-81-months-over-9m-ransomware-attacks
+
+Russian Hacker Jailed for 81 Months Over $9M Ransomware Attacks
+
+A court in the Southern District of Indiana sentenced Russian citizen Aleksei Volkov, 26, to 81 months in prison Monday for assisting major cybercrime groups including the Yanluowang ransomware group in attacks that caused over $9 million in actual losses and over $24 million in intended losses across the United States.
+
+Volkov, of St. Petersburg, Russia, operated as an "initial access broker"—a specialist who gains unauthorized access to corporate networks and sells that access to other threat actors, according tocourt documents. His buyers used the access to deploy ransomware that encrypted victims' data, then demandedcryptocurrencypayments—"sometimes in the tens of millions of dollars"—in exchange for restoring access and not publishing stolen data on leak sites.
+
+On November 25, 2025, Volkov pleaded guilty to four counts from the Southern District of Indiana indictment—unlawful transfer of a means of identification, trafficking in access information, access device fraud, and aggravated identity theft—plus two counts from the Eastern District of Pennsylvania indictment for conspiracy to commit computer fraud and conspiracy to commit money laundering. Police in Rome, Italy, had arrested Volkov before his extradition to the United States.
+
+As part of his plea agreement, Volkov admitted that he and co-conspirators "demanded tens of millions of dollars in ransom and received millions," with Volkov receiving a share of cryptocurrency ransom payments. The court ordered him to pay full restitution including almost $9.2 million to known victims and to forfeit equipment used in his crimes.
+
+Ransomware, often leveraging cryptocurrency for payment, remains a challenge for the crypto space. Per Chainalysis’2026 Crypto Crime Report, on-chain ransomware payments totaled $820 million in 2025, down 8% year-on-year, while claimed attacks increased by 50% and the median ransom payment grew 368% year-over-year to nearly $60,000.
+
+In recent months, ransomware developers have turned to blockchainsmart contractsas a distribution channel, including theDeadLock ransomware strainthat leverages Polygon smart contracts for proxy server address rotation and distribution, andEtherHiding, which targets BNB Smart Chain and Ethereum smart contracts.
+
+Your gateway into the world of Web3
+
+The latest news, articles, and resources, sent to your inbox weekly.
+
+© A next-generation media company.2026Decrypt Media, Inc.

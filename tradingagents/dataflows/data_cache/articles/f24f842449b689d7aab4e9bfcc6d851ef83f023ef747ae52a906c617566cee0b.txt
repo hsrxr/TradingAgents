@@ -1,0 +1,43 @@
+Title: CFTC Unveils Innovation Task Force Focused on Crypto, AI and Prediction Markets
+Source: Decrypt
+URL: https://decrypt.co/362212/cftc-unveils-innovation-task-force-crypto-ai-prediction-markets
+
+CFTC Unveils Innovation Task Force Focused on Crypto, AI and Prediction Markets
+
+The United States Commodity Futures Trading Commission (CFTC) wants to create clear rules within U.S. derivatives markets for those building with new technologies, and has unveiled a new task force to help do so.
+
+The newly established CFTC Innovation Task Force will work alongside the Commission to develop those frameworks specifically for builders in crypto and blockchain, artificial intelligence and autonomous systems, andprediction markets.
+
+“By establishing a clear regulatory framework for innovators building on the new frontier of finance, we can foster responsible innovation at home and ensure American market participants are not left on the sidelines,” said CFTC Chairman Michael Selig, in a statement.
+
+The task force will be led by Selig’s senior advisor, Michael J. Passalacqua, and said it will coordinate with agencies like the SEC and the SEC’s Crypto Task Force on innovation initiatives.
+
+Under my leadership at the@CFTC, we’re committed to future-proofing regulation for the new frontier of finance. Today, I’m proud to announce the launch of our Innovation Task Force, which will build on our Innovation Advisory Committee work and establish clear rules of the road…
+
+— Mike Selig (@ChairmanSelig)March 24, 2026
+
+“Under Chairman Selig, the Innovation Task Force (ITF) will provide clarity to builders by advancing the CFTC’s innovation agenda across crypto, AI, and prediction markets,” Passalacquaposted on X.
+
+The regulator has been busy in March, particularly as it relates to its relationship with prediction markets and their rapid growth. Under Selig’s leadership, itrecently published a letter that guided registered exchangeson compliance and product requirements for event contracts, those used on prediction market platforms like Kalshi and Polymarket.
+
+The CFTC is alsoinviting public commentabout whether or not it needs to amend or write new rules on prediction market oversight.
+
+Those moves come amid intensifying scrutiny around prediction markets,highlighted by a push by Democratic lawmakersand concerns over insider trading and event contracts tied to things like terrorism and war.
+
+To that end, both Kalshi and Polymarket made public moves on Monday toaddress insider tradingon their platforms. For Kalshi, that meant adding preemptive screening for politicians and individuals working in sports and ensuring they cannot trade on markets related to them.
+
+Similarly, Polymarket took steps to clarify its rules around insider trading as it enhanced its market integrity terms.
+
+The regulator has remained adamant that it is the governing body for prediction markets, with Chairman Selig recently saying to those that challenge the CFTC over jurisdiction—including states—that his agency would“see you in court.”
+
+The remark comes as states begin to challenge prediction markets over their offerings, like in Arizona, where thestate filed charges against Kalshifor allegedly running an illegal gambling operation. Also last week, Nevadasecured a temporary banagainst Kalshi, blocking the startup from offering sports, politics, and entertainment event contracts in the state for at least 14 days.
+
+Earlier this month, the CFTCsigned a memorandum of understanding(MOU) with Major League Baseball, which will see the parties work together to limit markets that may pose “integrity risk.”
+
+Beyond prediction markets, the CFTCmade a major ruling last weekthatgives self-custodial wallet Phantom the ability to offer its users access to derivatives markets without registering as a broker.
+
+Your gateway into the world of Web3
+
+The latest news, articles, and resources, sent to your inbox weekly.
+
+© A next-generation media company.2026Decrypt Media, Inc.

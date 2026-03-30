@@ -1,0 +1,43 @@
+Title: Swan Bitcoin seeks to subpoena Cantor Fitzgerald, ex-CEO in ex-staff dispute
+Source: Cointelegraph
+URL: https://cointelegraph.com/news/swan-bitcoin-subpoena-howard-lutnick-cantor-fitzgerald-tether-mining-dispute?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+
+Swan Bitcoin claims that Howard Lutnick may have known about its failed Tether mining venture, after which employees allegedly stole documents, resigned and launched a rival firm.
+
+Cointelegraph in your social feed
+
+Bitcoin financial services firm Swan Bitcoin has filed an ex parte application in moves to subpoena Cantor Fitzgerald and its former CEO, Howard Lutnick, seeking discovery tied to a failed mining venture involving former employees.
+
+Swansued several ex-staffin September 2024, alleging that they stole confidential documents, resigned, and then founded “counterfeit competitor” firm Proton Management days later while convincing Tether, one of Swan’s funding partners at the time, to cut ties with Swan and work with them instead. The ex-staff allegedly referred to this as the “rain and hellfire” plan.
+
+Swan’s application for a subpoena,filedin the Southern District of New York on Monday, targets Cantor Fitzgerald and Lutnick because Swan believes they may be in possession of key documents relevant to Swan’s failed mining venture with Tether, 2040 Energy, in addition to the coordinated employee exodus and alleged data exfiltration.
+
+The subpoena application against Lutnick, who now serves as US secretary of commerce, comes as Democratic senators likeElizabeth Warrencontinue to press him over potential conflicts of interest tied to Tether.
+
+Cantor Fitzgerald is Tether’s investment banker and has advised the stablecoin issuer with its push into theBitcoin mining industry,Swan noted in the filing.
+
+Due to this link, Swan alleged that Cantor Fitzgerald likely knew about the undervalued sale of Swan’scrypto mining assetsto a Tether subsidiary.
+
+Swan said its CEO, Cory Klippsten, met with Lutnick in June 2024, before the alleged events took place, as Swan was considering aninitial public offeringand Cantor Fitzgerald was interested in being Swan’s lead investment banker.
+
+During those discussions, Swan said it shared a “highly confidential and proprietary slide deck” with Cantor Fitzgerald and showed them its mining facilities.
+
+“After the mass resignations and asset diversion, Cantor broke off contact with Swan without explanation,” Klippstensaidon X.
+
+Cointelegraph reached out to Cantor Fitzgerald for comment but didn’t receive an immediate response.
+
+Related:SEC’s top enforcer clashed over Trump cases before quitting: Report
+
+Swan alleges that the “rain and hellfire”lan was orchestrated by Michael Holmes, Swan’s former business development head, and Raphael Zagury, Swan’s former chief investment officer, who was appointed as Proton’s CEO.
+
+The case Swan brought against Proton Management is ongoing.
+
+The defendants previously denied Swan’s claims, arguing that 2040 Energy wasn’t theirs because it was fully funded by Tether.
+
+Magazine:Big Questions: Can Bitcoin save you from the dreaded Cantillon Effect?
+
+Cointelegraph covers fintech, blockchain and Bitcoin bringing you the latest crypto news and analyses on the future of money.
+
+Cointelegraph is committed to providing independent, high-quality journalism across the crypto, blockchain, AI, and fintech industries. To support open access to our website and sustain editorial operations, certain commercial or partner references may appear on our site. These arrangements help maintain an accessible platform and do not result in additional costs to readers.
+
+All news, reviews, and analysis are produced with full journalistic independence and integrity. For more details on our standards and processes, please read ourEditorial Policy.

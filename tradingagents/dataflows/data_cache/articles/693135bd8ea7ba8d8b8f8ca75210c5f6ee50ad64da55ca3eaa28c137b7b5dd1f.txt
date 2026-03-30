@@ -1,0 +1,27 @@
+Title: Bitcoin slides below $68,500 as Trump extends Iran deadline but war risks persist
+Source: CoinDesk
+URL: https://www.coindesk.com/markets/2026/03/27/bitcoin-slides-below-usd68-500-as-trump-extends-iran-deadline-but-war-risks-persist
+
+Bitcoin fell to $68,507 on Friday morning, down 3.2% over the past 24 hours and 2.7% on the week, after a familiar pattern played out for the fifth consecutive week: a de-escalation headline followed immediately by an escalation headline.
+
+U.S. president Donald Trump extended his deadline for Iran to reach a ceasefire deal by 10 days and said talks were going "very well." Brent crude dipped 1.3% to $106. Then the Wall Street Journal reported the Pentagon is looking at sending up to 10,000 additional ground troops to the Middle East, and whatever relief had built evaporated.
+
+The broader crypto market shed nearly 1% to a total cap of $2.4 trillion. Ether dropped 4.6% to $2,050, back below the level it's been fighting to hold all month. Solana fell 5.3% to $85.93. XRP lost 2.8% to $1.36, now down 6.5% on the week. BNB slid 2.3% to $626. Dogecoin dropped 2.8% to $0.091. Tron was the only major in the green at 1.2% daily and 2.4% weekly.
+
+Asian equities fell 0.6% on Friday after Wall Street hit its lowest level since September on Thursday. South Korean tech stocks led losses, with Samsung and SK Hynix dragging the KOSPI down 2.3%. Taiwan dropped 1.2%. The war's fifth week is producing the same pattern as the first four, where headline-driven whipsaws that leave everyone stopped out and the underlying trend unresolved.
+
+FxPro chief market analyst Alex Kuptsikevich noted that the crypto market cap is approaching its 50-day moving average but still holding above it, which he called "a bullish sign."
+
+The institutional data beneath the price action tells a different story from the daily selloff.
+
+Bitcoin ETFs have attracted $2.5 billion over the past month, according to Bloomberg, offsetting nearly all the outflows that had been ongoing since January. BlackRock's bitcoin ETF has ranked among the top 2% of all ETFs by inflows year-to-date. Net bitcoin outflows from exchanges last month signaled a shift toward accumulation, with investors buying coins and withdrawing them to self-custody.
+
+BlackRock itself offered a notable framing this week, saying that large investors are concentrating in bitcoin and ether while shunning the broader altcoin market.
+
+The 10-day extension on the Iran deadline pushes the next binary event to early April.
+
+As stablecoins evolve into core financial infrastructure, North America leads. This report maps the regulation, market shifts, and players driving adoption.
+
+Stablecoins are entering their third phase of evolution - the institutionalization era - becoming increasingly embedded into core financial infrastructure. As institutions prioritize transparency and compliance, regulated issuers like USDC, RLUSD, and PYUSD are steadily gaining share with RLUSD surpassing $1B in market cap within its first year. North America, leading in regulatory frameworks and institutional distribution, is at the center of it all.
+
+ETFs show institutional demand for bitcoin is cooling after a strong start to the month.

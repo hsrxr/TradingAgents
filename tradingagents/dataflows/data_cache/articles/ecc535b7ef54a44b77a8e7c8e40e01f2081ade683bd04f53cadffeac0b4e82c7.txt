@@ -1,0 +1,43 @@
+Title: Bitcoin ‘compression’ outcome may send BTC to $80K: Analyst
+Source: Cointelegraph
+URL: https://cointelegraph.com/news/bitcoin-compression-outcome-may-send-btc-to-dollar80k-analyst?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+
+Bitcoin charts point to a possible rally to $80,000, but spot volumes need to increase in order for the rally to hold.
+
+Cointelegraph in your social feed
+
+Bitcoin (BTC) is testing the $71,500 pivot, a key level across multiple timeframes and analysts noted that price action is tilted toward a possible rally to $80,000.
+
+As traders remain split between futures-driven speculation and weak spot demand, Bitcoin has tested the $71,500 inflection point four times in the past seven days. A positive is that the price has held above the 50-period exponential moving average (EMA) on the four-hour chart, but the 50-day EMA on the daily chart continues to act as a level of resistance.
+
+Crypto trader Skewdescribedthe position as a “compression zone,” where the tightening price range and trading may lead to a strong directional move.
+
+A bullish inverse head and shoulders pattern is also forming on the four-hour chart, with $71,500 acting as the neckline.
+
+A confirmed breakout places the immediate technical target near monthly highs at $76,000, a 7.35% move from current levels. Market analyst Mikybull extends this projection toward$80,000.
+
+Anotheronchain signal points to the possibility of a 10% to 14% Bitcoin rally. The seven-day standard deviation of short-term holder realized profit and loss flows to Binance dropped to 255 on March 24, returning to a level seen before prior rallies.
+
+A similar reading near 277 on Feb. 27 was followed by a 14% rise, while a level around 289 in late December preceded a near 10% gain. The current compression shows a decline in sell-side volatility, with the short-term holder distribution becoming more controlled.
+
+Related: Bitcoin holders shift from panic to cash-buffer discipline as volatility deepens
+
+The recent price strength followed market optimism tied to a potential ceasefire in the US and Israel-Iran war, but on Wednesday, Iran rejected the US peace proposal and outlined its own conditions for ending the conflict, according to theKobeissi Letter.
+
+BTC held steady through the update, while sensitivity to the US dollar strength and energy prices continues to guide short-term reactions.
+
+The derivatives positioning shows increased activity. BTC open interest (in terms of USD) has risen by $500 million to $16.5 billion over the past 24 hours, with funding rates turning positive at 0.03% since Monday. The latest rally toward $70,000 was driven largely by futures markets.
+
+The spot participation lags, with a weak aggregate cumulative volume delta of -$87 million and a negative Coinbase premium signaling softening US-based demand. Thus, the order flow data points to a distributive nature between buyers and sellers across the spot and futures markets.
+
+Skewexplainedthat for Bitcoin to sustain a breakout above $71,500, the rally needs to be backed by stronger underlying demand, specifically, strong buyer support, steady accumulation, and continued absorption of selling pressure from short traders.
+
+A $60 million bidwas filledduring the New York session, highlighting renewed demand, but a clear follow-through is needed for the price to retain a bullish structure above $71,500.
+
+Related: Bitcoin rebounds during Iran war, but safe haven role unproven
+
+Cointelegraph covers fintech, blockchain and Bitcoin bringing you the latest crypto news and analyses on the future of money.
+
+Cointelegraph is committed to providing independent, high-quality journalism across the crypto, blockchain, AI, and fintech industries. To support open access to our website and sustain editorial operations, certain commercial or partner references may appear on our site. These arrangements help maintain an accessible platform and do not result in additional costs to readers.
+
+All news, reviews, and analysis are produced with full journalistic independence and integrity. For more details on our standards and processes, please read ourEditorial Policy.

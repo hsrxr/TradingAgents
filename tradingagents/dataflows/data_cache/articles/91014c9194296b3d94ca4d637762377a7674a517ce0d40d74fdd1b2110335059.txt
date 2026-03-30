@@ -1,0 +1,45 @@
+Title: US lawmaker presses Kansas Fed over Kraken master account approval
+Source: Cointelegraph
+URL: https://cointelegraph.com/news/us-lawmaker-questions-kraken-fed-master-account-approval?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+
+Kraken's Wyoming-chartered banking unit became the first crypto-native company to secure a Federal Reserve Master Account in March.
+
+Cointelegraph in your social feed
+
+US Representative Maxine Waters, the ranking Democrat on the House Financial Services Committee, is demanding answers from the Federal Reserve Bank of Kansas City over the approval of Kraken Financial’s limited-purpose master account.
+
+In a letter Thursday, WatersaskedKansas City Fed President Jeff Schmid to respond by April 10, outlining what Kraken’s approval means in practice; which Federal Reserve services it can access; the conditions or restrictions that apply and what anti-money laundering and consumer protection measures were considered.
+
+Kraken’s banking unit wasgranted a limited-purpose master accountby the Federal Reserve Bank of Kansas City earlier this month. It was seen as a milestone for the crypto industry as several crypto-linked US companies have been pursuing a master account with the Fed for years.
+
+The account provides direct access to Fedwire, the Fed’s core payments system, potentially allowing Kraken to move money on the same rails used by banks and credit unions.
+
+“The Kansas City Fed’s announcement does not disclose specific information about Kraken’s access to the range of Federal Reserve financial services due to the confidentiality of business information provided by applicants,” Waters wrote in the letter.
+
+“Answers to these questions are critical to ensuring that the process of approving Federal Reserve Bank account access is conducted consistently with the law, with impartiality, and in a manner that continues to foster a safe and efficient payment system,” she added.
+
+Waters also argued that Kraken’s access to the Federal Reserve’s payment system raises policy, regulatory and consumer protection concerns. As a result, she said full transparency and clear legal grounding are required to ensure any risks are properly managed.
+
+“Innovations in payments, digital assets, tokenization, and even artificial intelligence are rapidly outpacing statutory frameworks developed to mitigate risk, promote competition, and protect consumers in a traditional financial environment,” Waters wrote.
+
+“Given this environment, much is required of those who exercise discretionary authority over safe access to, and operation of, our nation’s critical financial infrastructure,” she added.
+
+Related:SEC is no longer a 'cop on the beat‘ on crypto, says US lawmaker
+
+US crypto companies that have been pursuing Fed master accounts includeCaitlin Long’s Custodia Bank, which filed a court petition in late 2025 to renew its bid.
+
+Crypto platform Anchorage Digital Bank also applied for an account last year and Ripple has applied through its Standard Custody & Trust Company.
+
+Crypto advocacygroup Stand With Cryptohas a scorecard for US politicians on how supportive they are of crypto based on public statements and voting behavior.
+
+Waters islistedby the group as “strongly against crypto,” based on five statements and six votes against crypto legislation, including the Digital Asset Market Clarity Act andthe GENIUS Act.
+
+She also called for a hearing with Securities and Exchange Commission Chair Paul Atkins last year,citing concerns about the agency’sdismissal of crypto enforcement cases.
+
+Magazine:How crypto laws changed in 2025 — and how they’ll change in 2026
+
+Cointelegraph covers fintech, blockchain and Bitcoin bringing you the latest crypto news and analyses on the future of money.
+
+Cointelegraph is committed to providing independent, high-quality journalism across the crypto, blockchain, AI, and fintech industries. To support open access to our website and sustain editorial operations, certain commercial or partner references may appear on our site. These arrangements help maintain an accessible platform and do not result in additional costs to readers.
+
+All news, reviews, and analysis are produced with full journalistic independence and integrity. For more details on our standards and processes, please read ourEditorial Policy.

@@ -1,0 +1,43 @@
+Title: Coinbase users push back against prediction markets notifications
+Source: Cointelegraph
+URL: https://cointelegraph.com/news/coinbase-users-prediction-markets-notifications-march-madness?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+
+While prediction market platforms are under legal scrutiny in the US, many Coinbase users are claiming that the app is pushing them to gamble.
+
+Cointelegraph in your social feed
+
+Update (March 27 at 8:32 pm in UTC): This article has been updated to include a statement from Coinbase CEO Brian Armstrong.
+
+Negative reactions to cryptocurrency exchange Coinbase using its notifications to push bets on event contracts amid the March Madness basketball tournament range from “annoying” to “absurd.”
+
+In January, Coinbaserolled out prediction market betsfor US-based users as part of a partnership with Kalshi. However, for some users, the last two months have been seen as an opportunity for the exchange to get people “hooked on sports gambling” using an app that many had devoted to crypto trading.
+
+“I have received three separate notifications about College Basketball from Coinbase in the past hour alone,”saidX user AvgJoesCrypto on Thursday.
+
+“It is absurd that, amidst arguably the worst collapse in trust in this industry’s history, the largest American CEX has completely pivoted to trying to get their customer base hooked on sports gambling, so that they can extract even more exorbitant fees,” he continued.
+
+Like sports event contract betting on platforms such as Kalshi and Polymarket, Coinbase Prediction Markets offers US-based users the chance to bet on the outcomes of a variety of events.
+
+Prediction market platforms already face several lawsuits filed by state-level authorities,even as the federal regulator, the US Commodity Futures Trading Commission (CFTC), pushes for “exclusive jurisdiction” over the market.
+
+John Palmer, co-founder of PartyDAO,expresseda similar sentiment over the Coinbase notifications, pushing bets on March Madness games:
+
+In December, before the launch of its prediction market service, Coinbasefiled lawsuits against regulatorsin Connecticut, Illinois and Michigan. The exchange argued, likely in anticipation of its prediction market launch, that the CFTC, not state-level gambling authorities, should regulate the platform.
+
+In a Friday X post responding to complaints, Coinbase CEO Brian Armstrongattributedthe notifications to a “bug” and apologized to users:
+
+Related:Coinbase launches token-backed down payments for Fannie Mae loans
+
+Amid user feedback and state-level lawsuits, many US lawmakers have also been calling for legislation to address issues in prediction markets.
+
+Allegations of individuals in government and insiders close to the political apparatus using Polymarket to profit from a bet on the removal of Venezuelan President Nicolás Maduro have led to billsseeking to banany US President or member of Congress from using the platforms.
+
+Both Kalshi and Polymarket have introduced separate policies to curb insider trading. Kalshisaid it would ban political candidatesfrom trading on event contracts related to their campaigns, and Polymarketintroduced measures to limiteasily manipulated or ethically sensitive markets.
+
+Magazine:Nobody knows if quantum secure cryptography will even work
+
+Cointelegraph covers fintech, blockchain and Bitcoin bringing you the latest crypto news and analyses on the future of money.
+
+Cointelegraph is committed to providing independent, high-quality journalism across the crypto, blockchain, AI, and fintech industries. To support open access to our website and sustain editorial operations, certain commercial or partner references may appear on our site. These arrangements help maintain an accessible platform and do not result in additional costs to readers.
+
+All news, reviews, and analysis are produced with full journalistic independence and integrity. For more details on our standards and processes, please read ourEditorial Policy.

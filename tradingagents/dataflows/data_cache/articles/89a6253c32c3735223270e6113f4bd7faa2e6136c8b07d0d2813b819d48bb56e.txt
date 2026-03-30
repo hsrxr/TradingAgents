@@ -1,0 +1,25 @@
+Title: Sky-backed Obex spreads $1 billion across credit, energy and AI assets to expand stablecoin yield
+Source: CoinDesk
+URL: https://www.coindesk.com/business/2026/03/25/sky-backed-obex-spreads-usd1-billion-across-credit-energy-and-ai-assets-to-expand-stablecoin-yield
+
+Obex, the Framework Ventures-backed incubator, began deploying $1 billion on Wednesday to link the Sky ecosystem’s USDS stablecoin with income from tangible assets like AI data centers, housing and energy, boosting real-world strategies beyond crypto-native sources of yield.
+
+The first group of assets includes products from Maple, USD.ai, Daylight, Centrifuge, Securitize, River, TVL Capital and Better. Each aims to bridge crypto markets with parts of the real economy, including lending, housing finance, energy and AI infrastructure, often by turning those assets into blockchain-based instruments via tokenization.
+
+The firms will work with Obex to add new tokenized products designed to generate yield and increase USDS use across their platforms. They will also work to develop and roll out new yield-generating tokenized assets.
+
+Sky, one of the oldest decentralized finance (DeFi) lending protocols and issuer of the $10 billion USDS, is trying to move past the closed loops that have long defined crypto lending. The protocol brought in $435 million in annualized revenue in 2025 and plans to push the dollar-pegged stablecoin's supply above $20 billion next year.
+
+Obex is aiming to help Sky get there by plugging new sources of income into the system. Last year, it obtained a mandate to allocate up to $2.5 billion of Sky's USDS reserves into real-world assets to generate yield.
+
+"We're moving beyond circular DeFi yield sources and toward high-quality yield from structured credit markets, fintech, energy infrastructure, AI CapEx, real estate, and other productive sectors," said Parker Edwards, a partner at Framework Ventures.
+
+The push reflects a broader shift toward tokenization, in which assets such as loans, funds, or infrastructure projects are represented on blockchain networks. Proponents say this can make it easier to move capital, track ownership and open access to a wider pool of investors.
+
+The market for tokenized real-world assets is growing rapidly, and tripled in value to $26 billion in the past year,RWA.xyz datashows. That growth has been driven by demand for more stable and predictable returns than those typically found in crypto lending and other speculative strategies.
+
+As stablecoins evolve into core financial infrastructure, North America leads. This report maps the regulation, market shifts, and players driving adoption.
+
+Stablecoins are entering their third phase of evolution - the institutionalization era - becoming increasingly embedded into core financial infrastructure. As institutions prioritize transparency and compliance, regulated issuers like USDC, RLUSD, and PYUSD are steadily gaining share with RLUSD surpassing $1B in market cap within its first year. North America, leading in regulatory frameworks and institutional distribution, is at the center of it all.
+
+The integration provides institutions with a compliant way to hold TRX and will be expanded to include TRC-20 assets and native TRX staking.

@@ -1,0 +1,31 @@
+Title: Japan‘s financial watchdog flags KuCoin for OTC derivatives transactions
+Source: Cointelegraph
+URL: https://cointelegraph.com/news/japan-fsa-kucoin-otc-derivatives-transactions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+
+The crypto exchange has previously been in the crosshairs of Japanese regulators for offering products and services without the proper registration.
+
+Cointelegraph in your social feed
+
+Japan’s watchdog overseeing many activities for cryptocurrency exchanges has issued warning letters to companies, including KuCoin, for conducting certain operations without registering, according to a Thursday update from the Financial Services Agency (FSA).
+
+According to the agency’s latest list of entities “conducting financial instruments business without registration,” the FSAsaidplatforms KuCoin, NeonFX, theoption, and GTCFX received a March notice for “soliciting over-the-counter (OTC) derivatives trading via the internet.” Of the four platforms, the FSA listed KuCoin, which is headquartered in the Seychelles, as offering services to Japanese residents, while the others have an international user base.
+
+The FSA issued a similar warning to KuCoin and other exchanges, including Bybit, in November 2024 for offering products and services to Japanese residents without proper registration. In February 2025, the financial watchdogsent requests to Apple and Googlefor the companies to suspend downloads of KuCoin’s app.
+
+Japan has a high concentration of crypto users. The FSA reported in February 2025 that there were more than 12 million accounts among a population of about 123 million. The countryranked19th in Chainalysis’s 2025 Global Crypto Adoption Index.
+
+Cointelegraph reached out to KuCoin for comment, but had not received a response at the time of publication.
+
+Related:Austria’s regulator slaps new business ban on KuCoin’s EU exchange
+
+The FSA’s notice comes as the financial watchdogprepares to shift Japan’s legal frameworkfrom the country’s Payment Services Act to the Financial Instruments and Exchange Act. The change would significantly alter reporting requirements for initial exchange offerings and token issuers, and provide regulators with greater enforcement authority over unregistered platforms.
+
+Sanae Takaichi, who has served as the prime minister of Japan since October 2025,publicly denied connectionsto the “Sanae token” earlier this month after the project grew to a market value of about $28 million before falling sharply. The FSA was reportedly considering an investigation into the matter.
+
+Magazine:Are DeFi devs liable for the illegal activity of others on their platforms?
+
+Cointelegraph covers fintech, blockchain and Bitcoin bringing you the latest crypto news and analyses on the future of money.
+
+Cointelegraph is committed to providing independent, high-quality journalism across the crypto, blockchain, AI, and fintech industries. To support open access to our website and sustain editorial operations, certain commercial or partner references may appear on our site. These arrangements help maintain an accessible platform and do not result in additional costs to readers.
+
+All news, reviews, and analysis are produced with full journalistic independence and integrity. For more details on our standards and processes, please read ourEditorial Policy.

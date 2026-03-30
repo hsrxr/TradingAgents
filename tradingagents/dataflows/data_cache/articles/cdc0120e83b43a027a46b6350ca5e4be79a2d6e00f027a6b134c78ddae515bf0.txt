@@ -1,0 +1,49 @@
+Title: Three Reasons Why Circle’s Stock Is Under Pressure
+Source: Decrypt
+URL: https://decrypt.co/362694/three-reasons-why-circles-stock-is-under-pressure
+
+Three Reasons Why Circle’s Stock Is Under Pressure
+
+Circle Internet Group’s stock has shed roughly a quarter of its value over the past week, weighed down by three unresolved pressures that appear to challenge the core assumptions behind the company's investment case.
+
+It opened March 24 near $126,crashed 20%to close at $101, then posted a brief recovery the following session before sliding again over the next two days to end the week at $93, with three of the past four sessions closing in the red, according to historicaldataon Google Finance.
+
+The drop from Tuesday last week came after two pieces of bad news that landed the same day: a Senate draft bill that could ban the returns Circle distributes to stablecoin holders, and an announcement from its rival, Tether, that it hadhireda major accounting firm to audit its reserves for the first time.
+
+Weeks before the decline, Circle was posting double-digit gains, surgingroughly 60%since its Q4 earnings report. Analysts had also been broadly optimistic, with Clear Street raising its price target for Circle to $152 earlier this month.
+
+But the Senate’s language on a possible yield ban and the Tether audit announcement remain unresolved, and both appear to have continued weighing on the stock in the sessions that followed.
+
+The draft text isexpectedto be released publicly this week, arriving ahead of a Senate Banking Committee markup targeted for the second half of April, a deadline legislators have said the billmust clearto avoid stalling until after the midterm elections.
+
+Circle's stock decline points to broader uncertainty about Circle's business model, and whether the factors behind the initial drop are temporary headwinds or something more structural, analysts toldDecrypt.
+
+“Passive yield is likely one of the biggest reasons retail users on Coinbase hold USDC,” Siwon Huh, researcher at Four Pillars, toldDecrypt. “Replacing this with activity-based incentives would require building an entirely new user engagement structure.”
+
+Activity-based rewards programs are structurally different from passive yield in that they require ongoing product investment, and returns diminish if “user engagement plateaus,” Huh explained.
+
+If the Senate’s passive yield ban holds, the transition to activity-based rewards could take at least a year and cost Circle a chunk of its retail user base in the process, he noted.
+
+Still, USDC's circulation reaching record levels despite the broader market downturn suggests holders are drawn to it as a payments tool, which could mean the stock's decline overstates the actual risk, Huh said.
+
+If the yield ban holds, Circle’s USDC could lose “its core carry trade,” Dominick John, analyst at Zeus Research, toldDecrypt, noting how its model would then shift to “usage-driven economics.”
+
+Activity-based rewards “can drive flow,” but without a “yield engine,” this could mean “lower margins and weaker balance sheet stickiness,” he said, estimating that the transition could take two to four quarters to reset and up to 18 months to stabilize.
+
+Beyond the yield ban, the Tether audit poses a separate competitive risk.
+
+John estimates a successful Deloitte sign-off could put 5 to 15% of USDC's institutional market share “at risk near-term,” mostly from yield-agnostic flows that can shift on liquidity and perception.
+
+Anything larger would require “consistent proof of long-term reserves,” he noted.
+
+Consensus around the CLARITY Act's passive yield ban “makes it virtually impossible for stablecoin issuers to adopt a traditional bank-like deposit and profit-sharing model,” and this has become a key factor to capping Circle’s structural upside, Ryan Yoon, senior analyst at Tiger Research, toldDecrypt.
+
+Still, Circle's strength lies in its deep integration with institutional finance and the broader B2B ecosystem, Yoon said.
+
+Circle is "already firmly entrenched in the market" and has "sufficient financial runway to absorb regulatory uncertainties," making the current slump difficult to read as a definitive decline in corporate value, Yoon said.
+
+Your gateway into the world of Web3
+
+The latest news, articles, and resources, sent to your inbox weekly.
+
+© A next-generation media company.2026Decrypt Media, Inc.

@@ -1,0 +1,41 @@
+Title: US federal judge temporarily blocks Pentagon's Anthropic ban
+Source: Cointelegraph
+URL: https://cointelegraph.com/news/us-court-temporarily-blocks-trump-supply-chain-risk-against-anthropic?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+
+Judge Rita Lin said it was not until Anthropic raised concerns about how its technology could be used that the US government announced a plan to "cripple Anthropic."
+
+Cointelegraph in your social feed
+
+A US federal judge in San Francisco has granted Anthropic’s request for temporary reprieve after the Pentagon’s designation of the company as a supply chain risk.
+
+In anorderon Thursday, Judge Rita Lin of the District Court for the Northern District of California ordered a preliminary injunction against the Pentagon over the label. It also temporarily halts a directive from US President Donald Trump ordering federal agencies to stop using Anthropic’s chatbot, Claude.
+
+“Nothing in the governing statute supports the Orwellian notion that an American company may be branded a potential adversary and saboteur of the US for expressing disagreement with the government,” said Judge Lin.
+
+Anthropic was the top player in enterprise AI markets with 32%, ahead of OpenAI on 25%, as of 2025,accordingto Menlo Ventures. A government-wide ban on Anthropic would plummet this position.
+
+The judge said that these “broad punitive measures” taken against Anthropic by the Trump administration and Defense Secretary Pete Hegseth appeared “arbitrary, capricious, [and] an abuse of discretion.”
+
+The order followed a March 9 lawsuitfiledby Anthropic in federal court in Washington, DC, alleging that Hegseth overstepped his authority by designating the company as a national securitysupply chainrisk.
+
+The dispute stems from a deal in July 2025 between the AI firm and the Pentagon on a contract to make Claude the first frontier AI model approved for use on classified networks.
+
+Negotiationscollapsed in February with the Pentagon seeking to renegotiate, insisting Anthropic allow military use of Claude “for all lawful purposes” and without restrictions.
+
+Anthropicmaintainedthat its technology should not be used for lethal autonomous weapons and mass domestic surveillance of Americans.
+
+On Feb. 27, Trump ordered all federal agencies to cease using Anthropic products. “The Leftwing nut jobs at Anthropic have made a DISASTROUS MISTAKE trying to STRONG-ARM the Department of War,” hewroteon Truth Social.
+
+A 90-minute court hearing took place in San Francisco on March 24, during which Judge Lin pressed government lawyers on whether Anthropic was being punished for publicly criticizing the Pentagon.
+
+“Punishing Anthropic for bringing public scrutiny to the government’s contracting position is classic illegal First Amendment retaliation,” the March 26 ruling stated.
+
+Anthropic said in a statement that it was “grateful to the court for moving swiftly, and pleased they agree Anthropic is likely to succeed on the merits.”
+
+Magazine:Nobody knows if quantum secure cryptography will even work
+
+Cointelegraph covers fintech, blockchain and Bitcoin bringing you the latest crypto news and analyses on the future of money.
+
+Cointelegraph is committed to providing independent, high-quality journalism across the crypto, blockchain, AI, and fintech industries. To support open access to our website and sustain editorial operations, certain commercial or partner references may appear on our site. These arrangements help maintain an accessible platform and do not result in additional costs to readers.
+
+All news, reviews, and analysis are produced with full journalistic independence and integrity. For more details on our standards and processes, please read ourEditorial Policy.

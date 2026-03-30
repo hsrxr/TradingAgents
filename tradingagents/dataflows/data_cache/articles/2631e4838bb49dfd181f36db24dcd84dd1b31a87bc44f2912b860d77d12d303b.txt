@@ -1,0 +1,37 @@
+Title: U.S. lawmakers dig into tokenizing securities as Trump ties muddy waters
+Source: CoinDesk
+URL: https://www.coindesk.com/policy/2026/03/25/u-s-lawmakers-dig-into-tokenizing-securities-as-trump-ties-muddy-waters
+
+In the growing policy moment for securities tokenization, the House Financial Services Committee gathered views on the innovationat a Wednesday hearing, though the specter of President Donald Trump's family crypto ties did arise more than once.
+
+The lawmakers broadly agreed that tokenized securities generally need the same regulatory guardrails as traditional securities trading, which matches the position of U.S. Securities and Exchange Commission Chairman Paul Atkins, who has said his agency is on the verge of issuing a formal rule proposal to move forward on such crypto policies.
+
+"We stand at the threshold of a significant transformation in our financial landscape," said committee Chairman French Hill. But as tokenization arises, regulatory gaps and risks need to be explored, he said. "We obviously are going to maintain market integrity, no matter what technology we select."
+
+Both parties have questions on oversight and how tokenization will mesh with traditional markets, which must still be answered by regulators and potentially by crypto legislation. Concerns raised by the panels' Democrats included anonymous wallets that could mask foreign ownership, know-your-customer issues and the management of decentralized finance (DeFi). But the hearing effectively acknowledged the onset of the technology as an inevitability rather than a theoretical future.
+
+The committee's ranking Democrat, Representative Maxine Waters of California, said she's concerned about tokenization further moving toward the gamification of trading.
+
+"This committee has already examined how trading apps use behavioral designs to turn investing into a game," she said. "Tokenization could make those trades faster, always on, and with fewer guardrails."
+
+Speed and efficiency, though, is the foundational advantage of tokenizing stocks. Blockchain Association CEO Summer Mersinger offered that non-custodial, non-discretionary DeFi code brings efficiencies, because "you remove a lot of intermediaries that add expenses to the trade."
+
+"Regulatory approaches should distinguish clearly between entities that perform intermediary functions and infrastructure that enables user-directed activity, ensuring that obligations are calibrated to the presence of custody, control and discretion," she said inher testimony. Mersinger also encouraged an "iterative approach" from the SEC to get policy going quickly on tokenization.
+
+While the Senate istrying to finishthe Digital Asset Market Clarity Act that will establish laws to govern such tokenization, Atkins has said his agency is going to provide an "innovation exemption" that lets firms test such new arenas as tokenization without immediate registration hoops. Even before any of that arrives, the crypto industry and wider financial sector are building tokenization platforms.
+
+"Tokenization is just the next iteration of the technology," said Ken Bentsen, who leads the Securities Industry and Financial Markets Association. He said that new entrants should get the same regulations and guardrails as businesses currently involved in stock trading.
+
+Just this week, BlackRock Chairman and CEO Larry Finkargued in his annual shareholder letterthat digital assets and tokenization could "update the plumbing of the financial system." News also emerged that investment giant Franklin Templetonsecured a tokenization partnershipwith Ondo Finance and that $2.2 trillion asset manager Invesco had taken over management of Superstate's $900 million fund of tokenized U.S. Treasuries, USTB.
+
+But committee Democrats also criticized the Trump administration's push on behalf of the crypto sector, which Waters said is paired with "blatant corruption" involving the Trump family's personal involvement in digital assets businesses, which includes a stake in World Liberty Financial Inc. thatannounced a deal with Securitize last monthto tokenize loan revenue tied to hotel projects.
+
+"The Trump family has earned an estimated $1 billion dollars in profit from their crypto ventures," Waters noted. "When officials in the government who are approving the rules also profit from the market those would regulate, the American people rightly ask whose interests truly comes first."
+
+"The ties between the Trump family and this industry has unfortunately created a cloud over the legitimacy of moving forward on this important market structure legislation," said Salman Banaei, the general counsel at tokenization firm Plume who had also worked at the SEC and Commodity Futures Trading Commission.
+
+As stablecoins evolve into core financial infrastructure, North America leads. This report maps the regulation, market shifts, and players driving adoption.
+
+Stablecoins are entering their third phase of evolution - the institutionalization era - becoming increasingly embedded into core financial infrastructure. As institutions prioritize transparency and compliance, regulated issuers like USDC, RLUSD, and PYUSD are steadily gaining share with RLUSD surpassing $1B in market cap within its first year. North America, leading in regulatory frameworks and institutional distribution, is at the center of it all.
+
+White House AI and Crypto Czar David Sacks said Thursday he was joining the President’s Council of Advisors on Science and Technology and leaving the czar role.

@@ -1,0 +1,39 @@
+Title: Nvidia investor class-action suit advances over crypto mining revenue
+Source: Cointelegraph
+URL: https://cointelegraph.com/news/nvidia-investor-class-certified-crypto-revenue-suit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+
+A California judge has certified an investor class in the Nvidia securities suit over alleged misstatements on crypto mining GPU sales, advancing the case toward a potential trial.
+
+Cointelegraph in your social feed
+
+A California federal judge has certified an investor class in a securities lawsuit accusing Nvidia and CEO Jensen Huang of misleading shareholders about how much of the company’s gaming revenue during the 2017-2018 crypto mining boom came from GPU sales to cryptocurrency miners.
+
+US District Judge Haywood S. Gilliam Jr. ruled in a March 25orderthat investors can pursue their claims as a group, while stressing that class certification is a procedural step and does not resolve the question of whether Nvidia’s statements were fraudulent.
+
+The order defines the class as investors who bought Nvidia stock between Aug. 10, 2017, and Nov. 15, 2018, and focuses heavily on “price impact” and whether the alleged misstatements affected Nvidia’s share price.
+
+In 2022, Nvidia agreed to pay a$5.5 million penalty and accept a cease-and-desist orderover inadequate disclosures tied to crypto mining’s impact on its gaming GPU business, and the US Supreme Court in December 2024 left in place aNinth Circuit rulingthat allowed the shareholder suit to proceed.
+
+Related:Nvidia’s Vera Rubin keeps crypto networks like Render in demand
+
+The shareholders allege that the chipmaker and Huang misled the market about how much of its surging gaming revenue came fromgraphics processing unit (GPU) sales to cryptocurrency miners.
+
+They claim the truth began to emerge after Nvidia’s Aug. 16, 2018 earnings call and guidance cut, when the stock fell about 4.9%, and again following a further revenue warning on Nov. 15, 2018, when shares dropped roughly 28.5% over two trading days.
+
+Investors first sued Nvidia in 2018, and the current amendedcomplaint was filed in 2020. The complaint alleges Nvidia downplayed the extent to which its gaming revenue relied on GPU sales to cryptocurrency miners and understated more than $1 billion in crypto-related sales.
+
+A spokesperson from Nvidia told Cointelegraph that investors who purchased Nvidia in the 2017-2018 timeframe “have done incredibly well, as our corporate strategy unfolded as we consistently predicted.” They added that the company would “address the complaint in court.”
+
+Related:Nvidia’s Huang: AI will boost jobs as it needs trillions in infrastructure
+
+As part of the March 25 ruling, the judge also declined to exclude the plaintiffs’ “out-of-pocket” damages model and a statistical “event study” that analyzes Nvidia’s stock price moves around key disclosure dates.
+
+The court has scheduled a case conference for April 21, 2026, at 2:00 pm Pacific Time, to be held via public Zoom webinar.
+
+Magazine:Bitcoin’s ‘biggest bull catalyst’ would be Saylor’s liquidation — Santiment founder
+
+Cointelegraph covers fintech, blockchain and Bitcoin bringing you the latest crypto news and analyses on the future of money.
+
+Cointelegraph is committed to providing independent, high-quality journalism across the crypto, blockchain, AI, and fintech industries. To support open access to our website and sustain editorial operations, certain commercial or partner references may appear on our site. These arrangements help maintain an accessible platform and do not result in additional costs to readers.
+
+All news, reviews, and analysis are produced with full journalistic independence and integrity. For more details on our standards and processes, please read ourEditorial Policy.

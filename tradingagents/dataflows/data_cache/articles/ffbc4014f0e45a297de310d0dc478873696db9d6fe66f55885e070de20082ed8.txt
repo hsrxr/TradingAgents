@@ -1,0 +1,29 @@
+Title: Cipher Digital Stock Pops as Firm Bolsters Shift From Bitcoin Mining With 15-Year Data Center Deal
+Source: Decrypt
+URL: https://decrypt.co/362315/cipher-digital-stock-pops-shift-bitcoin-mining-data-center-deal
+
+Cipher Digital Stock Pops as Firm Bolsters Shift From Bitcoin Mining With 15-Year Data Center Deal
+
+Cipher Digital, a publicly traded developer and operator of industrial-scale data centers for high-performance computing workloads, announced Wednesday that it has signed a 15-year lease for its third data center campus, furthering its recent pivot fromBitcoinminer to powering the growing demand for AI power and other computing needs.
+
+The company will develop and deliver a new HPC data center at one of its existing sites under the agreement, according to apress release. Investors appear to like the news, with Cipher’s stock (CIFR)rising more than 8%since the opening bell Wednesday to recently trade at $16.14 per share.
+
+"This agreement for our third large AI campus reinforces Cipher's position as a trusted partner to develop high-quality HPC data center infrastructure for the world's leading companies," said Cipher CEO Tyler Page, in a statement.
+
+Cipher also announced the closing of a revolving credit facility providing up to $200 million of committed capacity, with an additional accordion option of up to $50 million. The facility, which was undrawn at close, has a scheduled maturity of March 2030 and bears interest at the Secured Overnight Financing Rate (SOFR) plus 1.25% to 1.75%, with step-down pricing based on the company's total debt to market capitalization ratio.
+
+“This transaction marks Cipher’s first syndicated revolving credit facility and represents a major step in the evolution of our capital structure,” said Cipher CFO Greg Mumford, in a statement. “We believe this facility highlights the continued strength and maturation of our business, as well as the growing confidence in our long-term strategy from premier financial institutions.”
+
+Morgan Stanley serves as administrative agent, lead arranger, and lead bookrunner, with Banco Santander, Goldman Sachs, JPMorgan Chase, Sumitomo Mitsui Banking Corporation, and Wells Fargo also joining in the syndicate.
+
+The company rebranded from Cipher Mining in February, saying that it was expanding beyond its original Bitcoin mining focus to serve broader high-performance computing demand. Cipher Digital also sold off an interest in three joint mining sites in February, along with mining rigs housed at one of its sites.
+
+“While Bitcoin mining played a foundational role in building Cipher’s power origination expertise and large-scale development capabilities, the company’s identity has evolved to focus on enabling next-generation compute at industrial scale,” itsaid last month, adding that it would “maintain optimized exposure to the Bitcoin mining industry in a capital-light manner.”
+
+Cipher is one of several Bitcoin mining firms that have made either full or partial moves away from their original core business towards powering AI and other high-performance computing needs, includingCore Scientific,Cango, andBitfarms(now Keel Infrastructure).
+
+Your gateway into the world of Web3
+
+The latest news, articles, and resources, sent to your inbox weekly.
+
+© A next-generation media company.2026Decrypt Media, Inc.

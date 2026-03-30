@@ -1,0 +1,63 @@
+Title: Morning Minute: Trump’s New Science Council Is a Who’s Who of AI and Crypto
+Source: Decrypt
+URL: https://decrypt.co/362422/morning-minute-trumps-new-science-council-is-a-whos-who-of-ai-and-crypto
+
+Morning Minute: Trump’s New Science Council Is a Who’s Who of AI and Crypto
+
+Morning Minute is a daily newsletter written byTyler Warner. The analysis and opinions expressed are his own and do not necessarily reflect those of Decrypt.And check out ournew daily news showcovering all of the top stories in 5 minutes or less, downloadable on Apple Pod or Spotify.
+
+President Trumpannounced the first 13 members of his President’s Council of Advisors on Science and Technology(PCAST) on Wednesday.
+
+But the real headline was the lineup he selected.
+
+Jensen Huang, Mark Zuckerberg, Sergey Brin, Larry Ellison, Lisa Su, Michael Dell, and Safra Catz are all in. The council will be co-chaired by David Sacks, Trump’s AI and crypto czar, and former U.S. Chief Technology Officer Michael Kratsios.
+
+And crypto has a seat at the table with Coinbase co-founder Fred Ehrsam on the council, along with a16z’s Marc Andreessen (arguably the most prominent crypto VC in the world).
+
+The goal of the council is to advise the President on AI and emerging tech, keeping the US ahead of global competitors and “ensuring all Americans thrive in the Golden Age of Innovation.”
+
+Twenty-four hours after its worst day ever, Circle stock rebounded and many came to its defense.
+
+Bernstein commented: “Don’t conflate stablecoin issuer with distributor.” Their point is that the Clarity Act’s yield restrictions target platforms that pass interest through to users (like Coinbase), not Circle itself, which earns income on reserves but doesn’t pay yield directly to holders.
+
+Bitwise CIO Matt Hougan called the selloff “overblown,” noting that yield hasn’t been the primary driver of stablecoin adoption; most stablecoins don’t pay interest yet the market has grown to $200B+ because they make it easier to move dollars globally.
+
+Cathie Wood’s Ark Invest bought the dip, purchasing 161,513 shares of CRCL across three ETFs on Tuesday, around ~$16.3M at day’s close.
+
+Whop, the e-commerce platform that processes $3 billion in annual payouts for over 21 million creators, community builders, and software sellers across 144 countries,launched Whop Treasurythis week.
+
+Whope Treasury is a yield product built directly into the platform powered by Aave, Plasma, and Tether.
+
+The mechanic is simple from the user’s side: opt in, and your idle Whop balance starts generating up to 6% APY automatically. Under the hood, funds are converted to USDT0 on Plasma, routed through a Veda vault into Aave’s lending markets, and autocompound continuously - no gas, no wallet management, instant withdrawals (none of the onchain crypto headaches).
+
+The infrastructure stack is notable too: Tether (which made a strategic investment in Whop earlier this year) provides the stablecoin layer, MoonPay handles onramps, and Tether’s own Wallet Development Kit powers the wallet infrastructure. BTC and ETH support are on the roadmap.
+
+Most of Whop’s users have never touchedDeFi. They won’t have to.
+
+This is the story Aave founder Stani Kulechov has been telling for two years: DeFi’s liquidity is most powerful when it reaches users who will never interact with Aave directly. Whop Treasury is the first large-scale example of that thesis playing out.
+
+Twenty-one million people who run online businesses just became DeFi users - without even knowing it. This is how crypto and Defi grows…
+
+Googlepublished a formal 2029 timelineto transition its entire infrastructure to post-quantum cryptography Tuesday, calling the threat “closer than it appears.”
+
+Android 17 will integrate ML-DSA, a NIST-standardized quantum-resistant algorithm, and Google Cloud is following. IBM has its own fault-tolerant quantum roadmap targeting the same year.
+
+Google isn’t saying quantum computers will break cryptography by 2029 specifically, but it does plan to be ready in advance.
+
+For Bitcoin, the near-term threat remains distant but looming. Jameson Lopp, co-founder of Casa, told Decrypt: “We are several orders of magnitude away from having a cryptographically relevant quantum computer.”
+
+Bitcoin developers aren’t asleep, though; BIP 360, a quantum-resistant address format, was recently merged into Bitcoin’s formal improvement repository. The real risk to monitor for Bitcoin is coordination speed: migrating billions in user funds across a decentralized network without central authority could take 5-10 years on its own. And the quantum clock is ticking…
+
+Spot Bitcoin ETFspulled in nearly $2.5 billionover the past month, nearly erasing all year-to-date outflows.
+
+Bloomberg Intelligence analyst Eric Balchunas called it “incredible fortitude” in the face of a 40% price drawdown, Iran war escalation, and persistent macro headwinds.
+
+For comparison, when gold fell 40% roughly a decade ago, about one-third of investors exited. Bitcoin ETF holders mostly stayed put. IBIT has already flipped positive for the year and ranks in the top 2% of all ETFs by YTD flows.
+
+The institutional bid has held through a war, a Clarity Act shock, a Circle collapse, and the lowest Fear & Greed reading in months. With $15B in Bitcoin options expiring Friday, one more strong inflow day would push full-year ETF flows positive, setting up a notable narrative shift heading into the weekend.
+
+Your gateway into the world of Web3
+
+The latest news, articles, and resources, sent to your inbox weekly.
+
+© A next-generation media company.2026Decrypt Media, Inc.

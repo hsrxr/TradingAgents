@@ -1,0 +1,41 @@
+Title: Data points to accelerating Ether supply crunch: Will ETH price follow?
+Source: Cointelegraph
+URL: https://cointelegraph.com/news/data-points-to-accelerating-ether-supply-crunch-will-eth-price-follow?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+
+The number of Ether staked continues to rise while ETH outflows from exchanges are increasing. Will the phenomenon have a positive or negative impact on ETH price?
+
+Cointelegraph in your social feed
+
+Ether’s (ETH) liquid supply on the Ethereum network continues to tighten, with exchange netflows, rising staking participation, and declining exchange reserves all pointing to a shrinking pool of readily available tokens.
+
+Analysts suggest this supply contraction may mark the early stages of a “new phase,” potentially establishing a stronger structural price floor for ETH in the market cycles ahead.
+
+Ethereum’s staking share continues to rise, with about 38.1 million ETH locked on Wednesday, equal to roughly 33.1% of the total supply. Staking infrastructure provider Everstake noted that this is the highest level recorded, marking a steady shift toward illiquid capital rather than tradable inventory. The staking platformsaid,
+
+Crypto analyst Gaahaddedthat this scale of locked ETH creates a visible contraction in the liquid supply.
+
+The ETHvalidator activityreinforces this trend. The entry queue holds 2,876,752 ETH with an estimated wait time of nearly 50 days, signaling sustained demand to stake.
+
+In contrast, the exit queue contains only 40,504 ETH, with a wait time under 17 hours. The churn rate, capped at 256 validators per epoch, limits how quickly supply can re-enter circulation. This indicates that even if sentiment shifts, unlocking the supply takes time.
+
+Such conditions slow the pace at which ETH can return to exchanges, leaving a significant portion of the supply inactive for trading.
+
+Related: Ethereum price rally pauses at $2.2K: What will trigger breakout?
+
+ETH exchange flows have shown consistent outflows across major venues over the past few weeks. Crypto analyst Amr Tahahighlighteda $1.67 billion ETH withdrawal from OKX on March 22. Likewise, Binance recorded two separate outflows above $300 million in early February.
+
+The large negative netflows signal that ETH is moving away from exchanges rather than being positioned for sale.
+
+Multiple exchanges reporting sizable withdrawals above point to a broader contraction in exchange-held supply. The lower balances reduce immediate selling pressure from traders and tighten the available liquidity for spot markets.
+
+CryptoQuantdata showsthe ETH supply on exchanges has fallen to its lowest level since 2016, with Binance-specific balances currently sitting near its December 2020 lows of roughly 3.3 million ETH.
+
+With fewer coins available for trading, the price sensitivity to demand increases, which may allow ETH to move strongly above its current range near $2,000 to $2,200, once momentum returns.
+
+Related: Ethereum devs up security efforts with new ‘Post-Quantum’ team
+
+Cointelegraph covers fintech, blockchain and Bitcoin bringing you the latest crypto news and analyses on the future of money.
+
+Cointelegraph is committed to providing independent, high-quality journalism across the crypto, blockchain, AI, and fintech industries. To support open access to our website and sustain editorial operations, certain commercial or partner references may appear on our site. These arrangements help maintain an accessible platform and do not result in additional costs to readers.
+
+All news, reviews, and analysis are produced with full journalistic independence and integrity. For more details on our standards and processes, please read ourEditorial Policy.

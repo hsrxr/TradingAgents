@@ -1,0 +1,41 @@
+Title: NYSE parent ICE completes new $600M investment in Polymarket
+Source: Cointelegraph
+URL: https://cointelegraph.com/news/ice-600m-polymarket-investment-prediction-markets-scrutiny?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+
+ICE completed a new $600 million investment in Polymarket, advancing its $2 billion funding deal as prediction markets face growing scrutiny.
+
+Cointelegraph in your social feed
+
+Intercontinental Exchange (ICE), the parent of the New York Stock Exchange (NYSE), said Friday it completed a new $600 million direct cash investment in Polymarket, deepening its bet on prediction markets as a new area of growth for exchange operators.
+
+The company alsosaidit expects to purchase up to $40 million of Polymarket securities from existing holders, adding to its previously announced investment commitment made in October 2025.
+
+In that earlier deal, ICE said itwould invest up to $2 billion in Polymarket, marking one of the largest institutional moves into the prediction market sector. The latest transaction advances that arrangement, though terms for the new investment, including valuation, were not disclosed.
+
+The deal signals ICE’s intention to expand its exposure to prediction markets, even as the sector faces evolving US regulatory scrutiny.
+
+Aishwary Gupta, global head of business at Polygon Labs, said ICE’s latest investment reflects institutional attention toward onchain market platforms.
+
+Gupta told Cointelegraph that Polymarket’s growth on Polygon shows how blockchain infrastructure is being used to support high-frequency, real-time market activity.
+
+Related:Lawmakers push another bill to curb prediction market insider trading
+
+“Intercontinental Exchange’s investment in Polymarket highlights the growing institutional interest in onchain market platforms,” Gupta said.
+
+He said Polymarket’s growth on Polygon shows how blockchain infrastructure can support high levels of real-time market activity at scale.
+
+The news comes as prediction markets face increasing regulatory pressure across the US.
+
+At least 11 states are pursuing legal actionagainst prediction market platforms like Polymarket and Kalshi.
+
+Nevada hasissued a temporary ban on Polymarket competitor Kalshi, while Arizona filed criminal charges alleging the platform operated an illegal gambling business. Several other states have sent cease-and-desist orders or are considering new legislation.
+
+Polymarketrecently updated its rulesto more clearly prohibit trading on confidential information as lawmakers and critics raise concerns that prediction markets can be vulnerable to insider-style activity, especially around politics, sports and geopolitics.
+
+Magazine:Banks want to run Vietnam’s crypto exchanges, Boyaa’s $70M BTC plan: Asia Express
+
+Cointelegraph covers fintech, blockchain and Bitcoin bringing you the latest crypto news and analyses on the future of money.
+
+Cointelegraph is committed to providing independent, high-quality journalism across the crypto, blockchain, AI, and fintech industries. To support open access to our website and sustain editorial operations, certain commercial or partner references may appear on our site. These arrangements help maintain an accessible platform and do not result in additional costs to readers.
+
+All news, reviews, and analysis are produced with full journalistic independence and integrity. For more details on our standards and processes, please read ourEditorial Policy.

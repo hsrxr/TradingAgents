@@ -1,0 +1,49 @@
+Title: Circle stock CRCL hints at 25% rebound as market shuns CLARITY Act fears
+Source: Cointelegraph
+URL: https://cointelegraph.com/news/circle-stock-crcl-25percent-rebound-clarity-act-fears?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+
+Bernstein kept its $190 price target for the Circle stock while Bitwise predicted the company's worth will grow 200% to $75 billion by 2030.
+
+Cointelegraph in your social feed
+
+Circle Internet Group’s CRCL stock is showing signs of a potential 25% rebound after the market may have reacted too aggressively to fears surrounding draft CLARITY Actlanguagetied to stablecoin yield restrictions.
+
+CRCL is attempting to stabilize above a major support confluence near $100.75.
+
+Analysts say draft CLARITY Act language may hurt distributor incentives more than Circle’s core reserve-income model.
+
+From a technical perspective, CRCL is trying to base near an important support cluster around $100.75, where the 100-day exponential moving average (100-day EMA) aligns with the 0.236 Fibonacci retracement level.
+
+That confluence held even as the stock suffered a brutal 20% single-session decline, a sign that dip buyers stepped in around a historically relevant area on the chart.
+
+The stock could rebound toward the 0.382 Fibonacci retracement level near $130 in the coming weeks if CRCL continues to hold the current floor, representing roughly 25% increase.
+
+The bullish setup also gains some support from institutional buyers. Ark Investboughtabout $16 million worth of Circle shares during the plunge on Tuesday, showing that some investors viewed the sell-off as an opportunity.
+
+Still, the setup remains conditional. A decisive break below the $100.75 support confluence would weaken the rebound case and shift downside focus toward the 50-day EMA near $84.25.
+
+That level also aligns with a pullback targetsharedby independent TradingView analyst Jackie.
+
+CRCL fell after traders worried that draft CLARITY Act language could limit stablecoin-linked yield incentives and slowUSDCgrowth.
+
+But Bernsteinkept its $190 price target, saying the proposal does not affectCircle’s ability to earn yield on reservesor pay distribution partners such as Coinbase, Binance, or OKX. Ark Invest’s Lorenzo Valente made a similar point.
+
+I think people are misunderstanding what’s happening here.The new draft of the CLARITY Act does not prohibit issuers from paying distributors such as@coinbase,@binance, or@okx. The discussion around yield is really about retail holders, meaning the end users who actually…https://t.co/hmXpIRyooi
+
+Circle’s model is simple: it takes the cash backing its stablecoins, invests it in deposits and short-dated US Treasurys, earns yield on those reserves, and shares part of that income with partners.
+
+In 2025, for instance, Circleearnedabout $2.64 billion in reserve income from roughly $75.3 billion worth of USDC reserves. It doesn’t pay yield directly to USDC holders but to its distribution partners.
+
+Bernstein added that if yield competition becomes harder across the sector, Circle’s market position could actually improve.
+
+Related:Circle taps African fintech Sasai to expand USDC adoption in cross-border payments
+
+Presenting similar arguments, BitwisesaidCircle’s market valuation may reach about $75 billion by 2030, almost three times its current worth.
+
+This article does not contain investment advice or recommendations. Every investment and trading move involves risk, and readers should conduct their own research when making a decision. While we strive to provide accurate and timely information, Cointelegraph does not guarantee the accuracy, completeness, or reliability of any information in this article. This article may contain forward-looking statements that are subject to risks and uncertainties. Cointelegraph will not be liable for any loss or damage arising from your reliance on this information.
+
+Cointelegraph covers fintech, blockchain and Bitcoin bringing you the latest crypto news and analyses on the future of money.
+
+Cointelegraph is committed to providing independent, high-quality journalism across the crypto, blockchain, AI, and fintech industries. To support open access to our website and sustain editorial operations, certain commercial or partner references may appear on our site. These arrangements help maintain an accessible platform and do not result in additional costs to readers.
+
+All news, reviews, and analysis are produced with full journalistic independence and integrity. For more details on our standards and processes, please read ourEditorial Policy.

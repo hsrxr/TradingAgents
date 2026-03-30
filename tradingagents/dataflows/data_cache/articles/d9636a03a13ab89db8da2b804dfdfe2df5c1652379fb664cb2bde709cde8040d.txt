@@ -1,0 +1,37 @@
+Title: Ethereum Foundation accelerates 70,000 ETH staking plan after BitMine sale
+Source: Cointelegraph
+URL: https://cointelegraph.com/news/ethereum-foundation-stakes-46m-eth-after-bitmine-sale-accelerates-70k-plan?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+
+The Ethereum Foundation deployed $46.2 million in ETH across 11 deposits as it accelerates a 70,000 ETH staking plan.
+
+Cointelegraph in your social feed
+
+The Ethereum Foundation has accelerated its treasury staking push, deploying $46.2 million in Ether in its largest move to date after the recent BitMine sale.
+
+On Monday, the foundation’s treasury multisignature wallet made 11 deposits into the Ethereum Beacon Deposit Contract, each of roughly 2,047 Ether (ETH), totaling 22,517 tokens worth roughly $46.2 million,accordingto data from Arkham Intelligence.
+
+The Ethereum Foundationstarted staking ETHin February, depositing 2,016 ETH and outlining plans to stake up to 70,000 ETH, with rewards reinvested into research, ecosystem development and grants.
+
+The foundation also deposited a smaller 31 ETH tranche earlier this month, bringing the total staked holdings to roughly 24,564 ETH as it shifts to staking to generate yield, rather than relying on periodic ETH sales, which have historically drawn criticism.
+
+Related:Ethereum builders propose ‘economic zone’ to tackle L2 fragmentation
+
+The new staking move comes after the EF completed an over-the-counter (OTC) sale of5,000 Ether to BitMine Immersion Technologies, valued at about $10.2 million. The foundation said proceeds would support core operations, including protocol research, ecosystem growth and community grants.
+
+The transaction marked thefoundation’s second direct OTC saleto a corporate buyer, following a 10,000 ETH sale to SharpLink Gaming in July 2025.
+
+The EF currently holds about $361 million in onchain assets, with the vast majority, roughly $360.8 million, held in Ether on the Ethereum network, alongside small balances across networks like Arbitrum, Optimism and Bitcoin, according to Arkham.
+
+Related:Ethereum risks losing No. 2 spot as stablecoins gain ground
+
+Ether fell below the $2,000 level over the weekend,raising the riskof a deeper correction. Analysts, including Onur, CryptoWZRD and Ted Pillows, pointed to repeated failures at $2,200 and weakening momentum, with some warning ETH could fall toward the $1,750–$1,850 range.
+
+Demand for Ether has also turned negative, hitting its lowest level in 16 months,accordingto Capriole Investments.
+
+Magazine:Ethereum’s Fusaka fork explained for dummies — What the hell is PeerDAS?
+
+Cointelegraph covers fintech, blockchain and Bitcoin bringing you the latest crypto news and analyses on the future of money.
+
+Cointelegraph is committed to providing independent, high-quality journalism across the crypto, blockchain, AI, and fintech industries. To support open access to our website and sustain editorial operations, certain commercial or partner references may appear on our site. These arrangements help maintain an accessible platform and do not result in additional costs to readers.
+
+All news, reviews, and analysis are produced with full journalistic independence and integrity. For more details on our standards and processes, please read ourEditorial Policy.

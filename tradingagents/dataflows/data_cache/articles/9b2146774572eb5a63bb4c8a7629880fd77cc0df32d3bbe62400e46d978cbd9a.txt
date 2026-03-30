@@ -1,0 +1,35 @@
+Title: Cathie Wood's ARK taps Kalshi data to help make investment calls
+Source: Cointelegraph
+URL: https://cointelegraph.com/news/cathie-wood-ark-taps-kalshi-data-investment-decisions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+
+Kalshi has already listed specific markets that ARK Invest is interested in, such as non-farm payroll markets and deficit-to-GDP (gross domestic product) ratio markets.
+
+Cointelegraph in your social feed
+
+Tech-focused asset manager ARK Invest said it will start using Kalshi’s prediction market data to improve how it makes its investment decisions, one of the latest cases demonstrating the broader value of prediction market data beyond trading.
+
+According to astatementfrom Kalshi, ARK will use prediction market data to gauge real-time expectations and guide its existing market-based research, in addition to analyzing performance indicators such as trading volume, regulatory approvals and technological milestones. ARK will also use the data for risk management and hedging strategies.
+
+“Bringing prediction markets into institutional workflows is a natural next step for innovation in financial research,” ARK Invest founder and CEO Cathie WoodsaidThursday, while the company’s research director, Nick Grous, said prediction markets “offer some of the purest expressions of risk around key economic and company-specific outcomes.”
+
+Prediction markets became one of thehottest use cases in cryptolast year and have consistently surpassed $10 billion in monthly trading volume. Prediction market data has also increasingly been seen by institutions, including the Federal Reserve and Cornell University, as valuable for making decisions that require a pulse on the market.
+
+In a post on X, Wood alsosaidARK has been working with Kalshi to list markets on topics it is curious about on the prediction markets platform, including macroeconomic data and scientific milestones.
+
+Kalshi CEO Tarek Mansournotedthat “a few of these are already live on Kalshi, including non-farm payroll markets, deficit-to-GDP ratio markets, business KPIs, and more.”
+
+Last month, researchers at theUS Federal Reserveargued that Kalshi canbetter measuremacroeconomic expectations in real time than its existing solutions and thus should be incorporated into theFed’s decision-making process.
+
+Related:Polymarket tightens rules to curb manipulation, insider trading risks
+
+“Kalshi markets provide a high-frequency, continuously updated, distributionally rich benchmark that is valuable to both researchers and policymakers,” the Fed researchers said at the time.
+
+Predictions market data from Polymarket has also beenresearchedat Cornell University to study how traders reacted to political events in real time, such as Donald Trump and Joe Biden’s presidential debates and theassassination attempt on Trumpin 2024.
+
+Magazine:IronClaw rivals OpenClaw, Olas launches bots for Polymarket — AI Eye
+
+Cointelegraph covers fintech, blockchain and Bitcoin bringing you the latest crypto news and analyses on the future of money.
+
+Cointelegraph is committed to providing independent, high-quality journalism across the crypto, blockchain, AI, and fintech industries. To support open access to our website and sustain editorial operations, certain commercial or partner references may appear on our site. These arrangements help maintain an accessible platform and do not result in additional costs to readers.
+
+All news, reviews, and analysis are produced with full journalistic independence and integrity. For more details on our standards and processes, please read ourEditorial Policy.

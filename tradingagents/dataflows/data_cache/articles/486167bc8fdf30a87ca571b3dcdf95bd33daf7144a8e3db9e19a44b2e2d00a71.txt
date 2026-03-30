@@ -1,0 +1,37 @@
+Title: Crypto Case Over Money Transmitter Laws Dismissed by US Judge
+Source: Decrypt
+URL: https://decrypt.co/362408/crypto-money-transmitter-laws-dismissed-us-judge
+
+Crypto Case Over Money Transmitter Laws Dismissed by US Judge
+
+A U.S. federal court has dismissed a lawsuit brought by a crypto software developer seeking a preemptive ruling that his non-custodial crypto donation platform would not violate federal money transmission laws, leaving a key legal question unresolved for the industry.
+
+In anopinionissued Wednesday, the U.S. District Court for the Northern District of Texas granted the government’s motion to dismiss the case.
+
+It found that the developer, Michael Lewellen, had not demonstrated a credible threat of prosecution under federal law governing unlicensed money-transmitting businesses.
+
+Courts and regulators continue to grapple with how existing financial laws apply to decentralized software and blockchain-based services, particularly when developers create tools that enable users to move funds without relying on a traditional financial intermediary.
+
+Lewellen had planned to launch Pharos, a software product designed to facilitate crypto donations to charitable crowdfunding campaigns.
+
+He argued that because the software was non-custodial, he should not be required to register as a money transmitter under federal law.
+
+"A non-binding DoJ memo is no substitute for real legal certainty,"Lewellen wrote on X on Wednesday following the ruling. "My lawyers are exploring all options for a path forward."
+
+The court did not rule on whether non-custodial software developers fall within the scope of U.S. money transmitter laws. Instead, the judge said Lewellen lacked standing to bring the case because he could not show that enforcement action against him was likely or imminent.
+
+The ruling noted that recent Justice Department guidance indicated that authorities would not pursue enforcement actions against crypto businesses for end users' actions or for inadvertent regulatory violations, undermining Lewellen’s claim that he faced a credible risk of prosecution.
+
+Because the case was dismissed without prejudice, Lewellen could bring the challenge again if circumstances change, such as if regulators take action against similar software providers.
+
+The case drew amicus support from several crypto industry organizations, including the Blockchain Association, Paradigm, the DeFi Education Fund, and the Uniswap Foundation, reflecting broader concern that developers of non-custodial software could face liability under financial laws designed for intermediaries that hold and transfer customer funds.
+
+The decision comes as federal prosecutorsseek a retrialof Tornado Cash developer Roman Storm, a closely watched case that could help determine whether developers of privacy-focused crypto software can be held liable under money transmission and money laundering laws.
+
+In that case, the Justice Department has proposed an October retrial on two conspiracy counts carrying a potential 40-year maximum sentence.
+
+Your gateway into the world of Web3
+
+The latest news, articles, and resources, sent to your inbox weekly.
+
+© A next-generation media company.2026Decrypt Media, Inc.

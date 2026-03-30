@@ -1,0 +1,37 @@
+Title: Coinbase, Fannie Mae bring crypto-backed mortgages to homebuyers
+Source: CoinDesk
+URL: https://www.coindesk.com/business/2026/03/26/coinbase-fannie-mae-bring-crypto-backed-mortgages-to-homebuyers
+
+U.S.-listed cryptocurrency exchange Coinbase (COIN) is working with Fannie Mae-approved mortgage firm Better Home & Finance Holding Co. (BETR), to enable crypto holders to use their digital assets as down payment collateral when buying a home.
+
+The mortgage is structured as aconforming loanbacked by Fannie Mae, meaning it carries the same protections and standards as traditional mortgages, according to a press release on Thursday.
+
+Borrowers pledge bitcoinBTC$67,882.84or the USDC stablecoin as collateral to fund their down payment, allowing them to keep their assets intact and avoid creating a taxable event by spending them. In the case of USDC, they can keep earnings rewards, Coinbase said.
+
+Some 41% of American families fail to buy a home because they don't have enough funds for the down payment, even though they have money elsewhere in savings, Better founder Vishal Garg said in an interview.
+
+Average homebuyers have been squeezed by increases in interest rates while house prices stay the same, Garg said. Someone looking to buy a $400,000 property, for example, might struggle to find the $40,000 cash down payment, and face a quagmire of legal and tax requirements when trying to sell assets to make the amount, he said.
+
+Provided the consumer is a crypto holder on Coinbase, they can avoid having to file all manner of “crazy stuff,” Garg said, and simply transfer their digital assets from the exchange to a custody wallet with Better while retaining ownership rights.
+
+If Better had previously been accepting crypto as downpayment collateral, "we would have funded maybe 40 billion more of consumer demand over the past few years,” Garg added.
+
+There have been other advances in thecrypto-backed mortgages, including some that use Coinbase as custodian. However, the emphasis has tended to be onwealth managementand relatively high-end purchases, rather than catering to the average Joe.
+
+In February 2023, Better allowed Amazon (AMZN) employees to pledge their stock as collateral for a loan to cover the down payment on a house purchase, albeit at a slightly higher interest rate.
+
+A spokesman for Coinbase said via email that the rates for the crypto-backed mortgages will be higher than a standard 30-year by between half a percentage point and 1.5 percentage points, depending on the consumer profile.
+
+The token-backed mortgages would be free of margin calls and top-ups,  according to a press release. If BTC drops in value, the mortgage terms remain unchanged and no additional collateral is required. Market movements alone never trigger liquidation, Coinbase said.
+
+Borrowers’ collateral is at risk of liquidation only in the event of a 60-day payment delinquency, similar to conventional mortgages, it said.
+
+The product is “as American as apple pie,” said Coinbase's head of consumer and platform business development, Mark Troianovski, in an interview with CoinDesk.
+
+“People who are sitting on Bitcoin or USDC can put a roof over their head without needing to sell it, without needing to incur capital gains,” Troianovski said. “We are giving people access to housing in a way that is very similar to how private bankers serve some of the wealthiest customers. They don't sell assets to buy stuff; they actually take loans against assets.”
+
+As stablecoins evolve into core financial infrastructure, North America leads. This report maps the regulation, market shifts, and players driving adoption.
+
+Stablecoins are entering their third phase of evolution - the institutionalization era - becoming increasingly embedded into core financial infrastructure. As institutions prioritize transparency and compliance, regulated issuers like USDC, RLUSD, and PYUSD are steadily gaining share with RLUSD surpassing $1B in market cap within its first year. North America, leading in regulatory frameworks and institutional distribution, is at the center of it all.
+
+The video retailer sparked speculations of selling bitcoin after it transferred nearly all its coins to Coinbase Prime in January.

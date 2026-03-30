@@ -23,7 +23,10 @@ from tradingagents.dataflows.config import set_config
 
 # Import direct DEX tools from dataflow layer
 from tradingagents.dataflows.geckoterminal_price import get_dex_ohlcv
-from tradingagents.dataflows.calculate_indicators import get_dex_indicators
+from tradingagents.dataflows.calculate_indicators import (
+    get_dex_indicators,
+    get_builtin_quant_signals,
+)
 from tradingagents.dataflows.rss_processor import fetch_and_parse_crypto_news
 from tradingagents.dataflows.get_full_articles import fetch_article_full_text
 
@@ -44,7 +47,7 @@ class TradingAgentsGraph:
 
     def __init__(
         self,
-        selected_analysts=["market", "news"],
+        selected_analysts=["market", "news", "quant"],
         debug=False,
         config: Optional[Dict[str, Any]] = None,
         callbacks: Optional[List] = None,
@@ -272,9 +275,17 @@ class TradingAgentsGraph:
                     fetch_article_full_text,
                 ]
             ),
+            "quant": ToolNode(
+                [
+                    # Quant strategy signal analysis uses the same market data primitives.
+                    get_dex_ohlcv,
+                    get_dex_indicators,
+                    get_builtin_quant_signals,
+                ]
+            ),
         }
 
-    def propagate(self, company_name, trade_date):
+    def propagate(self, company_name, trade_date, trigger_context: Optional[Any] = None):
         """Run the trading agents graph for a company on a specific date."""
 
         self.ticker = company_name
@@ -303,8 +314,17 @@ class TradingAgentsGraph:
         overall_start_time = time.time()
 
         for attempt in range(1, max_attempts + 1):
+            if isinstance(trigger_context, str):
+                trigger_context_text = trigger_context
+            elif trigger_context is None:
+                trigger_context_text = ""
+            else:
+                trigger_context_text = json.dumps(trigger_context, ensure_ascii=False)
+
             init_agent_state = self.propagator.create_initial_state(
-                company_name, trade_date
+                company_name,
+                trade_date,
+                trigger_context=trigger_context_text,
             )
             try:
                 final_state = self._invoke_graph(current_graph, init_agent_state, args)
@@ -392,6 +412,7 @@ class TradingAgentsGraph:
             "market_report": final_state.get("market_report", ""),
             "sentiment_report": final_state.get("sentiment_report", ""),
             "news_report": final_state.get("news_report", ""),
+            "quant_strategy_report": final_state.get("quant_strategy_report", ""),
             "fundamentals_report": final_state.get("fundamentals_report", ""),
             "investment_debate_state": invest_debate_log,
             "trader_investment_decision": final_state.get("trader_investment_plan", ""),
@@ -403,9 +424,11 @@ class TradingAgentsGraph:
         # Save to file
         directory = Path(f"eval_results/{self.ticker}/TradingAgentsStrategy_logs/")
         directory.mkdir(parents=True, exist_ok=True)
+        safe_trade_date = str(trade_date)
+        safe_trade_date = safe_trade_date.replace(":", "-").replace("/", "-").replace("\\", "-")
 
         with open(
-            f"eval_results/{self.ticker}/TradingAgentsStrategy_logs/full_states_log_{trade_date}.json",
+            f"eval_results/{self.ticker}/TradingAgentsStrategy_logs/full_states_log_{safe_trade_date}.json",
             "w",
             encoding="utf-8",
         ) as f:

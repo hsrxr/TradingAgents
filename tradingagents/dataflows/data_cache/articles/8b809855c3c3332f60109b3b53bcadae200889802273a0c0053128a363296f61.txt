@@ -1,0 +1,47 @@
+Title: UK sanctions $20B scam market by cutting ‘legitimate’ crypto ties
+Source: Cointelegraph
+URL: https://cointelegraph.com/news/uk-sanctions-xinbi-crypto-scam-crackdown?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+
+It’s estimated that Xinbi processed more than $19.9 billion in illicit flows between 2021 and 2025 and that the platform is deeply interconnected with a range of other illicit services.
+
+Cointelegraph in your social feed
+
+The UK government is cracking down on a $20 billion Chinese-language crypto guarantee marketplace, with sweeping sanctions aimed at cutting the platform off from crypto access.
+
+The UK’s Foreign, Commonwealth & Development Officesaidin a statement Thursday thatXinbi provides crypto-based services, scam-enabling tools and other illicit services to bad actors and plays a central role in scam centers operating across Southeast Asia.
+
+“The UK’s sanctions will isolate the platform from the legitimate crypto ecosystem, significantly disrupting its operations by affecting its ability to send and receive cryptocurrency transactions,” the agency said.
+
+The latest wording from the UK government highlights a separation between legal and illicit crypto ecosystems rather than lumping them together — a positive direction for the industry’s reputation.
+
+Under the sanctions, any UK assetsconnectedto Xinbi will be frozen, and the platform will be barred from the country’s financial, trade and travel networks. UK-based businesses, including banks, crypto firms and individual citizens, are prohibited from providing goods, services, loans or investments to Xinbi.
+
+Chainalysis estimates Xinbi processed more than $19.9 billion between 2021 and 2025 and is deeply interconnected with a range of other illicit services.
+
+The department’s recent sanctions include Thet Li, who allegedly managed the international financial network ofPrince Group, a Cambodia-based company accused of orchestrating large-scale crypto fraud schemes.
+
+Hu Xiaowei, who is allegedly involved in the Prince Group’s financial network and #8 Park, a scam compound linked to the group, was also sanctioned.
+
+Blockchain analytics company Chainalysissaidin a report Thursday that the sanctions target the scam ecosystem’s on and off-ramps that enable large-scale fraud and are “exploiting the efficient, borderless nature of crypto rails.”
+
+“By blacklisting a well-known Chinese-language guarantee marketplace, the FCDO is addressing the commercial marketplaces that sustain scam operators with payment facilitation and marketing services,” it said.
+
+Related:There’s more to crypto crime than meets the eye: What you need to know
+
+Traditional financial systems, such as wire transfers, have long been exploited for money laundering and fraud, largely because of their scale and global reach.
+
+The Financial Action Task Force estimates that 2% to 5% of global GDP is laundered through traditional financial systems, whereas Chainalysis estimates that less than1% of crypto transactionsare linked to illicit activity.
+
+The US has also intensified sanctions targeting illicit crypto operations. Earlier this month, the Treasury Departmentsanctioned six individuals and two entitiesfor their alleged roles in an IT worker fraud scheme orchestrated by North Korea, a state actor that frequently targets the crypto industry.
+
+Magazine:Big Questions: Can Bitcoin save you from the dreaded Cantillon Effect?
+
+© Cointelegraph 2013 -  2026
+
+COINTELEGRAPH NEWSLETTER
+
+Cointelegraph covers fintech, blockchain and Bitcoin bringing you the latest crypto news and analyses on the future of money.
+
+Cointelegraph is committed to providing independent, high-quality journalism across the crypto, blockchain, AI, and fintech industries. To support open access to our website and sustain editorial operations, certain commercial or partner references may appear on our site. These arrangements help maintain an accessible platform and do not result in additional costs to readers.
+
+All news, reviews, and analysis are produced with full journalistic independence and integrity. For more details on our standards and processes, please read ourEditorial Policy.

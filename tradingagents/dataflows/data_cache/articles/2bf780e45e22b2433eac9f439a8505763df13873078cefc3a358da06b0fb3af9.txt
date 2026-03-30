@@ -1,0 +1,37 @@
+Title: Aave rolls out v4 on Ethereum, aiming to expand DeFi into real-world credit markets
+Source: CoinDesk
+URL: https://www.coindesk.com/tech/2026/03/30/aave-rolls-out-v4-on-ethereum-aiming-to-expand-defi-into-real-world-credit-markets
+
+Aave, one of the largest decentralized lending platforms, debuted its long-awaited v4 upgrade on Ethereum, aiming to push DeFi beyond crypto trading and into broader financial markets.
+
+The upgrade has been in development for about two years and is designed to make it easier to use Aave for a wider range of lending and borrowing activities, including those tied to real-world assets.
+
+The introduction follows months of internal debate over governance and value flow through the protocol. Disputes over interface fees, contributor roles and proposals to redirect product revenue to the decentralized autonomous organization (DAO) have highlighted tensions between decentralization and coordination, even as the work progressed.
+
+At a basic level, v4 changes how Aave organizes its markets. Instead of grouping everything together, the new system allows different types of lending markets to operate separately while still sharing the same pool of funds.
+
+That means users could eventually borrow and lend against more than just crypto tokens.
+
+For Aave Labs founder Stani Kulechov, the shift reflects a broader change in how decentralized finance is evolving. “Lending is based on trust… you need lending conditions that reflect market conditions,” he said in an interview with CoinDesk.
+
+The upgrade is designed to better handle that complexity. By separating different market types while sharing liquidity, Aave aims to support everything from traditional crypto lending to more complex situations like institutional borrowing and real-world assets.
+
+It also opens the door for others to build on top of the protocol more easily.
+
+“It also means that other teams can come and build and expand that infrastructure,” Kulechov said.
+
+Another goal is to make better use of the capital already in the system.
+
+“There’s some technical improvements where the float … can be reinvested,” Kulechov said, referring to idle funds that can now be deployed more efficiently.
+
+The new version went live with a limited set of markets and conservative settings. More features are likely to be added following governance decisions.
+
+“DeFi is stronger than ever,” Kulechov said. “A lot of these opportunities will come from value outside of DeFi.
+
+Read more:Aave labs proposes ‘Aave Will Win’ plan to send 100% of product revenue to DAO
+
+As stablecoins evolve into core financial infrastructure, North America leads. This report maps the regulation, market shifts, and players driving adoption.
+
+Stablecoins are entering their third phase of evolution - the institutionalization era - becoming increasingly embedded into core financial infrastructure. As institutions prioritize transparency and compliance, regulated issuers like USDC, RLUSD, and PYUSD are steadily gaining share with RLUSD surpassing $1B in market cap within its first year. North America, leading in regulatory frameworks and institutional distribution, is at the center of it all.
+
+The project is designed to make Ethereum’s many layer 2s work together more seamlessly.

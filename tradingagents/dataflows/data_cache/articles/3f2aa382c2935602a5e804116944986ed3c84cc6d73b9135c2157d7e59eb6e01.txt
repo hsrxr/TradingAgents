@@ -1,0 +1,39 @@
+Title: $15 Billion in Bitcoin Options Expire Friday as Trump's Iran Deadline Looms
+Source: Decrypt
+URL: https://decrypt.co/362352/15-billion-bitcoin-options-expire-friday-trump-iran-deadline
+
+$15 Billion in Bitcoin Options Expire Friday as Trump's Iran Deadline Looms
+
+There's nearly $15 billion worth of Bitcoin options contracts expiring on derivatives exchange Deribit on Friday.
+
+That represents nearly 40% of the $36.5 billion worth of BTC open interest currently on the exchange. The derivatives exchange wasacquired by Coinbase in a $2.9 billion dealin 2025, but still operates as Deribit.
+
+Jean-David Pequignot, the derivative exchange's chief commercial officer, said the platform will see $17 billion total in options expire tomorrow, which includes Bitcoin and Ethereum. He flagged that geopolitical forces are timed to spike volatility on Friday.
+
+"Bitcoin’s recent surge back toward $71k was catalyzed by President Donald Trump’s decision to postpone strikes on Iranian power plants for five days," he toldDecrypt. "This diplomatic window expires almost perfectly in tandem with Friday’s options expiry, exacerbating a localized volatility kink in the term structure."
+
+Even so, Pequignot added that Deribit options data suggests traders have been steadily de-risking ahead of Friday's expiry. The Deribit executive said the exchange has witnessed "an implied volatility compression" with both BTC and ETH contracts.
+
+"This suggests the market is pricing in a controlled expiry rather than an immediate explosion in volatility," he said.
+
+On Wednesday afternoon, totalBitcoinopen interest had reached $112 billion after having climbed 8% in the past day, according to derivatives analytics platformCoinglass. The platform aggregates Bitcoin derivatives data from 24 different exchanges, including Deribit, CME, Binance, OKX, and ByBit.
+
+Nexo analyst Iliya Kalchev toldDecrypthe agrees traders should expect a "relatively orderly settlement."
+
+"The more interesting question is arguably what happens after—once the options overhang clears, price tends to find its own footing, and some additional activity heading into the weekend would not be surprising," he added.
+
+It's sometimes been the case that large expiries, likein September 2025, set the stage for big weekend moves that ripple into the following week. Heading into that expiry, the30-day Bitcoin volatilityhad dropped to 0.88%, according to BitBo. But within a week, the metric had jumped to 1.14% and then stayed in up-only mode and peaked above 2% by the end of the month after a$19 billion liquidation wipeouttriggered a BTC crash.
+
+More recently, 30-day Bitcoin has remained elevated. As of Wednesday afternoon, the metric was at 2.23%. Despite heightened volatility, there are still some encouraging signs coming from markets, Kalchev said.
+
+"The broader context, however, is Bitcoin's resilience around $70,000," he said. "Holding this level through a period of genuine macro uncertainty—geopolitical tensions, equity market softness, and energy market volatility—reflects reasonably solid spot demand and longer-term holder steadiness."
+
+For traders timing bets on BTC climbing higher, they should watch for ETF flows and on-chain accumulation, Kalchev added, "signs that fresh capital is coming in rather than existing participants simply rotating."
+
+As of Wednesday afternoon, Bitcoin was changing hands for $70,912.18 after having gained 2.3% in the past day, according to crypto price aggregator CoinGecko.
+
+Your gateway into the world of Web3
+
+The latest news, articles, and resources, sent to your inbox weekly.
+
+© A next-generation media company.2026Decrypt Media, Inc.

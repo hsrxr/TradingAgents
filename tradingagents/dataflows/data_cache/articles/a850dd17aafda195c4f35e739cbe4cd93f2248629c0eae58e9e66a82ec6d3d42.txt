@@ -1,0 +1,21 @@
+Title: Ethereum Foundation stakes additional $42 million of ether
+Source: CoinDesk
+URL: https://www.coindesk.com/markets/2026/03/30/ethereum-foundation-stakes-additional-usd42-million-of-ether
+
+The Ethereum Foundation is stepping up its efforts to put treasury assets to work, with data from Arkham showing it staked more than 20,000 ETH on Monday, expanding its validator footprint even as yields hover below 3% and ether trades near $2,045.
+
+Arkham data shows the transfers were split into uniform chunks of roughly 2,047 ETH.
+
+THE ETHEREUM FOUNDATION IS STAKING ETHThe Ethereum Foundation just staked $46.2M of ETH. This is more ETH than they have EVER staked before.pic.twitter.com/gCCc0qK6VN
+
+The deposits extend a strategy firstoutlined in February, when the foundation said it would stake 70,000 ETH to generate yield for operations. That initial roll-out began with a 2,016 ETH deposit and positioned staking rewards as a funding source for research, ecosystem development and grants, turning long-held reserves into a steady income stream.
+
+Based on the CoinDesk Composite Ether Staking Rate (CESR), the foundation will get a 2.7% yield from its staked ETH. This is down from 3.4% earlier in the year.
+
+Onchain datashows that the Ethereum Foundation has another 147,400 ETH ($303 million) in its treasury.
+
+As stablecoins evolve into core financial infrastructure, North America leads. This report maps the regulation, market shifts, and players driving adoption.
+
+Stablecoins are entering their third phase of evolution - the institutionalization era - becoming increasingly embedded into core financial infrastructure. As institutions prioritize transparency and compliance, regulated issuers like USDC, RLUSD, and PYUSD are steadily gaining share with RLUSD surpassing $1B in market cap within its first year. North America, leading in regulatory frameworks and institutional distribution, is at the center of it all.
+
+Bitcoin and ether tick higher while altcoins surge on oversold bounce, but weak liquidity and macro tensions keep the broader trend fragile.

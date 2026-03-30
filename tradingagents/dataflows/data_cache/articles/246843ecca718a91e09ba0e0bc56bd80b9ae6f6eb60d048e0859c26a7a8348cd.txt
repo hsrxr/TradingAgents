@@ -1,0 +1,27 @@
+Title: BMO Is First Bank to Join CME's Tokenized Cash Platform on Google Cloud
+Source: Decrypt
+URL: https://decrypt.co/362188/bmo-first-bank-cme-tokenized-cash-platform-google-cloud
+
+BMO Is First Bank to Join CME's Tokenized Cash Platform on Google Cloud
+
+Bank of Montreal, which goes by BMO, is joining forces with derivatives marketplace CME Group and Google Cloud to launch a tokenized cash and deposit platform. This will make BMO the first bank to offer CME Group's tokenized cash solution on Google Cloud Universal Ledger (GCUL), the three companies said Tuesday in ajoint press release.
+
+The collaboration will allow BMO's institutional clients to convert U.S. dollars into tokenized instruments around the clock, enabling real-time margin calls, collateral movements, and settlement without the constraints of traditional banking hours, according to the release.
+
+BMO plans to offer the settlement instrument to regulated financial services firms in the second half of 2026, pending regulatory approval.
+
+"Clients will be able to move funds continuously when markets demand it, not when banking hours allow it," said Derek Vernon, BMO's head of North American treasury and payment solutions, in a statement.
+
+The announcement is the latest milestone in the CME-Google Cloud partnership, which stretches back toMarch 2025, when CME Group completed the first phase of integration and testing for GCUL. The Google Cloud Universal Ledger is a programmable distributed ledger designed for wholesale payments and asset tokenization that uses Python-based smart contracts, setting it apart from blockchains that typically rely on Solidity forEthereum.
+
+CME CEO Terry Duffy telegraphed the bank partnership during the exchange's Q4 2025 earnings call in February, where he confirmed the tokenized cash solution was set to roll out this year using "another depository bank" to facilitate those transactions. CME is also moving its cryptocurrency futures and options to round-the-clock tradingin early 2026, making seamless, always-on collateral infrastructure increasingly critical.
+
+The deal also fits within a broader institutional wave. JPMorgan has alreadyrolled out tokenized depositson Coinbase's layer-2 blockchainBasevia itsJPMD deposit token. Meanwhile, Fidelity Investments has said it plans tolaunch a U.S. dollar-backed stablecoincalled the Fidelity Digital Dollar.
+
+For BMO, the platform is designed to lay groundwork beyond clearing: the bank says it also plans to offer tokenized deposits enabling general-purpose B2B payments, treasury movements, and programmable cash applications to a broader set of clients.
+
+Your gateway into the world of Web3
+
+The latest news, articles, and resources, sent to your inbox weekly.
+
+© A next-generation media company.2026Decrypt Media, Inc.

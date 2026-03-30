@@ -1,0 +1,21 @@
+Title: Coinbase, Fannie Mae to Enable Crypto-Backed Mortgages
+Source: Decrypt
+URL: https://decrypt.co/362421/coinbase-fannie-mae-to-enable-crypto-backed-mortgages
+
+Coinbase, Fannie Mae to Enable Crypto-Backed Mortgages
+
+Fannie Mae will accept cryptocurrency-backed mortgages for the first time, allowing prospective home buyers to pledgeBitcoinor the USDCstablecoinas collateral for down payments through a partnership between Coinbase and mortgage firm Better Home & Finance.
+
+The program, first reported on by theWall Street Journal, enables borrowers to transfer their digital assets from Coinbase to a Better custody wallet while retaining ownership, avoiding the need to sell crypto and trigger taxable events. For USDC holders, the structure allows them to continue earning rewards while their assets serve as collateral.
+
+The mortgages will carry rates 0.5 to 1.5 percentage points higher than standard 30-year loans, depending on borrower profiles,according toa spokesperson for Coinbase.
+
+Unlike typical crypto lending products, the loans have no margin calls—if Bitcoin drops in value, the terms of the mortgage remain unchanged and no additional collateral is required. Borrowers face liquidation risk only after 60-day payment delinquency, under terms similar to those of conventional mortgages.
+
+The U.S. housing chieforderedFannie Mae and Freddie Mac to prepare for crypto assessment in mortgages last year, with the housing regulatorstudying crypto holdingsin the mortgage qualification process. Major lenders have increasingly shown interest, with $778 billion mortgage lender Newrez announcing earlier this year that it wasassessing Bitcoin and Ethereumfor mortgage qualification as part of broader institutional adoption.
+
+Your gateway into the world of Web3
+
+The latest news, articles, and resources, sent to your inbox weekly.
+
+© A next-generation media company.2026Decrypt Media, Inc.

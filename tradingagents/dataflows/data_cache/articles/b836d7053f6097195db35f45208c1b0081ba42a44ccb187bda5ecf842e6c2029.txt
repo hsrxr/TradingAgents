@@ -1,0 +1,41 @@
+Title: Circle Stock Dives as Rival Tether Secures Big Four Audit, Crypto Bill Threatens Stablecoin Yield
+Source: Decrypt
+URL: https://decrypt.co/362215/circle-stock-dives-tether-big-four-audit-crypto-bill-stablecoin-yield
+
+Circle Stock Dives as Rival Tether Secures Big Four Audit, Crypto Bill Threatens Stablecoin Yield
+
+Stablecoin issuer Circle saw its stock take a 20% dive Tuesday following a double shot of potentially concerning news for the firm behind the prominent USDC stablecoin.
+
+As of the close of trading,CRCL changed handsfor $101.24, falling just over 20% on the day—and it's ticking down further in after-hours trading thus far, as of this writing. Shares of the closely aligned crypto exchange Coinbase also fell nearly 10% on the day, finishing at $181.04.
+
+Early Tuesday, stablecoin rival Tether—issuer of the largest stablecoin by market cap, USDT—said that it had agreed toundergo a full auditby an unnamed "Big Four" accounting firm, one of the last potential hurdles to compliance with the U.S. GENIUS Act. That could make Tether a bigger domestic threat to Circle in the future.
+
+Circle's share price may also have been impacted by the latest developments with another piece of legislation, the proposed Clarity Act market structure bill that's still beingrevised by lawmakers. Crypto lobbyists reviewed compromise language regarding stablecoin yield on Monday, with the banking lobbycurrently reviewingto see if they'll get onboard with the version of the language put together by Senators Alsobrooks and Tillis and the White House.
+
+New: Lots of crypto-side worry rn over the proposed stablecoin yield compromise on market structure. But the new language would allow for yield on staked stablecoins, two sources tell me--a potentially significant win for crypto.
+
+Staking could be an easy, passive way for crypto…
+
+— Sander Lutz (@sander_lutz)March 24, 2026
+
+Speculation over the reported Clarity Act draft has echoed across social media as crypto industry players grapple with the potential impacts if restrictions on stablecoin yield make it into the final version of the bill—and it's ultimately passed.
+
+At the time of writing,Coinbase has been offering 3.5% rewardsfor USDC balances held on its premium Coinbase One platform. The company just ended its USDC rewards program for free exchange users in December. At the time, it had been advertising 4.5% rewards for Coinbase One users, but has since adjusted its rewards rate.
+
+Coinbase competitor Kraken has been offeringup to 5% rewards on USDC balancesheld on its platform. And Binance, the largest centralized crypto exchange by volume, pays users 5.63% on USDC balances held in its wallets. Binance used to offer its own stablecoin, BUSD, but stopped minting new tokens after its issuing partnerPaxos ran afoul of New York regulators, who alleged the firm hadn't done enough due diligence.
+
+Analysts have otherwise been optimistic about Circle. The company's shares have gained 170% since early February, far outpacing other crypto stocks and the struggling broader stock market.
+
+Just last week, Clear Street analyst Owen Lau raised the firm's price target for CRCL to $152 after noting thatMastercard's $1.8 billion acquisitionof BVNK, a stablecoin payments infrastructure firm, was bullish for the space.
+
+The CRCL surge had also been driven by a blowout earnings report. Circle announced 72% growth in its USDC stablecoin to $75.3 billion and 77% revenue growth to $770 millionin the fourth quarter of 2025, triggering a 35% single-day gain that rippled across crypto markets.
+
+A higher-for-longer interest-rate outlook, reinforced by geopolitical tensions and rising oil prices, had also boosted Circle's earnings prospects, since the company earns substantial interest on reserves backing its USDC stablecoin.
+
+At the time of writing, there's more than $78 billion worth of USDC tokens in circulation, and an equivalent worth of cash or cash-like investments being held by its issuer to back those stablecoins.
+
+Your gateway into the world of Web3
+
+The latest news, articles, and resources, sent to your inbox weekly.
+
+© A next-generation media company.2026Decrypt Media, Inc.

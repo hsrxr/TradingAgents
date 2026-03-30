@@ -1,0 +1,37 @@
+Title: Market structure bill compromise draws wide-ranging reaction from fractured crypto crowd
+Source: CoinDesk
+URL: https://www.coindesk.com/policy/2026/03/25/market-structure-bill-compromise-draws-wide-ranging-reaction-from-fractured-crypto-crowd
+
+Coinbase is walking a tightrope in the negotiation over the Clarity Act, telling the staffs of U.S. senators that the company is not happy with where the lawmakers landed in their latest compromise, according to people familiar with the situation, but it hasn't openly declared its opposition.
+
+The proposed agreement was shown to stakeholders in the crypto industry on Monday and the banking industry on Tuesday. From the crypto industry side, it received mixed reactions, according to people familiar with the meeting on Monday. Some stakeholders were dissatisfied — most notably Coinbase — but others were "pleasantly surprised," one of the people said. No one was able to take a copy of the text with them, and it has not yet been released for circulation.
+
+Those familiar with the Monday gathering said there were still issues to work out, and suggested the proposal might impede stablecoin-related products and services beyond what they'd hoped for.
+
+The new proposal would direct some regulatory agencies to draft rules establishing how, exactly, issues like rewards might be overseen. Some have had concerns about regulators issuing subjective criteria for how permissible activity would be governed, noting that there may end up being different types of rewards programs. Any rulemaking would need to be neutral, they said.
+
+And the language was also said to potentially restrict firms' ability to tie rewards to the scale of stablecoin transactions in an account, which could be an obstacle for a program akin to credit card rewards.
+
+Through the months of negotiation, Coinbase CEO Brian Armstrong has been a leading voice, and his opposition of an earlier effort at stablecoin yield compromise helpedderail a planned Senate hearing. A White House favorite in the crypto sphere, Armstrong leads the company that potentially has the most to lose from narrowing its stablecoin rewards programs.
+
+On an industry call this week, people said Coinbase clashed with others over the bill, suggesting a fracturing of crypto views on how to proceed. Giving up certain stablecoin rewards could be costly for some, but losing the Clarity Act's full-fledged establishment of crypto within the U.S. financial system is — for others — seen as a bigger risk.
+
+The updated text that is released — expected either late this week or early next week — will likely have been revised from the text shared Monday and Tuesday, though lawmakers are unlikely to want to rewrite too much of the long-debated text.
+
+So far, the bankers haven't publicly shared their views on the proposal.
+
+The crypto industry's potential concerns with the approach pitched this week,first reported by CoinDesk, alreadycaused chaos in the marketfor leading U.S. stablecoin issuer Circle and Coinbase's stock. Circle stock dropped 20% on Tuesday, though it ticked up slightly on Wednesday. However, Tuesday's news from its chief rival, Tether, aboutsubmitting to an auditmay have been another factor in the hit to Circle's shares, observers noted.
+
+Despite negative responses to the Clarity Act revisions, Patrick Witt, the White House's crypto adviser, criticized the "uninformed" people making predictions about the Clarity Act's status.
+
+"It’s all going to work out," heposted Wednesday on social media site X(formerly Twitter). "Bullish."
+
+One of the people advocated taking a step back:
+
+"Everyone should take a chill pill and stay off Twitter," the person said.
+
+As stablecoins evolve into core financial infrastructure, North America leads. This report maps the regulation, market shifts, and players driving adoption.
+
+Stablecoins are entering their third phase of evolution - the institutionalization era - becoming increasingly embedded into core financial infrastructure. As institutions prioritize transparency and compliance, regulated issuers like USDC, RLUSD, and PYUSD are steadily gaining share with RLUSD surpassing $1B in market cap within its first year. North America, leading in regulatory frameworks and institutional distribution, is at the center of it all.
+
+White House AI and Crypto Czar David Sacks said Thursday he was joining the President’s Council of Advisors on Science and Technology and leaving the czar role.

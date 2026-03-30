@@ -1,0 +1,35 @@
+Title: Fenbushi co-founder offers bounty to recover $42M lost in 2022 hack
+Source: Cointelegraph
+URL: https://cointelegraph.com/news/fenbushi-co-founder-offers-bounty-to-recover-42m-lost-in-2022-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+
+Investigators have frozen about $1.2 million as efforts continue to trace funds lost in a wallet breach linked to a seed phrase compromise.
+
+Cointelegraph in your social feed
+
+Bo Shen, the co-founder of venture capital firm Fenbushi Capital, offered a bounty to recover about $42 million in digital assets stolen from his personal wallet in a 2022 hack.
+
+ShensaidThursday that he was offering a 10%-20% bounty on the recovered amount to any individual or organization that makes a substantial contribution to recovering the assets. Shen said onchain investigators ZachXBT and Taylor “Tayvano” Monahan had already helped freeze about $1.2 million in related assets. He said his team would distribute rewards once the recovery is complete.
+
+The bounty revives a caseShen first disclosed in November 2022, when he said roughly $42 million in crypto had been drained from his personal wallet. At the time, he said the stolen funds were personal and did not affect Fenbushi-related entities.
+
+Blockchain analytics company SlowMist later said the theft was caused by a compromise of Shen’s mnemonic seed phrase.  Shen said the renewed push comes after investigators developed new leads and a clearer picture of how the stolen assets moved, though any recovery remains uncertain.
+
+SlowMist said the stolen assets included about $38.2 million in USDC (USDC), 1,607 Ether (ETH), nearly 720,000 USDt (USDT) and 4.13 Bitcoin (BTC). These assets were later moved through exchanges, including ChangeNow and SideShift.
+
+Shen said onchain tracking and security investigation tools were less developed when the hack occurred in 2022, limiting the ability to trace funds across chains and platforms.
+
+He said that recent advances in artificial intelligence-driven data analysis and onchain forensics improved the ability of investigators to follow asset flows and identify relevant transaction patterns.
+
+Related:Hacked crypto tokens drop 61% on average and rarely recover, Immunefi report says
+
+Shen said the effort could also serve as a test case for how newer tools and coordination methods can support long-running investigations. He said the case highlights how technological progress may expand what is possible in tracing and responding to crypto-related incidents.
+
+However, any recovery remains uncertain, even with better tracing tools and fresh leads.
+
+Magazine:Are DeFi devs liable for the illegal activity of others on their platforms?
+
+Cointelegraph covers fintech, blockchain and Bitcoin bringing you the latest crypto news and analyses on the future of money.
+
+Cointelegraph is committed to providing independent, high-quality journalism across the crypto, blockchain, AI, and fintech industries. To support open access to our website and sustain editorial operations, certain commercial or partner references may appear on our site. These arrangements help maintain an accessible platform and do not result in additional costs to readers.
+
+All news, reviews, and analysis are produced with full journalistic independence and integrity. For more details on our standards and processes, please read ourEditorial Policy.

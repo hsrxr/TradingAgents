@@ -1,0 +1,67 @@
+Title: Incentive design could change retail investors' fortunes
+Source: Cointelegraph
+URL: https://cointelegraph.com/news/incentive-design-change-investors-fortunes?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+
+Crypto cycles trap retail in speculation. Savings layers with capital preservation and prize incentives rewrite participation for consistent gains.
+
+Cointelegraph in your social feed
+
+Opinion by: Ilya Tarutov, founder of Tramplin
+
+Crypto hasn’t struggled because the technology was flawed. Instead, it faltered as a result of the incentive structures the industry created, which have quietly turned it into something that works against the very people it was supposed to serve.
+
+Since 2017, every crypto market cycle has followed the samepattern. Each cycle started with excitement, followed by retail inflows, a velocity trap and catastrophic drawdowns, and ended in an erosion of trust that takes months, if not years, to rebuild. Each cyclebeginswith optimism, peaks at overconfidence and concludes with panic and despair.
+
+Most of the time, crypto users are quick to blame market conditions, macro headwinds and regulation. Yes, they're important factors. What actually determines outcomes, cycle after cycle, is how the incentives are designed.
+
+Crypto loses everyday users because the system quietly pushes them to take the biggest risks. This begins with psychology: Traders often adopt the mindset that “the higher the return desired, the greater the risk required.”
+
+A small token balance earning just a fraction of a percent through staking doesn’t feel like real progress. Yes, the staking market surpassed$245 billion, but platforms generally offer2%-10%APY, which, for balances of a couple thousand dollars or less, might yield less than $100 in annual profits.
+
+Meanwhile, take derivatives platforms. They provide their users sophisticated and high-leverage trading opportunities and processed a record$85.7 trillionin trading volume in 2025.
+
+Native staking is straightforward and relatively safe; rewards come directly from the network itself. Staking alone doesn't fix the deeper problem. The platforms built around it still promote speculation, highleverage, trading driven by FOMO and risky looping strategies.
+
+What retail investors need is a way to participate without constant exposure to risk or serving as exit liquidity for faster, better-informed market players.
+
+Related:Hybrid governance program gives tokenholders a voice on this platform
+
+What’s the solution? Creating a savings product with capital preservation as a core design goal.
+
+A crypto savings layer needs to be built around a clear set of rules. These principles are non-negotiable, as they have a great, positive influence on user behavior. Examples of this include capital preservation, full transparency and rewards for discipline over speed or speculation. The savings layer should also work just as well for a 10-USDt (USDT) balance as for a 100,000-USDt one.
+
+The “real” world already offers products designed around trust and capital preservation, rather than speculation.
+
+Consider the United Kingdom’s Premium Bonds. They don’t promise high fixed yields. What they do is preserve your capital while giving you a chance at prizes.
+
+According toNS&I,71,722,056 prizes were paid out in 2025, totaling 4.95 billion pounds ($6.6 billion), with over 470,000 new accounts opened and eligible Premium Bonds holdings growing to 134.6 billion pounds.
+
+Yes, it is not a blockchain product. It’s a well-designed savings program. The lesson is still simple: There’s a reason to participate, you understand how it works and your money stays safe.
+
+In the United States, prize-linked savingshas gainedtraction for similar reasons. This kind of incentive layer makes it easier for people to build consistent saving habits.
+
+The mechanics of a “saving layer concept” in crypto must be simple enough to explain in one or two sentences.
+
+If a person can’t explain in plain terms to their friends where their rewards come from, that means the design isn’t transparent enough. Whether rewards are generated from transparent sources or from a clearly defined chance-based model, the system must be honest about what it can offer people, and what it cannot.
+
+The most crucial aspect is that incentives must work even with small balances. The system must reward consistency over speed, and discipline over speculation, so that staying involved matters more than getting in early.
+
+Just as important is what the system should not do. Destructive risk shouldn’t be the default option, as the goal is to minimize losses, keep users in profit and encourage long-term participation.
+
+That is what a savings layer actually means: a system designed to help everyday users stay in the game, not one that quietly pushes them out.
+
+If the next cycle doesn’t introduce ways to protect everyday users, they will keep experiencing crypto as a story that always ends the same way: big hype, big promises and painful collapses.
+
+What needs to change is not the technology but what the technology is optimized for. Products must be built to reduce losses, not to maximize turnover. These changes must take place now, unless industry players want to repeat the same mistakes over and over again.
+
+Crypto’s future comes down to a single choice: protect everyday users or keep optimizing for short-term gains. Only one of those leads somewhere worth going.
+
+Opinion by: Ilya Tarutov, founder of Tramplin.
+
+This opinion article presents the author's expert view, and it may not reflect the views of Cointelegraph.com. This content has undergone editorial review to ensure clarity and relevance. Cointelegraph remains committed to transparent reporting and upholding the highest standards of journalism. Readers are encouraged to conduct their own research before taking any actions related to the company.
+
+Cointelegraph covers fintech, blockchain and Bitcoin bringing you the latest crypto news and analyses on the future of money.
+
+Cointelegraph is committed to providing independent, high-quality journalism across the crypto, blockchain, AI, and fintech industries. To support open access to our website and sustain editorial operations, certain commercial or partner references may appear on our site. These arrangements help maintain an accessible platform and do not result in additional costs to readers.
+
+All news, reviews, and analysis are produced with full journalistic independence and integrity. For more details on our standards and processes, please read ourEditorial Policy.

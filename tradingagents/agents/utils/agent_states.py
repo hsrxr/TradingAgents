@@ -51,6 +51,13 @@ class AgentState(MessagesState):
     company_of_interest: Annotated[str, "Company that we are interested in trading"]
     trade_date: Annotated[str, "What date we are trading at"]
     portfolio_balance: Annotated[dict, "Current portfolio balance and exposure"]
+    
+    # Global portfolio context for all agents (read-only broadcast)
+    global_portfolio_context: Annotated[
+        str, 
+        "Natural language description of portfolio state for all agents to respect. "
+        "Format: 'Current assets: $X. Position: Y. Unrealized PnL: Z%. Drawdown limit: W%'"
+    ]
 
     sender: Annotated[str, "Agent that sent this message"]
 
@@ -58,6 +65,7 @@ class AgentState(MessagesState):
     market_report: Annotated[str, "Report from the Market Analyst"]
     sentiment_report: Annotated[str, "Report from the Social Media Analyst"]
     news_report: Annotated[str, "Report from the News Researcher of current world affairs"]
+    quant_strategy_report: Annotated[str, "Report from the Quant Strategy Signal Analyst"]
     fundamentals_report: Annotated[str, "Report from the Fundamentals Researcher"]
 
     # researcher team discussion step

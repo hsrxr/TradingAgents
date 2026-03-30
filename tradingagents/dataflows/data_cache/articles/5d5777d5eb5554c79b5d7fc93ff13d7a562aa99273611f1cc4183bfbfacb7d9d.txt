@@ -1,0 +1,49 @@
+Title: Morning Minute: Circle Plunges 20% Over Clarity Act Yield Changes
+Source: Decrypt
+URL: https://decrypt.co/362298/morning-minute-circle-plunges-20-over-clarity-act-yield-changes
+
+Morning Minute: Circle Plunges 20% Over Clarity Act Yield Changes
+
+Morning Minute is a daily newsletter written byTyler Warner. The analysis and opinions expressed are his own and do not necessarily reflect those of Decrypt.And check out ournew daily news showcovering all of the top stories in 5 minutes or less, downloadable on Apple Pod or Spotify.
+
+Circle stockdropped 20% on Tuesday—its worst single session since going public.
+
+Many attributed the stock’s decline to a new Clarity Act draft which introduced language threatening to ban stablecoin yield “directly or indirectly,” including anything “economically or functionally equivalent to interest.”
+
+Coinbase, which shares USDC reserve income with Circle, dropped 10%.
+
+The draft Clarity Act tasks the SEC, CFTC, and Treasury with jointly defining permissible rewards within one year. One industry leader who reviewed the text called it “a departure” from prior White House discussions, while another called it “the best possible result.” So reviews are mixed ahead of Bank reps reviewing today.
+
+The Tether audit news landed the same day (see next story). If it comes back clean, Tether closes the credibility gap with USDC at exactly the moment USDC’s yield model is under threat. Two-front attack in a single session for Circle.
+
+After more than a decade of promises, Tether announced Tuesday it has signed with a Big Four accounting firm for its first full independent audit of USDT reserves. The firm’s name was not disclosed.
+
+Tether claims $192 billion in assets back USDT, held mostly in U.S. Treasuries, but has relied on attestations from Italian firm BDO rather than a full audit since its 2014 founding.
+
+The GENIUS Act, signed into law last summer, requires foreign stablecoin issuers to undergo rigorous reserve audits; and now Tether has signaled intent to comply.
+
+Chairman Michael Seligannouncedthe CFTC’s new Innovation Task Force Tuesday as a dedicated team to develop regulatory frameworks for builders in crypto, AI, and prediction markets. Led by senior advisor Michael Passalacqua, it will coordinate with the SEC’s Crypto Task Force.
+
+Selig framed it as the agency “future-proofing” regulation and establishing “clear rules of the road” for innovators rather than leaving builders in legal gray zones.
+
+The move lands as the CFTC simultaneously defends its jurisdiction overprediction marketsfrom state-level legal challenges and congressional Democrats pushing sports betting restrictions.
+
+NewDune analytics datashows that more than half of all wallets trading Pump.fun-launched tokens posted a net loss in March.
+
+Around 96% of wallets made under $500 in total profits. The data covers all wallets active on the platform during the month, not just small retail participants.
+
+The numbers land as Pump.fun continues to process enormous volume; the platform has generated hundreds of millions in fees since launch. Yet the PUMP token has fallen over 75% from its $8B peak.
+
+But with a distribution where nearly all profits flow to a tiny fraction of participants, perhaps traders fear the memecoin game is approaching its final innings.
+
+Bernstein analystspublished a noteTuesday saying Bitcoin has likely bottomed and reiterated a $150,000 BTC price target for 2026 alongside a $450 MSTR price target.
+
+The analysts pointed to Strategy’s STRC preferred share as key evidence. The 11.5% dividend-paying product has allowed Saylor to keep buying Bitcoin aggressively through a 20% BTC drawdown without diluting common shareholders.
+
+MSTR shares are trading around $136 (down 58% from their six-month high) but Bernstein maintained an Outperform rating, calling the company’s $2.25B cash reserve “a fortress” and dismissing fears of a forced BTC liquidation as “unwarranted.”
+
+Your gateway into the world of Web3
+
+The latest news, articles, and resources, sent to your inbox weekly.
+
+© A next-generation media company.2026Decrypt Media, Inc.

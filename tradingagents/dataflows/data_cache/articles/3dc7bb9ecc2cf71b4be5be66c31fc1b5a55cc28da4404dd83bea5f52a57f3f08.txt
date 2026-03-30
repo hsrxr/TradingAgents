@@ -1,0 +1,59 @@
+Title: Coinbase launches token-backed down payments for Fannie Mae loans
+Source: Cointelegraph
+URL: https://cointelegraph.com/news/coinbase-launches-token-backed-down-payments-for-fannie-mae-loans?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+
+Coinbase and Better Home & Finance launched a structure that lets borrowers pledge Bitcoin or USDC to fund the cash down payment on a conforming mortgage tied to Fannie Mae-backed loans.
+
+Cointelegraph in your social feed
+
+Crypto exchange Coinbase Global has launched a mortgage structure with Better Home & Finance that lets qualified borrowers pledge digital assets held in Coinbase accounts to fund down payments on standard conforming mortgages designed in accordance with Fannie Mae guidelines.
+
+According to Coinbase, the structureenablesborrowers to pledge digital assets such as Bitcoin (BTC) or USDC (USDC) as collateral for a separate loan used tofund the down payment, while the primary mortgage remains a standard, Fannie Mae–backed loan. Better will originate and service the mortgages.
+
+When rolled out, the new development could mark a shift in how crypto assets are used in US housing finance, extending their role from qualifying assets in underwriting to a more direct component of mortgage financing.
+
+The news follows earlier regulatory signals to integrate crypto into mortgage frameworks. In June, the US Federal Housing Finance Agencydirected Fannie Mae and Freddie Macto prepare proposals to recognize cryptocurrency as an asset in mortgage risk assessments without requiring conversion to US dollars.
+
+It also builds on a series of developments integrating crypto into home lending, with lenders like Newrez and Rate recently recognizing crypto holdings in underwriting, signaling a broader push to embed crypto across the mortgage stack.
+
+Cointelegraph reached out to Fannie Mae for more information but did not receive a response before publication.
+
+According to Coinbase, borrowers would take out a standard conformingmortgagewhile using a separate loan secured by crypto holdings to cover the down payment.
+
+The setup allows buyers to retain exposure to digital assets, but replaces upfront cash with additional debt.
+
+Related:Crypto mortgages in US face valuation risks, regulatory uncertainty
+
+Coinbase said the model introduces constraints tied to pledged assets, with borrowers unable to trade collateral while it is locked.
+
+The company said market volatility alone does not trigger margin calls as long as borrowers continue making payments, and mortgage terms remain unchanged once the loan is active.
+
+The model also introduces new risks tied to the pledged assets. While price swings do not directly affect the mortgage, they may still influence borrower risk exposure and financial decisions over time.
+
+The new development follows several US lenders that recently incorporated crypto assets into mortgage processes.
+
+On Jan. 17, loan servicer Newrez said itwould allow borrowersto use BTC, Ether (ETH), crypto ETFs and stablecoins as qualifying assets in underwriting, without requiring liquidation.
+
+On Feb. 23, mortgage lender Ratelaunched its RateFi program, which allows verified crypto holdings to count toward reserves and, in some cases, income. However, borrowers are still required to convert their crypto into cash for down payments and closing costs.
+
+Ahead of the rollout, Cointelegraph’s Turner Wright spoke with former Ohio Representative Tim Ryan, a member of Coinbase’s advisory council who has focused on middle-class affordability, including housing.
+
+Ryan cast mortgage financing as a practical, real-world use case for crypto, arguing that digital assets can unlock wealth for early investors and help address one of the biggest barriers to homeownership — the down payment.
+
+“Digital assets have a place for working-class people… all the way down to getting a home,” Ryan said. “To see the industry move into… the housing sector… is a really huge deal.”
+
+Affordability remains a major challenge for US homebuyers. Despite slower activity tied to low inventory and elevated mortgage rates, the average home price still exceeded $405,000 in the fourth quarter.
+
+A 20% down payment, often required to avoid private mortgage insurance, would still cost buyers more than $80,000, a hurdle that could be less challenging now for crypto investors.
+
+Additional reporting by Sam Bourgi and Turner Wright.
+
+Related:Bitcoin ‘compression’ outcome may send BTC to $80K: Analyst
+
+Magazine:Nobody knows if quantum secure cryptography will even work
+
+Cointelegraph covers fintech, blockchain and Bitcoin bringing you the latest crypto news and analyses on the future of money.
+
+Cointelegraph is committed to providing independent, high-quality journalism across the crypto, blockchain, AI, and fintech industries. To support open access to our website and sustain editorial operations, certain commercial or partner references may appear on our site. These arrangements help maintain an accessible platform and do not result in additional costs to readers.
+
+All news, reviews, and analysis are produced with full journalistic independence and integrity. For more details on our standards and processes, please read ourEditorial Policy.

@@ -1,0 +1,23 @@
+Title: Top Democrat on House committee questions Kraken's Federal Reserve account 
+Source: CoinDesk
+URL: https://www.coindesk.com/policy/2026/03/26/top-democrat-on-house-committee-questions-kraken-s-federal-reserve-account
+
+U.S. Representative Maxine Waters, the ranking Democrat on the House Financial Services Committee, is questioning the limited "master account"obtained by crypto exchange Krakenfrom the Federal Reserve Bank of Kansas City, which she said raises potential consumer-protection issues and questions about the approval process.
+
+Waters, who is likely to return to the chairman seat on the committee if the Democrats regain a House majority in this year's elections (set atan 84% chancein current bets on Polymarket),sent a Thursday letterto the president of the Kansas City arm of the Fed system, Jeff Schmid. She suggested that the unusual approval for a "limited purpose account" at Kraken, which allows the firm to become the first to win direct access to Federal Reserve payment services, is on unclear legal footing.
+
+"The announcement raises questions about the approval because neither statute nor the Federal Reserve Board’s Account Access Guidelines refer to a 'limited purpose account' type," she wrote in the letter. "Accordingly, I write to request that you clarify the terms of Kraken’s account access approval and provide additional information regarding the process and considerations informing the approval."
+
+The new account granted the U.S. firm full-fledged access to the same payment rails that much of the traditional financial system operates on. Several crypto-native firms have sought that access but are still awaiting approval, keeping a close eye on a separate effort at the Federal Reserve Board in Washington to write rules that could govern a "skinny" master account for such businesses. That process is still in the early stages.
+
+When the Kansas City Fed was asked to comment on Waters' queries, a spokesman said the bank has "received the letter and will review it."
+
+The regional bank in Kansas City — one of the 12 such banks nationwide — announced earlier this month that Kraken would get the long-sought-after access. Schmid said at the time that his bank was trying to maintain a system that "supports a level competitive field and reinforces the stability and resilience that has underpinned the Federal Reserve’s payment system offerings throughout its history.”
+
+Read More:Court closes Custodia fight with Federal Reserve just as Fed opens master-account door
+
+As stablecoins evolve into core financial infrastructure, North America leads. This report maps the regulation, market shifts, and players driving adoption.
+
+Stablecoins are entering their third phase of evolution - the institutionalization era - becoming increasingly embedded into core financial infrastructure. As institutions prioritize transparency and compliance, regulated issuers like USDC, RLUSD, and PYUSD are steadily gaining share with RLUSD surpassing $1B in market cap within its first year. North America, leading in regulatory frameworks and institutional distribution, is at the center of it all.
+
+White House AI and Crypto Czar David Sacks said Thursday he was joining the President’s Council of Advisors on Science and Technology and leaving the czar role.

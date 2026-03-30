@@ -1,0 +1,33 @@
+Title: Markets move to price in rate hikes as inflation fears and geopolitics reshape Fed expectations
+Source: CoinDesk
+URL: https://www.coindesk.com/markets/2026/03/29/markets-move-to-price-in-rate-hikes-as-inflation-fears-and-geopolitics-reshape-fed-expectations
+
+A "180" hardly does justice to the recent shift in market expectations regarding central bank monetary policy.
+
+Expecting multiple Federal Reserve rate cuts in 2026 just weeks ago, markets have seriously begun to price in rate hikes this year.
+
+Current pricing onCME FedWatch Toolshows nearly a 30% chance that the fed funds rate will be higher to end the year than its current level of 3.50%-3.75%. The odds that rates might go lower, meanwhile, have crashed to 2.9%.
+
+The shift has been driven largely by renewed inflation fears tied to energy markets. Since the escalation of tensions in the Middle East at the end of February, the price of Brent Crude oil has risen from about $70 per barrel to its current level of $111. That's helped send yields at the long end of the Treasury curve sharply higher, the 10-year yield rising to the current 4.40% from below 4% weeks ago.
+
+"Food and energy prices are tragically going to climb and remain high for a while, at least until the utter mess of Middle East shipping is sorted out," according to Crypto is Macro Now Newsletter. "Even if a peace deal were to be agreed tomorrow (unlikely), that would take months at best."
+
+Even prior to oil's gains, inflation was still running well above the Fed's 2% target. Core inflation in February came in at a 2.5% year-over-year pace and has not fallen below that 2% level since April 2021.
+
+Longer-term inflation expectations remain above target as well, with 5-year and 10-year measures at 2.5% and 2.3%, respectively, suggesting markets expect inflation to exceed the Federal Reserve's mandate beyond the immediate term.
+
+"The US economy as a whole will, of course, benefit from higher energy prices as it is a net exporter," Crypto is Macro Now continued. "And military spending will shoot up to replenish hardware, adding further stimulus. Both sectors should help keep GDP from dropping sharply."
+
+Still holding in the $65,000-$70,000 area, bitcoinBTC$67,640.11, by holding roughly steady, has — on paper — outperformed since the start of the Iran war.
+
+Gold, for instance, is lower by about 20% since the U.S. attacks began, while the Nasdaq on Friday entered correction territory by falling more than 10% from its 2026 highs.
+
+But consider what came prior. Gold at the start of March was in the midst of a historic run higher, its price more than doubling over the preceding year. The Nasdaq, too, was near a record high, up 50% from its April 2025 lows. Bitcoin, meanwhile, was down about 50% from its early October 2025 record.
+
+Taken on anything but the shortest of time frames, bitcoin continues to sizably underperform key assets like stocks and gold.
+
+As stablecoins evolve into core financial infrastructure, North America leads. This report maps the regulation, market shifts, and players driving adoption.
+
+Stablecoins are entering their third phase of evolution - the institutionalization era - becoming increasingly embedded into core financial infrastructure. As institutions prioritize transparency and compliance, regulated issuers like USDC, RLUSD, and PYUSD are steadily gaining share with RLUSD surpassing $1B in market cap within its first year. North America, leading in regulatory frameworks and institutional distribution, is at the center of it all.
+
+Hyperliquid’s validators cluster in AWS Tokyo alongside Binance, BitMEX and KuCoin, giving nearby traders a latency advantage, Glassnode data shows

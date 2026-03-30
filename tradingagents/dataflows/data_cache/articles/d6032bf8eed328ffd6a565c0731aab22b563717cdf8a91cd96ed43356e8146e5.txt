@@ -1,0 +1,117 @@
+Title: How a seed phrase leak led to a $176M Bitcoin theft case
+Source: Cointelegraph
+URL: https://cointelegraph.com/explained/uk-bitcoin-theft-seed-phrase-leak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+
+In crypto, security is usually regarded as a technical issue. You are asked to safeguard your private keys, rely on a hardware wallet and steer clear of phishing links. Yet a prominent case in the UK reveals that the real vulnerability in this case might have had nothing to do with code.
+
+The UK High Court is currently reviewing a case involving the alleged theft of 2,323 Bitcoin (BTC), worth about $176 million. The theft did not stem from hacking or malware. Instead, it began with aseed phrase being exposed, which became the single point of failure in self-custody.
+
+The dispute centers on Ping Fai Yuen, who claims that his estranged wife, Fun Yung Li, and her sister gained access to his Bitcoin by secretly recording hiswallet’s recovery information.
+
+The assets were held in a hardware wallet, designed to keepprivate keyscompletely offline and shielded from remote threats. Yet the theft still happened and it required no breach of encryption.
+
+Court documents suggest the theft only required discovering the seed phrase.
+
+The allegations describe events that suggest surveillance rather than digital intrusion.
+
+The individuals in question are accused of using a camera or recording device to capture the seed phrase and related codes.
+
+The claimant later learned of the scheme after receiving a warning from his daughter.
+
+He then set up audio recording equipment, which he says captured conversations about moving the funds.
+
+The Bitcoin was subsequently transferred to 71 separate wallet addresses.
+
+No additional movements have appearedon the blockchain since Dec. 21, 2023, indicating that the assets have remained inactive since the reported transfer.
+
+Authorities are said to have confiscated devices and cold wallets as part of the inquiry, although the proceedings are still ongoing.
+
+Did you know?In several past cases, hidden cameras, not hackers, have been the weakest link in crypto security. Physical surveillance has quietly become one of the most underestimated threats to self-custodied digital assets.
+
+To understand the case, you need to grasp a core principle of crypto: Whoever has access to the seed phrase has full control of the funds.
+
+A hardware wallet shields private keys from online risks. But the seed phrase, typically 12 to 24 words, serves as a full backup of the entire wallet.
+
+Finding the seed phrase allows anyone to:
+
+Rebuild the wallet on any other device
+
+Access all the associated funds
+
+Move the assets without ever touching the original hardware
+
+Put simply, once the seed phrase becomes known, the physical device loses all relevance.
+
+What stands out in this matter is the reported method used to carry out the breach.
+
+Rather than relying onphishing or malicious software, the allegations center on visual or audio capture, possibly through a hidden camera or covert recording.
+
+This brings attention to a seldom-mentioned risk: side-channel exposure.
+
+Seed phrases are frequently written down, spoken or typed during setup. If any of those moments are watched or recorded:
+
+The phrase can be pieced together.
+
+The wallet can be copied elsewhere.
+
+Assets can be relocated without immediate traces.
+
+In environments full of smart devices, cameras and shared spaces, this type of risk continues to rise.
+
+The matter came before the UK High Court, where Justice Cotter examined the evidence presented.
+
+Although this does not constitute a final decision in the case, the judge indicated that the claimant had demonstrated a very high probability of success.
+
+Among the elements considered were:
+
+An earlier alert regarding the reported plan
+
+Devices said to be capable of retrieving wallet information
+
+The court also stressed the need for swift action, citing security concerns and Bitcoin’s price fluctuations.
+
+Did you know?Some wallets now offer decoy wallets that use different PINs. This feature allows users to display a smaller balance under duress, adding a layer of protection against both physical coercion and surveillance-based attacks.
+
+The claim states that the Bitcoin was distributed across 71 wallet addresses.
+
+This step carries several implications:
+
+It makes tracking and recovery more difficult.
+
+It avoids drawing attention to a single large transfer.
+
+It fragments the holdings, which can delay legal and investigative efforts.
+
+Although the blockchain’s transparency allows movements to be traced, spreading the funds adds layers of complexity and time to any recovery process.
+
+The claimant also expressed concern about a possible dusting attack on the addresses involved.
+
+Dusting refers to sending tiny amounts of crypto to wallets in order to:
+
+Link addresses to real identities
+
+Identify valuable targets for future attacks
+
+If wallet addresses become public, they can attract additional scrutiny, even if no further activity occurs.
+
+On one hand, this case remains a private legal dispute. On the other, it serves as a case study in the broader risks ofcrypto custody.
+
+Hardware wallets limit digital threats, yet leave human factors untouched.
+
+Threats from those close to the owner can outweigh those from outside attackers.
+
+Exposure of the seed phrase can result in a complete loss of control.
+
+Above all, this shows that crypto security involves far more than just devices; it relies heavily on environment, conduct, trust and relationships.
+
+This example reinforces several straightforward guidelines:
+
+Keep the seed phrase completely hidden from cameras, phones and connected devices.
+
+Avoid storing recovery information in places that others can access.
+
+Separate personal identity from wallet control whenever possible.
+
+Use multiple layers of protection for large holdings.
+
+More sophisticated arrangements may include additional passphrases, split backups or multisignature setups. Each of these methods is designed to reduce reliance on a single vulnerable element.

@@ -1,0 +1,43 @@
+Title: Euro stablecoins dominate non-dollar market, Visa-backed report finds
+Source: Cointelegraph
+URL: https://cointelegraph.com/news/euro-stablecoins-non-dollar-market-visa?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+
+Euro stablecoins now make up more than 80% of non-dollar supply, with EURC leading volumes as MiCA and payment-rail integrations support adoption.
+
+Cointelegraph in your social feed
+
+Euro-denominated stablecoins make up more than 80% of the non-US dollar stablecoin market, which Dune says has grown to about $1.2 billion in total supply, according to a report commissioned by Visa.
+
+Dunesaideuro stablecoins accounted for 85% of transfer volume in the non-US dollar stablecoin market, with Circle’s EURC (EURC) emerging as the dominant euro token in the segment.
+
+The report pointed to growing euro stablecoin use across payment infrastructure, while Visa and Mastercard have separately expanded settlement support for EURC in parts of their networks.
+
+Dune said the non-US dollar stablecoin market now handles about $10 billion in monthly transfer volume, reflecting a sharp increase in usage over the past three years.
+
+Even so, euro stablecoins remain a tiny part of the broader stablecoin sector, which now totals about $300 billion to $316 billion, while the euro still accounts for about 20% of global foreign exchange reserves,accordingto DefiLlama data.
+
+The research signals that European businesses operating in euros are “turning to stablecoins,” driven by the regulatory clarity in the Eurozone, Nic Puckrin, CEO and co-founder of educational platform Coin Bureau, told Cointelegraph.
+
+“EURC is a natural choice because it's issued by Circle, an established entity that has already won trust with its USDC product,” he added.
+
+EURC’s total supply surpassed $506 million on Feb. 27, according to the report. Excluding EURC, 80% of euro-stablecoin activity was related to payments, remittances, payroll and treasury flows.
+
+Puckrin said that the main driver of the growing stablecoin usage across the EU is the regulatory clarity provided by the Markets in Crypto-Assets Regulation (MiCA), which went into effect for crypto asset service providers on Dec. 30, 2024.
+
+He added that delays around the digital euro could leave private stablecoin issuers with more room to fill parts of Europe’s digital payments gap.
+
+Related:Circle’s policy chief tells UK to merge MiCA clarity with US stablecoin rules
+
+Circle has also been pitching EURC and USDC (USDC) as tools for around-the-clock euro-dollar foreign exchange flows through its StableFX infrastructure, offering institutions a way to move between currencies outside traditional banking hours.
+
+Still, broader adoption will depend on whether payment providers, treasury teams and licensed financial companies get enough compliant infrastructure to useeuro stablecoins at scale, Mouloukou Sanoh, co-founder and CEO of cross-border liquidity platform Mansa, told Cointelegraph.
+
+“The companies winning are the ones solving for licensed payment operators, not building generic L1s or other platforms, but infrastructure that lets a head of treasury at a payment service provider or electronic money institution move money in real time without prefunding, compliance friction or operational chaos,” he said.
+
+Magazine:Crypto wanted to overthrow banks, now it’s becoming them in stablecoin fight
+
+Cointelegraph covers fintech, blockchain and Bitcoin bringing you the latest crypto news and analyses on the future of money.
+
+Cointelegraph is committed to providing independent, high-quality journalism across the crypto, blockchain, AI, and fintech industries. To support open access to our website and sustain editorial operations, certain commercial or partner references may appear on our site. These arrangements help maintain an accessible platform and do not result in additional costs to readers.
+
+All news, reviews, and analysis are produced with full journalistic independence and integrity. For more details on our standards and processes, please read ourEditorial Policy.

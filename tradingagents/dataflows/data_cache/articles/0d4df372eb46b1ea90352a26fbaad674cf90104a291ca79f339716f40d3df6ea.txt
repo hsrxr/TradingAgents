@@ -1,0 +1,27 @@
+Title: Binance Australia Hit With $6.9M Fine After Investors Lose Millions on Derivatives
+Source: Decrypt
+URL: https://decrypt.co/362582/binance-australia-6-9m-fine-investors-lose-millions
+
+Binance Australia Hit With $6.9M Fine After Investors Lose Millions on Derivatives
+
+Australia's Federal Court has ordered Oztures Trading Pty Ltd, trading as Binance Australia Derivatives, to pay an AUD $10 million (about $6.9 million USD) penalty after the exchange admitted to exposing 524 retail investors to high-risk crypto derivative products without required consumer protections.
+
+The misclassification occurred between July 2022 and April 2023, with Binance admitting to failures in client onboarding that allowed retail clients to make unlimited attempts at a multiple-choice quiz until they achieved a passing score to qualify as sophisticated investors, according toASIC's announcement.
+
+The misclassified client group incurred AUD $8.66 million (about $6 million) in trading losses and paid AUD $3.89 million ($2.67 million) in fees. Of the 524 misclassified clients, 460 were incorrectly classified as meeting the Sophisticated Investor Test, 33 as meeting the Individual Wealth Test, 26 as professional investors, 4 as Related Body Corporate, and 1 as meeting the Large Business Test.
+
+In one example, Binance assessed an individual as a professional investor based solely on their claim to be an "exempt public authority," without adequate verification.
+
+“Binance failed to set up basic compliance checks and incorrectly approved hundreds of applications for complex, wholesale investor products,” ASIC Chair Joe Longo said, in a statement. “Binance’s shortcomings left more than 85% of their Australian customer base exposed to high-risk products they should have never been able to access, and without important consumer protections or rights, costing retail investors millions.”
+
+Justice Moshinsky also ordered Binance to contribute to ASIC's costs, with the penalty coming on top of approximatelyAUD $13.1 millionin compensation already paid to affected clients in 2023.
+
+"The issue was self-identified, reported to ASIC, and fully remediated in 2023, with approximately AUD 13 million compensated to affected users. Oztures ceased its derivatives business and voluntarily gave back its AFSL in 2023," a Binance spokesperson toldDecrypt. "Binance Australia is committed to offering users in Australia innovative, compliant, and trusted products, while helping advance the responsible growth of the country’s blockchain and digital asset ecosystem."
+
+Editor's note: This story was updated to include comment from Binance.
+
+Your gateway into the world of Web3
+
+The latest news, articles, and resources, sent to your inbox weekly.
+
+© A next-generation media company.2026Decrypt Media, Inc.

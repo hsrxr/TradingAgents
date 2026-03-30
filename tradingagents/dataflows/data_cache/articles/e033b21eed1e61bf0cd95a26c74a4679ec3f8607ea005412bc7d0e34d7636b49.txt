@@ -1,0 +1,37 @@
+Title: CFTC chair Selig says blockchain could help verify AI-generated content
+Source: Cointelegraph
+URL: https://cointelegraph.com/news/cftc-chairman-mike-selig-says-blockchain-could-help-verify-ai-generated-content?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+
+The regulator views timestamps and onchain identifiers as tools to distinguish real media from synthetic content, while calling for a light-touch approach to regulating AI agents.
+
+Cointelegraph in your social feed
+
+Michael Selig, chair of the US Commodity Futures Trading Commission, said blockchain could play a key role in verifying AI-generated content, contending the technology can help distinguish authentic media from synthetic outputs as concerns over misinformation grow.
+
+During anappearanceon The Pomp Podcast on Thursday, Selig was asked by host Anthony Pompliano about the use of AI-generated memes and images in markets, and whether intent matters or such content should be restricted altogether. He told Pompliano:
+
+He said regulators are focused on maintaining US leadership in crypto, adding that “you can’t have AI without blockchain.”
+
+Regarding how regulators are approaching AI agents, as autonomous trading becomes more prevalent in financial markets and authorities are being pressed to distinguish between automated tools and fully autonomous agents, and how the latter should be regulated, Selig responded:
+
+Selig said the CFTC is assessing how AI models are used in markets, emphasizing that enforcement should focus on participants engaging in financial activity.
+
+Related:AI and stablecoins are winning despite 2026 crypto market slump
+
+A central challenge amid the surge in artificial intelligence use is distinguishing real content from synthetic media. Selig’s comments could be seen to reflect a broader push among policymakers and developers to use blockchain for content verification and provenance.
+
+One approach isproof-of-personhood systems, which aim to confirm that an account belongs to a real, unique human rather than a bot. The most prominent example is Sam Altman’s World, whose World ID protocol allows users to prove their humanity without revealing personal data. The system uses encrypted biometric iris scans stored on the user’s device, though it has drawncriticismover privacy risks and potential coercion.
+
+In March, World launched AgentKit, a toolkit that allows AI agents toprove they are linked to a verified humanwhile interacting with online services. It integrates proof-of-personhood credentials with the x402 micropayments protocol developed by Coinbase and Cloudflare, enabling agents to pay for access while presenting cryptographic proof of human backing.
+
+Ethereum co-founder Vitalik Buterin hasproposedusing cryptography and blockchain to make online systems more verifiable, including throughzero-knowledge proofs and onchain timestampsthat could help validate how content is generated and distributed without exposing sensitive data.
+
+The proposals come as US policymakers weigh broader AI regulation. On March 20, the Trump administrationreleased a national frameworkcalling for a unified federal approach, warning that a patchwork of state laws could hinder innovation and competitiveness.
+
+Magazine:Agent wastes 14 hours of scammers’ time, LLMs ‘poisoned’ by Iran: AI Eye
+
+Cointelegraph covers fintech, blockchain and Bitcoin bringing you the latest crypto news and analyses on the future of money.
+
+Cointelegraph is committed to providing independent, high-quality journalism across the crypto, blockchain, AI, and fintech industries. To support open access to our website and sustain editorial operations, certain commercial or partner references may appear on our site. These arrangements help maintain an accessible platform and do not result in additional costs to readers.
+
+All news, reviews, and analysis are produced with full journalistic independence and integrity. For more details on our standards and processes, please read ourEditorial Policy.

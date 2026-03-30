@@ -1,0 +1,35 @@
+Title: Franklin Templeton, Ondo Finance Bring 24/7 Tokenized ETF Trading to Crypto Users
+Source: Decrypt
+URL: https://decrypt.co/362331/franklin-templeton-ondo-247-tokenized-etf-trading-crypto-users
+
+Franklin Templeton, Ondo Finance Bring 24/7 Tokenized ETF Trading to Crypto Users
+
+Global asset manager Franklin Templeton and real-world asset tokenization firm Ondo Finance are teaming up to offer tokenized versions of five Franklin Templeton exchange-traded funds (ETFs) as part of a new initiative, the firms announced on Wednesday.
+
+The funds—which include Franklin Templeton’s high-yield corporate ETF, its focused growth ETF, and its responsibly sourced gold ETF—will allow those without traditional brokerage accounts to gain access and trade them around the clock.
+
+"This initial set of ETFs was selected by Ondo, based on demand they've recognized in their ecosystem,"Franklin Templeton Head of Innovation Sandy Kaul toldDecrypt."We believe it’s important to anchor this space in high-quality, well-understood investment strategies, and Franklin Templeton will continue to take a thoughtful approach to bringing institutional-grade products on-chain."
+
+"We’ll evaluate future opportunities based on investor appetite, usability, and where we can deliver the most value,"she added.
+
+The firms will also work together on educational programs designed to showcase how traditional investments will fit in alongside “emerging financial ecosystems.”
+
+"Success is less about a single metric and more about expanding access while maintaining the standards and outcomes investors expect from Franklin Templeton," Kaul added. "We’re focused on how these products are actually used: helping investors access diversified strategies, engage more consistently with long-term investing, and integrate traditional investments into their financial lives on-chain."
+
+The new tokenized ETF offerings will use Ondo’s tokenized securities platform, Ondo Global Markets, which has established more than $620 million in total value locked (TVL) since its launch last fall.
+
+However, access to the products is not intended for U.S. users, whoare ineligible to make tradeson Ondo’s Global Markets platform.
+
+Ondorolled out accessto more than 100tokenizedU.S. equities on theEthereumblockchain in September as interest around tokenized equities and products rose.
+
+Franklin Templeton also has a long history with tokenized assets, debuting its Franklin On-Chain U.S. Government Money Fund on the Stellar network in 2021 beforeexpanding the offering to Ethereum in 2024. It has also since expanded toPolygon,Aptos,Avalanche,Arbitrum,Solana, andBase.
+
+The pair’s latest tokenization initiative comes a day after the New York Stock Exchange announced it willcollaborate with the BlackRock-backed Securitize for the tokenization of securities. Also, last week,Nasdaq earned SEC approval to test tokenized versionsof some securities in a pilot program.
+
+Editor's note: This story was updated after publication to add in comments from Franklin Templeton, replacing quotes from the press release.
+
+Your gateway into the world of Web3
+
+The latest news, articles, and resources, sent to your inbox weekly.
+
+© A next-generation media company.2026Decrypt Media, Inc.

@@ -1,0 +1,35 @@
+Title: CoinShares Files for Bitcoin Volatility ETF Suite, Targeting BTC Price Swings
+Source: Decrypt
+URL: https://decrypt.co/362330/coinshares-bitcoin-volatility-etf-suite-targeting-btc-price-swings
+
+CoinShares Files for Bitcoin Volatility ETF Suite, Targeting BTC Price Swings
+
+Digital asset manager CoinShares has quietly filed an amendment to register three new ETFs that trackBitcoinvolatility.
+
+The Valkyrie ETF Trust II filed apost-effective amendment with the SECfor the CoinShares Bitcoin Volatility ETF, CoinShares Bitcoin Volatility Leveraged ETF, and CoinShares Bitcoin Volatility Inverse ETF. The filing was first flagged by Bloomberg Senior ETF Analyst Eric Balchunason X.
+
+"Currently we know of no ETF that exists that will provide investors, institutions, and advisors exposure to the volatility of Bitcoin," a person familiar with the filings toldDecrypt. "This suite of ETFs seeks to profit from increased or decreased volatility of Bitcoin, and may act as a strategy to manage risk in the convenient ETF wrapper."
+
+Although theProShares Bitcoin ETF (BITO)andVolatility Shares 2x Bitcoin Strategy ETF (BITX)give investors exposure to Bitcoin's price via futures, the CoinShares funds would be the first to specifically track the BVX.
+
+TheCME CF Bitcoin Volatility Index, or BVX, is calculated by CF Benchmarks Ltd. and published once per second. It measures implied volatility in CME's Bitcoin options market over a 30-day forward window—essentially a BTC equivalent of theVIX.
+
+At the time of writing, the BVX was sitting at 52 after having risen 0.3% since 1:30 p.m. Eastern Time.
+
+The CoinShares Bitcoin Volatility ETF, which would trade under the CBIX ticker on the Nasdaq, seeks to offer "managed exposure to futures contracts on the CME CF Bitcoin Volatility Index," according to the filing. Because the Bitcoin Volatility Index itself is non-investible, the fund will hold BTC volatility-linked instruments instead—including volatility futures contracts, shares or options in companies with similar exposure, and BTC volatility-linked swaps.
+
+The suite also includes a leveraged and an inverse variant. The CoinShares Bitcoin Volatility Leveraged ETF would offer amplified exposure to moves in the Bitcoin Volatility Index, while the CoinShares Bitcoin Volatility Inverse ETF would allow investors to bet against volatility, and therefore profit when the BVX falls.
+
+Ticker symbols for those two funds were not listed in the filing.
+
+CoinShares is using the Valkyrie ETF Trust II shell—which already has an SEC registration number—to launch the funds rather than starting from scratch with a new trust.
+
+CoinShares completed itsacquisition of Valkyrie Funds LLCin March 2024, a move that gave the Jersey-based digital asset manager a foothold in the U.S. market and sponsor rights to Valkyrie's suite of existing ETFs, including its spot Bitcoin fund trading under theBRRR tickeron Nasdaq.
+
+The filing appears to still be in its early stages and doesn't list management fees for any of BTC volatility funds. The 75-day effective timer started on Monday, March 23, which means that the funds could begin trading in early June if there's no pushback or delays from the SEC.
+
+Your gateway into the world of Web3
+
+The latest news, articles, and resources, sent to your inbox weekly.
+
+© A next-generation media company.2026Decrypt Media, Inc.

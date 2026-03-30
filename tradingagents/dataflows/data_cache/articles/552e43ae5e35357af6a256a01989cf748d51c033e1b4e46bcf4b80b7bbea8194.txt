@@ -1,0 +1,39 @@
+Title: Here’s what happened in crypto today
+Source: Cointelegraph
+URL: https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+
+Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3 and crypto regulation.
+
+Cointelegraph in your social feed
+
+Today in crypto, Morgan Stanley sets a 0.14% fee for its spot Bitcoin ETF, potentially forcing competitors to cut fees to stay competitive, US lawmakers release discussion draft outlining new crypto tax rules that exclude a Bitcoin de minimis exemption, while the New York Stock Exchange (NYSE) parent, Intercontinental Exchange (ICE), doubled down on it’s bet on Polymarket with a fresh $600 million investment.
+
+Investment bank Morgan Stanley is seeking to launch its spot Bitcoin exchange-traded fundwith a 0.14% fee, which would make it the cheapest in the US market and potentially force rivals to cut fees to stay competitive.
+
+The 0.14% fee,proposedin Morgan Stanley’s latest S-1 registration statement on Friday, would be one basis point below the Grayscale Bitcoin Mini Trust ETF (BTC), currently the cheapest in the US market, and 11 basis points below the BlackRock-issued iShares Bitcoin Trust ETF (IBIT).
+
+“Big move here. They are not messing around,” Bloomberg ETF analyst James Seyffartsaid,predicting that the Morgan Stanley Bitcoin Trust (MSBT) is “likely to launch in early April.”
+
+Fellow Bloomberg ETF analyst Eric Balchunassaidthe low fee means that none of Morgan Stanley’s roughly 16,000 financial advisors — which manage $6.2 trillion in client assets — would feel conflicted in recommending the product to its clients.
+
+Given that spot Bitcoin ETFs track the price movements of Bitcoin (BTC), Morgan Stanley’s ultra-low fee could spark a fresh fee war in the $83 billion market, putting immediate pressure on rivals to cut costs or risk losing assets.
+
+US lawmakers have released adiscussion draft of the Digital Asset PARITY Act, outlining new crypto tax rules that notably exclude a Bitcoin de minimis exemption. Instead, the proposal introduces limited tax relief for certaindollar-pegged stablecoin transactionsunder $200 and clarifies that income from staking, lending and validator activity would be taxed annually based on fair market value.
+
+The draft, which has not yet been introduced in Congress, is intended to kick off debate around crypto taxation as policymakers push to integrate digital assets into existing financial rules.
+
+The proposal has already drawn criticism from parts of the crypto community, particularly Bitcoin advocates, who argue the bill prioritizes stablecoins over BTC. The move comes amid broader US efforts to define crypto market structure, taxation and regulatory oversight.
+
+ICE said Friday itcompleted a new $600 million direct cash investmentin Polymarket, deepening its bet on prediction markets as a new area of growth for exchange operators.
+
+The company alsosaidit expects to purchase up to $40 million of Polymarket securities from existing holders, adding to its previously announced investment commitment made in October 2025.
+
+In that earlier deal, ICE said itwould invest up to $2 billion in Polymarket, marking one of the largest institutional moves into the prediction market sector. The latest transaction advances that arrangement, though terms for the new investment, including valuation, were not disclosed.
+
+The deal signals ICE’s intention to expand its exposure to prediction markets, even as the sector faces evolving US regulatory scrutiny.At least 11 states are pursuing legal actionagainst prediction market platforms like Polymarket and Kalshi.
+
+Cointelegraph covers fintech, blockchain and Bitcoin bringing you the latest crypto news and analyses on the future of money.
+
+Cointelegraph is committed to providing independent, high-quality journalism across the crypto, blockchain, AI, and fintech industries. To support open access to our website and sustain editorial operations, certain commercial or partner references may appear on our site. These arrangements help maintain an accessible platform and do not result in additional costs to readers.
+
+All news, reviews, and analysis are produced with full journalistic independence and integrity. For more details on our standards and processes, please read ourEditorial Policy.

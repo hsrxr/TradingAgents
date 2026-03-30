@@ -1,0 +1,45 @@
+Title: ECB paper questions if DeFi DAOs are decentralized enough to sit outside MiCA
+Source: Cointelegraph
+URL: https://cointelegraph.com/news/ecb-paper-says-defi-governance-highly-concentrated?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+
+An ECB working paper found DeFi governance remains highly concentrated, complicating efforts to identify who should fall under MiCA oversight.
+
+Cointelegraph in your social feed
+
+The European Central Bank published a working paper on March 26, finding that governance in four major DeFi protocols was heavily concentrated.
+
+The staffpaperlooks at Aave, MakerDAO, Ampleforth and Uniswap, and finds that while governance tokens are held across tens of thousands of addresses, the top 100 holders control more than 80% of the supply in each protocol.
+
+Based on holdings snapshots from November 2022 and May 2023, the authors found that a large share of governance tokens could be linked either to the protocols themselves or to centralized and decentralized exchanges, with Binance the largest identified centralized exchange holder across the four protocols.
+
+The authors said the findings challenge the idea that decentralized autonomous organizations (DAOs) are inherently decentralized, raising questions about accountability and complicating efforts to identify possible regulatory anchor points under the European Union’sMarkets in Crypto-Assets Regulation (MiCA) framework. MiCA currently excludes “fully decentralised” services from its scope.
+
+The authors also look at who actually votes on key proposals, concluding that top voters are mostly delegates who wield delegated voting power from smaller token holders.
+
+The top 20 voters in Ampleforth control 96% of delegated voting power, while the top 10 voters in MakerDAO hold 66% of delegated votes, and the top 18 in Uniswap hold 52%. Around one-third of top voters cannot be publicly identified, and among those that can, the largest groups are individuals and Web3 companies, followed by university blockchain societies and venture firms.
+
+Related:DAOs may need to ditch decentralization to court institutions
+
+Cointelegraph reached out to Aave, Uniswap, MakerDAO, and Ampleforth, but had not received a response by publication.
+
+Kavi Jain, senior research associate at Bitwise, told Cointelegraph that many largeDeFiprotocols were not as decentralized in practice as they might appear, especially in the earlier stages, where a small group still has “meaningful influence over decisions.”
+
+He pointed to therecent Aave governance debatethat highlighted how, even with a DAO structure, voting power can “still be concentrated among a few participants.”
+
+The paper catalogues what governance actually decides, finding that the largest share of proposals relates to “risk parameters” that shape the protocols’ risk profiles. That raises further questions about accountability, especially given that it is “not possible” to tell from public data whether protocol-linked holdings belong to founders, developers or treasuries, or whether exchange wallets are voting their own positions or those of customers.
+
+Related:How a 2.85% price error triggered $27M in liquidations on Aave
+
+There are some caveats with the methodology, and the paper itself warns that it does not capture the “full scope of the DeFi ecosystem,” due to insufficient data.
+
+The paper also stresses that it reflects the authors’ views rather than official ECB policy, however, it warns that the difficulty of reliably identifying who controls major protocols makes it harder to lean on popular entry points such as governance token holders, developers or centralized exchanges, and says that the relevant anchor may differ protocol by protocol and require information that is not publicly available.
+
+Its findings echo earlierwarningsfrom the Financial Stability Board and others, cited in the paper, that DeFi’s promise of disintermediation often masks new forms of concentration and governance risk that resemble, and sometimes amplify, those seen in traditional finance.
+
+Magazine:Ethereum’s Fusaka fork explained for dummies — What the hell is PeerDAS?
+
+Cointelegraph covers fintech, blockchain and Bitcoin bringing you the latest crypto news and analyses on the future of money.
+
+Cointelegraph is committed to providing independent, high-quality journalism across the crypto, blockchain, AI, and fintech industries. To support open access to our website and sustain editorial operations, certain commercial or partner references may appear on our site. These arrangements help maintain an accessible platform and do not result in additional costs to readers.
+
+All news, reviews, and analysis are produced with full journalistic independence and integrity. For more details on our standards and processes, please read ourEditorial Policy.

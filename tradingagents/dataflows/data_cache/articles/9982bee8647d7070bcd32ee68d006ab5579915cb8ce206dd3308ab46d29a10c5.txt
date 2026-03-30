@@ -1,0 +1,23 @@
+Title: Elon Musk's X hires crypto-savvy design lead as X Money payments push inches closer
+Source: CoinDesk
+URL: https://www.coindesk.com/business/2026/03/25/elon-musk-s-x-hires-crypto-savvy-design-lead-as-x-money-payments-push-inches-closer
+
+Elon Musk’s social media platform X has hired a new head of design with deep roots in crypto product development, as the platform continues to expand into payments and financial services.
+
+Benji Taylor said inWednesday postthat he now leads design for X under its ties to xAI and SpaceX.
+
+TaylorfoundedLos Feliz Engineering, the team behind self-custody crypto wallet Family. Aave Labs, the development firm behind$42 billiondecentralized lender Aave,acquiredthe company in 2023, after which Taylor served as chief product officer until October 2025. Most recently, he was head of design at Base, the Ethereum-based blockchain network built by crypto exchange Coinbase (COIN).
+
+X product lead Nikita Biersaidhe had tracked Taylor’s work for years and pushed to bring him on, calling one of his past products among the best designed he had seen.
+
+The hire adds a designer with hands-on crypto experience at a time when X telegraphed its plans to roll out features to support payments and broader financial features on the platform.
+
+Earlier this month, Musk said thatX Money is set to launch in April, offering peer-to-peer transactions, bank deposits, a debit card and cashback rewards in more than 40 U.S. states. It was also proposed to pay a 6% yield on balances.
+
+However, there wasn't any mention of blockchain or crypto element in X Money at the time.
+
+As stablecoins evolve into core financial infrastructure, North America leads. This report maps the regulation, market shifts, and players driving adoption.
+
+Stablecoins are entering their third phase of evolution - the institutionalization era - becoming increasingly embedded into core financial infrastructure. As institutions prioritize transparency and compliance, regulated issuers like USDC, RLUSD, and PYUSD are steadily gaining share with RLUSD surpassing $1B in market cap within its first year. North America, leading in regulatory frameworks and institutional distribution, is at the center of it all.
+
+The integration provides institutions with a compliant way to hold TRX and will be expanded to include TRC-20 assets and native TRX staking.

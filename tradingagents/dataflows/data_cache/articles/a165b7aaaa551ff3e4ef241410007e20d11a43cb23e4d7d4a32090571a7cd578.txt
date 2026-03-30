@@ -1,0 +1,37 @@
+Title: Detroit set to enter Michigan‘s battle against Coinbase prediction markets
+Source: Cointelegraph
+URL: https://cointelegraph.com/news/detroit-michigan-lawsuit-coinbase-prediction-market?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+
+The US city is expected to pen an amicus brief in Coinbase's lawsuit against the state of Michigan, which the exchange filed ahead of its prediction markets launch.
+
+Cointelegraph in your social feed
+
+Lawyers representing the US city of Detroit plan to file an amicus brief in Coinbase's lawsuit against Michigan, which argues that federal regulators should have authority in overseeing prediction markets and not states.
+
+In a Thursday filing in the US District Court for the Eastern District of Michigan related to state officials’ motion for a preliminary injunction, District Judge Shalina Kumar approved an order which will allow Detroit to file a brief supporting state authorities in their lawsuit against Coinbase. Kumar gave Detroit’s lawyers until April 3 to make the filing as the lawsuit continues.
+
+In December, Coinbasefiled its lawsuitagainst Michigan, as well as gaming authorities in Connecticut and Illinois, more than a month before the crypto exchange announced the launch of its prediction market services on the platform.
+
+The company’s argument is centered on claims that prediction markets fall under the purview of the US Commodity Futures Trading Commission (CFTC) rather than state gambling regulators, challenging Michigan’s enforcement.
+
+Companies offering event contract bets on prediction markets like Coinbase, Kalshi and Polymarket already face state-level lawsuits in multiple jurisdictions. Although the platforms have been supported by efforts from CFTC Chair Michael Selig, whoproposed new rulesfor the commission, it was still unclear as of Friday how the legal battle between state authorities and federal regulators would unfold.
+
+Related:Federal regulation looms as 11 states go after prediction markets
+
+“The more the CFTC can do in this space [prediction markets] to put a comprehensive regulatory regime around it, the more likely it is for courts who are looking at the issue to say ‘actually, yes, this is a CFTC jurisdiction issue — this really is not just an end run around sports gambling bans in particular states,’” Stephen Piepgrass, a partner at international law firm Troutman Pepper Locke, told Cointelegraph.
+
+According to Piepgrass, the cases could ultimately end up going back to the US Supreme Court, given its 2018 decision inMurphy v. National Collegiate Athletic Association. That case gave US states the authority to regulate sports gambling, striking down a federal law that attempted to impose a ban on such activities.
+
+US states have largely pushed back against lawsuits over prediction markets, but courts have sided with the platforms in some cases.
+
+This month, a judgeordered Kalshi to temporarily stop operatingin Nevada, and the platformfaces criminal charges in Arizonaover alleged illegal gambling on sports and elections. However, a Tennessee judge blocked state authorities from enforcing gambling laws against the platform in February.
+
+The Michigan Gaming Control Board reported that casinos based in Detroit casinosgeneratedmore than $200 million in revenue for January and February, providing more than $24 million in taxes for the US state.
+
+Magazine:XRP yet to ‘price in’ 3 bullish catalysts, Bitcoin to $80K? Trade Secrets
+
+Cointelegraph covers fintech, blockchain and Bitcoin bringing you the latest crypto news and analyses on the future of money.
+
+Cointelegraph is committed to providing independent, high-quality journalism across the crypto, blockchain, AI, and fintech industries. To support open access to our website and sustain editorial operations, certain commercial or partner references may appear on our site. These arrangements help maintain an accessible platform and do not result in additional costs to readers.
+
+All news, reviews, and analysis are produced with full journalistic independence and integrity. For more details on our standards and processes, please read ourEditorial Policy.

@@ -1,0 +1,37 @@
+Title: Trump Policy Has Crypto Privacy Developers in a 'Very Bad State', Says Coin Center
+Source: Decrypt
+URL: https://decrypt.co/362519/crypto-privacy-tool-laws-very-bad-state
+
+Trump Policy Has Crypto Privacy Developers in a 'Very Bad State', Says Coin Center
+
+For over a year now, the White House has made strong efforts to court the crypto industry, rolling outpermissive regulationsthat haveturbochargedthe sector’s integration with the U.S. economy.
+
+But there’s one issue that still keeps some crypto industry leaders up at night, despite the Donald Trump administration’s many promises on the subject: protections for software developers.
+
+Last year, the Trump Justice Department mademultiplecommitmentsto stop prosecuting the developers of crypto privacy software—the types of tools used to keep crypto transactions anonymous. And yet, months later, federal prosecutors sent twoBitcoindevelopersto prison for creating such software—and took another Ethereum developer to trial for creating similar tools.
+
+The Ethereum developer, Roman Storm, was convicted on one charge and acquitted on two others. But earlier this month, the Trump DOJfiledto try him on those two charges again.
+
+Those developments had crypto privacy advocates in a grim enough mood. But on Wednesday, a federal judge in Texas handed down a decision that some feel could bode even more poorly. The judgedismisseda lawsuit against the DOJ brought by a software developer, Michael Lewellen, who said he feared being prosecuted by the U.S. government for creating his own privacy tool. The judgeruledthat because the Trump DOJ has said it doesn’t plan to prosecute crypto developers, the man had no standing to claim “a credible threat of prosecution.”
+
+The ruling has Peter Van Valkenburgh, executive director of the crypto advocacy group Coin Center, very worried. By making statements in support of software developers, but still going after some of them anyway, the Trump DOJ appears to have now stuck policy leaders like him between a rock and a hard place.
+
+“They can effectively go after developers when they want to go after them, and then claim to be pro-developer when they want to claim to be pro-developer,” Van Valkenburgh, who leads Washington’s longest running crypto policy think tank, toldDecrypt. Coin Center was financially supporting Lewellen’s lawsuit.
+
+In yesterday’s ruling, Judge Reed O’Connor determined that the “core conduct” of the crypto developers thus far prosecuted by the Trump DOJ was money laundering—whereas, in yesterday’s case, plaintiff Michael Lewellen asserted he planned to run a proper, upstanding business. Because Lewellen had no intention to launder money, he should not fear an impending prosecution, O’Connor decided.
+
+That particular conclusion particularly irked Van Valkenburgh, who maintains crypto developers—including those targeted by the Trump DOJ—should not be responsible for policing who ends up using their software.
+
+“Michael wants to build good tools that can be used for privacy,” he said. “It is very plausible that those tools will be used for money laundering, and that then somebody will come and prosecute him.”
+
+Prosecutions against the developers of crypto privacy tools didn’t start under Trump. They trace back to the Joe Biden administration, which was roundly criticized by industry leaders for numerouscrypto-skepticalpolicies. But while the current White House has taken a far friendlier tack towards digital assets, and even—theoretically—software developers, Van Valkenburgh worries the DOJ’s apparent lack of consistency on the issue might have put his priorities in a worse spot.
+
+“Short term, pragmatically, maybe developers are a little safer now,” he said. “But that very same deprioritization is now making it harder for someone like Michael Llewellyn to get binding legal clarity.”
+
+“That's a very bad state of the world right now,” Van Valkenburgh said.
+
+Your gateway into the world of Web3
+
+The latest news, articles, and resources, sent to your inbox weekly.
+
+© A next-generation media company.2026Decrypt Media, Inc.

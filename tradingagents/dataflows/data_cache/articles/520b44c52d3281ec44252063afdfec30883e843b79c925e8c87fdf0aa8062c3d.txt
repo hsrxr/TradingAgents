@@ -1,0 +1,33 @@
+Title: Ethereum Foundation prepares for quantum threat with new cryptography roadmap
+Source: CoinDesk
+URL: https://www.coindesk.com/tech/2026/03/25/ethereum-foundation-prepares-for-quantum-threat-with-new-cryptography-roadmap
+
+Ethereum isn't waiting for quantum computers to become a problem before figuring out how to survive them.
+
+The Ethereum Foundation launched pq.ethereum.org on Wednesday, a dedicated resource hub for the protocol's post-quantum security effort. The site consolidates a roadmap, open-source repositories, specifications, research papers, EIPs, and a 14-question FAQ written by the EF's post-quantum team.
+
+More than 10 client teams are already building and shipping devnets weekly through what the foundation calls PQ Interop, the foundation said in an X post earlier Wednesday.
+
+Today, several teams at the EF are launchinghttps://t.co/L9ZOUoRNNB, a dedicated resource for Ethereum's post-quantum security effort.What started with early STARK-based signature aggregation research in 2018 has grown into a coordinated, multi-team effort, all open source.…
+
+The technical challenge is substantial. Quantum computers are widely believed to will eventually break the public-key cryptography that secures ownership, authentication, and consensus across Ethereum.
+
+The EF's position is that a cryptographically relevant quantum computer isn't imminent, but migrating a decentralized global protocol takes years of coordination, engineering, and formal verification.
+
+The migration touches every layer of the protocol.
+
+At the execution layer, post-quantum signature verification through a vector math precompile would let users transition to quantum-safe authentication through account abstraction without a disruptive "flag day" where everyone has to upgrade simultaneously.
+
+At the consensus layer, the current BLS validator signature scheme gets replaced with hash-based signatures called leanXMSS, with a minimal zk-based virtual machine handling aggregation to restore scalability since post-quantum signatures are larger.
+
+At the data layer, post-quantum cryptography extends to blob handling for data availability.
+
+This connects directly to thestrawmap piecefrom earlier this month where Ethereum co-creator Vitalik Buterin called the document "very important" and walked through the finality improvements. The post-quantum push stood out then because it treated quantum threats as a concrete engineering problem with specific fork targets rather than a hypothetical.
+
+While quantum computing represents a threat category that attacks the cryptographic foundations rather than the physical infrastructure, the protocols that prepare earliest will be the most resilient when such a system eventually materializes.
+
+As stablecoins evolve into core financial infrastructure, North America leads. This report maps the regulation, market shifts, and players driving adoption.
+
+Stablecoins are entering their third phase of evolution - the institutionalization era - becoming increasingly embedded into core financial infrastructure. As institutions prioritize transparency and compliance, regulated issuers like USDC, RLUSD, and PYUSD are steadily gaining share with RLUSD surpassing $1B in market cap within its first year. North America, leading in regulatory frameworks and institutional distribution, is at the center of it all.
+
+The next XRP Ledger release will be dedicated entirely to bug fixes and improvements.

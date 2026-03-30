@@ -1,0 +1,43 @@
+Title: Bitcoin’s quantum-resistance lag may become Ethereum’s bull case: Nic Carter
+Source: Cointelegraph
+URL: https://cointelegraph.com/news/bitcoin-quantum-rigidity-becomes-ethereum-s-biggest-bull-case-nic-carter?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+
+Crypto entrepreneur Nic Carter claims that Bitcoin developers still have their "head in the sand" when it comes to making Bitcoin quantum-resistant, compared to Ethereum.
+
+Cointelegraph in your social feed
+
+Crypto entrepreneur Nic Carter has urged Bitcoin developers to catch up on quantum resistance or risk losing out to Ethereum, which already has a post-quantum roadmap.
+
+Elliptic curve cryptography (ECC) is the math that keeps Bitcoin (BTC) secure. Users pick a secret number (private key) and, using a special curved line and simple multiplication rules on that line, can quickly create a public address that everyone can see.
+
+There are fears that quantum computers will have the ability tobreak this cryptography. The Bitcoin community is split on how to deal with it, with some advocating for upgrading cryptography while others say intervention would violate Bitcoin’s core principles.
+
+“Elliptic curve cryptography is on the brink of obsolescence,” said Carter, the founding partner at Castle Island Ventures on X on Thursday. “Whether it’s 3 or 10 years; it’s over and we need to accept that.”
+
+Carter argues that there will need to be an “entire reimagining” of how these systems work, and that today, the cryptography is hardcoded in. “That will have to change,” he added.
+
+ARK Invest said in a paper on March 11 that abouta third of all BTCwas at risk from the quantum threat, but added that it was a “long-term risk.”
+
+Carter said that Ethereum developers are alreadyworking on thiswith a new security team, linking to a detailed post-quantumroadmapby 2029 that has been set as a “top strategic priority.”
+
+Ethereum co-founder Vitalik Buterin said in late February that validator signatures, data storage, accounts, and proofs must change to prepare for quantum threats, while proposing a quantum resistance roadmap.
+
+Related:Vitalik Buterin outlines quantum resistance roadmap for Ethereum
+
+At the same time, Carter has previouslyclaimedon X that Bitcoin Core developers have been ignoring quantum-related proposals such as BIP-360.
+
+Carter came down hard again on Bitcoin developers in his recent X thread, claiming they have a “worst in class approach,” and “deny, gaslight, gatekeep, bury heads in sand, say ‘the community will decide’ and then refuse to take feedback from the community when offered.”
+
+Ethan Heilman, a co-author of BIP-360,respondedin February that Core contributors have been engaging with the Bitcoin improvement proposal and that BIP-360 has received “more comments than any other BIP in the history of BIPs.”
+
+Meanwhile, Google raised the stakes on Wednesday,setting a 2029 deadlinefor its post-quantum cryptography migration.
+
+The search giant warned that quantum computers will “pose a significant threat” to current cryptographic standards, and “specifically to encryption and digital signatures.”
+
+Magazine:Nobody knows if quantum secure cryptography will even work
+
+Cointelegraph covers fintech, blockchain and Bitcoin bringing you the latest crypto news and analyses on the future of money.
+
+Cointelegraph is committed to providing independent, high-quality journalism across the crypto, blockchain, AI, and fintech industries. To support open access to our website and sustain editorial operations, certain commercial or partner references may appear on our site. These arrangements help maintain an accessible platform and do not result in additional costs to readers.
+
+All news, reviews, and analysis are produced with full journalistic independence and integrity. For more details on our standards and processes, please read ourEditorial Policy.

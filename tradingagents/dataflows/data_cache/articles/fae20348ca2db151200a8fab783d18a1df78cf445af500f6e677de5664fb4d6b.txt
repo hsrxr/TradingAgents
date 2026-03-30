@@ -1,0 +1,43 @@
+Title: Is AGI Here? Not Even Close, New AI Benchmark Suggests
+Source: Decrypt
+URL: https://decrypt.co/362496/is-agi-here-not-even-close-ai-benchmark
+
+Is AGI Here? Not Even Close, New AI Benchmark Suggests
+
+Nvidia CEO Jensen Huang went on Lex Fridman's podcast last week andsaid, plainly, "I think we've achievedAGI." Two days later, the most rigorous test in AI research dropped its newest artificial general intelligence benchmark—and every frontier model scored below 1%.
+
+TheARC Prize Foundationreleased ARC-AGI-3 this week, and the results are brutal. Google’s Gemini 3.1 Pro led the pack at 0.37%. OpenAI’s GPT-5.4 came in at 0.26%. Anthropic’s Claude Opus 4.6 managed 0.25%, while xAI’s Grok-4.20 scored exactly zero. Humans, meanwhile, solved 100% of environments.
+
+This isn't a trivia test or coding exam, or even ultra-hard PhD-level questions. ARC-AGI-3 is something entirely different from anything the AI industry has faced before.
+
+The benchmark was built by François Chollet and Mike Knoop's foundation, which set up anin-house game studioand created 135 original interactive environments from scratch. The idea is to drop an AI agent into an unfamiliar game-like world with zero instructions, zero stated goals, and no description of the rules. The agent has to explore, figure out what it's supposed to do, form a plan, and execute it.
+
+If that sounds like something any five-year-old can do, you're starting to understand the problem. If you want to see if you are better than AI, you can play the same games featured in the test by clicking onthis link. We tried one; it was weird at first, but after a few seconds, you can easily get the hang of it.
+
+It also is the clearest example of what the “G” in AGI stands for. When you generalize, you are able to create new knowledge (how a weird game works) without being trained on it in advance.
+
+Previous versions of ARC tested static visual puzzles—show a pattern, predict the next one. They were hard at first. Then the labs threw compute power and training at them until the benchmarks were effectively dead. ARC-AGI-1, introduced in 2019, fell to test-time training and reasoning models. ARC-AGI-2 lasted about a year before Gemini 3.1 Pro hit 77.1%. The labs are very good at saturating benchmarks they can train against.
+
+Version 3 was designed specifically to prevent that. With 110 of the 135 environments kept private—55 semi-private for API testing, 55 fully locked for competition—there's no dataset to memorize. You can't brute-force your way through novel game logic you've never seen.
+
+Scoring isn't pass/fail either. ARC-AGI-3 uses what the foundation calls RHAE—Relative Human Action Efficiency. The baseline is the second-best, first-run human performance. An AI that takes ten times as many actions as a human scores 1% for that level, not 10%. The formula squares the penalty for inefficiency. Wandering around, backtracking, and guessing your way to an answer gets punished hard.
+
+The best AI agent in the month-long developer preview scored 12.58%. Frontier LLMs tested through the official API, with no custom tooling, couldn't crack 1%. Ordinary humans solved all 135 environments with no prior training and no instructions. If that's the bar, then the current crop of models isn't clearing it.
+
+There is one real methodological debate here. ARC's report says a Duke-built custom harness pushed Claude Opus 4.6 from 0.25% to 97.1% on a single environment variant called TR87. That does not mean Claude scored 97.1% on ARC-AGI-3 overall; its official benchmark score remained 0.25%, but the shift is still worth noting.
+
+The official benchmark feeds agents JSON code,not visuals. That's either a methodological flaw or a demonstration that today's models are better at processing human-friendly information than raw structured data. Chollet's foundation has acknowledged the debate, but isn't changing the format.
+
+“Frame content perception and API format are not limiting factors for frontier model performance on ARC-AGI-3,” the paper reads. In other words, they seem to reject the idea that models fail because they “can’t see” the tasks properly, arguing instead that perception is already sufficient—and the real gap lies in reasoning and generalization.
+
+The AGI reality check arrived during a week when the hype machine was running at full speed. Besides Huang's comment, Arm named its newdata center chipthe "AGI CPU." OpenAI's Sam Altman has said they've "basically built AGI," and Microsoft is already marketing a lab focused on building ASI: An evolution of what comes after AGI is achieved. The term is being stretched until it means whatever is commercially convenient, it appears.
+
+Chollet's position is simpler. If a normal human with no instructions can do it, and your system can't, then you don't have AGI—you have a very expensive autocomplete that needs a lot of help.
+
+ARC Prize 2026 is offering $2 million across three competition tracks, all hosted on Kaggle. Every winning solution must be open-sourced. The clock is running, and right now, the machines aren't even close.
+
+Your gateway into the world of Web3
+
+The latest news, articles, and resources, sent to your inbox weekly.
+
+© A next-generation media company.2026Decrypt Media, Inc.

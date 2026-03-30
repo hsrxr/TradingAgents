@@ -1,0 +1,45 @@
+Title: Ethereum builders propose ‘economic zone’ to tackle L2 fragmentation
+Source: Cointelegraph
+URL: https://cointelegraph.com/news/ethereum-builders-propose-economic-zone-to-tackle-l2-fragmentation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+
+Developers from Gnosis and Zisk propose a framework to connect fragmented rollups, amid growing debate over Ethereum’s scaling model and interoperability challenges.
+
+Cointelegraph in your social feed
+
+Developers from Gnosis and Zisk, with backing from the Ethereum Foundation, have proposed a new framework aimed at unifying Ethereum’s fragmented layer-2 ecosystem by enabling rollups to interact seamlessly with each other and the mainnet in a single transaction.
+
+According to an announcement shared with Cointelegraph, the proposed “Ethereum Economic Zone” (EEZ) would allow smart contracts on different rollups to execute synchronously across networks without relying on bridges.
+
+The initiative targets a key trade-off in Ethereum’s scaling strategy, where dozens of layer-2 networks have improved throughput but split liquidity, infrastructure and user activity across separate environments.
+
+If implemented, the framework would let applications share infrastructure across rollups while settling back to Ethereum, reducing duplication and the need for cross-chain transfers.
+
+The project is being developed together with Ethereum researchers and industry participants, with early contributors including infrastructure providers and DeFi protocols exploring a shared standard for interoperable rollups.
+
+Technical details and performance benchmarks are expected in the coming weeks as the group begins outlining how the framework would be implemented and adopted across the broader Ethereum ecosystem.
+
+The proposal also introduces an “EEZ Alliance,” a group of ecosystem participants seeking to coordinate standards and support adoption as Ethereum’s scaling architecture continues to evolve.
+
+Gnosis is an early Ethereum infrastructure developer. Zisk is a zero-knowledge proving project led by Polygon zkEVM creator Jordi Baylina.
+
+Related:Bitcoin’s quantum-resistance lag may become Ethereum’s bull case: Nic Carter
+
+The proposal comes amid an ongoing debate within the Ethereum community over the trade-offs of its rollup-centric roadmap. While layer-2 networks have expanded the ecosystem’s capacity, they have also split liquidity and user activity across separate environments.
+
+Data from L2BEATshowsmore than 20 active layer-2 networks securing nearly $40 billion in total value, with liquidity distributed across networks such as Arbitrum, Base and Optimism. Rather than consolidating activity, Ethereum’s scaling model has created a landscape of parallel execution environments.
+
+Ethereum co-founder Vitalik Buterin has raised concerns about the design of some layer-2 networks, pointing to centralized sequencers and trusted bridging mechanisms as potential weak points.
+
+“The original vision of L2s and their role in Ethereum no longer makes sense, and we need a new path,” Buterin said in a Feb. 3 Xpost, indicating the ecosystem may need to rethink how rollups contribute to Ethereum’s scaling model.
+
+Buterin’s commentsdrew mixed reactions from layer-2 builders, reflecting a divide over the future role of rollups.
+
+Karl Floersch, co-founder of Optimism, acknowledged that L2s must evolve beyond simple scaling, citing ongoing technical limitations, while Steven Goldfeder, co-founder of Offchain Labs, the developer behind Arbitrum, argued that scaling remains a core function as rollups continue to handle higher transaction throughput than Ethereum itself.
+
+Magazine:Nobody knows if quantum secure cryptography will even work
+
+Cointelegraph covers fintech, blockchain and Bitcoin bringing you the latest crypto news and analyses on the future of money.
+
+Cointelegraph is committed to providing independent, high-quality journalism across the crypto, blockchain, AI, and fintech industries. To support open access to our website and sustain editorial operations, certain commercial or partner references may appear on our site. These arrangements help maintain an accessible platform and do not result in additional costs to readers.
+
+All news, reviews, and analysis are produced with full journalistic independence and integrity. For more details on our standards and processes, please read ourEditorial Policy.

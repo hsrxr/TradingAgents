@@ -1,0 +1,35 @@
+Title: DeFi lending giant Aave launches on OKX's Ethereum L2, X Layer
+Source: Cointelegraph
+URL: https://cointelegraph.com/news/okx-integrates-aave-on-eth-l2-x-layer?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+
+OKX’s X Layer is the 21st blockchain to integrate Aave, which recently surpassed the $1 trillion mark in cumulative lending volume.
+
+Cointelegraph in your social feed
+
+Aave, the largest decentralized lending protocol with $23.5 billion in total value locked, has launched on X Layer, an Ethereum layer-2 blockchain launched by crypto trading platform OKX.
+
+It marks a significant milestone for X Layer, a blockchain with just $25 million in total value locked, which launched in 2024. The integration would allow OKX Wallet and X Layer users to lend, borrow and earn yield without needing to bridge out to another chain.
+
+“This is a very versatile expansion of our DeFi ecosystem and as such should benefit the full range of customers we have on X Layer,” an OKX spokesperson told Cointelegraph.
+
+X Layer launched in May 2024 in a highly crowded Ethereum layer-2 market. Like many of its competitors, X Layer is focused on scalability, offering $0.0005 transactions on average at one-second block times.
+
+Other notable DeFi platforms integrated on X Layer includeUniswap for decentralized swaps,Chainlink fororacle servicesand Stargate for cross-chain money transfers.
+
+The integration comes as Aave surpassed the$1 trillion markin cumulative lending volume in late February, marking an industry first.
+
+Aavesecures$23.5 billion in total value locked, enabling users toearn interest on depositsand borrow instantly using crypto as collateral.Aave is integrated on more than 20 chains, including Ethereum, Arbitrum and Base, and has over$40.4 billionworth of net deposits on the platform compared to Morpho’s$10 billion.
+
+Related:Aave DAO backs V4 mainnet plan in near-unanimous vote
+
+The $23.5 billion figure is more than three times Aave’s closest competitor, Morpho, in the DeFi lending market.
+
+Aave has also taken in over $6.2 million in revenue over the last 30 days, more than five times that ofsecond-place Morpho.
+
+Magazine:Bitcoin may face hard fork over any attempt to freeze Satoshi’s coin
+
+Cointelegraph covers fintech, blockchain and Bitcoin bringing you the latest crypto news and analyses on the future of money.
+
+Cointelegraph is committed to providing independent, high-quality journalism across the crypto, blockchain, AI, and fintech industries. To support open access to our website and sustain editorial operations, certain commercial or partner references may appear on our site. These arrangements help maintain an accessible platform and do not result in additional costs to readers.
+
+All news, reviews, and analysis are produced with full journalistic independence and integrity. For more details on our standards and processes, please read ourEditorial Policy.

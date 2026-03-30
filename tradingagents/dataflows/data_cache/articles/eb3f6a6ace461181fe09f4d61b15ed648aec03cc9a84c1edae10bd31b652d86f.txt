@@ -1,0 +1,25 @@
+Title: XRP Falls to 2-Week Low as Ripple Deploys AI to Boost Ledger Security
+Source: Decrypt
+URL: https://decrypt.co/362495/xrp-2-week-low-ripple-deploys-ai-boost-ledger-security
+
+XRP Falls to 2-Week Low as Ripple Deploys AI to Boost Ledger Security
+
+Ripple has unveiled a comprehensive AI-powered security overhaul for the XRP Ledger, deploying automated testing tools and establishing a dedicated red team that it said has already uncovered more than 10 bugs in the blockchain's codebase.
+
+The companyoutlined its new strategyon Thursday, detailing how AI tools will be integrated across the XRP Ledger development lifecycle, including adversarial code scanning on every pull request and automated stress testing.
+
+The AI-assisted red team focuses on analyzing how features interact in real-world scenarios, particularly at boundaries where legacy code meets new functionality.
+
+Ripple said the next XRP Ledger software release will be dedicated entirely to bug fixes and improvements without introducing new features, signaling a shift toward prioritizing security over rapid feature deployment. The company also plans to require multiple independent security audits for significant protocol changes and is expanding its bug bounty program.
+
+“XRPL has proven its reliability over more than a decade of operation. Our responsibility now is to ensure the ledger continues to meet the demands of global payments, tokenized assets, and institutional-grade financial infrastructure,” the blog post reads. “We will evolve XRPL by systematically strengthening the foundation it is built on.”
+
+XRPwas recently trading at $1.34, down 5% on the day amid a broader crypto market dip on Thursday. Stock prices are also tumbling amid uncertainty around the Iran conflict.
+
+At that price, XRP is at its lowest price in more than two weeks, per data from CoinGecko. XRP set a new all-time high price of $3.65 last July, but has fallen 63% since.
+
+Your gateway into the world of Web3
+
+The latest news, articles, and resources, sent to your inbox weekly.
+
+© A next-generation media company.2026Decrypt Media, Inc.

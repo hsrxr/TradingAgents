@@ -1,0 +1,47 @@
+Title: Proposed bill seeks to ban US president, Congress from prediction markets
+Source: Cointelegraph
+URL: https://cointelegraph.com/news/lawmakers-introduce-bill-banning-congress-president-from-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+
+The bill adds to a wave of recent legislative and state-level actions targeting prediction markets as scrutiny over sports betting, war contracts and alleged insider trading builds.
+
+Cointelegraph in your social feed
+
+US lawmakers have introduced a bill aiming to ban members of the US Congress, the president and other high-ranking government officials from wagering on prediction markets.
+
+The proposed bill, a bipartisan effort from US Representative Adrian Smith and Representative Nikki Budzinski, was introduced on Tuesday and is called the Preventing Real-time Exploitation and Deceptive Insider Congressional Trading Act (PREDICT Act).
+
+“In recent months, we've seen instances of little-known traders making massive profits on events ranging from war with Iran to how long a government shutdown will last, raising necessary questions about the use of inside information,” Budzinski said.
+
+The move comes amid growing scrutiny of prediction markets in the US, with lawmakers and regulators taking aim at platforms such as Kalshi and Polymarket over contracts related to sports, war and politics.
+
+The bill seeks to bar members of Congress, the president, vice president and political appointees from wagering on the "outcomes of political events, policy decisions, and other government actions on prediction markets." It also extends to the spouses and dependents of these government officials.
+
+The potential penalties listed in the PREDICT Act include a 10% fine on the total value of the contract and the disgorgement of all profits to the US Treasury.
+
+Commenting on the bill, Budzinski stressed the importance of closing loopholes to ensure people with inside knowledge “cannot profit from it.”
+
+Budzinski isn’t the only one sounding off on alleged corruption on prediction markets. Earlier this month, two Democratic lawmakersintroduced a separate billcalled the Banning Event Trading on Sensitive Operations and Federal Functions (BETS OFF) Act.
+
+Speaking about the bill, Senator Chris Murphy alleged that it was likely that people used “inside information” to make bets on US President Donald Trump's military actions involving Iran.
+
+US lawmakers aren't just flagging concerns with insider trading on prediction markets. Sports-related contracts have also recently drawn attention at both the federal and state levels.
+
+Cointelegraph reported earlier this week that11 states have taken legal actionagainst prediction markets, while another two states also have pending legal action in the works.
+
+At the federal level, Sens. John Curtis and Adam Schiffintroducedabill on Mondayaiming to ban any Commodity Futures Trading Commission (CFTC) registered entity from listing prediction market contracts that resemble "a sports bet or casino-style game."
+
+Related:Why Argentina is blocking Polymarket despite its global growth
+
+The senators argued that many companies have been offering significant amounts of contracts that “are indistinguishable from gambling” and also took aim at the CFTC for its approach to the sector.
+
+“For fifteen years, the CFTC has enforced its authority to prohibit the listing of a contract that involves, relates to or references ‘gaming.’ However, the CFTC and its chair have abruptly reversed course -- intervening in ongoing litigation and proceeding with rulemaking to significantly relax the CFTC's enforcement of this clause,” they said.
+
+Following the move, both Kalshi and Polymarket, two of the largest prediction market platforms, made efforts totighten their rulesto stop professional athletes and political candidates from wagering on prediction markets.
+
+Magazine:Are DeFi devs liable for the illegal activity of others on their platforms?
+
+Cointelegraph covers fintech, blockchain and Bitcoin bringing you the latest crypto news and analyses on the future of money.
+
+Cointelegraph is committed to providing independent, high-quality journalism across the crypto, blockchain, AI, and fintech industries. To support open access to our website and sustain editorial operations, certain commercial or partner references may appear on our site. These arrangements help maintain an accessible platform and do not result in additional costs to readers.
+
+All news, reviews, and analysis are produced with full journalistic independence and integrity. For more details on our standards and processes, please read ourEditorial Policy.

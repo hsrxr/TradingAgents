@@ -1,0 +1,31 @@
+Title: Brazil Passes Law to Use Seized Bitcoin, Crypto to Fund Public Security Measures
+Source: Decrypt
+URL: https://decrypt.co/362453/brazil-passes-law-seized-bitcoin-crypto-fund-public-security
+
+Brazil Passes Law to Use Seized Bitcoin, Crypto to Fund Public Security Measures
+
+Anew law passed in Brazildesigned to bolster the fight against organized crime will allow authorities to seize digital assets from criminals and potentially use them in the public’s interest.
+
+The “Anti-Gang Law” was signed into law by Brazilian President Luiz Inácio Lula da Silva on Tuesday, creating much harsher penalties for crime leaders while providing authorities the means“for the financial, logistical, and material strangulation”of organized crime entities.
+
+“The law represents progress in combating organized crime, by incorporating mechanisms for financial strangulation and strengthening the state's capacity to respond to the growing complexity of these criminal structures,” said Brazil’s Minister of Justice and Public Security Wellington Lima, in a statement.
+
+“The focus is on reaching their highest levels, with more effective instruments and coordinated action,” he added.
+
+While the bill does not specifically mention any crypto assets by name, it allows judges to order precautionary measures like “seizure, attachment, blocking or freezing of movable and immovable property, rights and assets, including digital or virtual assets” in cases where there is sufficient evidence of a serious crime as defined in the law.
+
+In certain cases, the judge may also be able to authorize the early sale of assets, with proceeds then flowing to public security funds.
+
+Custody of seized assets based on precautionary measures will fall to the public authorities, except in cases where a judge determines “the material impossibility or technical inadequacy of custody by the public authorities is demonstrated.”
+
+In other jurisdictions, authorities have had difficulty in maintaining custody of crypto assets gathered from investigations. For example, law enforcement in South Koreadidn’t adhere to crypto custody guidelines, and lost access to $1.4 million inBitcoin.
+
+Later, representatives for the National Tax Service in South Koreaposted photos of seed phrases, the 12-word phrases that unlock a crypto wallet’s private key, allowing an unknown individual to grab $4.8 million in crypto tokens at face value—before ultimately returning them.
+
+The newly passed law in Brazil was sent to congress in November as the nation’s government and central bankintroduced proposals to crack down on crimeand illegal Bitcoin or stablecoin use. The nation also clamped down on anillegal Bitcoin mining operationin September.
+
+Your gateway into the world of Web3
+
+The latest news, articles, and resources, sent to your inbox weekly.
+
+© A next-generation media company.2026Decrypt Media, Inc.

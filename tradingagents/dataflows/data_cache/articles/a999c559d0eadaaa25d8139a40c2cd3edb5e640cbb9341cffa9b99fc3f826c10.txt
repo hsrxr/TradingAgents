@@ -1,0 +1,37 @@
+Title: Bitcoin DAT trade is concentrating in Michael Saylor’s Strategy as treasury demand fades elsewhere
+Source: CoinDesk
+URL: https://www.coindesk.com/markets/2026/03/26/michael-saylor-s-strategy-dominates-dat-bitcoin-buying-as-treasury-demand-collapses
+
+Corporate bitcoinBTC$66,223.65buying has narrowed to a single company, and the trade that was supposed to broaden the asset’s institutional base is now a concentration risk.
+
+Strategy, the largest corporate bitcoin holder in the world, purchased roughly 45,000 BTC over the past 30 days, its fastest accumulation pace since April 2025, according to a CryptoQuant report published this week.
+
+Every other treasury company combined bought approximately 1,000 BTC in the same period, a 99% decline from a peak of 69,000 BTC in August last year. Their share of total purchases has collapsed to 2%, from 95% at the height of the trade.
+
+Michael Saylor's Strategy now holds roughly 76% of all bitcoin held by treasury companies, according to CryptoQuant data.
+
+The numbers confirm what Galaxy Digital warned about last summer.In a July report, Galaxy argued that the digital asset treasury company model was fundamentally a liquidity derivative that worked only as long as equities traded at a premium to their underlying bitcoin holdings.
+
+Once those premiums compressed, the flywheel would reverse: lower prices would shrink net asset values, squeeze out the equity premium, and make share issuance dilutive rather than accretive.
+
+That scenario has played out almost exactly as described.
+
+In July and August of 2025, the DATCO summer when these companies were accumulating, BTCwas trading northof $110,000. Now, it's trading under $70,000,according to CoinDesk market data, as it slowlyrecovers from the crash of October 10.
+
+Companies that bought aggressively near the cycle top, including Metaplanet and Nakamoto Holdings, carried average costs above $107,000 as of December, according to Galaxy's analysis, putting them deep underwater at current prices.
+
+Strategy has moved to insulate itself, disclosing inDecember a $1.44 Billion cash reservewith the goal to eventually build this up to a point to cover 24 months of dividend and interest obligations.
+
+That defensive posture has not slowed its buying. But the CryptoQuant data makes clear that no other firm is keeping pace, and most have stopped trying.
+
+The result is a far more concentrated demand profile than the market was promised.
+
+AtBitcoin Asia in Hong Kong last summer, treasury firms pitched themselves as a scalable new class ofcorporate buyers that could absorb bitcoin supplyand outperform passive exposure.
+
+For now, that vision has narrowed to a single balance sheet.
+
+As stablecoins evolve into core financial infrastructure, North America leads. This report maps the regulation, market shifts, and players driving adoption.
+
+Stablecoins are entering their third phase of evolution - the institutionalization era - becoming increasingly embedded into core financial infrastructure. As institutions prioritize transparency and compliance, regulated issuers like USDC, RLUSD, and PYUSD are steadily gaining share with RLUSD surpassing $1B in market cap within its first year. North America, leading in regulatory frameworks and institutional distribution, is at the center of it all.
+
+The average public miner spent $79,995 to produce one bitcoin last quarter. Bitcoin is trading at $70,000. The math doesn't work, so the industry is pivoting to AI, taking on $70 billion in contracts, and liquidating bitcoin treasuries to finance the shift.

@@ -13,10 +13,12 @@ def create_bear_researcher(llm, memory):
         market_research_report = state["market_report"]
         sentiment_report = state["sentiment_report"]
         news_report = state["news_report"]
+        quant_strategy_report = state.get("quant_strategy_report", "")
         fundamentals_report = state["fundamentals_report"]
+        global_portfolio_context = state.get("global_portfolio_context", "Portfolio context unavailable.")
 
-        curr_situation = f"{market_research_report}\n\n{sentiment_report}\n\n{news_report}\n\n{fundamentals_report}"
-        past_memories = memory.get_memories(curr_situation, n_matches=2)
+        curr_situation = f"{market_research_report}\n\n{sentiment_report}\n\n{news_report}\n\n{quant_strategy_report}\n\n{fundamentals_report}"
+        past_memories = memory.get_memories(curr_situation, n_matches=3)
 
         past_memory_str = ""
         for i, rec in enumerate(past_memories, 1):
@@ -37,9 +39,12 @@ def create_bear_researcher(llm, memory):
     - Avoid vague fear-based language; ground claims in reported evidence.
 
     Resources available:
+    Global portfolio context and constraints (must respect):
+    {global_portfolio_context}
     Market research report: {market_research_report}
     Social media sentiment report: {sentiment_report}
     Latest crypto/macro news report: {news_report}
+    Quant strategy signal report: {quant_strategy_report}
     Fundamentals/on-chain context report: {fundamentals_report}
     Conversation history of the debate: {history}
     Last bull argument: {current_response}

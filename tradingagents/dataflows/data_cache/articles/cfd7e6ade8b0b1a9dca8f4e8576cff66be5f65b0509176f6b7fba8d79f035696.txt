@@ -1,0 +1,31 @@
+Title: Tether hires KPMG for USDT audit, brings in PwC as it gears up for U.S. expansion
+Source: CoinDesk
+URL: https://www.coindesk.com/markets/2026/03/27/tether-hires-kpmg-for-usdt-audit-brings-in-pwc-as-it-gears-up-for-u-s-expansion
+
+The unnamed “Big Four” firm that Tether selected to audit its $185 billion dollar-pegged USDT stablecoin is KPMG,the Financial Times reported Thursday, citing people familiar with the matter.
+
+Tether has also engaged PwC to prepare its internal systems ahead of the audit, marking the most concrete step yet toward full financial scrutiny for the world’s largest stablecoin issuer. CoinDesk has contacted Tether for comment on the matter.
+
+CoinDeskreported earlier this weekthat Tether had said it had entered a formal engagement with a Big Four auditor, but the stablecoin issuer did not identify the firm. CFO Simon McWilliams said at the time that Tether was “already operating at Big Four audit standard” and that “the audit will be delivered.”
+
+All this comes as the El Salvador-based company prepares for a U.S. expansion and a potential fundraising round. The Financial Times previously reported that Tether faced investor hesitation in efforts to raise $15 billion to $20 billion at a $500 billion valuation, with concerns centered on pricing and regulatory risk.
+
+The audit push lands at a pivotal moment. USDT, with roughly $185 billion in circulation, functions as the reserve currency of crypto markets and a major buyer of U.S. Treasury bills, linking digital assets to traditional financial systems at scale.
+
+A full financial statement audit would go well beyond the monthly attestations currently published by BDO Italia, requiring a detailed review of assets, liabilities, internal controls and reporting systems.
+
+That level of disclosure has long been a sticking point for critics, as Tether has faced persistent questions about its reserves since its launch in 2014 and historically fought transparency.
+
+In 2021, CoinDesk filed a FOIL request with the New York Attorney General's office seeking documents on USDT's reserve composition. Tetherfought the release in courtand lost twice.
+
+The documents,received after a two-year legal battle in 2023, revealed that Tether held the vast majority of its $40.6 billion in reserves at Bahamas-based Deltec Bank as of March 2021, with heavy exposure to commercial paper issued by Chinese and international banks, including Agricultural Bank of China, Bank of China Hong Kong, and ICBC.
+
+Tether's move toward greater transparency aligns with a shifting regulatory backdrop in the United States as crypto as a whole becomes a mainstream asset class used by Wall Street.
+
+TheGENIUS Act, signed into law last July, established the first federal framework for stablecoins in the U.S., under which Tether has already launched a compliant dollar-pegged token, USAT.
+
+As stablecoins evolve into core financial infrastructure, North America leads. This report maps the regulation, market shifts, and players driving adoption.
+
+Stablecoins are entering their third phase of evolution - the institutionalization era - becoming increasingly embedded into core financial infrastructure. As institutions prioritize transparency and compliance, regulated issuers like USDC, RLUSD, and PYUSD are steadily gaining share with RLUSD surpassing $1B in market cap within its first year. North America, leading in regulatory frameworks and institutional distribution, is at the center of it all.
+
+ETFs show institutional demand for bitcoin is cooling after a strong start to the month.

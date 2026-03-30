@@ -1,0 +1,31 @@
+Title: First Sora, Now Sexy Chat? OpenAI Cancels Erotic ChatGPT Mode
+Source: Decrypt
+URL: https://decrypt.co/362525/first-sora-now-sexy-chat-openai-cancels-erotic-chatgpt-mode
+
+First Sora, Now Sexy Chat? OpenAI Cancels Erotic ChatGPT Mode
+
+OpenAI has shelved plans to launch its previously announced erotic chatbot, according to a report, apparently backing away from a controversial expansion of ChatGPT that would have allowed adult users to generate sexual content.
+
+The reversal, firstreportedby theFinancial Timeson Thursday, follows internal concerns about the societal impact of sexualized artificial intelligence. In January, members of OpenAI’s Expert Council on Well-Being and AI reportedlywarnedthat erotic chat features could foster unhealthy emotional dependency among users, and risk turning the chatbot into what one member described as a “sexy suicide coach.”
+
+OpenAI declinedDecrypt’srequest to comment on the status of the erotic mode, and the firm has yet to post about its fate.
+
+The decision to cancel what was reportedly to be called “Citron mode” comes two days after OpenAIcanceledits Sora text-to-video model, as the company moves to focus development on a unified AI platform rather than a collection of specialized tools.
+
+The move marks a departure from the direction outlined by CEO Sam Altman as recently as October. At the time, Altman said OpenAIplannedto allow verified adults to access romantic and erotic content once a robust age-verification system was in place.
+
+Altman described the idea as part of a broader effort to treat adult users with greater autonomy while maintaining safeguards for minors. By December, however, the timeline waspushedto 2026 as the company continued to refine its age-estimation technology.
+
+While OpenAI may be getting out of the adult chatbot business before it ever really got into it, AI models do not necessarily need an “erotic mode” for users to form connections with them.
+
+When OpenAI deprecatedGPT-4olast summer, users flooded social media with calls to restore the model after saying they had formed personal and emotionalrelationshipswith the chatbot, reflecting a broader debate around erotic chatbots and how people interact with AI.
+
+In June, research published by researchers at Waseda University in Tokyo said 75% of participantsreportedturning to AI systems for emotional advice.
+
+At the same time, AI developers are facing growing scrutiny aslawsuitstest whether conversational AI systems are responsible for reinforcing delusional beliefs or harmful behavior among vulnerable users.
+
+Your gateway into the world of Web3
+
+The latest news, articles, and resources, sent to your inbox weekly.
+
+© A next-generation media company.2026Decrypt Media, Inc.

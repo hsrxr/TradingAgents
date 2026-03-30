@@ -1,0 +1,43 @@
+Title: Franklin Templeton, Ondo to launch tokenized ETFs with 24/7 trading via crypto wallets
+Source: Cointelegraph
+URL: https://cointelegraph.com/news/franklin-templeton-ondo-to-launch-tokenized-etfs-with-24-7-trading-via-crypto-wallets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+
+Available initially to non-US investors, the funds will offer onchain exposure to equities, bonds and gold through crypto wallets.
+
+Cointelegraph in your social feed
+
+Franklin Templeton is teaming with Ondo Finance to bring tokenized versions of its exchange-traded funds onchain, allowing investors to access them through crypto wallets.
+
+The partnership opens a new distribution channel beyond brokerage accounts as asset managers experiment with blockchain-based delivery and 24/7 market access. The tie-up was firstreportedby Bloomberg and later confirmed by Ondo onX.
+
+The products will initially be available across Europe, Asia-Pacific, the Middle East and Latin America, with US access dependent on regulatory clarity.
+
+Under the structure, Ondo will purchase shares of Franklin Templeton ETFs and issue tokens through a special-purpose vehicle that transfers economic exposure to holders, Bloomberg reported. Investors receive rights to returns rather than the underlying shares, allowing tokens to be used as collateral or integrated into DeFi applications.
+
+The offering targets investors operating primarily through crypto wallets and stablecoins, bypassing traditional brokerage infrastructure. Liquidity will be provided by Ondo’s market makers, including outside standard trading hours.
+
+The initial rollout will include five funds spanning US equities, fixed income and gold, with tokens distributed through Ondo Global Markets, according to Bloomberg. Requests for further information from both companies were not immediately answered.
+
+The launch follows increased regulatory clarity for Ondo. In December, the US Securities and Exchange Commissionclosed a multi-year investigationinto the company without bringing charges.
+
+Related:Binance and Franklin Templeton join forces on tokenization ventures
+
+The move by Ondo Finance and Franklin Templeton comes as tokenized equity markets have expanded rapidly over the past year, with total value rising from roughly $500 million in early 2025 to about $950 million as of March 2026, according to RWA.xyzdata.
+
+At the time of writing, Ondo Finance leads the sector, accounting for roughly $562 million in value, or about 60% of the market. Other platforms, including Backed Finance and its xStocks products, as well as Securitize, account for significant but smaller portions of the market.
+
+However, as tokenized equity products expand and total value grows, access remains limited, with most offerings concentrated outside the United States.
+
+In February,Kraken introduced tokenized equity perpetual futureson its regulated derivatives platform, offering eligible non-US clients 24/7 leveraged exposure to US stock indexes, gold and companies such as Nvidia, Apple and Tesla.
+
+Last week,Coinbase launched stock perpetual futuresfor eligible non-US users, extending round-the-clock access to equities alongside crypto and prediction markets.
+
+Still, efforts are underway within the US to build regulated infrastructure for tokenized equities. On Tuesday, theNew York Stock Exchange signed an agreement with Securitizeto explore blockchain-based trading of stocks and ETFs, though it remains unclear when or how such products would become available to US investors.
+
+Magazine:Are DeFi devs liable for the illegal activity of others on their platforms?
+
+Cointelegraph covers fintech, blockchain and Bitcoin bringing you the latest crypto news and analyses on the future of money.
+
+Cointelegraph is committed to providing independent, high-quality journalism across the crypto, blockchain, AI, and fintech industries. To support open access to our website and sustain editorial operations, certain commercial or partner references may appear on our site. These arrangements help maintain an accessible platform and do not result in additional costs to readers.
+
+All news, reviews, and analysis are produced with full journalistic independence and integrity. For more details on our standards and processes, please read ourEditorial Policy.

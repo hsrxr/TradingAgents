@@ -1,0 +1,45 @@
+Title: Lido DAO proposes $20M LDO buyback to reverse historic price fall
+Source: Cointelegraph
+URL: https://cointelegraph.com/news/lido-dao-weights-20m-ldo-buyback-plan?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+
+The LDO token is down 95.9% from its all-time high, with a $255 million market cap, even as Lido’s staking protocol still accounts for the largest share of staked Ether at 23.2%.
+
+Cointelegraph in your social feed
+
+Lido’s decentralized autonomous organization is considering a one-off $20 million buyback of its governance token to address so-called price dislocation, which is at “historically depressed levels” relative to Ether, according to the DAO.
+
+The proposal,submittedFriday, seeks permission to swap 10,000 Lido Staked Ether (stETH) tokens, currently worth $20 million from the DAO’s treasury for Lido DAO (LDO), arguing that LDO is undervalued.
+
+A token buyback of this size could boost the price of the token, which has fallen roughly 96% from its all-time high. In November, a Lido DAO member pitched an automated buyback mechanism for LDO to improve the token’s price. However, that proposal hasn’t been implemented.
+
+Lido DAO pointed out that LDO is trading at a steep discount to Ether (ETH) at a ratio of 0.00016, roughly 63% below its two-year median.
+
+This is despite the protocol holding the top spot of the Ethereum liquid staking market, with a 23.2% share of staked Ether, according to Dune Analyticsdata. Theprotocol’s dominancehas even been flagged as acentralization riskto the network in previous years.
+
+Related:Ethereum builders propose ‘economic zone’ to tackle L2 fragmentation
+
+LDO is currently trading at $0.30, down 95.9% from its $7.30 high set in August 2021,accordingto CoinGecko data. LDO’s $255 million market cap makes it the 141st largest token by value at the time of writing.
+
+“That dislocation is not justified by a proportional deterioration in protocol performance,” Lido DAO said.
+
+Lido DAO proposed buying up to 10,000 stETH in smaller batches of 1,000 to buy LDO.
+
+Lido DAO said it would use limit orders or adopt a dollar-cost averaging strategy to avoid market volatility.
+
+However, each batch would need approval and could be stopped by tokenholders.
+
+After each batch, results would also need to be reported before continuing execution further.
+
+The proposal also comes as Lido’s revenue fell23%to 40.5 million in 2025, mostly due to staking fees falling 23% to $37.4 million.
+
+Lido DAO argued theprotocol’s fundamentalsremain strong, noting that rewards declined just 20% amid thebroader market pullback,costs improved 13% in 2025 compared with 2024 and Lido’s take rate rose from 5% to more than 6.1%, enhancing fee capture.
+
+Take rate refers to the percentage of staked ETH rewards the protocol keeps as fees.
+
+Magazine:Bitcoin’s ‘narrative vacuum,’ Ethereum now inevitable: Trade Secrets
+
+Cointelegraph covers fintech, blockchain and Bitcoin bringing you the latest crypto news and analyses on the future of money.
+
+Cointelegraph is committed to providing independent, high-quality journalism across the crypto, blockchain, AI, and fintech industries. To support open access to our website and sustain editorial operations, certain commercial or partner references may appear on our site. These arrangements help maintain an accessible platform and do not result in additional costs to readers.
+
+All news, reviews, and analysis are produced with full journalistic independence and integrity. For more details on our standards and processes, please read ourEditorial Policy.

@@ -1,0 +1,35 @@
+Title: Tom Lee's Ethereum Treasury Firm BitMine Launches 'Made in America' Staking Network
+Source: Decrypt
+URL: https://decrypt.co/362323/tom-lee-ethereum-treasury-firm-bitmine-america-staking-network
+
+Tom Lee's Ethereum Treasury Firm BitMine Launches 'Made in America' Staking Network
+
+BitMine Immersion Technologies debuted its staking platform for institutions on Wednesday, underscoring efforts to bridge the gap between Wall Street and digital assets.
+
+The leadingEthereumtreasury firm, which unveiled its “Made in America Validator Network” (or MAVAN) last year, is now enabling investors to earn rewards by participating in the process of validating transactions on Ethereum’s network, according to apress release.
+
+The Connecticut-based company, which is chaired by Fundstrat’s Tom Lee, said MAVAN is designed in a way that could unlock broader participation toward securing Ethereum’s network. (Disclosure: Tom Lee is an investor inDecrypt’s parent company Dastan.)
+
+Although the staking platform is globally accessible, BitMine said MAVAN’s infrastructure is based in the U.S. to cater to “requiring domestic validation” of Ethereum transactions. On Tuesday, Ethereum edged up to $2,200, according toCoinGecko.
+
+“MAVAN represents a critical step in our vision to build one of the leading staking and on-chain infrastructure platforms globally,” Lee said in a statement, adding that the company plans to expand MAVAN’s support to other proof-of-stake networks in the future.
+
+This year, the company also plans to explore opportunities with so-called vaults, which seek to maximize yield through various strategies in decentralized finance, Lee added. That’s in addition to developing solutions to addressEthereum’s quantum-computing vulnerabilities, he said.
+
+Because BitMine holds 4.6 million Ethereum, a sum valued at $10.1 billion, Lee said that MAVAN would soon become the largest Ethereum staking platform in the world. As of Tuesday, the company said that it has staked 3.1 million Ethereum worth $6.8 billion.
+
+Companies like Coinbase have long embraced staking as a way to generate revenue. In December, the exchangereportedthat institutional customers had staked $15.2 billion worth of digital assets through its platform. Meanwhile, individual investors had locked up $7.5 billion.
+
+BitMine’s staking platform is prioritizing Ethereum, for now, but Coinbase supports eight digital assets, including Ethereum,Cardano,Solana,Avalanche, and Polygon’sMATIC(which isno longerPolygon’s native token). The exchange doesn’t report individual staking figures.
+
+Decrypthas reached out to Coinbase for comment.
+
+In the three months ended Nov. 30, BitMine reported nearly $1 million in revenue from staking. That performance was largely overshadowed by a $5.4 billion unrealized loss on its holdings, including the 196 Bitcoin that the company holds on its balance sheet.
+
+On Tuesday, BitMine’s stock price rose about 1% to $21, according toYahoo Finance. BitMine shares have tumbled 57% over the past six months, while mirroring declines among crypto-buying peers likeStrategy, the world’s largest corporate holder of Bitcoin.
+
+Your gateway into the world of Web3
+
+The latest news, articles, and resources, sent to your inbox weekly.
+
+© A next-generation media company.2026Decrypt Media, Inc.

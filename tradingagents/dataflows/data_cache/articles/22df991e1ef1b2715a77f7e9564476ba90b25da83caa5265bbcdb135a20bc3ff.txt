@@ -1,0 +1,31 @@
+Title: Tether Says It Will Be Audited By Big Four Accounting Firm—But Won't Say Which One
+Source: Decrypt
+URL: https://decrypt.co/362187/tether-audited-big-four-accounting-firm-wont-say-which-one
+
+Tether Says It Will Be Audited By Big Four Accounting Firm—But Won't Say Which One
+
+Tether, the world’s top stablecoin issuer, announced Tuesday it will soon make good on a yearslong promise to audit its sprawling stablecoin reserves—but won’t yet disclose which firm will actually do the job.
+
+Tetherclaimsto hold some $192 billion in assets in reserve around the world to back the value of its dollar-pegged stablecoin, USDT. The majority of those reserves are purported to be held in U.S. Treasuries.
+
+But, ever since its founding in 2014, the company has refrained from undergoing an audit from a Big Four accounting firm to confirm the accuracy of its reserve claims. It has instead relied on attestations reviewed by an Italian accounting firm that has never directly examined Tether’s accounts and holdings.
+
+Today, the company announced it has signed a deal with a Big Four accounting firm to “complete its first full independent financial statement audit.” But Tether did not statewhichfirm, and a Tether representative declined comment when reached byDecrypt.
+
+The Big Four accounting firms—Deloitte, PriceWaterhouseCoopers, Ernst & Young, and KPMG—are the world’s largest auditors, and are widely regarded as providing a certain standard of rigor and transparency when engaged by major corporations.
+
+Tether’s CEO, Paolo Ardoino,toldDecryptlast year he planned on putting Tether through a Big Four audit, but that the process was taking time given the company’s size.
+
+TheGENIUS Act, signed into law by President Donald Trump last summer, requires all foreign stablecoin issuers—theoretically including Tether, which is based in El Salvador—to undergo rigorous audits of its stablecoin reserves. Ardoino said last year he intends for USDT to comply with the law. A Big Four audit would go a long way to achieving that goal.
+
+Last fall, Tether launched an American offshoot with its own, U.S.-specific stablecoin, USAT. The tokenlaunchedin January, and currently boasts a far smaller market capitalization than Tether’s flagship token: just $27 million, compared to USDT’s $184billion.
+
+USAT’s far smaller reserves were successfullyauditedby Deloitte a month later.
+
+Editor's note: This story was updated after publication to note that Tether declined comment.
+
+Your gateway into the world of Web3
+
+The latest news, articles, and resources, sent to your inbox weekly.
+
+© A next-generation media company.2026Decrypt Media, Inc.

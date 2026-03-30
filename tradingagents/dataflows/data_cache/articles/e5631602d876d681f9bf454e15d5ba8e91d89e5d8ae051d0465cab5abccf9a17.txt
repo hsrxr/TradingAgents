@@ -1,0 +1,37 @@
+Title: BNP Paribas adds six Bitcoin, Ether ETNs for retail clients in France
+Source: Cointelegraph
+URL: https://cointelegraph.com/news/bnp-paribas-bitcoin-ether-etns-france-retail?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+
+Crypto ETN adoption is spreading across Europe as banks expand offerings and the UK reopens retail access after lifting its ban.
+
+Cointelegraph in your social feed
+
+French multinational universal bank BNP Paribas is expanding its investment offering to include six crypto-linked exchange-traded notes (ETNs), giving retail clients in France access to Bitcoin and Ether exposure through regulated products.
+
+The new ETNs, indexed to the price of Bitcoin (BTC) and Ether (ETH), will be available from Monday via standard securities accounts,accordingto the company. The products are open to individual investors, entrepreneurs, private banking clients and users of the bank’s digital platform, Hello bank!. The rollout may later extend to wealth management clients outside France.
+
+Unlike direct crypto purchases, ETNs allow investors to track the performance of digital assets without holding them. ETNs have credit risk (if the bank fails, you lose money), no tracking error and tax advantages.
+
+The move builds on the French bank’s broader digital asset efforts. In 2024, BNP Paribasarranged and placedSlovenia’s first digital sovereign bond, marking the European Union’s debut issuance of a blockchain-based government bond.
+
+Related:Trading 212 let UK retail trade crypto ETNs without FCA approval: FT
+
+In September last year, BNP Paribas and HSBCjoined the Canton Foundation, which governs the Canton Network, a blockchain focused on institutional finance and real-world asset tokenization.
+
+Prior to this, BNP Paribas joined Goldman Sachs, Citadel and other major financial players inbacking Digital Asset’s $135 millionfunding round. Digital Asset is the firm behind Canton.
+
+Last month, BNP Paribas Asset Management alsolauncheda tokenized share class of a money market fund on the Ethereum blockchain, expanding its push into fund tokenization using public infrastructure. The move builds on an earlier private blockchain issuance in Luxembourg.
+
+Related:Germany‘s central bank president touts stablecoin and CBDC benefits for EU
+
+Adoption of crypto-linked ETNs is expanding across Europe, with ING Germanyadding new productsfrom Bitwise and VanEck to its investment offering.
+
+Crypto ETNs also returned to the UK retail market in October 2025 after the Financial Conduct Authority (FCA)reversed a ban imposedin 2021.
+
+Magazine:Bitcoin may take 7 years to upgrade to post-quantum — BIP-360 co-author
+
+Cointelegraph covers fintech, blockchain and Bitcoin bringing you the latest crypto news and analyses on the future of money.
+
+Cointelegraph is committed to providing independent, high-quality journalism across the crypto, blockchain, AI, and fintech industries. To support open access to our website and sustain editorial operations, certain commercial or partner references may appear on our site. These arrangements help maintain an accessible platform and do not result in additional costs to readers.
+
+All news, reviews, and analysis are produced with full journalistic independence and integrity. For more details on our standards and processes, please read ourEditorial Policy.

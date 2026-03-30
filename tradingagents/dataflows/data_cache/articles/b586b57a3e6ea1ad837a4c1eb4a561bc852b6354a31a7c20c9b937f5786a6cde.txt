@@ -1,0 +1,35 @@
+Title: What’s on the Ethereum Roadmap: Glamsterdam, Hegota and Beyond
+Source: Decrypt
+URL: https://decrypt.co/resources/whats-on-ethereum-roadmap-glamsterdam-hegota-beyond
+
+What’s on the Ethereum Roadmap: Glamsterdam, Hegota and Beyond
+
+Like allblockchainprojects,Ethereumis under active development, with upgrades designed to make it faster, cheaper, and easier to use.
+
+Instead of a single “Ethereum 2.0” event, the network upgrades through coordinated changes calledhard forksthat introduce new features or modify how the protocol operates.
+
+Since theMergein September 2022, developers have focused on scaling, lowering transaction costs, improving wallets, and making it easier to run nodes and validators. The Ethereum community is also aiming for roughly two major upgrades per year when research and testing are ready.
+
+Ethereum’s scaling plan relies onlayer-2networks. These are separate blockchains built on top of Ethereum that process transactions off-chain and send results back to Ethereum for security and settlement.
+
+Many layer-2 systems userollups, which bundle multiple transactions together and post them to Ethereum as a single batch, allowing Ethereum to support more activity without the base chain processing every transaction.
+
+As a result, much of Ethereum’s development now focuses on making it cheaper and easier for rollups to use the network.
+
+In July 2022, Ethereum co-founder Vitalik Buterindescribedthe network’s six roadmap phases as the Merge, the Surge, the Scourge, the Verge, the Purge, and the Splurge.
+
+These phases are not single upgrades but broad goals, and several progress in parallel.
+
+Ethereum’sroadmapis implemented through a series of hard forks.
+
+Upgrade names and scopes can change during development as proposals are refined before each hard fork.
+
+Ethereum’s roadmap continues to evolve as research progresses and upgrades are tested on devnets and testnets before mainnet deployment.
+
+This guide will be updated as new milestones are confirmed.
+
+Your gateway into the world of Web3
+
+The latest news, articles, and resources, sent to your inbox weekly.
+
+© A next-generation media company.2026Decrypt Media, Inc.

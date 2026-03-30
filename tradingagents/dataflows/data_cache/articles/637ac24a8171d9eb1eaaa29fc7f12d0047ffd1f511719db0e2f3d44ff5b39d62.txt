@@ -1,0 +1,49 @@
+Title: Ondo, Canton sidestep macro concerns with institutional deals as bitcoin, ether slide
+Source: CoinDesk
+URL: https://www.coindesk.com/daybook-us/2026/03/27/ondo-canton-sidestep-macro-concerns-with-institutional-deals-as-bitcoin-ether-slide
+
+If you're not already subscribed to the newsletter email,click here.
+
+By Omkar Godbole (All times ET unless indicated otherwise)
+
+Bearish macro headlines dominate crypto market sentiment, as they have done for most of the month, but concrete updates advancing mainstream blockchain adoption still have the ability to resonate with investors.
+
+That's evident from the 7% gain in Canton Network's CC token over the past 24 hours. It's the second-best-performing top-100 token by market value, behind Ondo Network's ONDO token, which has risen 9%.
+
+CC's upswing followsVisa's announcementthat it joined Canton Network as a super validator, helping secure and validate transactions on the blockchain.
+
+The move is pivotal because it brings a global payments giant onto a privacy-preserving network specifically built for institutions that want to transact on the blockchain without exposing sensitive data to other network participants.
+
+Visa will help "extend privacy‑preserving blockchain infrastructure to banks and financial institutions around the world," the firm said in an official announcement.
+
+Privacy is widely seen as akey requirementfor broader institutional adoption of the technology. At Consensus Hong Kong in February, investment banking giant JPMorgan and crypto firms Abraxas and B2C2emphasizedthe need for privacy-preserving infrastructure, noting that institutions are unlikely to transact at scale on fully transparent networks where sensitive financial data could be exposed.
+
+ONDO, too, is rallying primarily due to its pole position in the real-world asset tokenization sector, underscored by the early-week news of its partnership with Franklin Templeton to tokenize traditional assets.
+
+The broader market remains under pressure due to geopolitical tensions and oil prices, which have traders pricing a Fed rate hike in two weeks.
+
+BitcoinBTC$66,219.46has dropped over 3% to $66,800 alognside similar losses in ether (ETH) and XRP (XRP). Solana's SOL token fell over 5% and the CoinDesk 20 Index (CD20) lost 3% decline.
+
+According to Marex, renewed outflows from spot ETFs are weighing on bitcoin.
+
+"ETF outflows have returned in size, which removes a steady bid from the tape and makes dips feel less protected," Marex's analysts said in a morning note.
+
+They added that with the quarterly options expiry out of the way, the market is more exposed to the real catalysts again: oil, war headlines, rates and risk appetite.
+
+Speaking of risk appetite, it could remain weak as government bond yields across the advanced world, including the U.S. and Japan, are rising again. Stay alert!
+
+Read more: For analysis of today's activity in altcoins and derivatives, seeCrypto Markets Today
+
+For a more comprehensive list of events this week, see CoinDesk's "Crypto Week Ahead".
+
+For a more comprehensive list of events this week, see CoinDesk's "Crypto Week Ahead".
+
+For a more comprehensive list of events this week, see CoinDesk's "Crypto Week Ahead".
+
+As stablecoins evolve into core financial infrastructure, North America leads. This report maps the regulation, market shifts, and players driving adoption.
+
+Stablecoins are entering their third phase of evolution - the institutionalization era - becoming increasingly embedded into core financial infrastructure. As institutions prioritize transparency and compliance, regulated issuers like USDC, RLUSD, and PYUSD are steadily gaining share with RLUSD surpassing $1B in market cap within its first year. North America, leading in regulatory frameworks and institutional distribution, is at the center of it all.
+
+Your day-ahead look for March 26, 2026
+
+If you're not already subscribed to the newsletter email,click here.

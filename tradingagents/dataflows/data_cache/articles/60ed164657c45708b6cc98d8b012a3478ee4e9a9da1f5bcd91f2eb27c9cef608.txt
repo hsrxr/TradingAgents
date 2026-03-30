@@ -1,0 +1,63 @@
+Title: Bitcoin in ‘later stages’ of bear market: Watch these BTC price levels
+Source: Cointelegraph
+URL: https://cointelegraph.com/news/bitcoin-in-later-stages-of-bear-market-watch-these-btc-price-levels?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+
+Bitcoin was down 44% from its $126,000 all-time highs as key onchain and technical indicators suggested BTC is entering the late phase of the bear market.
+
+Cointelegraph in your social feed
+
+Bitcoin (BTC) sellers resumed their activity on Thursday as the BTC price slipped below the $70,000 mark.
+
+Analysts said that Bitcoin showed signs of a bear market in its last stages, due to extreme fear and elevated realized and unrealized losses.
+
+Bitcoin enters the last stages of the bear market, characterized by extreme fear and most BTC supply in loss.
+
+High unrealized losses and a 96% drop in realized profits suggest “demand exhaustion.”
+
+$70,000 remains the main BTC level to watch for now, with $65,000-$60,000 support below.
+
+Bitcoin’s bear markethas seen its price draw down by more than 44% from its $126,000 all-time high, reached on Oct. 6, 2025.
+
+This has pushed its Net Unrealized Profit/Loss (NUPL), the difference between total profits and losses currently held by investors, below 0.25, placing it in the “hope/fear zone,” according to data from CryptoQuant.
+
+Related:$18.6B in Bitcoin options expire Friday: Should traders prepare for $75K BTC?
+
+This means, “roughly 40% of Bitcoin's circulating supply is held at a loss,” CryptoQuant analyst The Enigma Tradersaidin a Quicktake note.
+
+Coupled with the Fear and Greed Index in the “Extreme Fear” at 15, this “reflects pain and uncertainty,” the analyst said, adding:
+
+This structurally resembles conditions seen in previous bear markets, where the NUPL continued dropping to areas below 0 as Bitcoin found its bottom.
+
+When analysing the volume of coins held at a loss as a fraction of total market capitalization, Glassnode found that the 7-day simple moving average (SMA) of relative unrealized losses has stabilized at 15%.
+
+“This positions the current sentiment as one of elevated fear,” Glassnodesaidin its latest Week On-chain newsletter, adding:
+
+Bitcoin’s entity-adjusted realized profit has also dropped from a peak of $3 billion per day in July 2025 to below $0.1 billion today.
+
+This is a more than 96% decline, “offering further evidence of demand exhaustion,” Glassnode said, adding:
+
+Meanwhile, CryptoQuant analyst Crypto Dansaidthat while some indicators suggestBTC/USD bottomed at $60,000, “more consistent and decisive confirmation signals” are required to confirm a true bottom.
+
+Since recovering from multi-year lows below $60,000, the BTC/USD pair remains stuck in a range with $64,000 as support and$72,000 as resistance.
+
+Bitcoin is now fighting to hold on to the 1w–1m cohort cost basis at $70,200, “marking the developing support floor,” Glassnode said.
+
+However, the cost basis distribution heatmap shows a modest accumulation cluster at this level, making it “vulnerable.” Glassnode:
+
+Below that, the next major level to watch is Bitcoin’s realized price around $54,000. The 2022 bear market bottom was formed after Bitcoin dropped toward its realized price.
+
+On the upside, Glassnode said that the 1m-3m cohort cost basis at $82,200 represented a key overhead resistance, coinciding with a heavy concentration of short-term holder supply above $84,000.
+
+This is a “cohort that could amplify sell pressure whether price stages a recovery toward those levels or faces a renewed episode of market stress,” Glassnode added.
+
+In an X post on Thursday, technical analyst CryptoPatelsaidBitcoin’s recentsurge to $76,000 was just a lower high, adding that the higher time frame structure points “lower from here,” with thenext real area of interest sitting under $50,000.
+
+AsCointelegraph reported, a close below the 20-day exponential moving average at $70,303 could fuel BTC’s price drop toward the $62,500-$60,000 support zone.
+
+This article does not contain investment advice or recommendations. Every investment and trading move involves risk, and readers should conduct their own research when making a decision. While we strive to provide accurate and timely information, Cointelegraph does not guarantee the accuracy, completeness, or reliability of any information in this article. This article may contain forward-looking statements that are subject to risks and uncertainties. Cointelegraph will not be liable for any loss or damage arising from your reliance on this information.
+
+Cointelegraph covers fintech, blockchain and Bitcoin bringing you the latest crypto news and analyses on the future of money.
+
+Cointelegraph is committed to providing independent, high-quality journalism across the crypto, blockchain, AI, and fintech industries. To support open access to our website and sustain editorial operations, certain commercial or partner references may appear on our site. These arrangements help maintain an accessible platform and do not result in additional costs to readers.
+
+All news, reviews, and analysis are produced with full journalistic independence and integrity. For more details on our standards and processes, please read ourEditorial Policy.

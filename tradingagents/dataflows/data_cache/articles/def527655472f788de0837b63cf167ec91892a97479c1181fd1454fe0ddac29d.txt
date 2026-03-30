@@ -1,0 +1,35 @@
+Title: Circle leads Tazapay extension as total Series B reaches $36M
+Source: Cointelegraph
+URL: https://cointelegraph.com/news/cross-border-payment-provider-tazapay-raises-36m-from-circle-coinbase?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+
+Tazapay said Circle led a Series B extension that brought total funding to $36 million as the company expands cross-border payment rails.
+
+Cointelegraph in your social feed
+
+Cross-border payment infrastructure provider Tazapay said it closed an extension to its Series B funding round led by Circle Ventures, bringing the total raised to $36 million. The round included participation from Coinbase Ventures, CMT Digital, Peak XV Partners and Ripple.
+
+Tazapaysaidon Thursday that the funding will be used to	•	expand its digital settlement technology for cross-border payments, secure additional licenses, expand across Asia, Latin America, the Middle East and the Americas, and build infrastructure for so-called “agentic payments.”
+
+Tazapay said it serves over 1,000 enterprises and fintechs across 30 countries. It holds licences across Singapore, Canada, Australia, and the United States, with active applications underway in the European Union, United Arab Emirates and Hong Kong.
+
+“The demand we’re seeing from enterprises and fintechs across Asia, LATAM, and the Middle East is unmistakable; businesses want to move money faster, cheaper, and with full regulatory confidence,” said Kanupriya Sharda, chief business officer at Tazapay.
+
+Cointelegraph asked Tazapay whether it would disclose the size of the extension tranche and the company’s valuation, but had not received a response by publication.
+
+The extension comes as crypto and fintech firms push deeper into stablecoin-based cross-border payments infrastructure.
+
+On March 3, Ripplesaid it had expanded Ripple Paymentsinto an end-to-end stablecoin and fiat platform for banks and fintechs. The company said the platform is live in more than 60 markets and has processed more than $100 billion in volume.
+
+Related:Ripple joins Singapore sandbox to test RLUSD in trade finance
+
+In May 2025, Boston-based cross-border payment companyConduit raised $36 millionin a Series A funding round led by Dragonfly and Altos Ventures to scale its payment system and expand fiat and stablecoin currency offerings.
+
+Conduit positions its payment system as an alternative to the SWIFT messaging network, which banks have relied on to process wire transfers since the 1970s.
+
+Magazine:Crypto wanted to overthrow banks, now it’s becoming them in stablecoin fight
+
+Cointelegraph covers fintech, blockchain and Bitcoin bringing you the latest crypto news and analyses on the future of money.
+
+Cointelegraph is committed to providing independent, high-quality journalism across the crypto, blockchain, AI, and fintech industries. To support open access to our website and sustain editorial operations, certain commercial or partner references may appear on our site. These arrangements help maintain an accessible platform and do not result in additional costs to readers.
+
+All news, reviews, and analysis are produced with full journalistic independence and integrity. For more details on our standards and processes, please read ourEditorial Policy.

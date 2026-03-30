@@ -1,0 +1,21 @@
+Title: Irish Police Crack First of 12 Bitcoin Wallets in $418M Drug Seizure
+Source: Decrypt
+URL: https://decrypt.co/362295/irish-police-crack-first-of-12-bitcoin-wallets-in-418m-drug-seizure
+
+Irish Police Crack First of 12 Bitcoin Wallets in $418M Drug Seizure
+
+Ireland's Criminal Assets Bureau (CAB) has gained access to a Bitcoinwalletcontaining around 500 BTC, worth approximately $34 million (€30 million), marking the first successful breach of 12 wallets seized from a convicted drug dealer in 2019 that have since ballooned to $418 million (€360 million) in value.
+
+The breakthrough came through an operation supported by Europol's European Cybercrime Centre, which provided "highly complex technical expertise and decryption resources vital to the success of the operation," according to a Garda statement shared with theIrish Times. The 500 BTC, valued at about $71,000 each at time of publication, represent "the proceeds of crime," CAB confirmed.
+
+Per reports in local media, the wallets belonged to Clifton Collins, a 55-year-old former beekeeper who was jailed for five years after growing cannabis in rented houses and selling the harvested drug to criminals. Collins had invested proceeds from his drug business inBitcoinfrom 2011 when the cryptocurrencytradedbetween $0.30 and $29, and ended the year trading at $4.72.
+
+Collinscreated 12 walletsto store his growing Bitcoin fortune and recorded the private keys in a document hidden in a fishing rod case at a rented property in Co Galway. In interviews with gardaí, he claimed he never saw the case again after a break-in at his home, though reports indicated a clear-out of the property after his arrest may have resulted in the loss. The original seizure in 2019 was valued at $61 million (€53 million).
+
+In its2023 annual report, the CAB noted that some $1.3 million (€1.2 million) was recovered from Collins after assets including 89 BTC along with “a fishing boat, a Gyro plane, metal detector, electric bicycle and various motor vehicles” were confiscated.
+
+Your gateway into the world of Web3
+
+The latest news, articles, and resources, sent to your inbox weekly.
+
+© A next-generation media company.2026Decrypt Media, Inc.

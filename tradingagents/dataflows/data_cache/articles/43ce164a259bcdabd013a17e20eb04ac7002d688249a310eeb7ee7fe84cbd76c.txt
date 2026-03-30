@@ -1,0 +1,27 @@
+Title: Bitcoin jumps as Trump says U.S. in talks with 'new regime' in Iran, threatens oil infrastructure if deal fails
+Source: CoinDesk
+URL: https://www.coindesk.com/markets/2026/03/30/bitcoin-jumps-as-trump-says-u-s-in-talks-with-new-regime-in-iran-threatens-oil-infrastructure-if-deal-fails
+
+U.S. president Donald Trump posted on Truth Social Monday that the United States is "in serious discussions with a new, and more reasonable, regime" to end military operations in Iran, the first public acknowledgment of a regime change in Tehran since the conflict began five weeks ago.
+
+The phrase "new regime" suggests the leadership structure that existed when the war started is no longer in place.
+
+In the same post, however, Trump demanded the Strait of Hormuz be "immediately open for business" and threatened to "blow up and completely obliterate" Iran's electric generating plants, oil wells, and Kharg Island if a deal is not reached shortly. He added that desalination plants were also under consideration.
+
+These are all targets the U.S. has deliberately avoided hitting for the duration of the five-week conflict.
+
+The combination of a potential ceasefire with a new government and the most explicit threat to civilian and energy infrastructure yet makes this a two-sided headline that the market will struggle to price cleanly.
+
+The de-escalation signal is that talks are happening with a new regime and "great progress" has been made. The escalation signal is that the president just publicly listed every piece of critical infrastructure he's prepared to destroy if those talks fail.
+
+Bitcoin jumped to $67,580 on the news, up 1.3% in the past 24 hours. Ether outperformed, up 3.1% to $2,064. Solana gained 1.9% to $84.09 and XRP added 1.0% to $1.35. The weekly picture is still uniformly red — with BTC down 1.3%, XRP 1.2%, SOL 2.2% — but Tron continues to quietly outperform the entire majors complex, up 1.3% in 24 hours and 5.3% on the week.
+
+The bounce squeezed a lot of shorts on the way up, meanwhile. CoinGlass data shows $9.32 million in short liquidations in the last hour alone against just $207,000 in longs.
+
+Traders took on $340 million in liquidations over a 24 hours window, absorbing the bulk at $242.25 million from the overnight flush before the Trump post landed. The largest single order was a $9.8 million BTCUSD liquidation on Bybit.
+
+As stablecoins evolve into core financial infrastructure, North America leads. This report maps the regulation, market shifts, and players driving adoption.
+
+Stablecoins are entering their third phase of evolution - the institutionalization era - becoming increasingly embedded into core financial infrastructure. As institutions prioritize transparency and compliance, regulated issuers like USDC, RLUSD, and PYUSD are steadily gaining share with RLUSD surpassing $1B in market cap within its first year. North America, leading in regulatory frameworks and institutional distribution, is at the center of it all.
+
+Bitcoin and ether tick higher while altcoins surge on oversold bounce, but weak liquidity and macro tensions keep the broader trend fragile.

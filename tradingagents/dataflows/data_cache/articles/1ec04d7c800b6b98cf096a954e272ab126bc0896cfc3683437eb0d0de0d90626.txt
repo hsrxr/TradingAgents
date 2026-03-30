@@ -1,0 +1,29 @@
+Title: OKX won’t rush IPO as exec warns poor listings hurt crypto industry
+Source: CoinDesk
+URL: https://www.coindesk.com/business/2026/03/26/okx-says-it-won-t-go-public-until-it-can-deliver-returns-to-investors
+
+OKX does not plan to rush into public markets in the U.S., even as the crypto exchange pushes deeper into global expansion and tokenized finance.
+
+“We will go public when we have confidence that we can give back shareholder value,” said Haider Rafique, the firm’s global managing partner and chief marketing officer, during a conversation at the Digital Asset Summit in New York on Thursday. “If we are not confident that we can do that, I don’t think there’s going to be any desire for us to go into the public markets.”
+
+The stance comes as OKX recently secured a strategic investment tied to Intercontinental Exchange, the parent company of the New York Stock Exchange, in a deal thatvalued the company at $25 billion. Rafique said the firm intentionally priced the round conservatively. “I think we did underprice ourselves when you look at our revenue growth, when you look at our licenses and our assets,” he said, adding the move was “very intentional” and tied to long-term shareholder returns.
+
+The comments reflect a broader concern about how crypto companies have performed in public markets. Rafique pointed to at least one major listing that has struggled since going public. “I bought one share… and that one share is at a negative 50% return,” he said. “That’s not a good thing. That’s actually bad for the category.”
+
+While he did not name the company, Coinbase (COIN) — the largest U.S.-listed crypto exchange — has faced volatility since its 2021 debut and currently trades nearly 50% lower than its IPO price. Other crypto-linked listings have also struggled to maintain consistent investor returns, raising questions about how public markets value the sector.
+
+Rafique warned that repeating past patterns could damage the industry further. “If we treat going public the same way we treated ICOs and the 5 million tokens that were put in market last year… then I think we’re doomed as an industry,” he said.
+
+Instead, OKX is positioning itself as a longer-term builder. The exchange, founded in Asia, has grown into one of the largest global crypto trading platforms, particularly in derivatives, where Rafique said it ranks among the top venues. Unlike U.S.-focused rivals such as Coinbase and Kraken, OKX operates across multiple regions, including Europe, Latin America and Asia, giving it a broader liquidity base.
+
+That global footprint is central to its strategy as it eyes further expansion into the U.S. Rafique said international exchanges bring structural advantages, including deeper liquidity across time zones. “Our unified order book becomes a really strong competitive advantage,” he said, particularly during off-hours in U.S. markets.
+
+The company is also betting on tokenized financial assets and blockchain-based infrastructure as the next phase of growth. Its partnership with ICE is expected to support efforts to bring equities and other traditional assets onchain, with OKX acting as a distribution layer for those products.
+
+For now, though, Rafique said the focus remains on building before listing. “We’re going to build this company over 20, 30 years,” he said, framing the IPO decision as one tied to durability rather than timing.
+
+As stablecoins evolve into core financial infrastructure, North America leads. This report maps the regulation, market shifts, and players driving adoption.
+
+Stablecoins are entering their third phase of evolution - the institutionalization era - becoming increasingly embedded into core financial infrastructure. As institutions prioritize transparency and compliance, regulated issuers like USDC, RLUSD, and PYUSD are steadily gaining share with RLUSD surpassing $1B in market cap within its first year. North America, leading in regulatory frameworks and institutional distribution, is at the center of it all.
+
+The integration provides institutions with a compliant way to hold TRX and will be expanded to include TRC-20 assets and native TRX staking.

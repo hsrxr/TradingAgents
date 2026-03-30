@@ -1,0 +1,10 @@
+{
+    "actual_warmup": 200,
+    "agent_limit": 24,
+    "total_fetched": 5031,
+    "db_total_rows": 5031,
+    "timeframe": "hour",
+    "cache_updated_at": "2026-03-30T13:39:00.155248",
+    "price_db_path": "tradingagents/dataflows/data_cache\\prices\\WETH_USDC_ohlcv.csv",
+    "indicators_db_path": "tradingagents/dataflows/data_cache\\indicators\\WETH_USDC_1h_indicators.csv"
+}

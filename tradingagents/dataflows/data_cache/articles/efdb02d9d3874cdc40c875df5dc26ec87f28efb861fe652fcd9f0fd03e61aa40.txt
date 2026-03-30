@@ -1,0 +1,37 @@
+Title: Stablecoin rewards restrictions can slow but not stop Circle's USDC, says Citigroup
+Source: CoinDesk
+URL: https://www.coindesk.com/policy/2026/03/26/stablecoin-rewards-restrictions-can-slow-but-not-stop-circle-s-usdc-says-citigroup
+
+Wall Street bank Citi says proposed limits onstablecoin rewardsin the latest draft of U.S. market structure legislation would be a setback for Circle (CRCL) but not a fundamental threat to the investment case.
+
+"We view this development potentially (but not necessarily) as a scaling setback, but not a thesis killer," wrote analysts led by Peter Christiansen in the Tuesday report.
+
+The draft bill allows narrowly defined rewards programs as long as they don’t resemble bank deposit interest, the analysts said. A broader ban on third-party rewards would not directly affect Circle’s net revenue, as the firm already passes most of its reserve income to distribution partners like Coinbase (COIN).
+
+Still, the analysts expect weaker incentives to hold USDC, which they characterize as a payment instrument rather than a security, could temporarily reduce circulation and secondary-market liquidity. “We still maintain the view that stablecoin volume is the key indicator of adoption, not circulation.”
+
+Citi has a high risk rating on Circle stock with a $243 price target. The shares were trading around $100 at the time of publication.
+
+Circle shares fell roughly 20% on Tuesday, after a draft of the U.S. Clarity Act raised the prospect of banning yield on passive stablecoin balances, sparking concerns about the attractiveness of yield-bearing crypto products.
+
+The move was compounded by broader investor anxiety around how the rules could impact stablecoin-related revenues and incentives, alongside fresh competitive pressure after Tether signaled plans for a full Big Four audit and potential U.S. expansion.
+
+The Circle selloff on Tuesday reflected a market misread of the draft Clarity Act, according to Wall Street broker Bernstein.
+
+Investors are conflating who earns yield with who distributes it, the broker said in a Wednesday report. Circle earns reserve income from USDC backing assets, while platforms like Coinbase (COIN) pass some of that yield to users, the actual target of the proposed rules.
+
+The draft would ban yield on passive stablecoin balances but allow activity-based rewards tied to trading or payments. Bernstein analysts led by Gautam Chhugani said this pressure on Coinbase’s ~3.5% USDC yield product, likely forcing a restructure. Circle’s model remains unaffected. The firm does not pay yield to holders and generated $2.64 billion in reserve income in FY2025.
+
+The report noted that USDC growth, from ~$30 billion to $80 billion in two years, is driven by trading, payments and collateral demand, not yield.
+
+Bernstein has an outperform rating on Circle shares with a $190 price target.
+
+Coinbase is treading carefully innegotiations over the Clarity Act, privately signaling to Senate staff that it is dissatisfied with the latest compromise while stopping short of publicly opposing the bill, according to people familiar with the matter.
+
+Read more:Circle selloff may be overdone as crypto bill weakens Coinbase edge, say analysts
+
+As stablecoins evolve into core financial infrastructure, North America leads. This report maps the regulation, market shifts, and players driving adoption.
+
+Stablecoins are entering their third phase of evolution - the institutionalization era - becoming increasingly embedded into core financial infrastructure. As institutions prioritize transparency and compliance, regulated issuers like USDC, RLUSD, and PYUSD are steadily gaining share with RLUSD surpassing $1B in market cap within its first year. North America, leading in regulatory frameworks and institutional distribution, is at the center of it all.
+
+White House AI and Crypto Czar David Sacks said Thursday he was joining the President’s Council of Advisors on Science and Technology and leaving the czar role.

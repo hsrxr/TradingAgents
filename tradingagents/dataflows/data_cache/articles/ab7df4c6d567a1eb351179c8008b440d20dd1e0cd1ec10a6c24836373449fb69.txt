@@ -1,0 +1,31 @@
+Title: SEC is no longer a 'cop on the beat‘ on crypto, says US lawmaker
+Source: Cointelegraph
+URL: https://cointelegraph.com/news/sec-beat-cop-crypto-stephen-lynch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+
+Representative Stephen Lynch voiced concerns about the direction of the SEC under Donald Trump, citing dropped investigations and enforcement actions on crypto companies.
+
+Cointelegraph in your social feed
+
+Opposing viewpoints on how regulators keep pace with technology were on view as a US House panel on Thursday examined different approaches to digital asset regulation at the Securities and Exchange Commission (SEC).
+
+One viewpoint evident at the hearing of the House Financial Services Committee’s Subcommittee on Digital Assets, Financial Technology, and Artificial Intelligence, was voiced by ranking member and Massachusetts Representative Stephen Lynch whosaidhe “wholly embraced” the idea that innovative technology could be used for “tremendous good,” but expressed concern with “recent regulatory developments” in the United States.
+
+“Under the Trump administration [...] the SEC has dismantled several of the teams that are responsible for managing the incidents of scams and frauds, the White House has dismantled FinHub, which is the dedicated office that built the agency’s technical expertise on digital assets and fintech,” said Lynch, adding:
+
+Lynch was referring to the SEC under President Donald Trumpdropping investigations or enforcement actionsagainst a number of crypto companies including Ripple Labs and Coinbase, some of whose executives have close ties to the administration. Trump nominated Paul Atkins to chair the SEC after the departure of former chair Gary Gensler in January 2025.
+
+Related:US lawmakers hash out tokenized securities concerns in latest hearing
+
+Representative Bryan Steil, who chairs the subcommittee, cited concerns about whether regulators were “prepared to meet the moment” on technologies like digital assets. He also said that Congress was responsible for providing clarity and eliminating “fragmentation and uncertainty,” hinting at the crypto market structure bill moving through the Senate.
+
+Earlier this month, the SEC and Commodity Futures Trading Commission (CFTC)signed a memorandum of understandingas part of measures to coordinate oversight of financial markets, including digital assets. Days later, the SECissued an interpretative noticeon how it intended to treat crypto assets under federal securities laws.
+
+SEC Chair Paul Atkinssaid that the commission’s approachwould represent a “bridge” to clarify crypto regulation with Congress stalled on the passage of the CLARITY Act, a bill to establish a market structure framework for digital assets. The legislation is expected to give the CFTC more authority in overseeing cryptocurrencies.
+
+Magazine:Agent wastes 14 hours of scammers’ time, LLMs ‘poisoned’ by Iran: AI Eye
+
+Cointelegraph covers fintech, blockchain and Bitcoin bringing you the latest crypto news and analyses on the future of money.
+
+Cointelegraph is committed to providing independent, high-quality journalism across the crypto, blockchain, AI, and fintech industries. To support open access to our website and sustain editorial operations, certain commercial or partner references may appear on our site. These arrangements help maintain an accessible platform and do not result in additional costs to readers.
+
+All news, reviews, and analysis are produced with full journalistic independence and integrity. For more details on our standards and processes, please read ourEditorial Policy.

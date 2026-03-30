@@ -1,0 +1,51 @@
+Title: Ethereum 'flippening' odds rise, but it won't involve Bitcoin
+Source: Cointelegraph
+URL: https://cointelegraph.com/news/etheruem-flippening-odds-rise-wont-involve-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+
+Polymarket traders now see a real risk of ETH losing its number-two crypto ranking in 2026, with odds jumping from 17% to over 59% this year.
+
+Cointelegraph in your social feed
+
+Ether’s (ETH) grip on the cryptocurrency market’s number-two spot is weakening, not because it is getting any closer to overtaking Bitcoin (BTC), but because the stablecoin economy is booming.
+
+Ether’s hold on crypto’s number-two spot weakens as Tether’s growth accelerates.
+
+ETH has lagged top stablecoins USDT and USDC in growth over the past five years.
+
+In the past five years, Ether has vastly underperformed its top competitors for the no. 2 spot, primarily Tether’s stablecoin USDT (USDT).
+
+On a five-year rolling basis, ETH’s market capitalization grew by roughly 11.75% to around $240 billion.
+
+In comparison, USDT, the third-largest cryptocurrency, grew 622.50% in the same period, with its market cap reaching over $184 billion. Even XRP (XRP) and USD Coin (USDC) have outperformed Ether’s growth.
+
+As a result, more traders are betting on Ethereum’s flippening in 2026.
+
+On Polymarket’s betting platform, for instance, over 59% of punters placedbetsin favor of Ether losing the number-two spot in 2026. These odds were just 17% at the year’s beginning.
+
+Ethereum and Tether grow differently because one is crypto, the other is fiat.
+
+Ethereum’s market value depends largely on ETH’s price rising, and that has been difficult to sustain in 2026 as crypto markets come under pressure from macro headwinds such asUS tariffs, theUS and Israel vs. Iran war, and fading expectations for Federal Reserve rate cuts.
+
+That weakness has also been reflected in institutional demand. US spot Ethereum ETFs saw assets under management fall by about 65%, dropping to $11.76 billion in March from $31.86 billion in October last year, underscoring how the appetite for ETH has decreased over the past few months.
+
+Tether, by contrast, grows when capital flows into stablecoins and investors buy “crypto dollars.” That tends to happen when traders want safety, liquidity, or flexibility instead of exposure to volatile assets like ETH.
+
+Related:AI and stablecoins are winning despite 2026 crypto market slump
+
+The total stablecoin market is now worth $310 billion, compared to around $5 billion in 2020, with Tether’s share at 58%.
+
+Demand for this kind of “dry powder,” capital parked in a dollar-pegged asset while investors wait for better crypto entry points, usually stays firm during risk-off periods.
+
+Ethereum needs a stronger risk appetite to lift ETH’s price, while Tether benefits when investors turn defensive. That helps explain why ETH market cap growth has lagged behind USDT despite remaining one of crypto’s core infrastructure assets.
+
+From a technical perspective, Ether faces risks of further price declines in 2026.
+
+As of Sunday, it was trading inside what appears to be a “bear flag” pattern, which increases the odds of resolving to the downside, given the price breaks decisively below the structure’s lower trendline.
+
+ETH price risks falling toward the flag’s measured downside target at around $1,250 by June if the breakdown below the lower trend line persists.
+
+Cointelegraph covers fintech, blockchain and Bitcoin bringing you the latest crypto news and analyses on the future of money.
+
+Cointelegraph is committed to providing independent, high-quality journalism across the crypto, blockchain, AI, and fintech industries. To support open access to our website and sustain editorial operations, certain commercial or partner references may appear on our site. These arrangements help maintain an accessible platform and do not result in additional costs to readers.
+
+All news, reviews, and analysis are produced with full journalistic independence and integrity. For more details on our standards and processes, please read ourEditorial Policy.

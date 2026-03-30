@@ -1,0 +1,41 @@
+Title: Venture Firm Founder Offers Bounty to Help Recover $42 Million in Stolen Bitcoin, Crypto
+Source: Decrypt
+URL: https://decrypt.co/362482/venture-firm-founder-bounty-help-recover-42-million-stolen-bitcoin-crypto
+
+Venture Firm Founder Offers Bounty to Help Recover $42 Million in Stolen Bitcoin, Crypto
+
+Bo Shen, the founder of crypto venture firm Fenbushi, is offering a bounty of 10-20% to any individuals able to help him recover a portion of the $42 million inBitcoin,Ethereum, andstablecoinsstolen from his personal wallet in 2022.
+
+The malicious actor made off with crypto assets now valued around $42 million, highlighted by $38 million in Circle’s dollar-backed stablecoinUSDC, but also 1,607 Ethereum, nearly $720,000 in Tether’s stablecoin USDT, and 4.13 Bitcoin.
+
+“Three years have passed. The investigation has never stopped,” said Shenin a post on X. “Our team has continued to gather critical evidence and leads. The flow of the stolen assets is becoming increasingly clear,” he added while making a public bounty offer.
+
+“Any individual or organization that makes a substantive contribution to asset recovery—regardless of identity, background, or method—will receive 10%–20% of the total recovered amount, based on the level of contribution,” he added.
+
+Three years ago, on-chain tracking and security investigation tools were far less capable than today. AI-powered data analysis, on-chain forensics, and cross-platform collaboration have since made a qualitative leap.
+
+This is not just about recovering assets. It is about opening…
+
+— Bo Shen (@boshen1011)March 26, 2026
+
+About $1.2 million of the funds have been frozen to date thanks to help from notable on-chain analyst Taylor Monahan and pseudonymous sleuth ZachXBT.
+
+Now, though, Shen thinks the advances in on-chain tooling and artificial intelligence (AI) can help do even more in the case.
+
+“This is not just about recovering assets,” he said. “It is about opening a real case to the community, inviting collaboration, and seeing how far the tools of the AI era can push what was once impossible.”
+
+The theft from Shen’s personal wallet took place in November 2022, allegedly as a result of a compromise of his seed phrase, the 12 or 24 word phrase that unlocks a wallet’s private key,  according toanalysis by blockchain security firm SlowMist.
+
+Shortly after the theft, it was reported to local law enforcement,according to Shen,with the FBI and lawyers also involved.
+
+Established in 2015, Shen’s Fenbushi Capital says it has more than $1.6 billion in assets under management. Itsportfolioincludes major crypto firms like exchange Bybit and stablecoin issuer Circle, alongside holdings of Ethereum andZcash.
+
+Bubblemaps, a blockchain analytics firm, toldDecryptthat it believes that recovering further funds in the case will be "extremely difficult," due to factors including "the usage of mixers and uncooperative centralized exchanges," plus the need for "legal and govrernmental intervention" in areas with "unclear jurisdictions." It also noted that numerous blockchain sleuths have already been on the case for years.
+
+Editor's note: This story was updated after publication to include comment from Bubblemaps.
+
+Your gateway into the world of Web3
+
+The latest news, articles, and resources, sent to your inbox weekly.
+
+© A next-generation media company.2026Decrypt Media, Inc.

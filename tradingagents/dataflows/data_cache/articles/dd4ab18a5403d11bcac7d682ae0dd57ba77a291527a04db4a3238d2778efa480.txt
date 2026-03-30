@@ -1,0 +1,57 @@
+Title: Judge Blocks Pentagon From Branding Anthropic a National Security Threat
+Source: Decrypt
+URL: https://decrypt.co/362548/judge-blocks-pentagon-anthropic-national-security-threat
+
+Judge Blocks Pentagon From Branding Anthropic a National Security Threat
+
+A federal judge has blocked the Pentagon from labeling Anthropic as a supply chain risk, ruling Thursday that the government's campaign against the AI company violated its First Amendment and due process rights.
+
+U.S. District Judge Rita Lin issued apreliminary injunctionfrom the Northern District of California two days after hearing oral arguments from both sides, in a case observers say was made inevitable by the government's own paperwork.
+
+"Nothing in the governing statute supports the Orwellian notion that an American company may be branded a potential adversary and saboteur of the U.S. for expressing disagreement with the government," Judge Lin wrote.
+
+The internal record was fatal to the government's case, according to Andrew Rossow, public affairs attorney and CEO of AR Media Consulting, who toldDecryptthat the designation was “triggered by press conduct, not a security analysis.”
+
+"The government essentially wrote down its own motive, and it was retaliation,” Rossow said.
+
+The dispute centers on a two-year, $200 million contract awarded to Anthropic in July 2025 by the Department of War's Chief Digital and Artificial Intelligence Office.
+
+Negotiations to deploy Claude to the department’s GenAI.Mil platform broke down after the two sides failed to agree on usage restrictions.
+
+Anthropic insisted on two conditions: that Claude not be used for mass surveillance of Americans or for lethal use in autonomous warfare, arguing the model was not yet safe for either purpose.
+
+At a February 24 meeting, Secretary of War Pete Hegseth told Anthropic's representatives that if the company did not drop its restrictions by February 27, the department would immediately designate it a supply chain risk.
+
+On the same day, President Trumpposted a directiveon Truth Social ordering every federal agency to "immediately cease" using the company's technology, calling Anthropic a "radical left, woke company."
+
+A little over an hour later, HegsethdescribedAnthropic's stance as a "master class in arrogance and betrayal,” ordering that no contractor doing business with the military may conduct commercial activity with the firm. The formal supply chain designation followed by aletteron March 3.
+
+Anthropicsued the governmenton March 9, alleging violations of the First Amendment, due process, and the Administrative Procedure Act.
+
+“Punishing Anthropic for bringing public scrutiny to the government's contracting position is classic illegal First Amendment retaliation,” Judge Lin wrote in Thursday’s order.
+
+The order, which was stayed for seven days, blocks all three government actions, requires a compliance report by April 6, and restores the status quo before the events of February 27.
+
+The designation of being a “supply chain risk” has been historically reserved for foreign intelligence agencies, terrorists, and other hostile actors.
+
+It had never been applied to a domestic company before Anthropic. Defense contractors began assessing and in many cases terminating their reliance on Anthropic in the weeks that followed, Judge Lin’s order noted.
+
+And the government’s posturing could have unforeseen consequences, experts argue.
+
+Indeed, Thursday’s ruling could push AI companies “to formalize ethical guardrails when working with governments,” Pichapen Prateepavanich, policy strategist and founder of infrastructure firm Gather Beyond, toldDecrypt.
+
+To some extent, the ruling also suggests that companies “can set clear usage limits without automatically triggering punitive regulatory action,” she said.
+
+But this “does not remove the tension,” she added. What the ruling limits is “the ability to escalate that disagreement into broader exclusion or labeling that looks retaliatory.”
+
+Still, the application of current statutory authority for designating a company as a supply chain risk “because it refused to remove safety guardrails” is not an extension of thesupply chain risk statute,  Rossow explained. Instead, it operates as a “weaponization” of the law.
+
+“This is part of an ongoing pattern of behavior by the White House whenever they're challenged, resulting in disproportional, emotionally-driven and biased threats and government extortion,” he added.
+
+If the government's “theory” is accepted, it would create a "dangerous" precedent in which AI firms can be blacklisted for safety policies the government dislikes, "before any harm occurs," without due process, under the banner of national security, Rossow said.
+
+Your gateway into the world of Web3
+
+The latest news, articles, and resources, sent to your inbox weekly.
+
+© A next-generation media company.2026Decrypt Media, Inc.

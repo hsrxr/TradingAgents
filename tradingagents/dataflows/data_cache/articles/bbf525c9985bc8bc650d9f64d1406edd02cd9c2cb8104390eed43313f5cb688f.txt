@@ -1,0 +1,45 @@
+Title: GameStop didn't sell its 4,710 Bitcoin after all, filing shows
+Source: Cointelegraph
+URL: https://cointelegraph.com/news/gamestop-didnt-sell-368m-bitcoin-after-all?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+
+GameStop has revealed that it pledged nearly all of its Bitcoin, worth $325 million, as collateral on Coinbase as part of a covered-call strategy.
+
+Cointelegraph in your social feed
+
+GameStop revealed on Tuesday that it pledged nearly all of its Bitcoin as collateral on Coinbase as part of a covered call strategy in January, ending two months of speculation over whether it had sold the coins.
+
+In a 10-K annual report to the Securities and Exchange Commission on Tuesday, the video game retailerrevealedit pledged 4,709 Bitcoin (BTC), nearly all of its Bitcoin, as collateral under an agreement with Coinbase Credit, using the position to sell covered call options.
+
+The SEC filing clears speculation from January that GameStop was preparing to exit its Bitcoin position after onchain analysts pointed out that ittransferred its entire Bitcoin holdingsto Coinbase Prime.
+
+The Bitcoin treasury industry has faced pressure in recent months as Bitcoin has fallen 45% from its all-time high, with someanalysts casting doubtlast year on the sustainability ofbuy-and-hold strategies.
+
+The move shows GameStop sought to earn income on its Bitcoin by placing short-dated call options with strike prices between $105,000 and $110,000 that are set to expire Friday.
+
+The disclosure shows a $2.3 million unrealized gain and a $700,000 liability tied to the options, while some covered-call contracts expired unexercised in January.
+
+GameStop’s covered call strategy enables it to sell call options that give buyers the right to purchase its Bitcoin at a fixed price. GameStop earns premiums and retains the Bitcoin if the options aren’t exercised.
+
+Since GameStop moved 4,709 Bitcoin to Coinbase, a counterparty that can rehypothecate or reuse the pledged Bitcoin, GameStop is no longer counting those assets as directly held.
+
+Putting Bitcoin up as collateral “resulted in the derecognition of the pledged digital assets and the corresponding recognition of a digital asset receivable,” GameStop said in the filing.
+
+“Although the classification of these assets has changed, our economic exposure is consistent with direct ownership of the underlying Bitcoin,” it added.
+
+GameStop still holds one Bitcoin that wasn’t put up for collateral.
+
+GameStop added that its pledged Bitcoin was worth $368.3 million by Jan. 31 and that it recorded an unrealized loss of $59.7 million on that date because of Bitcoin’s price drop.
+
+Related:Bitcoin in ‘later stages’ of bear market: Watch these BTC price levels
+
+GameStop launched a Bitcoin treasury after its CEO, Ryan Cohen, met with Strategy chairMichael Saylorin February 2025 to discuss howBitcoin strategiescan be implemented.
+
+Prior to moving the 4,709 Bitcoin to Coinbase, GameStop’s Bitcoin stashrankedin the top 25 Bitcoin treasuries by holding size.
+
+Magazine:Bitcoin may face hard fork over any attempt to freeze Satoshi’s coins
+
+Cointelegraph covers fintech, blockchain and Bitcoin bringing you the latest crypto news and analyses on the future of money.
+
+Cointelegraph is committed to providing independent, high-quality journalism across the crypto, blockchain, AI, and fintech industries. To support open access to our website and sustain editorial operations, certain commercial or partner references may appear on our site. These arrangements help maintain an accessible platform and do not result in additional costs to readers.
+
+All news, reviews, and analysis are produced with full journalistic independence and integrity. For more details on our standards and processes, please read ourEditorial Policy.

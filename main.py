@@ -21,10 +21,10 @@ config["quick_think_llm"] = "deepseek-chat"
 
 start_time = time.time()
 # Initialize with custom config
-ta = TradingAgentsGraph(debug=True, selected_analysts=['market', 'news'], config=config, parallel_mode=True)
+ta = TradingAgentsGraph(debug=True, selected_analysts=['market', 'news', 'quant'], config=config, parallel_mode=True)
 
 # forward propagate NVDA
-final_state, decision = ta.propagate("WETH/USDC", "2026-3-28")
+final_state, decision = ta.propagate("WETH/USDC", "2026-3-30 21:00:00")
 end_time = time.time()
 
 print(decision)

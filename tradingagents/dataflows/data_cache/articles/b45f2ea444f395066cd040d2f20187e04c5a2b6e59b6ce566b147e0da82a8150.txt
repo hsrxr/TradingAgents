@@ -1,0 +1,79 @@
+Title: Interview with SBF’s parents drops chance of pardon on betting markets
+Source: Cointelegraph
+URL: https://cointelegraph.com/news/sbf-parents-interview-pardon-chances-drop-betting-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+
+If betting markets are to be believed, the chances of former FTX CEO Sam Bankman-Fried getting a presidential pardon this year aren’t looking good.
+
+Cointelegraph in your social feed
+
+The chances of former FTX CEO Sam Bankman-Fried getting a pardon didn’t seem great this year, and a recent downtick on prediction markets shows that they aren’t getting any better.
+
+Both major prediction markets in the United States,PolymarketandKalshi, have the likelihood of Bankman-Fried receiving a presidential pardon this year at 11% and 9%, respectively.
+
+Chances of a pardon have decreased 1% on Kalshi and 2% on Polymarket after a CNN interview on March 21 with Bankman-Fried’s parents, Joseph Bankman and Barbara Fried. In the interview, both explained why they’re challenging their son’s fraud conviction.
+
+The change may be small, but the interview and the public appeals for a reconsideration of the case have drawn renewed attention to Bankman-Fried’s parents’ role.
+
+In a new interview with CNN’s Michael Smerconish, Fried and Bankman said that the judgement against their son was wrong. “There’s an appeal on the case, but we don’t think it’s fraud,” Bankman said.
+
+Bankman and Fried both agreed that Alameda Research had borrowed customer funds from their son’s exchange FTX. But Bankman said that the funds “were not used improperly.” On the exchange, “you were able to put in money, and you were able to borrow money. Alameda acted like everybody else, putting in money and borrowing money.”
+
+Bankman and Fried’s claim challenges the public narrative on the case, one in which they themselves were involved. Bankman worked as a paid advisor to FTX, chiefly concerned with the exchange’s efforts regarding “effective altruism,” while Fried served as a political consultant, per the CNN interview.
+
+FTX attempted to sue them as the exchange was restructuring in 2023. In a complaint in the Delaware Bankruptcy Court, FTX sought to recover millions of dollars that it claimed Bankman and Fried “fraudulently transferred and misappropriated.”
+
+“Bankman played a key role in perpetuating this culture of misrepresentations and gross mismanagement and helped cover up allegations that would have exposed the fraud committed by the FTX Insiders,” the complaint alleged.
+
+Chiefly, FTX claimed that “Bankman and Fried discussed with Bankman-Fried the transfer to them of a $10 million cash gift and a $16.4 million luxury property in The Bahamas.” The exchange sought the return of both of these funds and of the luxury property.
+
+The case was eventually dismissed without prejudice in February 2025. This means that the case is not permanently closed and the plaintiffs could still refile at a later time and different venue.
+
+A year later, in February 2026, Fried filed an appeal on behalf of her son. Documents filed in the New York Southern District Court said that new testimony, “would have refuted three principal claims the Government made about FTX’s financial condition on which its allegations of fraud rested.” These were that:
+
+FTX was insolvent on Nov. 11, 2022,
+
+There was no prospect that customers would be repaid, and
+
+Alameda regularly ran a multi-billion-dollar deficit in its account on FTX.
+
+Speaking to CNN, Bankman said that “the money was always there” and that Alameda “always had more than enough security to cover everything.” He said that everyone has already gotten paid back; “the money never left the companies.”
+
+Fried said that “all the money was turned over by Sam voluntarily when there was a liquidity crisis. All the assets ended up in the estate in FTX which was taken over by the debtors, so-called debtors, who ran the bankruptcy. All the money, it was there, every penny of it.”
+
+The appeal filing also moved to change the judge, claiming “many instances of extreme prejudice” that Judge Lewis Kaplan showed to Bankman-Fried during the trial.
+
+In the interview, Fried claimed that “Sam’s prosecution was essentially political.” She added that the “Biden administration had decided to destroy crypto, to strangle the baby in the crib, if I can use that horrible metaphor.”
+
+Rather than clearly state the administration was not going to legalize crypto and outline how it would punish offenders, “they quite deliberately tried to sabotage the crypto industry behind the scenes.”
+
+She further claimed the prosecutions were being used for political ambition. “I am describing a part of the Biden administration that I think did really bad things,” she said.
+
+Bankman-Fried made significant political donations to the Biden administration and to Democratic lawmakers. But in the CNN interview, his parents attempted to distance him from liberal politics.
+
+Bankman said, “Sam came to DC and did contribute to Biden. But by the time he got to DC, he had had bad experiences with the Biden administration on crypto and on business in general.”
+
+“He ended up giving at least as much to Republicans. To think of Sam as just a liberal Democrat was never true,” he said.
+
+Bankman-Fried himself hasattempted to downplay any supporthe’d given to Democratic politicians. Last year, he told the media that he was “really frustrated and disappointed with what I saw of, you know, Biden’s administration of the Democratic Party.”
+
+He also tried to liken himself to Trump in regards to his prosecution and frustrations with Judge Kaplan. Kaplan found Trump guilty of sexual abuse and defamation, awarding the plaintiff E. Jean Carroll $88 million in damages.
+
+His parents doubled down on these claims and appeared to make a direct appeal to Trump. When asked, “What does Sam Bankman-Fried’s mother want to say to the President of the United States?” Fried replied, “I think that Sam was a victim of an out-of-control prosecution and I know that Trump himself feels he was.”
+
+“I would say also that being one of the most brilliant, talented young men of this generation and the amount of good that he can do in this world, if he is free to live a life he wants, it would be of enormous benefit to the economy, to a lot of things that Trump cares about in this world. He [Trump] ought to regard Sam as a huge asset going forward for the country.”
+
+Pardons have become an industry unto themselves. A Campaign Legal Center analysisshowedthat Trump usually pardons allies in exchange for loyalty, rewards people who broke the law on his behalf or, crucially, offers brokered pardons, “where deep-pocketed individuals hire well-connected lobbyists or political fixers to secure clemency.”
+
+Amid the most recent push for a pardon, Pro-crypto Senator Cynthia LummistoldPolitico, “I hope the president doesn’t fall for that. [...] He hurt a lot of people.” Trump himselfindicatedto The New York Times that he would not pardon Bankman-Fried.
+
+According to Bloomberg, Fried and Bankman have beenexploringways to get a pardon for their  son since Trump took office in January of last year. This reportedly included speaking to lawyers and “other figures considered to be in Trump’s orbit.”
+
+On March 18, Bankman-Friedwrotea post through legal proxies, supporting Trump's decision to bomb Iran. Polymarket oddsshowthe chance of a US/Iran ceasefire by year’s end at 78%, some 68 points higher than a pardon for Bankman-Fried.
+
+Magazine:Nobody knows if quantum secure cryptography will even work
+
+Cointelegraph covers fintech, blockchain and Bitcoin bringing you the latest crypto news and analyses on the future of money.
+
+Cointelegraph is committed to providing independent, high-quality journalism across the crypto, blockchain, AI, and fintech industries. To support open access to our website and sustain editorial operations, certain commercial or partner references may appear on our site. These arrangements help maintain an accessible platform and do not result in additional costs to readers.
+
+All news, reviews, and analysis are produced with full journalistic independence and integrity. For more details on our standards and processes, please read ourEditorial Policy.

@@ -1,0 +1,21 @@
+Title: Anchorage Digital adds Tron custody, opens U.S. institutional access to TRX trading
+Source: CoinDesk
+URL: https://www.coindesk.com/business/2026/03/27/anchorage-digital-adds-tron-custody-opens-u-s-institutional-access-to-trx-trading
+
+Anchorage Digital, thefirst crypto firmto get a U.S. banking charter, said it will add support for the Tron blockchain, starting with institutional custody forTRX, the network’s native token.
+
+Theannouncementgives institutions a regulated way to hold TRX through the company's platform and its self-custody wallet, Porto. Anchorage Digital said support for TRC-20 assets and native TRX staking be added later.
+
+Tron has become one of the busiest networks for moving stablecoins and other digital assets. DeFiLlamadatashows that the supply of stablecoins on the network has grown steadily over the last three years and now stands at $86 billion. That’s more than a quarter of the total stablecoin supply.
+
+Anchorage is pitching the integration as a compliance-focused bridge between traditional institutions and a network that has seen heavy use in crypto payments. CEO Nathan McCauley said the addition brings “one of crypto’s largest ecosystems into an institutional framework.”
+
+The rollout will happen in stages. First comes custody for TRX, with plans to add Tron-based TRC-20 assets later. That’s followed by staking for institutions that want to earn rewards while taking part in network validation.
+
+Anchorage alreadysupportsmajor networks including Ethereum and some of the biggest layer-2 networks such as Arbitrum, Optimism, Base and Linea. It also supports bitcoinBTC$66.223,65and solana (SOL) tokens, and other major layer-1 networks like Avalanche and BNB Chain.
+
+As stablecoins evolve into core financial infrastructure, North America leads. This report maps the regulation, market shifts, and players driving adoption.
+
+Stablecoins are entering their third phase of evolution - the institutionalization era - becoming increasingly embedded into core financial infrastructure. As institutions prioritize transparency and compliance, regulated issuers like USDC, RLUSD, and PYUSD are steadily gaining share with RLUSD surpassing $1B in market cap within its first year. North America, leading in regulatory frameworks and institutional distribution, is at the center of it all.
+
+The video retailer sparked speculations of selling bitcoin after it transferred nearly all its coins to Coinbase Prime in January.

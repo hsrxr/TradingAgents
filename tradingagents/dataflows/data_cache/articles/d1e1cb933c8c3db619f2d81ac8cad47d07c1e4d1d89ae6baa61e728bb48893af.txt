@@ -1,0 +1,19 @@
+Title: Crypto slides as oil spike, macro jitters trigger derivatives unwind
+Source: CoinDesk
+URL: https://www.coindesk.com/markets/2026/03/26/crypto-slides-as-oil-spike-macro-jitters-trigger-derivatives-unwind
+
+The crypto market is reeling from an overnight selloff, with bitcoinBTC$67,842.11trading lower at $69,400 having lost 2.6% since midnight UTC and ether (ETH) heading back toward $2,000 after tumbling by 4.1%.
+
+The declines come alongside a sharp drop in U.S. equities and precious metals. Nasdaq 100 futures are down by around 1% while gold has lost 1.8%.
+
+Oil, meanwhile, spiked back above $100 per barrel as supposed peace talks between the U.S. and Iran stalled.
+
+The altcoin market was the worst hit, with the CoinDesk Computing Select Index (CPUS) and the CoinDesk DeFi Select Index (DFX) tumbling by 4.3% and 3.9%, respectively, during the Asia session.
+
+Zooming out, bitcoin and the broader crypto market are still locked in a price range that has persisted since early February despite multiple attempts to break out to the upside.
+
+As stablecoins evolve into core financial infrastructure, North America leads. This report maps the regulation, market shifts, and players driving adoption.
+
+Stablecoins are entering their third phase of evolution - the institutionalization era - becoming increasingly embedded into core financial infrastructure. As institutions prioritize transparency and compliance, regulated issuers like USDC, RLUSD, and PYUSD are steadily gaining share with RLUSD surpassing $1B in market cap within its first year. North America, leading in regulatory frameworks and institutional distribution, is at the center of it all.
+
+ETFs show institutional demand for bitcoin is cooling after a strong start to the month.

@@ -1,0 +1,35 @@
+Title: Circle selloff may be overdone as crypto bill weakens Coinbase edge, say analysts
+Source: CoinDesk
+URL: https://www.coindesk.com/markets/2026/03/25/circle-selloff-may-be-overdone-as-crypto-bill-weakens-coinbase-edge-say-analysts
+
+Circle (CRCL) was hit far harder than Coinbase (COIN) in Tuesday's sharp selloff due to the crypto bill CLARITY Act'slatest stanceon stablecoin yield, but one analyst says the regulatory shift may ultimately favor the stablecoin issuer.
+
+Both names are seeing modest bounces on Wednesday, but remain solidly lower since the news leaked Monday evening.
+
+The market may be missing the longer-term implication,arguedMarkus Thielen, founder of 10x Research: in the current form, the bill weakens Coinbase's distribution-driven model more than Circle's infrastructure role.
+
+Coinbase currently captures the majority of USDC economics through its distribution agreement with Circle, Thielen explained. For USDC held on Coinbase, the exchange receives nearly all of the associated interest income, while off-platform balances are generally split about 50%-50. In practice, Thielen estimates that Circle pays Coinbase more than $900 million in revenue share each year, roughly half of Circle’s total revenue.
+
+That arrangement has made stablecoin revenue a high-margin business for Coinbase. But if regulators shut down yield-like rewards on balances, part of that advantage may fade, Thielen said.
+
+"The setup increasingly favors Circle on a relative basis," Thielen wrote, arguing that the federal framework would shift value toward regulated issuers with compliance, scale and a credible balance sheet.
+
+That could matter even more ahead of the two companies’ next commercial renegotiation in August 2026. Under a stricter federal regime, Thielen sees a better chance that Circle wins improved terms.
+
+Bitwise CIO Matt Hougan, meanwhile,saidthe selloff in Circle looks "overblown" as the CLARITY Act doesn’t change the long-term investment case.
+
+Yield hasn’t been the main draw to stablecoins, he wrote in a Wednesday note. Most stablecoins don’t pay interest, yet adoption has surged because they make it easier to move dollars across borders, settle trades and access blockchain-based financial rails. In that sense, restricting yield doesn’t change the core use case.
+
+Hougan points to forecasts projecting the market could grow to $1.9 trillion, or even $4 trillion, by the end of the decade. Circle, with a strong position in regulated stablecoins, stands to benefit if more activity shifts toward compliant, onshore players.
+
+He also sees a potential upside from regulation itself. Limiting yield passthrough could reduce the revenue Circle shares with partners like Coinbase, helping improve margins over time.
+
+Altogether, Hougan sees a path for Circle to grow to a much larger valuation — potentially around $75 billion, roughly double its current level.
+
+"If stablecoins play out the way people think," Hougan wrote, "you can be fairly conservative on most assumptions and still find Circle looking attractive."
+
+As stablecoins evolve into core financial infrastructure, North America leads. This report maps the regulation, market shifts, and players driving adoption.
+
+Stablecoins are entering their third phase of evolution - the institutionalization era - becoming increasingly embedded into core financial infrastructure. As institutions prioritize transparency and compliance, regulated issuers like USDC, RLUSD, and PYUSD are steadily gaining share with RLUSD surpassing $1B in market cap within its first year. North America, leading in regulatory frameworks and institutional distribution, is at the center of it all.
+
+The average public miner spent $79,995 to produce one bitcoin last quarter. Bitcoin is trading at $70,000. The math doesn't work, so the industry is pivoting to AI, taking on $70 billion in contracts, and liquidating bitcoin treasuries to finance the shift.

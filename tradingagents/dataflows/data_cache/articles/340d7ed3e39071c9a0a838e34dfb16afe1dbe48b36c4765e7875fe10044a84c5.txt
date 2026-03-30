@@ -1,0 +1,43 @@
+Title: MARA Stock Pops on $1.1 Billion Bitcoin Sale as BTC Miner Buys Back Convertible Debt
+Source: Decrypt
+URL: https://decrypt.co/362447/mara-stock-pops-1-1-billion-bitcoin-sale-miner-buys-convertible-debt
+
+MARA Stock Pops on $1.1 Billion Bitcoin Sale as BTC Miner Buys Back Convertible Debt
+
+MARA Holdings, one of the largestBitcoinmining firms in the U.S., said on Thursday that it had sold roughly 15,000 BTC for $1.1 billion to repurchase a portion of its convertible debt, describing the move as a way to improve its overall financial footing.
+
+The sale, which represents 28% of MARA’s Bitcoin holdings, leaves the Miami-based firm with around 38,700 Bitcoin left in its corporate coffers. With Bitcoin changing hands around $69,000 on Thursday, that sum was worth $2.6 billion, according toCoinGecko.
+
+MARA has entered into agreements with certain holders of its convertible notes allowing the company to repurchase debt at a 9% discount to par value, according to apress release. That translates to approximately $88 million in value saved before transaction costs.
+
+With Bitcoin mining margins pressured by the asset’s latest fall from all-time highs, investors appeared to welcome MARA’s move. On Thursday, the company’s stock price popped more than 9% to $9, according toYahoo Finance. Shares were 44% lower over the past six months.
+
+In a statement, MARA Chair and CEO Fred Thiel described the company’s decision to pare its stockpile as a strategic capital allocation. He noted that the firm’s repurchase of convertible notes saves on futures costs, but it also reduces the potential for shareholder dilution. The company is effectively deleveraging its balance sheet, he added.
+
+“This transaction enhances financial flexibility and increases strategic optionality,” he said, noting that the sale comes as MARA pushes deeper into opportunities with AI.
+
+Investors holding convertible notes have the ability to redeem debt for shares if a company’s stock price rises above a certain threshold. The format has beenembracedby Bitcoin-buying firms like Strategy, which use proceeds to gain outsized buying power.
+
+Today,@MARAannounced the repurchase of approximately one billion of its convertible notes at an average ~9% discount to par.
+
+This strategic transaction reduces outstanding convertible debt by ~30%, captures approximately 88 million in value, and eliminates future dilution…https://t.co/eyPsBZb1yp
+
+— Robert Samuels (@RobSamuelsIR)March 26, 2026
+
+Earlier this month, the third-largest corporate holder of Bitcoinsignaledthat more of its BTC could be up for grabs as it repositions itself as a “vertically integrated digital infrastructure company.” At the time, MARA disclosed selling $413 million worth of Bitcoin last year.
+
+MARA is far from the first Bitcoin miner to significantly reduce its holdings amid financial incentives to build out high-powered datacenters for tech firms.
+
+Last month, Cangosoldaround 4,400 Bitcoin for $305 million to increase its odds of capitalizing on the AI boom. Days before, Bitfarms rebranded to Keel,describingits renewed AI focus as a “new chapter.” That month, Cipher Digitalrebrandedfrom Cipher Mining along those same lines.
+
+In a report published by crypto asset manager CoinShares on Wednesday, research head James Butterfill projected that Bitcoin miners could generate as much as 70% of their revenues from AI by the end of the year.
+
+He cited a decline in Bitcoin “hash price,” a measure of overall Bitcoin mining profitability, which stood at $33 per petahash/second (PH/s), per day on Thursday. In July, Bitcoin mining was nearly twice as profitable at $64 PH/s per day, according toHashrate Index.
+
+“This shift is largely economic,” he added. “Hash prices remain near cyclical lows, compressing mining margins, while AI infrastructure offers structurally higher and more stable returns.”
+
+Your gateway into the world of Web3
+
+The latest news, articles, and resources, sent to your inbox weekly.
+
+© A next-generation media company.2026Decrypt Media, Inc.

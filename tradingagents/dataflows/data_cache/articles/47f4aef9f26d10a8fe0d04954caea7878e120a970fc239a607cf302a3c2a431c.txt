@@ -1,0 +1,37 @@
+Title: Tether hires KPMG for first full USDT audit, FT reports
+Source: Cointelegraph
+URL: https://cointelegraph.com/news/tether-long-awaited-audit-finally-lands-kpmg?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+
+Tether has reportedly hired KPMG for its first full independent audit of USDT’s reserves and brought in PwC to help, as the stablecoin giant eyes a multibillion-dollar equity raise.
+
+Cointelegraph in your social feed
+
+The Financial Times reported on Friday that Tether has hired KPMG to conduct its first full audit of USDT’s financial statements and brought in PwC to help prepare its internal systems, citing people familiar with the matter.
+
+Thereportedmandate follows Tether’s Tuesday announcement that it hadformally engaged a Big Four firmfor an inaugural financial statement audit, without naming the provider, and comes after years of pledges to deliver a full review of its books while relying instead on periodic reserve attestations from BDO Italia, the Italian member firm of the BDO global accounting network that has been producing USDt (USDT) assurance reports since 2022.
+
+The move comes as Tether (USDT) weighs a major equity raise and apush into the USunder the new federal stablecoin framework created by theGuiding and Establishing National Innovation for US Stablecoins(GENIUS) Act.
+
+USDT, a dollar-linked token with about $185 billion in circulation, is the largest stablecoin by market capitalization,accordingto CoinGecko. Tether said in January that it heldmore than $122 billion in direct US Treasury securitiesand about $141 billion in total Treasury exposure, including related instruments such as overnight reverse repurchase agreements.
+
+Related:Tether CEO slams S&P ratings agency and influencers spreading USDt FUD
+
+A comprehensive audit by KPMG is expected to go beyond snapshots of reserves, covering Tether’s assets, liabilities and internal controls across its sprawling balance sheet, a process the company hasbilledas “the biggest ever inaugural audit in the history of financial markets.”
+
+Tether said the Big Four firm was chosen through a competitive process and that it already operates at Big Four “audit standards,” but has not yet committed publicly to when the audit will be completed.
+
+Cointelegraph reached out to Tether but had not received a response by publication. KPMG and PwC refused to comment on the matter.
+
+Bloomberg reported in September 2025 thatTether was exploring raising as much as $20 billionin fresh equity, implying a valuation of $500 billion. Tether CEO Paulo Ardoino refuted these claims, telling Cointelegraph in February that such a figure had not been agreed upon, whilemaintaining its $500 billion valuation targetbased on the company’s profits.
+
+The company haspreviously paid a $41 million Commodity Futures Trading Commission (CFTC) fineover what the regulatorcalled“untrue or misleading statements” about its reserves.
+
+In a separate case, Tether agreed to an$18.5 million settlement with the New York Attorney Generalover allegations it concealed losses and misled investors about USDT’s backing. Under the NYAG deal, Tether was compelled to provide detailed quarterly reserve reports for two years and later dropped its opposition to the release of those materials.
+
+Magazine:Bitcoin’s ‘biggest bull catalyst’ would be Saylor’s liquidation — Santiment founder
+
+Cointelegraph covers fintech, blockchain and Bitcoin bringing you the latest crypto news and analyses on the future of money.
+
+Cointelegraph is committed to providing independent, high-quality journalism across the crypto, blockchain, AI, and fintech industries. To support open access to our website and sustain editorial operations, certain commercial or partner references may appear on our site. These arrangements help maintain an accessible platform and do not result in additional costs to readers.
+
+All news, reviews, and analysis are produced with full journalistic independence and integrity. For more details on our standards and processes, please read ourEditorial Policy.

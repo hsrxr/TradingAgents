@@ -1,0 +1,59 @@
+Title: Ethereum price risks falling to $1.2K next, analyst warns
+Source: Cointelegraph
+URL: https://cointelegraph.com/news/eth-price-risks-falling-to-1-2k-next-analysis-warns?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+
+Ethereum is flashing a warning of a familiar bull trap that preceded 45% and 48% drops in the past, raising risks of a fresh breakdown.
+
+Cointelegraph in your social feed
+
+Ethereum’s native token, Ether (ETH), may decline 40% to $1,200 in the coming weeks, according to a fractal setupsharedby analyst Leshka.eth.
+
+Ethereum is mirroring a pattern that preceded 45% and 48% declines in the past.
+
+Macro risks and whale distribution hamper near-term outlook.
+
+Ethereum’s $1,200 downside target comes from aSupertrendsetup on the daily chart, where two earlier bullish flips failed and led to steep breakdowns.
+
+The Supertrend is a simple trend-following line plotted directly on the price chart. It changes color to show the current market direction: green when the trend is rising and red when the trend is falling.
+
+ETH flashed similar bullish flips in October 2025 and January 2026, but neither held.
+
+In both cases, the price moved above the Supertrend’s upper band, which then started acting as support. Once ETH lost that support, the recovery unraveled and the price dropped 45% and 48%, respectively.
+
+“Now the same setup is forming at $1,990,” said Leshka.eth, adding:
+
+That aligns with the measured downside target of Ethereum’s prevailing bear flag pattern, as shown below.
+
+The bearish setups are taking shape as Ethereum gives back its March gains against a worsening macro backdrop.
+
+Related:Ether traders see ‘further decline’ as ETH price slips below $2K
+
+Risk appetite has weakened alongside theUS–Israel and Iran war,recession fearshave risen, and bond traders no longer expect the Fed to cut rates before December 2027.
+
+ETH has fallen more than 17% from its monthly high from over two weeks ago. US spotEther ETFs have seen roughly $300 million in net outflowsover the same stretch.
+
+Theapparent demand for Ethereumhas also slipped to its lowest in 16 months.
+
+Ethereum’s latest rebound has not triggered broad-based accumulation across major wallet cohorts, Glassnodedatashows.
+
+For instance, the number of mega-whale wallets holding more than 10,000 ETH has flattened after peaking in late 2025, while the 30-day change has only just crawled back toward neutral after months of decline.
+
+In other words, the biggest holders have not been accumulating aggressively.
+
+The picture looks similar among smaller wallet cohorts.
+
+Ethereum whales holding 1,000 to 10,000 ETH remain below their late-2025 highs, with the 30-day change hovering around flat to slightly negative levels.
+
+Shark addresses holding 100 to 1,000 ETH also continue to trend well below last year’s peaks, suggesting that mid-sized and smaller large holders have not returned as strong buyers either.
+
+Taken together, the data suggest ongoing distribution and weak conviction across key ETH holder cohorts, reinforcing the risk of a deeper drop if $1,990 breaks.
+
+As Cointelegraphreported, one of the few bullish signs for Ethereum include the increasing amount of Ether staked and supply on exchanges falling to ten-year lows.
+
+This article is produced in accordance with Cointelegraph's Editorial Policy and is intended for informational purposes only. It does not constitute investment advice or recommendations. All investments and trades carry risk; readers are encouraged to conduct independent research before making any decisions. Cointelegraph makes no guarantees regarding the accuracy or completeness of the information presented, including forward-looking statements, and will not be liable for any loss or damage arising from reliance on this content.
+
+Cointelegraph covers fintech, blockchain and Bitcoin bringing you the latest crypto news and analyses on the future of money.
+
+Cointelegraph is committed to providing independent, high-quality journalism across the crypto, blockchain, AI, and fintech industries. To support open access to our website and sustain editorial operations, certain commercial or partner references may appear on our site. These arrangements help maintain an accessible platform and do not result in additional costs to readers.
+
+All news, reviews, and analysis are produced with full journalistic independence and integrity. For more details on our standards and processes, please read ourEditorial Policy.

@@ -1,0 +1,37 @@
+Title: Spot Bitcoin ETFs break 4-week inflow streak as capital avoids ‘directional risk’
+Source: Cointelegraph
+URL: https://cointelegraph.com/news/bitcoin-etfs-break-4-week-inflow-streak-outflows-directional-risk?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+
+Spot Bitcoin ETFs see $296 million in weekly outflows after a month-long inflow streak, as macro uncertainty keeps capital sidelined.
+
+Cointelegraph in your social feed
+
+Spot Bitcoin exchange-traded funds (ETFs) snapped a four-week inflow streak, posting $296.18 million in net outflows for the week ending Friday.
+
+The reversal follows a sustained run of inflows totaling more than $2.2 billion across four consecutive weeks, including $787.31 million, $568.45 million and $767.33 million in early March, before slowing to $95.18 million in the prior week,accordingto SoSoValue data.
+
+The weekly outflowfollowed back-to-back daily withdrawalson Thursday and Friday totaling more than $396 million, including a $225.48 million outflow on Friday alone, their biggest day of redemptions since March 3, when they posted $348 million in outflows.
+
+Notably, cumulative net inflows into spot Bitcoin (BTC) ETFs stand at $55.93 billion, while total net assets have slipped to $84.77 billion from over $90 billion a week earlier. Trading activity also moderated, with weekly volume falling to $14.26 billion from $25.87 billion earlier in March.
+
+Related:Morgan Stanley sets 0.14% Bitcoin ETF fee, lowest in market if approved
+
+In a statement shared with Cointelegraph, a Bitunix analyst said the current macro backdrop is defined by “surface stability, internal imbalance,” as geopolitical risks remain unresolved while policymakers attempt to maintain outward calm. Developments such as the US–EU trade agreement and delayed tensions in the Middle East have temporarily eased market stress, but underlying risks remain.
+
+In this environment, Bitcoin is behaving less like a breakout asset and more like a reflection of liquidity conditions, the analyst said. The asset remains range-bound between $65,000 and $72,000, with signs of demand absorption but limited follow-through on upside attempts.
+
+“Capital is not exiting the market, but neither is it willing to take directional risk,” the analyst said, adding that price action is likely to remain volatile within established ranges until macro conditions align for a clearer trend.
+
+Related:Morgan Stanley files amended S-1 for MSBT Bitcoin ETF
+
+Meanwhile, spot Ether (ETH) ETFs recorded $206.58 million in weekly outflows, marking a second consecutive week of losses and reversing the modest inflow streak seen earlier in March.
+
+Daily data shows consistent outflows throughout the week. Funds saw withdrawals every trading day since March 18. The largest single-day outflow came on Thursday at $92.54 million, followed by $48.54 million on Friday.
+
+Magazine:Bitcoin’s ‘biggest bull catalyst’ would be Saylor’s liquidation — Santiment founder
+
+Cointelegraph covers fintech, blockchain and Bitcoin bringing you the latest crypto news and analyses on the future of money.
+
+Cointelegraph is committed to providing independent, high-quality journalism across the crypto, blockchain, AI, and fintech industries. To support open access to our website and sustain editorial operations, certain commercial or partner references may appear on our site. These arrangements help maintain an accessible platform and do not result in additional costs to readers.
+
+All news, reviews, and analysis are produced with full journalistic independence and integrity. For more details on our standards and processes, please read ourEditorial Policy.

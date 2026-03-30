@@ -1,0 +1,49 @@
+Title: Google Sets 2029 Deadline to Deal With Quantum Threat—Is It a Problem for Bitcoin?
+Source: Decrypt
+URL: https://decrypt.co/362356/google-2029-deadline-quantum-threat-problem-bitcoin
+
+Google Sets 2029 Deadline to Deal With Quantum Threat—Is It a Problem for Bitcoin?
+
+Google is done treating quantum computing as a future problem. On Tuesday, the company published aformal timelinefor transitioning its entire infrastructure to post-quantum cryptography (PQC) by 2029—calling the move urgent and saying quantum frontiers "may be closer than they appear."
+
+“As a pioneer in both quantum and PQC, it’s our responsibility to lead by example and share an ambitious timeline,” the blog reads. “Quantum computers will pose a significant threat to current cryptographic standards, and specifically to encryption and digital signature.”
+
+The announcement, signed by Google VP of Security Engineering Heather Adkins and Senior Cryptography Engineer Sophie Schmieg, describes the 2029 target as a response to rapid advances in quantum hardware, error correction, and factoring resource estimates.
+
+In plain English: The machines that could theoretically crack today's encryption are getting real, faster than expected.
+
+Google's warning rests on two distinct threats. The first is already happening. So-called "harvest now, decrypt later" attacks allow bad actors to steal encrypted data today and sit on it, confident they'll be able to unlock it once quantum computers are powerful enough. That threat is present-tense. The second is future-facing: digital signatures, the cryptographic foundation of authentication across the internet, will need to be replaced before a cryptographically relevant quantum computer—a CRQC—arrives.
+
+To lead by example, Google announced that Android 17 will integrate post-quantum digital signature protection usingML-DSA,an algorithm recently standardized by the U.S. National Institute of Standards and Technology (NIST). The company is also pushing PQC across Google Cloud and internal communications systems.
+
+The 2029 deadline is not arbitrary. IBM has its own roadmap targeting fault-tolerant quantum systems by the same year. As both companies race toward that threshold,2025 marked a turning pointin the field—when error correction breakthroughs, new processor architectures, and a Caltech result trapping over 6,000 atomic qubits at once shifted the conversation from "if" to "when."
+
+Bitcoinruns on elliptic curve cryptography (or ECDSA signatures), the same class of math that quantum computers—running what's known as Shor's algorithm—could eventually reverse-engineer. That means: Given your public key, a sufficiently powerful quantum machine could derive your private key.
+
+Normal computers would take centuries to crack something like this. Quantum computers may take that problem and turn it into something solvable in practical time.
+
+The exposure is larger than most people realize. According toProject Eleven, a cybersecurity and crypto-focused startup working on protecting crypto from future quantum computer attacks, over 6.8 million Bitcoin—over $470 billion worth—sits in addresses that are vulnerable to quantum attacks, including coins from Bitcoin's earliest days. A separate estimate fromArk Invest and Unchainedputs roughly 35% of the total Bitcoin supply in address types theoretically vulnerable to a future quantum attack.
+
+Google's researchers recently found thatcracking RSA encryption may require 20 times fewer quantum resourcesthan previously estimated—a finding that compressed the security timeline for everything that relies on similar mathematical structures, Bitcoin included. Earlier estimates put the qubit count needed to crack Bitcoin at around 20 million. Researchers at Iceberg Quantum nowsuggestthe number could fall to roughly 100,000.
+
+Quantum computers have achieved almost a 10x growth in power in the last five years.
+
+So, should we all panic and sell our coins? Not really—but we should pay attention.
+
+First of all, Google isn’t saying quantum computers will break cryptography by 2029. It’s simply saying it plans to be ready before they do.
+
+Also, Bitcoin developers are not asleep at the wheel.BIP 360, a proposal introducing a quantum-resistant address format called Pay-to-Merkle-Root, was recently merged into Bitcoin's formal improvement repository. It doesn't activate anything—but it starts the clock on a serious overhaul.
+
+Jameson Lopp, co-founder of Bitcoin custody firm Casa, believes that even if quantum computers remain years away from posing a real threat, upgrading Bitcoin's protocol and migrating billions in user funds could take five to 10 years on its own.
+
+“Right now, we’re several orders of magnitude away from having a cryptographically relevant quantum computer, at least as far as we know,” Loop toldDecryptearlier this year. “If innovation in quantum computing continues at a similar, fairly linear rate, it’s going to take many years—probably over a decade, maybe even several decades—before we get to that point.”
+
+Bitcoin's decentralized governance means no single team can flip a switch. Miners, wallet developers, exchanges, and millions of individual users would all need to move simultaneously.
+
+Google can set a 2029 deadline because it controls its own infrastructure. Bitcoin cannot. And that asymmetry is exactly what makes Google's announcement matter for crypto—not as a death sentence, but as a hard deadline the network didn't set for itself and can't afford to ignore.
+
+Your gateway into the world of Web3
+
+The latest news, articles, and resources, sent to your inbox weekly.
+
+© A next-generation media company.2026Decrypt Media, Inc.

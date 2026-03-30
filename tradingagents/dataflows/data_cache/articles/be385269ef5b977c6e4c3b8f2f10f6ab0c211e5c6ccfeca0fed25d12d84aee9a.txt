@@ -1,0 +1,41 @@
+Title: 'Fortnite' Maker Epic Games Reveals Mass Layoffs, Says AI Isn’t to Blame
+Source: Decrypt
+URL: https://decrypt.co/362229/fortnite-maker-epic-games-mass-layoffs-ai-isnt-blame
+
+'Fortnite' Maker Epic Games Reveals Mass Layoffs, Says AI Isn’t to Blame
+
+Epic Games announced on Tuesday that it will lay off more than 1,000 employees, and CEO Tim Sweeney addressed the technological elephant in the room: artificial intelligence.
+
+“Since it’s a thing now, I should note that the layoffs aren’t related to AI,” Sweeney wrote in amemoto staff that was also posted publicly. “To the extent it improves productivity, we want to have as many awesome developers developing great content and tech as we can.”
+
+Launched in 2017, the popular battle royale shooter, Fortnite, reportedly had over650 millionregistered players worldwide in 2025. In the memo, however, Sweeney said a decline in Fortnite engagement that began in 2025 left Epic spending “significantly more than we’re making,” forcing the company to make major cuts to keep the business afloat.
+
+While Sweeney did not elaborate on the reason for mentioning AI, one reason may lie in the company’s embrace of the technology. In 2023, Epic Games found itself at odds with Valve, the creator of Steam, over theuseof generative AI in games, with the Fortnite maker allowing games developed using the technology on its Epic Games Store marketplace.
+
+The layoffs, the company said, are part of a broader cost-cutting effort, with over $500 million additionally saved by reducing contracting, cutting marketing spending, and leaving some roles unfilled. Sweeney compared the moment to earlier moments in the company’s history, including its shift from 2D to 3D games in the 1990s and later move into online titles such as Fortnite.
+
+“Market conditions today are the most extreme we've seen since those early days, with massive upheaval in the industry accompanied by massive opportunity for the companies that come out as winners on the other side,” Sweeney wrote. “That's what we're aiming to do for our players, and we aim to bring other like-minded developers in the industry along on the journey to build an increasingly open and vibrant future of entertainment together.”
+
+Sweeney also noted the current console generation is selling fewer units than its predecessor, and that games increasingly compete with other digital entertainment for players’ time.
+
+Since the public launch of ChatGPT and Midjourney in 2022, the gaming industry has grappled with the decision of whether or not to incorporate generative AI in game development. Some creators had antagonistic takes: In December, former Grand Theft Auto developer Dan Housercomparedthe technology to “mad cow disease.”
+
+Despite public pushback against the use of AI in gaming, areportpublished by Google Cloud last year said nine in 10 game developers said they were already using AI agents in their work. Major game publishers likeElectronic Arts,Square Enix, and Krafton have publicly embraced AI in recent years as industry layoffs have swelled.
+
+Some challenges, Sweeney noted, however, are specific to Epic Games.
+
+“Despite Fortnite remaining one of the most successful games in the world, we’ve had challenges delivering consistent Fortnite magic with every season; we're only in the early stages of returning to mobile and optimizing Fortnite for the world's billions of smartphones,” he wrote.
+
+Affected employees, Epic said, will receive at least four months of base pay, six months of company-paid healthcare for U.S. workers, and accelerated stock-option vesting through January 2027.
+
+Despite the layoffs, Epic plans to continue investing in its technology, with Sweeney noting that the company is preparing to transition from Unreal Engine 5 and Unreal Editor for Fortnite toward Unreal Engine 6 as part of its next phase. Unreal Engine is used widely across not only the gaming industry, but also in entertainment projects of all sorts.
+
+“In being the industry's vanguard we have taken a lot of bullets in a battle which is only in the early days of paying off for ourselves and all developers,” Sweeney said.
+
+Epic Games did not immediately respond toDecrypt’srequest for comment.
+
+Your gateway into the world of Web3
+
+The latest news, articles, and resources, sent to your inbox weekly.
+
+© A next-generation media company.2026Decrypt Media, Inc.

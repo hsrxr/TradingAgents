@@ -1,0 +1,59 @@
+Title: Bitcoin holders show ‘stronger’ conviction despite BTC price losing $68K level
+Source: Cointelegraph
+URL: https://cointelegraph.com/news/bitcoin-holders-show-stronger-conviction-despite-btc-price-losing-68k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+
+Bitcoin long-term holders continued to expand their holdings, while increased withdrawal from exchanges flashed a classic supply shock warning.
+
+Cointelegraph in your social feed
+
+Bitcoin (BTC) dropped toward $67,000 during the European trading session on Friday despite an increase in long-term buying. Exchange withdrawals also increased to 16-month highs, suggesting reduced “immediate selling pressure,” a new analysis said.
+
+Bitcoin withdrawals from exchanges increases, reducing BTC available for sale.
+
+Long-term holders accelerate accumulation, adding 155,450 BTC over the past 30 days.
+
+Bitcoin analysts view $65,000–$66,000 as a potential support zone for a bounce.
+
+CryptoQuant’s exchange flow datahighlighted“renewed signs of supply tightening,” as large Bitcoin withdrawals continue across major exchanges.
+
+The chart below shows that investors withdrew nearly $1.6 billion of BTC from Bitfinex on March 16, as shown by the orange bar in the chart below.
+
+Related:Bitcoin floor ‘near $70K’ as TradFi returns: Will war, inflation break their belief?
+
+Since then, the trend has expanded across other major exchanges, with a $678 million withdrawal from OKX on Sunday, a $728 million withdrawal from Kraken on Monday, and another $400 million in BTC leaving Binance on Wednesday.
+
+“This pattern suggests that the latest wave of withdrawals is no longer isolated to one platform,” CryptoQuant analyst Amr Tahasaidin his latest QuickTake analysis.
+
+The figures support the latest data showingBitcoin whales and sharks have been accumulatingover the last two months, a pattern that could trigger aneventual breakout from the range.
+
+Other data also reflects an accumulation phase, as long-term holders (LTHs), investors who have held Bitcoin for more than 155 days, ramped up buying.
+
+The LTH net position change has been positive since March 5, as about 155,450 BTC has been bought over the past 30 days.
+
+In other words, holders are buying more on the dips, including thelatest one below $68,000.
+
+When Bitcoin leaves exchanges while LTHs expand their positions, it “usually signals lower immediate sell pressure and stronger conviction from investors with a longer time horizon,” Amr Taha said.
+
+If this trend continues, the market could be entering another phase where tightening sell-side liquidity and stronger LTH demand “create a more supportive backdrop for price,” the analyst added.
+
+AsCointelegraph reported, $70,000 remains the key for the Bitcoin bulls and that losing it could trigger the next leg down.
+
+The BTC/USD pair was trading below $67,000 at the time of writing, below the 50-day simple moving average (SMA) and the 200-week exponentialmoving average(EMA).
+
+Bears will attempt to push the price toward the $65,000-$63,300 demand zone, with a deeper focus on therange low below $60,000, reached on Feb. 6.
+
+“It’s quite clear that there's not enough strength for the markets to move higher after that rejection at $75K,” MN Capital founder Michael van de Poppesaidin a recent X post.
+
+An accompanying chart suggested that the price was seeking to print a higher low within the $65,000 to $66,000 range, failing which “we’ll start to see an acceleration downwards,” van de Poppe said, adding:
+
+The Glassnode liquidity heatmaphighlighted“stronger” whale bid orders near $65,000, suggesting that the BTC price could retest this area before a bounce.
+
+AsCointelegraph reported, a break and close below the ascending trend line at $68,000 could result in Bitcoin price dropping toward $60,000, where it could consolidate next.
+
+This article does not contain investment advice or recommendations. Every investment and trading move involves risk, and readers should conduct their own research when making a decision. While we strive to provide accurate and timely information, Cointelegraph does not guarantee the accuracy, completeness, or reliability of any information in this article. This article may contain forward-looking statements that are subject to risks and uncertainties. Cointelegraph will not be liable for any loss or damage arising from your reliance on this information.
+
+Cointelegraph covers fintech, blockchain and Bitcoin bringing you the latest crypto news and analyses on the future of money.
+
+Cointelegraph is committed to providing independent, high-quality journalism across the crypto, blockchain, AI, and fintech industries. To support open access to our website and sustain editorial operations, certain commercial or partner references may appear on our site. These arrangements help maintain an accessible platform and do not result in additional costs to readers.
+
+All news, reviews, and analysis are produced with full journalistic independence and integrity. For more details on our standards and processes, please read ourEditorial Policy.

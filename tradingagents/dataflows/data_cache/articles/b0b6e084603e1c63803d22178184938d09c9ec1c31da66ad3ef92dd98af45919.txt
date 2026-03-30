@@ -1,0 +1,45 @@
+Title: Onchain real-world perps surge, while altcoin rout drags on: Report
+Source: Cointelegraph
+URL: https://cointelegraph.com/news/onchain-real-world-perps-surge-while-crypto-market-rout-drags-on-standard-chartered?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+
+Onchain commodity-linked perpetuals are gaining traction as traders rotate away from underperforming altcoins, according to a Sygnum report.
+
+Cointelegraph in your social feed
+
+Onchain perpetual futures linked to real-world commodities like precious metals and oil have surged in trading volume, signaling an investor rotation from altcoins to commodity-linked digital assets, according to a report published Thursday by digital asset bank Sygnum.
+
+Trading volume for oil and precious metals perpetual futures markets on the Hyperliquid decentralized exchange (DEX) accounts for over 67% of HIP-3 contracts in Q1 2026, also known as “Builder-Deployed Perpetuals,” on the Hyperliquid platform, according to thereport.
+
+Previously, indexes accounted for about 90% of HIP-3 trading activity, but this has fallen to about 17%, according to Sygnum.
+
+Weekend HIP-3 trading activity has surged by about 9x since January 2026, the report said, adding, “This is likely due to an uptick in crypto-native traders rotating into traditional assets as the broader altcoin market continues to underperform.”
+
+Lucas Schweiger, Sygnum digital asset ecosystem research lead, told Cointelegraph that this shift toward onchain digital assets is corroborated by a 250% year-over-year surge in the market cap of tokenized real-world assets (RWAs).
+
+There are about $23 billion in tokenized real-world assets that are traded on permissionless blockchain networks at the time of this writing, he said.
+
+He also said that traders are treating altcoins as “leveraged BTC proxies.” Schweiger told Cointelegraph:
+
+The ongoing war in the Middle East and the disruption to energy infrastructure have caused oil prices to spike, while many altcoins are already down 80-90%below their all-time highs, according to Sygnum.
+
+Related:Bitcoin leads, altcoin indicators drop to intriguing lows: Time for an altseason?
+
+The war between the United States, Israel and Iran has disrupted critical energy infrastructure across the Middle East, causing global oil prices to spike to a high of about $120 per barrel.
+
+Oil prices have whipsawedsince the start of the conflict, rising or falling in response to comments made by US President Donald Trump and the Iranian government or ongoing developments in the geopolitical crisis.
+
+If the price of oil remains above $100 per barrel in 2026, it will cause inflation to spike, according to Nic Puckrin, market analyst and founder of the Coinbureau media channel.
+
+Traders are still pricing in a potential de-escalation or a quick end to the conflict, but Puckrin warned theymay be in for a “rude awakening”if the crisis persists and higher inflation derails any hopes of further interest rate cuts in 2026.
+
+Since the start of the conflict on February 28, the odds of a US recession have surged to 36% on thePolymarketprediction market platform.
+
+The US economy now has a near50% chance of entering a recessionin 2026, according to ratings agency Moody's.
+
+Magazine:Bitcoin’s ‘narrative vacuum,’ Ethereum now inevitable: Trade Secrets
+
+Cointelegraph covers fintech, blockchain and Bitcoin bringing you the latest crypto news and analyses on the future of money.
+
+Cointelegraph is committed to providing independent, high-quality journalism across the crypto, blockchain, AI, and fintech industries. To support open access to our website and sustain editorial operations, certain commercial or partner references may appear on our site. These arrangements help maintain an accessible platform and do not result in additional costs to readers.
+
+All news, reviews, and analysis are produced with full journalistic independence and integrity. For more details on our standards and processes, please read ourEditorial Policy.

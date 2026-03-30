@@ -1,0 +1,29 @@
+Title: GameStop turned its $368 million bitcoin stash into an options income play
+Source: CoinDesk
+URL: https://www.coindesk.com/business/2026/03/26/gamestop-turned-its-usd368-million-bitcoin-stash-into-an-options-income-play
+
+GameStop's (GME)massive, $420 millionbitcoinBTC$66,219.46transfer earlier this year was not an exit – but it's not holding the coins anymore either.
+
+In itsannual reportfiled Tuesday, the video game retailer revealed that 4,709 BTC – out of its 4,710 coins – had been pledged to crypto exchange giant Coinbase (COIN) as part of an over-the-counter covered-call strategy.
+
+The disclosure offers a clearer explanation for a January wallet that showed GameStop shifting nearly its entire bitcoin position to Coinbase Prime. The move had stirred speculation that the company was preparing to sell its holdings. Especially so as digital asset treasury firms faced mounting pressure from falling crypto prices, sparking questions about whether GameStop was cutting risk.
+
+What happened instead is that the company has written short-dated call options on its bitcoin, with strike prices between $105,000 and $110,000 and expiries through late March.
+
+The trade was aimed at generating income from option premiums, while limiting gains above those levels.
+
+The filing shows a $0.7 million liability linked to the options and a $2.3 million unrealized gain. It also said that after the fiscal year ending on January 31, a portion of the covered-call contracts expired unexercised, while the related collateral remained with Coinbase Credit.
+
+The structure also changed how GameStop accounts for its holdings.
+
+Because Coinbase can rehypothecate or redeploy the pledged bitcoin, the company no longer classifies the assets as directly held. It now records a receivable, the right to reclaim equivalent BTC later.
+
+That is a notable shift from its buy-and-hold strategy. While GameStop said its economic exposure remains similar to holding bitcoin outright, the position is no longer unencumbered. It sits with a counterparty and is tied to derivatives.
+
+The firm reported that receivables linked to the pledged bitcoin were worth $368.3 million at fiscal year-end. It also booked a $59.7 million unrealized loss tied to bitcoin’s price decline.
+
+As stablecoins evolve into core financial infrastructure, North America leads. This report maps the regulation, market shifts, and players driving adoption.
+
+Stablecoins are entering their third phase of evolution - the institutionalization era - becoming increasingly embedded into core financial infrastructure. As institutions prioritize transparency and compliance, regulated issuers like USDC, RLUSD, and PYUSD are steadily gaining share with RLUSD surpassing $1B in market cap within its first year. North America, leading in regulatory frameworks and institutional distribution, is at the center of it all.
+
+The integration provides institutions with a compliant way to hold TRX and will be expanded to include TRC-20 assets and native TRX staking.

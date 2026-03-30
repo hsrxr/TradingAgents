@@ -32,6 +32,8 @@ dependencies = [
     "yfinance>=0.2.63",
     "feedparser>=6.0.12",
     "beautifulsoup4>=4.13.4",
+    "chromadb>=0.4.0",
+    "sentence-transformers>=2.2.0",
 ]
 
 [project.scripts]

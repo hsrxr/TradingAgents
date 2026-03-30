@@ -1,0 +1,35 @@
+Title: Crypto Long & Short: Prediction Markets Don’t Just Forecast Power - They Reshape It
+Source: CoinDesk
+URL: https://www.coindesk.com/coindesk-indices/2026/03/25/crypto-long-and-short-prediction-markets-don-t-just-forecast-power-they-reshape-it
+
+Welcome to our institutional newsletter, Crypto Long & Short. This week:
+
+ByRyan Kirkley, Co-Founder and CEO of Global Settlement Network
+
+Prediction markets are often pitched as neutral forecasting tools: efficient ways to aggregate information and convert collective belief into a price. That case is not entirely wrong. The academic literature has long found thatprediction markets can produce forecasts that outperform many conventional benchmarks. But as someone who believes in crypto’s role in modernizing market infrastructure, I think we should be honest about what the sector is building here. The crypto version of prediction markets is no longer just about forecasting. It is about financializing real-world instability.
+
+That distinction matters. On Polymarket, for example, users can bridge assets from Ethereum, Solana, Bitcoin and other chains;those deposits are converted into USDC.e on Polygon, where fully backed yes/no positions trade and settle on-chain as tokenized claims. In other words, crypto does not merely host these markets. It gives them global reach, cross-chain funding and low-friction settlement. That is impressive market design. It is also exactly what makes the social risk larger.
+
+Once you turn war, political violence, public disorder or institutional breakdown into tradable crypto instruments, you create new incentives for bad actors. The first is obvious: people with privileged information can try to monetize it. U.S. regulators have long recognized that not every event belongs inside a financial market.CFTC Regulation 40.11 bars event contracts involving terrorism, assassination and war, among other categories deemed contrary to the public interest. That is not anti-market moralizing. It is recognition that some contracts do more than reveal information; they can distort behavior around the underlying event.
+
+The second problem is even more serious: prediction markets can reward people who are not just informed about an outcome, but capable of influencing it.Academic research has warnedthat when traders have outside incentives, or can take actions that affect the underlying event, information aggregation can break down. A market is supposed to measure probability. But when the market itself becomes a source of incentive, it starts to reshape the probability it claims to observe.
+
+That concern is no longer theoretical.Reuters reported this monththat markets on Iran strikes and Ayatollah Ali Khamenei’s ouster drew ethics and insider-trading scrutiny after unusually well-timed bets were flagged; in a separate report, Reuters noted that Polymarket removed bets on a nuclear explosion after public backlash. Even if only a small number of traders are acting on nonpublic information, the message to everyone else is corrosive: access, not insight, may be what gets rewarded.
+
+There is a third risk, and it is deeply crypto-native: these platforms increasingly function as media engines as much as markets.Axios reported in Februarythat prediction-market accounts were spreading false, misleading or context-free claims to millions on social media, turning market odds into viral narratives before facts were established. When screenshots of thin or sensational markets circulate as “truth,” bad actors do not need to influence the event itself. They only need to influence the information environment around it.
+
+For advisors and allocators, the mistake is to treat every liquid market as legitimate simply because price discovery exists. Crypto has real work to do: modernizing settlement, improving transparency and making capital markets more programmable. But building the most efficient rails for speculating on war, regime change or civic breakdown is not financial innovation. It is moral hazard at internet scale. Prediction markets do not just forecast power. In their current crypto form, they reshape it by rewarding those most willing to exploit instability.
+
+While this week has shown clear progress on the regulatory front, market anxiety coupled with AI disruption has started to affect the crypto industry.
+
+Geodnet, a Decentralized Physical Infrastructure Network (DePIN) protocol providing high-precision positioning for Robotics and Physical AI, shows a clear fundamental decoupling. While its price has trended sideways alongside an underperforming DePIN index (down 3% relative to BTC, as per CoinDesk Data), monthly token burns have reached $500,000, currently neutralizing roughly 60–80% of new emissions. This divergence is driven by the growing data revenue from autonomous drone fleets and humanoid robot developers. As the network pivots from infrastructure build-out to a high-margin data layer for the machine economy, the current supply-demand imbalance suggests a potential fundamental re-rating.
+
+Looking for more? Receive the latest crypto news fromcoindesk.comand market updates fromcoindesk.com/institutions.
+
+Note: The views expressed in this column are those of the author and do not necessarily reflect those of CoinDesk, Inc., CoinDesk Indices or its owners and affiliates.
+
+As stablecoins evolve into core financial infrastructure, North America leads. This report maps the regulation, market shifts, and players driving adoption.
+
+Stablecoins are entering their third phase of evolution - the institutionalization era - becoming increasingly embedded into core financial infrastructure. As institutions prioritize transparency and compliance, regulated issuers like USDC, RLUSD, and PYUSD are steadily gaining share with RLUSD surpassing $1B in market cap within its first year. North America, leading in regulatory frameworks and institutional distribution, is at the center of it all.
+
+Bitcoin Cash (BCH), up 0.8% from Thursday, was the only gainer.

@@ -52,6 +52,7 @@ class MessageBuffer:
     # Analyst name mapping
     ANALYST_MAPPING = {
         "market": "Market Analyst",
+        "quant": "Quant Strategy Signal Analyst",
         "social": "Social Analyst",
         "news": "News Analyst",
         "fundamentals": "Fundamentals Analyst",
@@ -62,6 +63,7 @@ class MessageBuffer:
     # finalizing_agent: which agent must be "completed" for this report to count as done
     REPORT_SECTIONS = {
         "market_report": ("market", "Market Analyst"),
+        "quant_strategy_report": ("quant", "Quant Strategy Signal Analyst"),
         "sentiment_report": ("social", "Social Analyst"),
         "news_report": ("news", "News Analyst"),
         "fundamentals_report": ("fundamentals", "Fundamentals Analyst"),
@@ -170,6 +172,7 @@ class MessageBuffer:
             # Format the current section for display
             section_titles = {
                 "market_report": "Market Analysis",
+                "quant_strategy_report": "Quant Strategy Signals",
                 "sentiment_report": "Social Sentiment",
                 "news_report": "News Analysis",
                 "fundamentals_report": "Fundamentals Analysis",
@@ -188,12 +191,16 @@ class MessageBuffer:
         report_parts = []
 
         # Analyst Team Reports - use .get() to handle missing sections
-        analyst_sections = ["market_report", "sentiment_report", "news_report", "fundamentals_report"]
+        analyst_sections = ["market_report", "quant_strategy_report", "sentiment_report", "news_report", "fundamentals_report"]
         if any(self.report_sections.get(section) for section in analyst_sections):
             report_parts.append("## Analyst Team Reports")
             if self.report_sections.get("market_report"):
                 report_parts.append(
                     f"### Market Analysis\n{self.report_sections['market_report']}"
+                )
+            if self.report_sections.get("quant_strategy_report"):
+                report_parts.append(
+                    f"### Quant Strategy Signals\n{self.report_sections['quant_strategy_report']}"
                 )
             if self.report_sections.get("sentiment_report"):
                 report_parts.append(
@@ -625,6 +632,10 @@ def save_report_to_disk(final_state, ticker: str, save_path: Path):
         analysts_dir.mkdir(exist_ok=True)
         (analysts_dir / "market.md").write_text(final_state["market_report"])
         analyst_parts.append(("Market Analyst", final_state["market_report"]))
+    if final_state.get("quant_strategy_report"):
+        analysts_dir.mkdir(exist_ok=True)
+        (analysts_dir / "quant_strategy.md").write_text(final_state["quant_strategy_report"])
+        analyst_parts.append(("Quant Strategy Signal Analyst", final_state["quant_strategy_report"]))
     if final_state.get("sentiment_report"):
         analysts_dir.mkdir(exist_ok=True)
         (analysts_dir / "sentiment.md").write_text(final_state["sentiment_report"])
@@ -712,6 +723,8 @@ def display_complete_report(final_state):
     analysts = []
     if final_state.get("market_report"):
         analysts.append(("Market Analyst", final_state["market_report"]))
+    if final_state.get("quant_strategy_report"):
+        analysts.append(("Quant Strategy Signal Analyst", final_state["quant_strategy_report"]))
     if final_state.get("sentiment_report"):
         analysts.append(("Social Analyst", final_state["sentiment_report"]))
     if final_state.get("news_report"):
@@ -772,15 +785,17 @@ def update_research_team_status(status):
 
 
 # Ordered list of analysts for status transitions
-ANALYST_ORDER = ["market", "social", "news", "fundamentals"]
+ANALYST_ORDER = ["market", "quant", "social", "news", "fundamentals"]
 ANALYST_AGENT_NAMES = {
     "market": "Market Analyst",
+    "quant": "Quant Strategy Signal Analyst",
     "social": "Social Analyst",
     "news": "News Analyst",
     "fundamentals": "Fundamentals Analyst",
 }
 ANALYST_REPORT_MAP = {
     "market": "market_report",
+    "quant": "quant_strategy_report",
     "social": "sentiment_report",
     "news": "news_report",
     "fundamentals": "fundamentals_report",

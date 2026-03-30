@@ -1,0 +1,33 @@
+Title: Bhutan moves another 500 bitcoin to exchanges as 2026 outflows top $150 million
+Source: CoinDesk
+URL: https://www.coindesk.com/markets/2026/03/26/bhutan-moves-another-500-bitcoin-to-exchanges-as-2026-outflows-top-usd150-million
+
+Bhutan has sold a part of its BTC stash again, and the pace is accelerating.
+
+The Royal Government of Bhutan moved 519.707 BTC worth $36.75 million on Wednesday to an external address, according toArkham Intelligence data. The transfer continues a drawdown that has intensified sharply over the past two weeks, with approximately $152 million in total outflows in 2026 alone.
+
+The week before Wednesday's move was the most active period in the kingdom's bitcoin history. Arkham's outflow data shows a cluster of transfers totaling roughly $72 million in a single week, headlined by a 595.848 BTC transfer worth $44.44 million, the largest single move of the year.
+
+That was followed by 205.53 BTC ($15.14 million) and 150.047 BTC ($11.14 million) sent to external addresses, plus 20.506 BTC ($1.52 million) to QCP Capital's merchant deposit address.
+
+In January, Bhutan moved 184 BTC ($14.09 million) to an external wallet, sent 100.818 BTC ($8.31 million) to QCP Capital, and transferred $1.5 million in USDT to a Binance hot wallet. In February, another 100 BTC ($6.77 million) went to QCP. Two weeks ago, 175 BTC ($11.85 million) went out. Then last week's $72 million burst. Then Wednesday's $36.75 million.
+
+The pattern shifted from $5-15 million clips in January and February to $35-45 million transfers in March.
+
+QCP Capital has been the most consistent counterparty, receiving three separate transfers totaling roughly $16.6 million this year. The Singapore-based trading firm's repeated appearance as a destination suggests an OTC relationship for structured selling rather than ad hoc liquidations.
+
+Bhutan's stack peaked at roughly 13,000 BTC in late 2024, built over several years through state-backed hydroelectric mining where the cost basis is effectively zero.
+
+Every coin sold is profit for the country, whose economy depends heavily on hydroelectric exports to India.
+
+The drawdown began after October 2024 and has been steep. Current holdings sit at 4,453 BTC worth $315 million, a 66% reduction in coins from peak. The Arkham balance chart shows the portfolio value peaked near $1.88 billion and now sits at $315 million, hit on both sides by the selling and bitcoin's decline from $119,000 to $70,000.
+
+In December, Bhutan unveiled a Bitcoin Development Pledge committing up to 10,000 BTC to fund Gelephu Mindfulness City. At the time that was worth roughly $860 million. The government now holds fewer than 4,500 coins. The pledge in its original form is mathematically impossible to fulfill without reversing the drawdown entirely.
+
+CoinDesk has reached out to Druk Holding & Investments, the government's commercial arm, for comment on the recent transfers and whether the Gelephu commitment remains active.
+
+As stablecoins evolve into core financial infrastructure, North America leads. This report maps the regulation, market shifts, and players driving adoption.
+
+Stablecoins are entering their third phase of evolution - the institutionalization era - becoming increasingly embedded into core financial infrastructure. As institutions prioritize transparency and compliance, regulated issuers like USDC, RLUSD, and PYUSD are steadily gaining share with RLUSD surpassing $1B in market cap within its first year. North America, leading in regulatory frameworks and institutional distribution, is at the center of it all.
+
+The average public miner spent $79,995 to produce one bitcoin last quarter. Bitcoin is trading at $70,000. The math doesn't work, so the industry is pivoting to AI, taking on $70 billion in contracts, and liquidating bitcoin treasuries to finance the shift.

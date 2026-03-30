@@ -1,0 +1,29 @@
+Title: Bitcoin recovers to $67,400 after dipping below $65,200 as Houthis enter Iran war
+Source: CoinDesk
+URL: https://www.coindesk.com/markets/2026/03/30/bitcoin-recovers-to-usd67-400-after-dipping-below-usd65-200-as-houthis-enter-iran-war
+
+The war just got bigger. Bitcoin briefly got smaller.
+
+Bitcoin dipped to $65,112 early Monday morning, its lowest level since the February crash, before recovering to $67,402 as Asian markets opened.
+
+The 24-hour range of $65,112 to $67,389 reflects a market that sold hard on overnight escalation headlines and found buyers near $65,000, a level that hasn't been tested since the war's opening weekend five weeks ago.
+
+Ethereum recovered 2% to $2,044, Solana gained 0.9% to $83.48, and XRP added 1.4% to $1.35. The 24-hour green across the board masks a rougher weekly picture though. BTC is still down 1% on the week, ETH 0.9%, XRP 1.9%, and SOL 3.7%. Tron is the one name sitting in green, up 2.6% in a day and 4.6% on the week, quietly outperforming the entire majors complex.
+
+The escalation this time came from multiple directions simultaneously. Iran-backed Houthi forces entered the conflict, opening a new front beyond the direct U.S.-Israel-Iran theater. Additional U.S. troops arrived in the Middle East, fanning fears of a ground operation.
+
+The Wall Street Journal reported Trump is weighing a military operation to extract uranium from Iran, though no decision has been made. And Iran attacked two aluminum production sites in the region, sending the metal up as much as 6% and extending the war's economic damage beyond oil and into industrial commodities.
+
+Brent crude rose 2.5% to around $115 a barrel, now up roughly 90% year-to-date. Asian equities fell sharply, with South Korea's benchmark down 3.2% on a technology stock selloff and Japan's Nikkei dropping 3.4%. S&P 500 futures pared losses and were trading roughly flat, suggesting some stabilization after the initial reaction.
+
+The $65,112 low matters technically. That level is within range of the $64,000 low from Feb. 28, the day the war started. Bitcoin has spent five weeks building a pattern of higher lows on each escalation, from $64,000 to $66,000 to $68,000 to $69,400 to $70,596.
+
+Monday's dip below $66,000 is the first time in weeks the floor has moved lower rather than higher. Whether it recovers and re-establishes the uptrend or marks the beginning of a break below the range that has held since the war began is the question for the rest of the day.
+
+Meanwhile, oil at $115 and aluminum spiking on direct attacks on production facilities means the inflationary impact is broadening beyond energy into industrial supply chains. That makes the Fed's position even harder and the rate cut timeline even more distant.
+
+As stablecoins evolve into core financial infrastructure, North America leads. This report maps the regulation, market shifts, and players driving adoption.
+
+Stablecoins are entering their third phase of evolution - the institutionalization era - becoming increasingly embedded into core financial infrastructure. As institutions prioritize transparency and compliance, regulated issuers like USDC, RLUSD, and PYUSD are steadily gaining share with RLUSD surpassing $1B in market cap within its first year. North America, leading in regulatory frameworks and institutional distribution, is at the center of it all.
+
+Hyperliquid’s validators cluster in AWS Tokyo alongside Binance, BitMEX and KuCoin, giving nearby traders a latency advantage, Glassnode data shows

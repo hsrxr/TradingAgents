@@ -1,0 +1,41 @@
+Title: Nasdaq tokenization plans could split trading into two markets — TD Securities
+Source: Cointelegraph
+URL: https://cointelegraph.com/news/nasdaq-tokenization-split-stock-trading-markets-td-securities?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+
+Tokenized stocks could shift trading beyond US exchanges, raising the risk of price gaps and fragmented markets, according to TD Securities.
+
+Cointelegraph in your social feed
+
+Nasdaq’s push to bring tokenization into capital markets could lead to a dual-market structure in which traditional US exchanges operate alongside blockchain-based trading venues, according to TD Securities — a shift that could split trading activity and lead to price differences across platforms.
+
+In a recent note, Reid Noch, vice president of US equity market structure at TD Securities, pointed toplans by Nasdaqand theNew York Stock Exchangeto introduce tokenization into alternative trading systems (ATS), a type of venue that matches buyers and sellers outside traditional exchanges.
+
+While both exchanges are exploring tokenization, Noch said Nasdaq is pursuing three parallel initiatives: upgrading how trades are settled after execution, enabling companies to issue tokenized shares and supporting trading on offshore platforms such as Kraken.
+
+Together, these efforts could result in two distinct systems — one within the regulated US market, and another operating through offshore, blockchain-based platforms.
+
+However, TD Securities warns the expansion into offshore platforms could introduce a separate venue for trading the same underlying assets. Thesetokenized shareswould be backed by real stocks but operate outside the US regulatory framework, with potential differences compared to traditional holdings.
+
+For investors, that could mean the same stock trading in different places at different prices, making markets harder to follow and potentially shifting activity away from traditional exchanges.
+
+Cointelegraph reached out to TD Securities for additional insights but did not receive a response in time for publication.
+
+Related:Crypto Biz: Kraken plugs into the Fed
+
+The market for tokenized assets has grown quickly in recent years, with equities emerging as the next major focus.
+
+AsCointelegraph recently reported, Kraken’s xStocks platform, which offers tokenized versions of publicly traded shares that can be bought on blockchain-based venues, has surpassed $25 billion in cumulative trading volume, reflecting roughly 150% growth since November.
+
+For traders, this points to a shift toward round-the-clock markets, where stocks can be traded outside regular hours. However, it could also bring new risks, including lower trading activity and price differences across platforms.
+
+Coinbase has also expanded into tokenized stocksas part of its push to build an “everything exchange,” signaling growing competition between crypto platforms and traditional exchanges for equity trading.
+
+NYSE, for its part, has also been exploring other tokenization initiativesthrough a partnership with Securitize, aimed at developing a platform for tokenized securities that could support extended or round-the-clock trading.
+
+Related:VersaBank expands tokenized deposits with cross-border FX use case
+
+Cointelegraph covers fintech, blockchain and Bitcoin bringing you the latest crypto news and analyses on the future of money.
+
+Cointelegraph is committed to providing independent, high-quality journalism across the crypto, blockchain, AI, and fintech industries. To support open access to our website and sustain editorial operations, certain commercial or partner references may appear on our site. These arrangements help maintain an accessible platform and do not result in additional costs to readers.
+
+All news, reviews, and analysis are produced with full journalistic independence and integrity. For more details on our standards and processes, please read ourEditorial Policy.

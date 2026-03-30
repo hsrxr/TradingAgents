@@ -1,0 +1,69 @@
+Title: ‘Active Treasury’ is a dangerous misnomer that must not be ignored
+Source: Cointelegraph
+URL: https://cointelegraph.com/news/active-treasury-dangerous-misnomer?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+
+The term "Active Treasury" misleads everyone. Digital asset treasuries chasing yield via staking and tokens become operators, not holders, demanding fund-grade governance or regulatory reclassification.
+
+Cointelegraph in your social feed
+
+Opinion by: Abdul Rafay Gadit, co-founder at Zignaly and ZIGChain
+
+Digital asset treasury companies (DATCOs) are facing a classification problem that the market can no longer ignore.
+
+DATCOs were built to hold crypto. Increasingly, they’re being forced to decide whether they want to own assets or operate the systems those assets run on.
+
+Index providers are now openly debating whether these businesses still resemble operating companies or whether they function more like investment vehicles.
+
+Recently, we saw MSCI’s note that it would keep “digital asset treasury companies” in its indexes for now, while launching a broader consultation on how they should be classified going forward.
+
+That hesitation reflects a deeper uncertainty about what these companies have become. The model that once defined these companies’ passive balance sheet exposure to Bitcoin is already starting to fracture.
+
+What’s emerging in its place is not a cleaner or safer evolution, but a materially riskier one.
+
+The industry has rebranded this shift as “active treasury management,” a phrase that understates the risks being introduced and obscures what is actually changing. In practice, it means moving beyond passive exposure into operational strategies that introduce new layers of risk, leverage and governance complexity.
+
+Once DATCOs cross that threshold, they are no longer just holders of digital assets. That means we need to have regulators, index providers and investors treat them accordingly, as ultimately, operators are judged by execution, not conviction.
+
+The first phase of DATCOs was straightforward: Hold Bitcoin, communicate long-term conviction and allow balance sheet exposure to do the rest. That simplicity mattered to boards, auditors and index providers, and it kept outcomes tied to broader macro forces rather than execution risk.
+
+The second phase is fundamentally different. As competition increases and simple exposure becomes less compelling, treasury companies are being pushed to manufacture yield. Various reports in 2026 have indicated that a growing number of crypto treasury companies are expanding beyond Bitcoin (BTC) and Ether (ETH) intomore volatile tokensto boost returns. That strategy may improve short-term performance optics, but it steepens tail risk dramatically. In stressed conditions, these positions are more likely to unwind quickly and in a correlated fashion precisely when liquidity is most fragile.
+
+There’s a quiet shift happening in how institutions engage with blockchain. Instead of treating networks purely as assets to hold, some are beginning to participate at the infrastructure layer by running validator nodes, adding to network security and taking part in governance.
+
+Any yield that comes from this is incidental; the primary focus is on reliability, control and active involvement in systems that now support real economic activity.
+
+Any yield that comes from this is incidental; the primary focus is on reliability, control and active involvement in systems that now support real economic activity. This represents a fundamental change in what these companies actually do.
+
+Validator operations introduce protocol level obligations that boards cannot treat as ancillary. Slashing risk, uptime guarantees, key management, client concentration and governance participation are not abstract technical issues.  These are core business risks, exposing companies to forms of liability and reputational damage that passive asset holding never created.
+
+At that point, a DATCO is no longer merely exposed to market volatility. It is exposed to operational failure, governance decisions and protocol level outcomes. That leaves only two coherent identities: an operating company with formal controls, or a fund with explicit fiduciary obligations. The real danger lies in occupying the space between the two.
+
+Related:Digital asset treasuries that only hodl may fall short
+
+Active treasury strategies blur the line between corporate finance and delegated investment management. When companies pursue yield through staking, token rotation or infrastructure participation, they are making discretionary allocation decisions on behalf of shareholders. Those decisions carry risk profiles that look far closer to fund management than to treasury stewardship.
+
+If DATCOs want to avoid being treated as unregulated investment vehicles, they need to adopt fund-grade guardrails. That means clear disclosures around strategy and risk. It means segregation of duties between custody, execution and risk oversight.
+
+It means independent controls, audit-ready reporting and stress testing that models correlated drawdowns and protocol-level failures, not just price volatility.
+
+Most importantly, it means boards formally recognizing protocol exposure and governance influence as core risks, not experimental upside.
+
+Without those safeguards, “active treasury” becomes a euphemism for leverage without accountability.
+
+This shift also exposes a second gap: infrastructure. Combining tokenized assets, staking income and compliance obligations inside a single mandate is not something legacy systems were designed to handle. Nor can it be safely managed through ad hoc wallets, spreadsheets or loosely governed smart contracts.
+
+Institutional onchain rails will need to support delegated execution, policy driven controls and auditable workflows if DATCOs are going to operate at scale without amplifying systemic risk. That infrastructure must treat operational risk with the same seriousness as market risk because in active treasury models, the two are inseparable.
+
+The consultation underway at MSCIshould not be viewed as a threat to the sector. It is a signal that the easy phase is over. As DATCOs evolve into active operators from passive holders, the market will demand clarity about what these companies are and what risks they are taking.
+
+Those that chase yield without guardrails may discover that classification was the least of their problems, because by the time the market reacts, the risks will already be embedded.
+
+Opinion by: Abdul Rafay Gadit, co-Founder at Zignaly and ZIGChain.
+
+This opinion article presents the author's expert view, and it may not reflect the views of Cointelegraph.com. This content has undergone editorial review to ensure clarity and relevance. Cointelegraph remains committed to transparent reporting and upholding the highest standards of journalism. Readers are encouraged to conduct their own research before taking any actions related to the company.
+
+Cointelegraph covers fintech, blockchain and Bitcoin bringing you the latest crypto news and analyses on the future of money.
+
+Cointelegraph is committed to providing independent, high-quality journalism across the crypto, blockchain, AI, and fintech industries. To support open access to our website and sustain editorial operations, certain commercial or partner references may appear on our site. These arrangements help maintain an accessible platform and do not result in additional costs to readers.
+
+All news, reviews, and analysis are produced with full journalistic independence and integrity. For more details on our standards and processes, please read ourEditorial Policy.

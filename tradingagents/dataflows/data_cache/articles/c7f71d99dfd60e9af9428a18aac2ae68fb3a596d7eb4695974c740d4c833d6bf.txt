@@ -1,0 +1,21 @@
+Title: Binance tightens market maker rules, tells token issuers they must disclose partners
+Source: CoinDesk
+URL: https://www.coindesk.com/business/2026/03/25/binance-tightens-market-maker-rules-tells-token-issuers-they-must-disclose-partners
+
+Binance, the largest crypto exchange by volume traded, released guidelines placing tighter obligations on token issuers and liquidity providers.
+
+Thenew rulesrequire projects to disclose their market maker's identity, legal entity and contract terms. They also ban profit-sharing and guaranteed-return arrangements, which the exchange said can create incentives that conflict with fair trading. Token lending agreements must clearly say how borrowed tokens can be used.
+
+The rules are "intended to help projects conduct stronger due diligence on their market-maker partners and remind users to be mindful of market conditions," a Binance spokesperson said in an email. The company is looking to foster "a fair and efficient marketplace, and we do not tolerate misconduct."
+
+The new policy targets a part of the crypto market that often works behind the scenes. Market makers usually post buy and sell orders to keep trading active and reduce sharp swings in price, which, in a healthy market, can help users buy or sell without major slippage, especially when a token is newly listed.
+
+Binance said problems occur when firms act less like neutral liquidity providers and more like sellers with hidden incentives. The exchange flagged behavior such as selling that clashes with token release schedules, one-sided trading and activity that inflates volume without moving prices in a natural way.
+
+In the blog post, Binance said it will take “swift, decisive action against any misconduct,” including blacklisting market makers. It’s unclear whether Binance plans to name the market makers it blacklists.
+
+As stablecoins evolve into core financial infrastructure, North America leads. This report maps the regulation, market shifts, and players driving adoption.
+
+Stablecoins are entering their third phase of evolution - the institutionalization era - becoming increasingly embedded into core financial infrastructure. As institutions prioritize transparency and compliance, regulated issuers like USDC, RLUSD, and PYUSD are steadily gaining share with RLUSD surpassing $1B in market cap within its first year. North America, leading in regulatory frameworks and institutional distribution, is at the center of it all.
+
+The integration provides institutions with a compliant way to hold TRX and will be expanded to include TRC-20 assets and native TRX staking.

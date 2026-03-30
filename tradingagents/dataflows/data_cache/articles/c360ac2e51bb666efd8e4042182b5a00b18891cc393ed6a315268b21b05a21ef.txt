@@ -1,0 +1,43 @@
+Title: Vietnam arrests ONUS-linked suspects in alleged crypto fraud case
+Source: Cointelegraph
+URL: https://cointelegraph.com/news/vietnam-arrests-onus-linked-suspects-crypto-fraud-probe?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+
+Vietnam detained ONUS-linked suspects in an alleged token fraud case as police described price manipulation, false promotions and centralized market control.
+
+Cointelegraph in your social feed
+
+Vietnamese authorities have detained multiple ONUS-linked suspects after alleging they used false promotions and manipulated token trading to misappropriate investor funds through the crypto platform.
+
+The Ministry of Public SecuritysaidThursday that the investigation targeted a group accused of selling digital tokens through the Onus platform, using misleading promotions and coordinated trading activity to attract users. Authorities claim the group manipulated supply and demand and adjusted token prices, presenting the assets as legitimate investment opportunities while maintaining centralized control over their markets.
+
+Investigators named several suspects in the case, including Vuong Le Vinh Nhan, who is linked by Vemanti to XPLOR, the Singapore-based parent company of ONUS Pro; Tran Quang Chien, identified in Vietnamese reporting as the technical administrator of the ONUS exchange; and Ngo Thi Thao, director of HanaGold Jewelry JSC.
+
+Authorities said the suspects are accused of creating and promoting tokens, including VNDC, ONUS and HNG, through the ONUS platform. Police say the scheme raised billions of dollars from investors. However, the authorities did not provide a breakdown of the losses.
+
+The case adds to scrutiny of crypto activity in Vietnam, one of the world’smost active retail digital asset markets.
+
+According to the Ministry of Public Security, the arrests follow a multi-agency investigation spanning several cities, with police summoning over 140 individuals for questioning and seizing evidence, as part of a broader effort to dismantle large-scale crypto-linked fraud operations.
+
+On Thursday, Vemantisaidit learned of the indictments of Nhan Vuong and Chien Tran through the ministry announcement and Vietnamese media, and had engaged US legal counsel to assess the situation. Vemanti identified Vuong as chairman of its board and Tran as a board member.
+
+Related:Indian court says ‘no case’ against CoinDCX founders in impersonation fraud
+
+The ONUS platform presents itself as a digital asset ecosystem offering trading, staking and investment products, claiming more than seven million users and backing from the US-based fintech company Vemanti Group.
+
+Its official Xaccounthas more than 885,000 followers. However, market data aggregator CoinMarketCapliststhe ONUS token with a self-reported market capitalization of around $25 million, highlighting a gap between the scale of alleged losses and publicly available token metrics.
+
+Onus has not released an official statement addressing the situation.
+
+Cointelegraph reached out to Onus for comment, but had not received a response by publication.
+
+In a separate case, India’s Central Bureau of InvestigationsaidThursday that it arrested a Mumbai-based suspect accused of helping traffic victims to scam compounds in Myanmar, where individuals were allegedly forced to carry out online fraud schemes, including crypto investment scams and romance scams.
+
+The agency said victims were lured with job offers in Thailand before being diverted to scam centers in Myanmar’s Myawaddy region, where they were subjected to confinement, intimidation and abuse while being made to target victims globally.
+
+Magazine:Banks want to run Vietnam’s crypto exchanges, Boyaa’s $70M BTC plan: Asia Express
+
+Cointelegraph covers fintech, blockchain and Bitcoin bringing you the latest crypto news and analyses on the future of money.
+
+Cointelegraph is committed to providing independent, high-quality journalism across the crypto, blockchain, AI, and fintech industries. To support open access to our website and sustain editorial operations, certain commercial or partner references may appear on our site. These arrangements help maintain an accessible platform and do not result in additional costs to readers.
+
+All news, reviews, and analysis are produced with full journalistic independence and integrity. For more details on our standards and processes, please read ourEditorial Policy.

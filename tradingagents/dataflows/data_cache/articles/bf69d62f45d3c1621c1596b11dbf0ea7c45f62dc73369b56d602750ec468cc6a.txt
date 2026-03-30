@@ -1,0 +1,45 @@
+Title: Google targets 2029 post-quantum migration as threats draw nearer
+Source: Cointelegraph
+URL: https://cointelegraph.com/news/google-sets-quantum-migration-deadline-2029?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+
+Google has urged others to accelerate post-quantum efforts as it continues to develop Willow, one of the most powerful superconducting quantum processors today.
+
+Cointelegraph in your social feed
+
+Google has set a 2029 deadline for its post-quantum cryptography (PQC) migration, warning that “quantum frontiers” could be closer than they appear.
+
+On Wednesday, Googlesaidrapid progress in quantum computing hardware and quantum error correction, along with updated estimates of how quickly a quantum machine could break today’s encryption standards, has heightened the urgency to act sooner rather than later.
+
+“Quantum computers will pose a significant threat to current cryptographic standards, and specifically to encryption and digital signatures,” Google said, while also noting that PQC migration is needed for users to use authentication services securely.
+
+This is the first time Google has set a timeline to roll out post-quantum capabilities across its products. The 2029 timeline is earlier than some industryestimatesfor Q-Day — the point at which quantum computers become powerful enough to break current public-key encryption.
+
+Google’s call for urgency comes as it continues to develop its quantum chip, Willow, which has a computing capacity of 105 qubits, making itone of the most powerfulin the industry.
+
+There are also rising concerns that quantum computers could severely disrupt the crypto industry by breaking the cryptographic algorithms used to secure digital assets. However, there is still debate over whether only crypto wallets withexposed public keys are vulnerableorwhether all coins are at risk.
+
+The Ethereum Foundation launched a “Post-Quantum Ethereum” resource hub on Tuesday, focused onprotecting the blockchainfrom future quantum computing threats and securing the billions of dollars in value on the network.
+
+The post-quantum team plans to implement quantum-resistant solutions in Ethereum at the protocol level by 2029, with solutions targeting the execution layer to follow.
+
+In January 2025, Solana developerscreated a quantum-resistant vaulton the Solana blockchain to protect user funds from quantum threats by implementing a complex hash-based signature system that generates new keys each time a transaction is made.
+
+Related:Google uncovers iOS exploit kit used in crypto phishing attacks
+
+However, to access the feature, Solana users need to store their funds in Winternitz vaults rather than regular Solana wallets, as it isn’t a network-wide security upgrade.
+
+Meanwhile, there has been increasing division in the Bitcoin ecosystem on what action developers should take, if any at all.
+
+One of the Bitcoin ecosystem’s strongest voices, Blockstream CEO Adam Back, says quantum risks are widely overstated and thatno action is needed for decades.
+
+On the other hand, security researcher Ethan Heilman and others have proposed a new output type for Bitcoin, called Pay-to-Merkle-Root, through Bitcoin Improvement Proposal 360 (BIP-360), which seeks toprotect Bitcoin addressesfrom potential short-exposure quantum attacks.
+
+However, that implementation may take seven years, Heilman told Cointelegraph in February.
+
+Magazine:Nobody knows if quantum secure cryptography will even work
+
+Cointelegraph covers fintech, blockchain and Bitcoin bringing you the latest crypto news and analyses on the future of money.
+
+Cointelegraph is committed to providing independent, high-quality journalism across the crypto, blockchain, AI, and fintech industries. To support open access to our website and sustain editorial operations, certain commercial or partner references may appear on our site. These arrangements help maintain an accessible platform and do not result in additional costs to readers.
+
+All news, reviews, and analysis are produced with full journalistic independence and integrity. For more details on our standards and processes, please read ourEditorial Policy.

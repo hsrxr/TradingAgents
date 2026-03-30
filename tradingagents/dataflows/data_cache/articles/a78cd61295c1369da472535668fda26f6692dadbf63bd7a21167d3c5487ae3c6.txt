@@ -1,0 +1,41 @@
+Title: Bitcoin ETFs log biggest outflows in 3 weeks as Iran war fears rise
+Source: Cointelegraph
+URL: https://cointelegraph.com/news/bitcoin-etfs-sell-off-investors-fear-weekend-escalation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+
+US Bitcoin ETFs saw outflows of $171 million on Thursday as market participants feared another weekend escalation in the US-Israel conflict with Iran.
+
+Cointelegraph in your social feed
+
+Update (March 27, 2026, 10:52 am UTC: This article has been updated to include comments from Shawn Young, chief analyst at MEXC Research.
+
+US spot Bitcoin exchange-traded funds (ETFs) logged $171 million in outflows on Thursday, their biggest day of redemptions since March 3, when they posted $348 million in outflows.
+
+BlackRock’s iShares Bitcoin Trust ETF (IBIT) led the outflows with $41 million, Fidelity’s Wise Origin Bitcoin Fund (FBTC) followed with $32 million, the ARK 21Shares Bitcoin ETF (ARKB) sold $30.5 million, and Grayscale’s Bitcoin Trust ETF (GBTC) sold $24 million,accordingto data from Farside Investors.
+
+The outflows follow a period of demand for Bitcoin ETFs, which attracted $1.36 billion in monthly inflows so far in March and are on track for their first month of net accumulation since October 2025, when ETFs clocked $3.42 billion in net inflows,accordingto Sosovalue data.
+
+US-listed spot Bitcoin ETFs are a signal of institutional demand for Bitcoin (BTC), which fell below the $70,000 mark on Thursday. BTC fell 4.7% over the past week and traded at $67,780 at the time of writing,accordingto CoinMarketCap.
+
+The $171 million in outflows signals that Bitcoin ETF investors are “beginning to pull back” and hedge against geopolitical escalations in the US-Israeli conflict with Iran, Shawn Young, chief analyst at MEXC Research, told Cointelegraph, but added that net ETF flows remained positive since the beginning of the conflict.
+
+Still, Bitcoin ETFs are just “one good day away” from reversing their year-to-date outflows, said senior Bloomberg ETF analyst Eric Balchunas, who praised the ETFs for their “incredible fortitude” amid Bitcoin’s 46% correction from the $126,198 all-time high in October 2025.
+
+“For context, when gold fell 40% in a short time frame about 10 years ago, it saw 1/3 of its investors bail,” said Balchunas in a Tuesday Xpost.
+
+Related:Morgan Stanley files amended S-1 for MSBT Bitcoin ETF
+
+The Bitcoin ETF sell-off follows reports that the US Department of Defense is sending thousands of soldiers to the Middle East, sources familiar with the matter toldReuterson Tuesday.
+
+On Thursday, US President Donald Trumpannouncedan extension to the ceasefire on Iranian energy infrastructure by 10 days to April 6, citing constructive ongoing negotiations.
+
+Despite the announcement by Trump, market participants remain worried about another unexpected weekend escalation, Kyle Rodda, senior financial analyst at Capital.com, told Cointelegraph. He said:
+
+Investors are jittery about any potential escalation after being caught off guard by the initial US and Israeli strikes on Iran on Feb. 28, which occurred in the middle of constructive negotiations, Rodda added.
+
+Magazine:Bitcoin’s ‘biggest bull catalyst’ would be Saylor’s liquidation — Santiment founder
+
+Cointelegraph covers fintech, blockchain and Bitcoin bringing you the latest crypto news and analyses on the future of money.
+
+Cointelegraph is committed to providing independent, high-quality journalism across the crypto, blockchain, AI, and fintech industries. To support open access to our website and sustain editorial operations, certain commercial or partner references may appear on our site. These arrangements help maintain an accessible platform and do not result in additional costs to readers.
+
+All news, reviews, and analysis are produced with full journalistic independence and integrity. For more details on our standards and processes, please read ourEditorial Policy.

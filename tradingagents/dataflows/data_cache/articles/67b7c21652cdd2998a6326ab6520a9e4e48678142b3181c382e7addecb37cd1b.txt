@@ -1,0 +1,43 @@
+Title: Why Mastercard paid double for stablecoin infrastructure it could have built
+Source: CoinDesk
+URL: https://www.coindesk.com/opinion/2026/03/27/why-mastercard-paid-double-for-stablecoin-infrastructure-it-could-have-built
+
+When one of the world's largest card networks pays a significant premium over a company's last valuation to acquire it, that is worth paying attention to. When the company in question builds stablecoin settlement infrastructure, it tells you something fundamental about where the payments industry believes it needs to be – and how urgently it needs to get there.
+
+Mastercard had options. It could have partnered with BVNK. It could have taken a minority stake. It could have acquired a smaller stablecoin infrastructure player for a fraction of the price. Instead,it paid $1.8 billion– more than double BVNK's $750 million Series B valuation from just over a year ago – for a company that has spent years doing the unglamorous work of building enterprise–grade stablecoin rails across 130 jurisdictions.
+
+That number tells you more about where Mastercard sees payments heading than any strategy deck or earnings call ever could. And it eclipses Stripe's $1.1 billion acquisition of Bridge, making it the largest stablecoin infrastructure deal in history.
+
+More than$190 trillion moves cross–border annuallythrough correspondent banking rails designed half a century ago. Those rails still function – in the same way a fax machine still functions. They carry the money, eventually, but they do so through layers of intermediaries that add cost, delay and opacity at every step. Mastercard has clearly concluded that patching this system is no longer a viable strategy. The question worth asking is why they reached that conclusion now, and what it means for the rest of the industry.
+
+Mastercard has no shortage of engineering talent. It could build a stablecoin settlement layer from scratch – and it would probably be a good one. So why pay a 140% premium for someone else's?
+
+Because the technology was never the hard part. BVNK's value lies in its multi-jurisdictional licensing framework – painstakingly assembled over years of regulatory engagement across more than 130 countries. Walking into that many regulators' offices and emerging with approval takes the kind of time that a card network competing for the future of settlement simply does not have. In payments, the compliance framework is the product. Everything else can be rebuilt.
+
+This is what separates the companies that legacy finance acquires from the ones it ignores. The firms that treated licensing as a core investment – not an afterthought – are now the ones commanding billion-dollar valuations. Mastercard did not pay for BVNK's code. It paid for the years it would have lost trying to replicate BVNK's regulatory footprint. That distinction matters because it tells you exactly what the next acquirer in this space will be looking for, too.
+
+Most coverage of this acquisition will focus on what it means for Western payments modernisation. But the more consequential implications are in the corridors where BVNK's infrastructure will matter most – and where Mastercard's distribution can do the most good.
+
+Remittance fees still average six to eight per cent in corridors serving Africa and Southeast Asia. A worker in Dubai sending $500 home to the Philippines loses $30 to $40 per transfer to intermediaries. Across the$685 billion in remittancesflowing to low- and middle-income countries each year, that represents an extraordinary transfer of value away from the people who can least afford it.
+
+This is precisely where stablecoin–native settlement changes the equation. The underlying rails do not require the chain of correspondent banks that traditional cross-border payments demand. Strip out those intermediaries and flat fees of one to two per cent become structurally possible – not as a promotional offer, but as a reflection of what settlement actually costs when the plumbing is modern.
+
+Mastercard now owns that plumbing. Combined with its merchant network and distribution across emerging markets, this acquisition has the potential to reshape financial access for the1.3 billion adultsstill outside the formal banking system. When a network of Mastercard's scale plugs stablecoin settlement into corridors where people have been paying eight per cent to move their own money, the impact is not incremental. That is a far bigger story than a card network hedging its bets on crypto.
+
+Stripe acquired Bridge. Mastercard has acquired BVNK. By all accounts, Visa is evaluating its own move. Within eighteen months, every major card network will have a stablecoin settlement strategy – or will be explaining to shareholders why it does not.
+
+The interesting tension here is not between traditional finance and crypto. That framing is already outdated. The real contest is between regulated stablecoin infrastructure and the unregulated alternatives growing in corridors where compliant options remain inaccessible. Unregulated rails can move faster precisely because they bypass the licensing work that enables institutional adoption. But speed without regulatory legitimacy is fragile – and the sector has enough scar tissue from high-profile collapses to know where that leads.
+
+Every month that regulated infrastructure remains unavailable in a given corridor is a month that shadow systems gain ground. Mastercard's acquisition significantly compresses that timeline. With BVNK's licensing across 130 countries and Mastercard's global reach, the gap between regulated capability and market demand has just narrowed, benefiting everyone operating on the right side of compliance.
+
+The premium Mastercard paid was never about the technology. It was about time – the time it would take to build a regulatory footprint from scratch while the market moves on without you. That calculus now applies to every legacy payments company that has been watching from the sidelines. The window for building is closing. The window for buying is getting more expensive by the quarter.
+
+When the next acquisition in this space lands – and it will – nobody will treat it as a surprise. They will treat it as inevitable. That shift in expectation is the clearest sign that stablecoin infrastructure has moved from the periphery of global payments to its centre.
+
+Note: The views expressed in this column are those of the author and do not necessarily reflect those of CoinDesk, Inc. or its owners and affiliates.
+
+As stablecoins evolve into core financial infrastructure, North America leads. This report maps the regulation, market shifts, and players driving adoption.
+
+Stablecoins are entering their third phase of evolution - the institutionalization era - becoming increasingly embedded into core financial infrastructure. As institutions prioritize transparency and compliance, regulated issuers like USDC, RLUSD, and PYUSD are steadily gaining share with RLUSD surpassing $1B in market cap within its first year. North America, leading in regulatory frameworks and institutional distribution, is at the center of it all.
+
+How regulators are balancing the "untraceable" promise of ZK-proofs with strict new anti-money laundering mandates – and what it means for the future of anonymous wealth.

@@ -364,6 +364,7 @@ class ProgressTracker:
                 k for k in [
                     "market_report",
                     "news_report",
+                    "quant_strategy_report",
                     "investment_plan",
                     "trader_investment_plan",
                     "final_trade_decision",

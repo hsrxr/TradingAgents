@@ -1,0 +1,25 @@
+Title: Brazil passes law turning seized crypto into public-security war chest
+Source: CoinDesk
+URL: https://www.coindesk.com/policy/2026/03/26/brazil-passes-law-turning-seized-crypto-into-public-security-war-chest
+
+Brazilian President Luiz Inácio Lula da Silva signed into law a sweeping set of reforms aimed at dismantling organized crime, and cryptocurrencies are at the center of the strategy.
+
+UnderLaw No. 15.358, enacted March 25, cryptoassets confiscated from criminal organizations can be funneled into Brazil’s public security system.
+
+This includes funding for police equipment, intelligence operations and officer training. The law explicitly allows the provisional use of these assets before a final conviction, provided it is approved by a judge.
+
+Rather than treating seized cryptocurrencies as a potential reserve of value for the state, an idea floated by some crypto advocates, the government is using it as a tool in thecrackdown on groups like the PCC and Comando Vermelho.
+
+The decision aligns with Brazil's broader efforts to modernize the justice system's handling of digital property and organized crime.
+
+The legislation also significantly expands judicial authority to freeze, block or seize cryptoassets during investigations, including suspending access to exchanges, digital wallets and online platforms. Once convicted, individuals permanently lose access to the formal financial and crypto systems.
+
+The law defines the use of encrypted messaging apps or privacy tools to conceal criminal activity as an aggravating factor, increasing potential sentences.
+
+It also enables international cooperation for asset recovery and intelligence sharing, and creates a national criminal database integrating financial structures of known criminal groups.
+
+As stablecoins evolve into core financial infrastructure, North America leads. This report maps the regulation, market shifts, and players driving adoption.
+
+Stablecoins are entering their third phase of evolution - the institutionalization era - becoming increasingly embedded into core financial infrastructure. As institutions prioritize transparency and compliance, regulated issuers like USDC, RLUSD, and PYUSD are steadily gaining share with RLUSD surpassing $1B in market cap within its first year. North America, leading in regulatory frameworks and institutional distribution, is at the center of it all.
+
+White House AI and Crypto Czar David Sacks said Thursday he was joining the President’s Council of Advisors on Science and Technology and leaving the czar role.

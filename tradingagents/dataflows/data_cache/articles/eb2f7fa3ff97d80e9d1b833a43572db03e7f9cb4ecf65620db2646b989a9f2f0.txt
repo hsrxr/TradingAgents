@@ -1,0 +1,47 @@
+Title: Bitcoin gained 655% the last time this supply in profit metric dropped to 50%
+Source: Cointelegraph
+URL: https://cointelegraph.com/news/bitcoin-gained-655percent-the-last-time-this-supply-in-profit-metric-dropped-to-50percent?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+
+Bitcoin’s total supply in profit metric fell below 50% in February, a threshold linked to previous BTC accumulation phases. Does data predict a similar outcome?
+
+Cointelegraph in your social feed
+
+The total Bitcoin (BTC) supply in profit stands at 60.6% on Thursday, continuing to move within a range historically associated with market cycle resets. The metric previously dropped to 50.8% on Feb. 5, its lowest level since January 2, 2023, leaving a large share of holders at breakeven or at a loss.
+
+Similar conditions in the past cycles have preceded strong upside moves. In January 2023, BTC traded at $16,682 when profitability levels were comparable at 51%, before rallying 655% to $126,000 in 2025.
+
+A similar setup occurred in March 2020, when the total supply in profit fell below 50% as BTC traded at $6,500, ahead of a move to $69,000 in 2021.
+
+Over the past five years, the 50–60% profitability rangehas repeatedlymarked periods where a large portion of holders sat near the BTC cost basis. That compresses unrealized gains across the network and reduces the incentive to sell into weakness.
+
+It is important to note that the metric does not pinpoint a price bottom. It outlines a zone where long-term accumulation has led to high returns while the downside sell pressure has eased.
+
+In past cycles, Bitcoin price bottoms were formed when the long-term holder net unrealized profit/loss (LTH-NUPL) turned negative, as seen during the 2015, 2018, and 2022 bear markets. This phase marked a period where the long-term investors were holding at a loss.
+
+However, the current LTH-NUPLreadingis near 0.40, which means that the long-term holders are still comfortably in profit, even as the overall supply profitability has dropped near market cycle lows.
+
+This gap highlights a shift in the market environment. A growing share of Bitcoin supply is now held by corporate entities and spot exchange-traded funds (ETFs), which collectively control close to 15.8% of the circulating supply, i.e., 3,319,677 BTC.
+
+These participants typically operate with a longer holding period and lower sensitivity to short-term price swings.
+
+As a result, the profitability compression across the BTC market does not translate into the same level of forced selling from long-term holders seen in previous cycles in 2015, 2018, and 2022.
+
+This change helps explain why the total supply in profit may revisit historical accumulation zones while the long-term holder profitability stays elevated.
+
+Related: Bitcoin in ‘later stages’ of bear market: Watch these BTC price levels
+
+The short-term holder BTC flows to Binance fell to 25,000 BTC on March 25. Crypto analyst Darkfostsaidit is a new market low, down from roughly 100,000 BTC during the early February sell-off. This decline shows a clear reduction in reactive selling from the newer market participants.
+
+Meanwhile, crypto analyst GugaOnChainnotedthat the valuation models can help identify where the deeper market stress may emerge for BTC. Metrics such as market-value to realized-value (MVRV) below 1, NUPL under -0.2, and a Puell Multiple near 0.35 have historically appeared during periods of heavy retail pressure and undervalued conditions.
+
+While these indicators do not predict the exact market bottoms, they highlight zones where downside risk has historically been limited relative to long-term upside, offering a clearer view of overall market positioning.
+
+Related: Bitcoin dips 3% as analysis says $70K BTC price 'not obviously bearish'
+
+This article does not contain investment advice or recommendations. Every investment and trading move involves risk, and readers should conduct their own research when making a decision. While we strive to provide accurate and timely information, Cointelegraph does not guarantee the accuracy, completeness, or reliability of any information in this article. This article may contain forward-looking statements that are subject to risks and uncertainties. Cointelegraph will not be liable for any loss or damage arising from your reliance on this information.
+
+Cointelegraph covers fintech, blockchain and Bitcoin bringing you the latest crypto news and analyses on the future of money.
+
+Cointelegraph is committed to providing independent, high-quality journalism across the crypto, blockchain, AI, and fintech industries. To support open access to our website and sustain editorial operations, certain commercial or partner references may appear on our site. These arrangements help maintain an accessible platform and do not result in additional costs to readers.
+
+All news, reviews, and analysis are produced with full journalistic independence and integrity. For more details on our standards and processes, please read ourEditorial Policy.

@@ -1,0 +1,61 @@
+Title: Bitcoin miners are becoming AI companies and selling their BTC to fund the transition
+Source: CoinDesk
+URL: https://www.coindesk.com/markets/2026/03/27/bitcoin-miners-are-becoming-ai-companies-and-selling-their-btc-to-fund-the-transition
+
+The bitcoin mining industry is undergoing the most fundamental transformation in its history, and the clearest sign isn't the hashrate or the difficulty adjustments. It's the balance sheets.
+
+CoinShares' Q1 2026mining report, published this week, reveals that the weighted average cash cost to produce one bitcoin among publicly listed miners rose to approximately $79,995 in Q4 2025.
+
+Bitcoin has traded in the $68,000 to $70,000 band, with aCoinDesk reportlast week estimating losses of $19,000 per BTC mined.
+
+These numbers aren't sustainable, and the industry knows it. The response has been a wholesale pivot toward artificial intelligence infrastructure that is reshaping what these companies actually are.
+
+Over $70 billion in cumulative AI and high-performance computing contracts have now been announced across the public mining sector, according to the CoinShares report. CoreWeave's expanded deal with Core Scientific alone is worth $10.2 billion over 12 years. TeraWulf has $12.8 billion in contracted HPC revenue. Hut 8 signed a $7 billion, 15-year lease for AI infrastructure at its River Bend campus. Cipher Digital has a multi-billion-dollar agreement with Google-backed Fluidstack.
+
+Listed miners could derive as much as 70% of their revenue from AI by the end of 2026, up from roughly 30% today. Core Scientific's AI colocation revenue already accounts for 39% of its total. TeraWulf is at 27%. IREN is at 9% and scaling rapidly with up to 200 megawatts of liquid-cooled GPU capacity under construction.
+
+That means these mining companies are increasingly becoming data center operators that happen to still mine bitcoin on the side.
+
+The economics explain why. According to CoinShares, the cost differential between bitcoin mining infrastructure at roughly $700,000 to $1 million per megawatt and AI infrastructure at $8 million to $15 million per megawatt is wide, but AI offers structurally higher and more stable returns.
+
+Hash price, the metric that determines miner revenue per unit of computing power, hit an all-time post-halving low of roughly $28 to $30 per petahash per day in early March.
+
+At those levels, miners running mid-generation hardware need access to electricity below $0.05 per kilowatt-hour to remain cash-profitable. Meanwhile, AI infrastructure contracts promise margins above 85% with multi-year revenue visibility.
+
+The transition is being financed in two ways, and both are visible in the data, the report explained.
+
+First, debt. The sector's aggregate leverage has fundamentally changed. IREN now carries $3.7 billion in convertible notes across five series. TeraWulf has $5.7 billion in total debt, split between convertible notes and senior secured notes at its compute subsidiary.
+
+Cipher Digital issued $1.7 billion in senior secured notes in November, causing its quarterly interest expense to surge from $3.2 million for the first nine months to $33.4 million in Q4 alone. These are not mining-scale debt loads. These are infrastructure-scale bets that the AI revenue will materialize fast enough to service the obligations.
+
+Second, bitcoin sales. Publicly listed miners have collectively reduced their BTC treasuries by over 15,000 BTC from peak levels. Core Scientific sold roughly 1,900 BTC worth $175 million in January and is planning to liquidate substantially all remaining holdings in Q1 2026. Bitdeer reduced its treasury to zero in February. Riot Platforms sold 1,818 BTC worth $162 million in December.
+
+Even Marathon, the largest public holder at 53,822 BTC, quietly expanded its policy in its March 10-K filing to authorize sales from its entire balance sheet reserve, partly driven by pressure on its $350 million bitcoin-backed credit facility where the loan-to-value ratio climbed to 87% as prices fell toward $68,000.
+
+The miners that are selling bitcoin to fund AI buildouts are the same companies whose mining operations secure the bitcoin network. That creates a tension at the heart of the transition. When mining is unprofitable and AI is lucrative, the rational economic decision is to reallocate capital away from mining. But if enough miners do that, the network's security budget shrinks.
+
+The hashrate data already reflects this. The network peaked at approximately 1,160 exahashes per second in early October 2025 and has since declined to roughly 920 EH/s, with three consecutive negative difficulty adjustments, the first such streak since July 2022.
+
+The valuation market has already priced the bifurcation. Miners with secured HPC contracts now trade at 12.3 times next-twelve-month sales. Pure-play miners trade at 5.9 times. The market is paying more than double for the AI exposure, which reinforces the incentive to pivot further.
+
+The geographic picture is shifting alongside the economics, meanwhile. The United States, China, and Russia now control roughly 68% of global hashrate. The U.S. gained about 2 percentage points of market share in Q4 alone.
+
+But emerging markets are entering the picture. Paraguay and Ethiopia have joined the global top 10 mining countries, driven by HIVE's 300-megawatt operation in Paraguay and Bitdeer's 40-megawatt facility in Ethiopia.
+
+CoinShares forecasts the network hashrate will reach 1.8 zetahashes by the end of 2026 and 2 zetahashes by end of March 2027, one month later than previously predicted.
+
+But that forecast depends on bitcoin recovering to $100,000 by year-end. If prices stay below $80,000, CoinShares expects hash price to continue falling and the hashrate to decline further as more miners exit.
+
+A sustained move below $70,000 could trigger larger capitulation that, paradoxically, benefits survivors through lower difficulty.
+
+Next-generation hardware offers a potential lifeline. Bitmain's S23 series and Bitdeer's proprietary SEALMINER A3, both operating below 10 joules per terahash, are expected at scale through the first half of 2026. These machines would roughly halve the energy cost per bitcoin compared to current mid-generation fleets. But deploying them requires capital that many miners are directing toward AI instead.
+
+The bitcoin mining industry entered this cycle as a group of companies that secured the network and accumulated bitcoin. It is exiting as a group of companies that build AI data centers and sell bitcoin to fund them.
+
+Whether that's a temporary response to unfavorable economics or a permanent structural shift depends on one variable: the price of bitcoin. If it returns to $100,000, mining margins recover and the AI pivot slows. If it stays at $70,000 or below, the transition accelerates and the mining sector as it existed for the past decade continues to disappear into something else entirely.
+
+As stablecoins evolve into core financial infrastructure, North America leads. This report maps the regulation, market shifts, and players driving adoption.
+
+Stablecoins are entering their third phase of evolution - the institutionalization era - becoming increasingly embedded into core financial infrastructure. As institutions prioritize transparency and compliance, regulated issuers like USDC, RLUSD, and PYUSD are steadily gaining share with RLUSD surpassing $1B in market cap within its first year. North America, leading in regulatory frameworks and institutional distribution, is at the center of it all.
+
+The bank priced its proposed spot bitcoin fund at 14 basis points, making it the lowest fund on the market, if approved.

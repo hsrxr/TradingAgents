@@ -1,0 +1,23 @@
+Title: BitGo teams with ZKsync to build tokenized deposit infrastructure to bring banks onchain
+Source: CoinDesk
+URL: https://www.coindesk.com/business/2026/03/25/bitgo-teams-with-zksync-to-build-tokenized-deposit-infrastructure-to-bring-banks-onchain
+
+BitGo and ZKsync are teaming up to offer banks a full-stack infrastructure for tokenized deposits, as financial institutions look to bring traditional money onto blockchain rails without stepping outside regulatory boundaries.
+
+The effort combines BitGo’s institutional custody and wallet services with ZKsync’s Prividium, a permissioned, privacy-preserving blockchain designed for regulated entities. The joint offering aims to enable banks to issue, transfer, and settle tokenized deposits while maintaining compliance and control.
+
+The move reflects a growing trend among crypto infrastructure firms to court banks by packaging blockchain capabilities into compliance-friendly systems—sidestepping the need for institutions to build and manage complex onchain architecture themselves.
+
+Tokenized deposits have emerged as a new trend for banks experimenting with blockchain-based payments. Unlike stablecoins, which typically sit outside the traditional banking system, tokenized deposits keep funds within it, potentially enabling programmable transactions without altering existing regulatory frameworks.
+
+ZKsync creator Matter Labs is positioning its Prividium network as a bridge between public blockchain innovation and institutional requirements such as privacy and permissioning. Matter Labs CEO Alex Gluchowski said in a press release that tokenized deposits represent “how banks bring money onchain without leaving the regulatory system.”
+
+The companies said the combined stack is already being tested with regulated financial institutions, with broader production rollout targeted for later this year.
+
+Read more:BitGo, Susquehanna Crypto offering institutional OTC access to prediction markets
+
+As stablecoins evolve into core financial infrastructure, North America leads. This report maps the regulation, market shifts, and players driving adoption.
+
+Stablecoins are entering their third phase of evolution - the institutionalization era - becoming increasingly embedded into core financial infrastructure. As institutions prioritize transparency and compliance, regulated issuers like USDC, RLUSD, and PYUSD are steadily gaining share with RLUSD surpassing $1B in market cap within its first year. North America, leading in regulatory frameworks and institutional distribution, is at the center of it all.
+
+The integration provides institutions with a compliant way to hold TRX and will be expanded to include TRC-20 assets and native TRX staking.

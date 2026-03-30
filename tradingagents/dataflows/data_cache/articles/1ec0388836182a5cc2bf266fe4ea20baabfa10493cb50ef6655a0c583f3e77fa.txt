@@ -1,0 +1,43 @@
+Title: ZachXBT claims Circle wrongfully freezing exchange wallets
+Source: Cointelegraph
+URL: https://cointelegraph.com/news/zachxbt-claims-circle-wrongfully-freezing-exchange-wallets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+
+The stablecoin issuer was accused of freezing 16 hot wallets linked to operating businesses, including crypto exchanges and online casinos.
+
+Cointelegraph in your social feed
+
+Update (3.26.26 8:15:00 UTC): This article has been updated to reflect that Circle unfroze one of the 16 crypto hot wallets
+
+Stablecoin issuer Circle, the company behind the USDC (USDC) dollar-pegged token, wrongfully froze 16 wallets in connection with an ongoing civil legal case in the United States, according to onchain investigator and security researcher ZachXBT.
+
+The wallets in question belonged to crypto exchanges, online casinos and foreign currency exchange businesses, which “do not appear related at all,” ZachXBTsaid.
+
+“An analyst with basic tools could have identified, within minutes, that these were operational business wallets from the thousands of transactions they process,” he said.
+
+In a separate social mediapost, the onchain investigator wrote that the case is “sealed,” and Circle had “zero basis” to freeze thefiat-pegged tokens. He added:
+
+Cointelegraph sought comment from Circle about the claims but did not obtain a response by the time of publication.
+
+In a subsequentupdateon Wednesday, ZachXBT said that Circle unfroze one of the USDC hot wallets, belonging to Goated, a crypto casino platform based on the Solana network.
+
+“I expect more hot wallets to be unfrozen in the near future. Still no public information about why the overreach ever occurred to begin with,” he said in the update.
+
+Centralized stablecoins can befrozen by the issuer, which goes against the core value proposition of cryptocurrencies as permissionless, censorship-resistant assets, critics of the technology say.
+
+Related:ZachXBT says fake X accounts used viral war content to drive crypto scams
+
+“This is your 10th reminder that centrally issued stablecoins are not actually yours; they can be frozen, unlike cash,” Mert Mumtaz, founder of remote procedure call (RPC) node provider Helius,saidin response to the USDC wallet freezes.
+
+Jean Rausis, co-founder of the Smardex decentralized trading platform, said that provisions in theGENIUS stablecoin regulatory frameworklaid the groundwork for aprivately managed central bank digital currency(CBDC) to emerge.
+
+Centralized stablecoins effectively give the issuer the same financial surveillance and asset freezing capabilities that a standard CBDC would provide, he said.
+
+Former US lawmaker Marjorie Taylor Greene echoed Rausis’s warning in May 2025, arguing that regulated stablecoins under the GENIUS bill are a “CBDC Trojan Horse.”
+
+Magazine:Coinbase hack shows the law probably won’t protect you: Here’s why
+
+Cointelegraph covers fintech, blockchain and Bitcoin bringing you the latest crypto news and analyses on the future of money.
+
+Cointelegraph is committed to providing independent, high-quality journalism across the crypto, blockchain, AI, and fintech industries. To support open access to our website and sustain editorial operations, certain commercial or partner references may appear on our site. These arrangements help maintain an accessible platform and do not result in additional costs to readers.
+
+All news, reviews, and analysis are produced with full journalistic independence and integrity. For more details on our standards and processes, please read ourEditorial Policy.

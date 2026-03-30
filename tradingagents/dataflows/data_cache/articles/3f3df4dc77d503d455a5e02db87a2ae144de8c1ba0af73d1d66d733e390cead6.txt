@@ -1,0 +1,23 @@
+Title: SBI, Sony back Startale’s $63 million push to expand Japan’s tokenized finance stack
+Source: CoinDesk
+URL: https://www.coindesk.com/business/2026/03/25/sbi-sony-back-startale-s-usd63-million-push-to-expand-japan-s-tokenized-finance-stack
+
+Startale Group said it closed a $63 million Series A round, adding $50 million from SBI Group to a $13 million first close from Sony Innovation Fund in January.
+
+The Singapore-based company, which operates in Japan, builds blockchain tools for both financial firms and retail users. Its products include Strium, a blockchain for tokenized securities and other real-world assets, yen stablecoin JPYSC,dollar stablecoin USDSCand the Startale app, a consumer app tied to Sony-backed layer-2 networkSoneium.
+
+The funding brings together Startale’s two most important strategic partners, the firm said. SBI has worked with the company on Strium and JPYSC, while Sony has backed Startale through its investment arm and its work on Soneium.
+
+The round reflects Startale’s push to build across several layers of the onchain economy, from financial infrastructure and settlement tools to end-user applications.
+
+Startale said it will use the funding to scale Strium for tokenized securities and real-world asset trading, expand adoption of JPYSC and USDSC and develop the Startale app into a broader platform for asset management, payments and onchain services to become a “SuperApp.”
+
+CEO Sota Watanabe said the company will also use the funding to push tokenized stocks tied to Japanese equities and expand yen stablecoin adoption this year.
+
+The round lands as Japan works totest how blockchain systems can connect toexisting financial infrastructure. Japanese Finance Minister Satsuki Katayama said earlier this year she fully supportscrypto trading integrationinto the country’s stock exchanges.
+
+As stablecoins evolve into core financial infrastructure, North America leads. This report maps the regulation, market shifts, and players driving adoption.
+
+Stablecoins are entering their third phase of evolution - the institutionalization era - becoming increasingly embedded into core financial infrastructure. As institutions prioritize transparency and compliance, regulated issuers like USDC, RLUSD, and PYUSD are steadily gaining share with RLUSD surpassing $1B in market cap within its first year. North America, leading in regulatory frameworks and institutional distribution, is at the center of it all.
+
+The integration provides institutions with a compliant way to hold TRX and will be expanded to include TRC-20 assets and native TRX staking.

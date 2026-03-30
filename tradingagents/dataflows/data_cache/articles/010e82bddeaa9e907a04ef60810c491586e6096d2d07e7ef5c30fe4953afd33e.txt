@@ -1,0 +1,27 @@
+Title: Strategy’s 11.5% dividend equity bounces back faster than historical average to unlock more bitcoin buying
+Source: CoinDesk
+URL: https://www.coindesk.com/markets/2026/03/26/strategy-s-11-5-dividend-equity-bounces-back-faster-than-hostorical-average-to-unlock-more-bitcoin-buying
+
+Stretch (STRC), the perpetual preferred equity issued byStrategy(MSTR), the world’s largest corporate holder of bitcoin, reclaimed its $100 par value during Thursday’s trading session, giving the company the leeway to raise funds to add to its stash of the largest cryptocurrency.
+
+The recovery took nine trading days following the March 13 ex-dividend date, when buyers of the stock no longer qualify for the next payout. Prices of ex-dividend stocks typically drop to reflect the cash being distributed to the previous shareholders.
+
+At its core, STRC works by adjusting yield to steer price. If shares trade above $100, the company can trim the dividend to cool demand. If shares fall below that level, it can raise dividends to attract buyers. Keeping the price anchored lets the firm issue new shares near par, bringing in capital that is then deployed to buy bitcoin.
+
+The return to par, this time, was slightly faster than the historical average of around 10 trading days for STRC, according toSTRC.live.
+
+STRC functions as a short-duration, high-yield credit instrument, offering an 11.5% annual dividend paid monthly. This structure helps incentivise trading near its $100 par value, enabling the company to utilise at-the-market (ATM) share issuance to raise capital for additional bitcoin acquisitions.
+
+In comparison, SATA, the equivalent tool issued by bitcoin treasury companyStrive(ASST), offers a higher 12.75% dividend. Currently priced at $99.25, it is also approaching par value.
+
+Strategy bought 1,031 bitcoin last week for a total cost of $76.6 million, or $74,326 per coin. However, the magnitude of that buy was far lower than that of recent acquisitions, and STRC wasn't at par during last week's bitcoin purchase.
+
+The firm's holdings now stand at 762,099 bitcoin, bought for approximately $57.69 billion, at an average price of $75,694 per bitcoin.
+
+Read more:Michael Saylor’s Strategy dominates DAT bitcoin buying as treasury demand collapses
+
+As stablecoins evolve into core financial infrastructure, North America leads. This report maps the regulation, market shifts, and players driving adoption.
+
+Stablecoins are entering their third phase of evolution - the institutionalization era - becoming increasingly embedded into core financial infrastructure. As institutions prioritize transparency and compliance, regulated issuers like USDC, RLUSD, and PYUSD are steadily gaining share with RLUSD surpassing $1B in market cap within its first year. North America, leading in regulatory frameworks and institutional distribution, is at the center of it all.
+
+ETFs show institutional demand for bitcoin is cooling after a strong start to the month.

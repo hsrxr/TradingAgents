@@ -1,0 +1,53 @@
+Title: Potential Bitcoin crash below $60K may delay recovery to 2027: Data
+Source: Cointelegraph
+URL: https://cointelegraph.com/news/potential-bitcoin-crash-below-dollar60k-may-delay-recovery-to-2027-data?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+
+Bitcoin's return to an all-time high depends on how deep the current selloff extends, as data shows each new price low adds months to BTC's recovery time.
+
+Cointelegraph in your social feed
+
+Bitcoin (BTC) has shed all its March gains, currently down 1.40% on the monthly chart and 24.6% for the first quarter of 2026. Bitcoin’s longer-term performance aligns with a deep drawdown cycle for BTC, which may extend until the end of 2026 and many analysts expect another 40% drop in price.
+
+This scenario pushes Bitcoin’s recovery into Q2 2027, as a deeper BTC price drop tends to take longer to recover from.
+
+Ecoinometricsdata showsa clear link between the drawdown depth and recovery duration. Each additional 10% decline has historically added about 80 days to the time required to reclaim the prior highs.
+
+At the current 48% drawdown, the full recovery cycle is estimated to be near 300 days from the October peak of $126,000 in 2025.
+
+Currently, roughly 172 days have passed, leaving about 125 to 130 days if the cycle low is already confirmed at $60,000. However, the cycle lows might not have been tagged yet, with BTC potentially looking at further downside in the coming weeks.
+
+The Bitcoin Combined Market Index (BCMI), whichcombinesmarket-value to realized-value (MVRV), net unrealized profit/loss (NUPL), spent output profit ratio (SOPR) and market sentiment, currently sits near 0.27.
+
+This level is notably above the 0.15 threshold that has marked the cycle bottoms in every major downturn since 2018.
+
+In the 2018 cycle, BCMI reached 0.15 as Bitcoin fell to $3,100 from its $20,000 peak. In 2020, the index dropped to 0.147 when the price was $5,100. Similarly, in November 2022, BCMI fell to 0.12 as BTC formed its cycle lows at $15,880.
+
+With the index still elevated relative to these historical bottom zones, a move toward 0.15 in 2026 likely requires further downside in BTC’s price. Such a scenario aligns with a deeper capitulation phase for BTC, consistent with the prior cycle resets.
+
+Related: Bitcoin dips under $66K as oil sparks 'unsustainable' US inflation risk
+
+Crypto trader Ardi noted that the whale delta vs retail delta reached its most aggressive sell level at -22.13 since October 2024. The chart illustrates the BTC price breaking below a rising trendline, while underlying flows show consistent distribution from the larger participants. Ardisaid,
+
+From a liquidity standpoint, CMCC Crest managing partner Willy Woo outlined a similar weakness for BTC’s price. Woo accuratelymappedout last month that BTC would rebound to the mid-$70,000 region in March, before aligning with the bearish trend as “the broader regime is heavily bearish with both spot and futures liquidity deteriorating.”
+
+From a cycle perspective, Woo expects a deeper reset before a confirmed bottom forms. Woo identified the $40,000–$45,000 range as a typical bear market floor, with timing skewed toward Q4 for the end of the bearish phase.
+
+The framework places the return of a stronger bullish momentum into early 2027.
+
+If Bitcoin extends its decline toward the $40,000–$45,000 range, the drawdown from the $126,000 peak deepens to roughly 64–68% from all-time highs. Based on Ecoinometrics’ model, the additional downside significantly stretches the recovery timeline.
+
+At a 60%+ drawdown, the total recovery period historically expands to around 440 days from the cycle peak. In this scenario, a potential reclaim of the prior all-time high is expected to fall sometime after Q2 2027.
+
+It is important to note that these timelines are based on historical drawdown patterns and do not represent predictions. The current macroeconomic conditions may alter that recovery path as well.
+
+The Kobeissi Letternotedthat the rate cuts are now expected only by December 2027, with a 51% chance of a rate hike by March 2027. This unexpected development may impact Bitcoin’s recovery pace relative to past cycles.
+
+Related: Bitcoin gained 655% the last time this supply in profit metric dropped to 50%
+
+This article does not contain investment advice or recommendations. Every investment and trading move involves risk, and readers should conduct their own research when making a decision. While we strive to provide accurate and timely information, Cointelegraph does not guarantee the accuracy, completeness, or reliability of any information in this article. This article may contain forward-looking statements that are subject to risks and uncertainties. Cointelegraph will not be liable for any loss or damage arising from your reliance on this information.
+
+Cointelegraph covers fintech, blockchain and Bitcoin bringing you the latest crypto news and analyses on the future of money.
+
+Cointelegraph is committed to providing independent, high-quality journalism across the crypto, blockchain, AI, and fintech industries. To support open access to our website and sustain editorial operations, certain commercial or partner references may appear on our site. These arrangements help maintain an accessible platform and do not result in additional costs to readers.
+
+All news, reviews, and analysis are produced with full journalistic independence and integrity. For more details on our standards and processes, please read ourEditorial Policy.

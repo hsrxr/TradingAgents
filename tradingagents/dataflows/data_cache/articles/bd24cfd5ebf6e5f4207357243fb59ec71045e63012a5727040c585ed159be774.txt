@@ -1,0 +1,35 @@
+Title: Australia Lays Groundwork for Tokenized Asset Markets After RBA Project
+Source: Decrypt
+URL: https://decrypt.co/362391/australia-tokenized-asset-markets-rba-project
+
+Australia Lays Groundwork for Tokenized Asset Markets After RBA Project
+
+Australia’s central bank is moving toward building the legal and market infrastructure needed for tokenized asset markets, as regulators begin coordinating on rules that could allow the products to trade at scale within the financial system.
+
+In aspeechon Tuesday, Reserve Bank of Australia Assistant Governor Brad Jones said the question was no longer whether tokenization had a future in Australia’s financial system, but how it would be implemented, following the conclusion of the bank’s Project Acacia research program into tokenized assets and money.
+
+The RBA said it would work with other regulators and industry on a new digital market infrastructure sandbox to test tokenized assets, tokenized money, and settlement systems in a longer-term environment designed to support commercialization, rather than short-term pilot programs.
+
+The central bank also confirmed it is coordinating with other agencies on the legal and regulatory framework for tokenized markets, including how tokenized assets are classified, how settlement finality works, and how new platforms would be licensed and supervised.
+
+The push on tokenized markets comes as lawmakers move to bring crypto platforms andtokenized custody servicesunder Australia’s financial-services regime, requiring firms that hold client tokens to obtain licenses and meet asset-safeguarding rules.
+
+Industry participants say that regulatory coordination is the key step needed to move tokenized assets from pilot programs into real markets.
+
+“Project Acacia represents a turning point,” Paul Stonham, chief commercial officer at Australian crypto exchange BTC Markets and a member of the project’s advisory group, toldDecrypt.
+
+“The RBA’s decision to move from exploratory pilots to a longer-term, stage-gated sandbox environment signals genuine institutional commitment to making tokenized finance work in Australia, not just studying it.”
+
+Stonham said the most significant development was the coordination now underway between the RBA, the Australian Securities and Investments Commission, and AUSTRAC to address legal and regulatory uncertainty that has limited institutional participation.
+
+He said regulated digital asset exchanges are likely to play a central role in tokenized markets, arguing that tokenized assets will need to trade on transparent, centrally managed order books operated by licensed platforms to attract larger players.
+
+The RBA said tokenization could improve efficiency and reduce risk in wholesale markets, particularly if tokenized assets and money can be settled on synchronized systems, and estimated the economic benefit to Australia could reach about $24 billion (US$16.6 billion) per year.
+
+The bank also said further work would focus on settlement infrastructure, tokenized bank deposits, stablecoins, and the potential role of a wholesale central bank digital currency.
+
+Your gateway into the world of Web3
+
+The latest news, articles, and resources, sent to your inbox weekly.
+
+© A next-generation media company.2026Decrypt Media, Inc.

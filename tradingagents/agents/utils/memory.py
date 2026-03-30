@@ -1,144 +1,250 @@
-"""Financial situation memory using BM25 for lexical similarity matching.
+"""Semantic memory system using ChromaDB for vectorized situation matching.
 
-Uses BM25 (Best Matching 25) algorithm for retrieval - no API calls,
-no token limits, works offline with any LLM provider.
+Replaces BM25 lexical matching with semantic embeddings:
+- Understands that "Powell speaks hawkish" ≈ "Fed signals higher rates"
+- Stores metadata for hybrid filtering (ticker, regime, pnl_outcome)
+- Persists memory across process restarts via local ChromaDB
 """
 
-from rank_bm25 import BM25Okapi
-from typing import List, Tuple
-import re
+import chromadb
+from chromadb.config import Settings
+from typing import List, Tuple, Dict, Any, Optional
+import json
+import logging
+from datetime import datetime
+from pathlib import Path
+
+logger = logging.getLogger(__name__)
 
 
-class FinancialSituationMemory:
-    """Memory system for storing and retrieving financial situations using BM25."""
+class VectorizedMemory:
+    """Semantic memory system using ChromaDB for financial situation retrieval."""
 
-    def __init__(self, name: str, config: dict = None):
-        """Initialize the memory system.
+    def __init__(
+        self,
+        name: str,
+        db_path: str = "./trade_memory/chromadb",
+        embedding_model: str = "sentence-transformers/all-MiniLM-L6-v2",
+    ):
+        """Initialize vectorized memory with persistent ChromaDB.
 
         Args:
-            name: Name identifier for this memory instance
-            config: Configuration dict (kept for API compatibility, not used for BM25)
+            name: Memory instance name (e.g., 'bull_researcher_memory')
+            db_path: Path to persistent ChromaDB storage
+            embedding_model: HuggingFace sentence-transformers model for embeddings
         """
         self.name = name
-        self.documents: List[str] = []
-        self.recommendations: List[str] = []
-        self.bm25 = None
+        self.db_path = db_path
+        
+        # Create persistent ChromaDB client
+        Path(db_path).mkdir(parents=True, exist_ok=True)
+        
+        # Use persistent client for local file storage
+        self.client = chromadb.PersistentClient(path=db_path)
+        
+        # Get or create collection for this memory instance
+        # Collection name must be valid: lowercase, 3-63 chars, alphanumeric + underscore/hyphen
+        collection_name = f"{name}_situations".replace("_", "_").lower()[:63]
+        
+        self.collection = self.client.get_or_create_collection(
+            name=collection_name,
+            metadata={
+                "model": embedding_model,
+                "created_at": datetime.utcnow().isoformat(),
+            },
+        )
 
-    def _tokenize(self, text: str) -> List[str]:
-        """Tokenize text for BM25 indexing.
+        logger.info(f"Initialized VectorizedMemory '{name}' with ChromaDB at {db_path}")
 
-        Simple whitespace + punctuation tokenization with lowercasing.
-        """
-        # Lowercase and split on non-alphanumeric characters
-        tokens = re.findall(r'\b\w+\b', text.lower())
-        return tokens
-
-    def _rebuild_index(self):
-        """Rebuild the BM25 index after adding documents."""
-        if self.documents:
-            tokenized_docs = [self._tokenize(doc) for doc in self.documents]
-            self.bm25 = BM25Okapi(tokenized_docs)
-        else:
-            self.bm25 = None
-
-    def add_situations(self, situations_and_advice: List[Tuple[str, str]]):
-        """Add financial situations and their corresponding advice.
-
-        Args:
-            situations_and_advice: List of tuples (situation, recommendation)
-        """
-        for situation, recommendation in situations_and_advice:
-            self.documents.append(situation)
-            self.recommendations.append(recommendation)
-
-        # Rebuild BM25 index with new documents
-        self._rebuild_index()
-
-    def get_memories(self, current_situation: str, n_matches: int = 1) -> List[dict]:
-        """Find matching recommendations using BM25 similarity.
+    def add_situations(self, situations_and_advice: List[Tuple[str, str]], metadata_list: Optional[List[Dict[str, Any]]] = None) -> None:
+        """Add situations with semantic embeddings and optional metadata.
 
         Args:
-            current_situation: The current financial situation to match against
+            situations_and_advice: List of (situation_text, recommendation_text) tuples
+            metadata_list: Optional list of dicts with ticker, market_regime, pnl_result, etc.
+                          If None, defaults are created.
+        """
+        if not situations_and_advice:
+            return
+
+        ids = []
+        documents = []
+        metadatas = []
+        
+        for idx, (situation, recommendation) in enumerate(situations_and_advice):
+            # Combine situation + recommendation into single document for retrieval
+            combined_doc = f"Situation: {situation}\n\nRecommendation: {recommendation}"
+            documents.append(combined_doc)
+            
+            # Use provided metadata or create defaults
+            if metadata_list and idx < len(metadata_list):
+                meta = metadata_list[idx].copy()
+            else:
+                meta = {}
+            
+            # Ensure timestamp is present
+            if "timestamp" not in meta:
+                meta["timestamp"] = datetime.utcnow().isoformat()
+            
+            metadatas.append(meta)
+            
+            # Generate unique ID based on timestamp + index
+            doc_id = f"{meta['timestamp']}_{idx}"
+            ids.append(doc_id)
+
+        try:
+            self.collection.add(
+                ids=ids,
+                documents=documents,
+                metadatas=metadatas,
+            )
+            logger.info(f"Added {len(situations_and_advice)} situations to {self.name} memory")
+        except Exception as e:
+            logger.error(f"Error adding situations to {self.name}: {e}")
+
+    def get_memories(
+        self,
+        current_situation: str,
+        n_matches: int = 3,
+        filter_metadata: Optional[Dict[str, Any]] = None,
+    ) -> List[Dict[str, Any]]:
+        """Retrieve semantically similar past situations.
+
+        Args:
+            current_situation: Current market/portfolio context to match against
             n_matches: Number of top matches to return
+            filter_metadata: Optional dict for filtering (e.g., {"ticker": "BTC", "pnl_result": "loss"})
 
         Returns:
-            List of dicts with matched_situation, recommendation, and similarity_score
+            List of dicts with 'situation', 'recommendation', 'distance', 'metadata'
         """
-        if not self.documents or self.bm25 is None:
+        if self.collection.count() == 0:
             return []
 
-        # Tokenize query
-        query_tokens = self._tokenize(current_situation)
+        try:
+            # Query with embedding (ChromaDB handles this automatically)
+            results = self.collection.query(
+                query_texts=[current_situation],
+                n_results=n_matches,
+                where=filter_metadata if filter_metadata else None,
+            )
 
-        # Get BM25 scores for all documents
-        scores = self.bm25.get_scores(query_tokens)
+            matches = []
+            if results and results.get("documents") and len(results["documents"]) > 0:
+                for doc, metadata, distance in zip(
+                    results["documents"][0],
+                    results["metadatas"][0],
+                    results["distances"][0],
+                ):
+                    # Parse out situation and recommendation from combined doc
+                    parts = doc.split("\n\nRecommendation:")
+                    situation = parts[0].replace("Situation: ", "")
+                    recommendation = parts[1].strip() if len(parts) > 1 else ""
 
-        # Get top-n indices sorted by score (descending)
-        top_indices = sorted(range(len(scores)), key=lambda i: scores[i], reverse=True)[:n_matches]
+                    # ChromaDB returns distance (0=perfect match, larger=dissimilar)
+                    # Convert to similarity score (0-1, 1=perfect)
+                    similarity = 1.0 / (1.0 + distance) if distance >= 0 else 0.0
 
-        # Build results
-        results = []
-        max_score = max(scores) if max(scores) > 0 else 1  # Normalize scores
+                    matches.append({
+                        "situation": situation,
+                        "recommendation": recommendation,
+                        "similarity_score": round(similarity, 3),
+                        "distance": round(distance, 3),
+                        "metadata": metadata,
+                    })
 
-        for idx in top_indices:
-            # Normalize score to 0-1 range for consistency
-            normalized_score = scores[idx] / max_score if max_score > 0 else 0
-            results.append({
-                "matched_situation": self.documents[idx],
-                "recommendation": self.recommendations[idx],
-                "similarity_score": normalized_score,
-            })
+            logger.debug(f"Retrieved {len(matches)} matches for {self.name}")
+            return matches
 
-        return results
+        except Exception as e:
+            logger.error(f"Error querying {self.name} memory: {e}")
+            return []
 
-    def clear(self):
-        """Clear all stored memories."""
-        self.documents = []
-        self.recommendations = []
-        self.bm25 = None
+    def delete_situations(self, where_metadata: Dict[str, Any]) -> None:
+        """Delete situations matching metadata filter.
+
+        Args:
+            where_metadata: Metadata filter (e.g., {"ticker": "BTC"})
+        """
+        try:
+            self.collection.delete(where=where_metadata)
+            logger.info(f"Deleted situations from {self.name} with filter {where_metadata}")
+        except Exception as e:
+            logger.error(f"Error deleting situations from {self.name}: {e}")
+
+    def list_all_situations(self, limit: int = 100) -> List[Dict[str, Any]]:
+        """List all stored situations (for inspection/audit).
+
+        Args:
+            limit: Maximum number to return
+
+        Returns:
+            List of dicts with situation, recommendation, metadata
+        """
+        if self.collection.count() == 0:
+            return []
+
+        try:
+            # Get all documents without query (ChromaDB limitation: need to use get())
+            results = self.collection.get(limit=limit)
+            
+            situations = []
+            if results and results.get("documents"):
+                for doc, metadata in zip(results["documents"], results["metadatas"]):
+                    parts = doc.split("\n\nRecommendation:")
+                    situation = parts[0].replace("Situation: ", "")
+                    recommendation = parts[1].strip() if len(parts) > 1 else ""
+
+                    situations.append({
+                        "situation": situation,
+                        "recommendation": recommendation,
+                        "metadata": metadata,
+                    })
+
+            return situations
+        except Exception as e:
+            logger.error(f"Error listing situations from {self.name}: {e}")
+            return []
+
+    def get_collection_stats(self) -> Dict[str, Any]:
+        """Get collection statistics.
+
+        Returns:
+            Dict with count, model info, creation timestamp
+        """
+        try:
+            count = self.collection.count()
+            metadata = self.collection.metadata
+            
+            return {
+                "name": self.name,
+                "count": count,
+                "embedding_model": metadata.get("model", "unknown"),
+                "created_at": metadata.get("created_at", "unknown"),
+            }
+        except Exception as e:
+            logger.error(f"Error getting stats for {self.name}: {e}")
+            return {}
 
 
-if __name__ == "__main__":
-    # Example usage
-    matcher = FinancialSituationMemory("test_memory")
-
-    # Example data
-    example_data = [
-        (
-            "High inflation rate with rising interest rates and declining consumer spending",
-            "Consider defensive sectors like consumer staples and utilities. Review fixed-income portfolio duration.",
-        ),
-        (
-            "Tech sector showing high volatility with increasing institutional selling pressure",
-            "Reduce exposure to high-growth tech stocks. Look for value opportunities in established tech companies with strong cash flows.",
-        ),
-        (
-            "Strong dollar affecting emerging markets with increasing forex volatility",
-            "Hedge currency exposure in international positions. Consider reducing allocation to emerging market debt.",
-        ),
-        (
-            "Market showing signs of sector rotation with rising yields",
-            "Rebalance portfolio to maintain target allocations. Consider increasing exposure to sectors benefiting from higher rates.",
-        ),
-    ]
-
-    # Add the example situations and recommendations
-    matcher.add_situations(example_data)
-
-    # Example query
-    current_situation = """
-    Market showing increased volatility in tech sector, with institutional investors
-    reducing positions and rising interest rates affecting growth stock valuations
+# Backward compatibility: FinancialSituationMemory as alias
+class FinancialSituationMemory(VectorizedMemory):
+    """Backward-compatible alias for VectorizedMemory.
+    
+    This maintains API compatibility with existing code that uses
+    FinancialSituationMemory while leveraging ChromaDB backend.
     """
+    def __init__(self, name: str, config: Optional[Dict[str, Any]] = None):
+        """Backward-compatible initializer.
 
-    try:
-        recommendations = matcher.get_memories(current_situation, n_matches=2)
-
-        for i, rec in enumerate(recommendations, 1):
-            print(f"\nMatch {i}:")
-            print(f"Similarity Score: {rec['similarity_score']:.2f}")
-            print(f"Matched Situation: {rec['matched_situation']}")
-            print(f"Recommendation: {rec['recommendation']}")
-
-    except Exception as e:
-        print(f"Error during recommendation: {str(e)}")
+        Historical call sites pass a config dict as the second argument.
+        We accept it and optionally read an override path from config.
+        """
+        db_path = "./trade_memory/chromadb"
+        if isinstance(config, dict):
+            db_path = (
+                config.get("memory_db_path")
+                or config.get("trade_memory_path")
+                or db_path
+            )
+        super().__init__(name=name, db_path=db_path)

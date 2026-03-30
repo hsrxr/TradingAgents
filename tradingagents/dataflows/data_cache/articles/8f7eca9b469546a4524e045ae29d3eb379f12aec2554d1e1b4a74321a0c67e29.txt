@@ -1,0 +1,41 @@
+Title: Ether needs these 3 indicators to flip to trigger rally above $2.4K
+Source: Cointelegraph
+URL: https://cointelegraph.com/news/ether-needs-these-3-indicators-to-flip-to-trigger-rally-above-2-4k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+
+Spot ETF outlflows, falling DEX volumes and a declining ETH futures premium may be preventing Ether from rallying, but flipping them could catalyze a rally to $2,400.
+
+Cointelegraph in your social feed
+
+Ether struggles to hold $2,400 due to low DEX volumes and declining demand for decentralized applications.
+
+Institutional investor-led outflows and weak futures premiums suggest that ETH lacks the bullish demand for a sustainable rally.
+
+Ether (ETH) experienced a 6% correction between Wednesday and Thursday, retesting the $2,050 level, and reflecting a risk-off environment fueled by uncertainty surrounding the US and Israel-Iran war. Ether has lagged behind the total crypto market cap, leading investors to wonder what might trigger a sustained rally above $2,400.
+
+The price of Ether has dropped 31% since the start of 2026, driven by a dip in decentralized application activity and a cautious mood across the cryptocurrency space. Much of this selling pressure comes from a lack of regulatory progress in the United States, especially since the Trump administration had fueled hope for a morecrypto-friendly era.
+
+The US Senate is now looking into aban on yield for stablecoinskept on exchanges. While Coinbase is pushing back hard, the move has added another layer of worry for traders. Banking groups argue that the GENIUS Act already prevents stablecoin issuers from paying yields to holders directly, claiming that using exchanges as intermediaries is simply a loophole.
+
+A recent report from the Financial Action Task Force (FATF) alsourged nations to tighten oversightas stablecoins become more common in payments and cross-border transfers using self-custody wallets. The global anti-money laundering watchdog stated that peer-to-peer transactions make it more difficult for authorities to detect suspicious financial activity.
+
+Besides regulatory setbacks, several indicators suggest limited short-term upside for Ether.
+
+The US-listed spot Ether ETFs recorded $298 million in net outflows since March 18, marking six consecutive trading days of redemptions. While these flows are not a perfect proxy for institutional demand, especially following the launch of ETFs with embedded staking functionalities, investor risk perception remained unchanged by the 2.8% native staking yield.
+
+The falling activity on Ethereum decentralized exchanges is a major concern as demand for the token weakens. The current weekly average of $9.4 billion stands around 50% lower compared to levels seen in the final three months of 2025. Unless there is a turnaround in this metric, Ether will likely struggle to maintain levels above $2,400.
+
+Ether monthly futures traded at a 2% premium relative to regular spot markets on Thursday, indicating a lack of demand for bullish leverage. Under neutral conditions, this metric should stand between 4% and 8% to compensate for the longer settlement period. ETH bears will likely remain confident until this metric returns to a neutral range.
+
+Related:SEC is no longer a 'cop on the beat‘ on crypto, says US lawmaker
+
+There is little doubt that socio-economic events, such as the US and Israel-Iran war, have been the main drivers behind the weakness in the stock market over the past two months. This risk-off mood contributed to Ether’s failure to reclaim $2,400. Still, an improvement in Ethereum decentralized exchange activity and higher conviction from institutional investors is needed for sustainable bullish momentum.
+
+The accumulation of Ether by multi-billion dollar companies such as BitMine, SharpLink, and The Ether Machine could act as a catalyst for ETH to outperform the broader cryptocurrency market when the tide shifts favorably. For now, however, the price of Ether remains under pressure.
+
+This article does not contain investment advice or recommendations. Every investment and trading move involves risk, and readers should conduct their own research when making a decision. While we strive to provide accurate and timely information, Cointelegraph does not guarantee the accuracy, completeness, or reliability of any information in this article. This article may contain forward-looking statements that are subject to risks and uncertainties. Cointelegraph will not be liable for any loss or damage arising from your reliance on this information.
+
+Cointelegraph covers fintech, blockchain and Bitcoin bringing you the latest crypto news and analyses on the future of money.
+
+Cointelegraph is committed to providing independent, high-quality journalism across the crypto, blockchain, AI, and fintech industries. To support open access to our website and sustain editorial operations, certain commercial or partner references may appear on our site. These arrangements help maintain an accessible platform and do not result in additional costs to readers.
+
+All news, reviews, and analysis are produced with full journalistic independence and integrity. For more details on our standards and processes, please read ourEditorial Policy.

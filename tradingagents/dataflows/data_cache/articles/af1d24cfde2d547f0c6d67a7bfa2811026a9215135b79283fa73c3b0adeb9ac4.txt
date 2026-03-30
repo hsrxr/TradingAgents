@@ -1,0 +1,39 @@
+Title: Lummis says CLARITY Act will deliver 'strongest' developer protections
+Source: Cointelegraph
+URL: https://cointelegraph.com/news/lummis-says-clarity-act-offers-strong-defi-protections?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+
+Crypto lawyer Jake Chervinsky said legislation covering crypto developer protections has been overshadowed by the intense focus on stablecoin yield in the CLARITY Act.
+
+Cointelegraph in your social feed
+
+US Senator Cynthia Lummis has dismissed claims that the Digital Asset Market Clarity Act fails to protect decentralized finance innovators from legal repercussions, rebutting that recent changes to the draft will make it the “strongest protection for DeFi and developers ever enacted.”
+
+Hercommentson Friday came in direct response to crypto lawyer Jake Chervinsky, who argued that Title 3 of the current draft undermines the Blockchain Regulatory Certainty Act — another crypto bill focused on developer protections — by subjecting non-custodial software developers to know-your-customer obligations.
+
+“Don’t believe the FUD,” Lummis said, adding, “We have worked on a bipartisan basis for the last few weeks to make changes to Title 3 that make this bill the strongest protection for DeFi and developers ever enacted. We have to pass the Clarity Act to get these protections.”
+
+The latest changes to the CLARITY Act have not been publicly released.
+
+Chervinsky said these DeFi protection provisions have been overshadowed by intense focus on stablecoin rewards provisions in the CLARITY Act.
+
+His biggest issue with the Senate Banking Committee’s latest CLARITY Act draft is that Title 3's money transmitter definitions could still expose manynon-custodial DeFi builders to liability.
+
+This is despite the CLARITY Act incorporating the BRCA in section 604, which clarifies that non-controlling developers and providers of non-custodial software are not to be treated as financial institutions subject to Bank Secrecy Act KYC obligations.
+
+“The biggest challenge is ensuring non-custodial software developers aren't misclassified as money transmitters,” Chervinsky argued.
+
+His concerns come amid several high-profile prosecutions and convictions of developers in the US in recent months, includingTornado Cashco-founder,Roman Storm,who was convicted in August 2025 of conspiracy to operate an unlicensed money transmitting business.
+
+Related:Delaware eyes stablecoin licensing framework under banking laws
+
+US lawmakers have said the CLARITY Act ismoving closer towarda Senate Banking Committee markup expected in April after recent bipartisan progress on stablecoin rewards provisions.
+
+Passage of the CLARITY Act is necessary to ensure DeFi developers are afforded legal protections under the BRCA,Lummis noted.
+
+Magazine:Are DeFi devs liable for the illegal activity of others on their platforms?
+
+Cointelegraph covers fintech, blockchain and Bitcoin bringing you the latest crypto news and analyses on the future of money.
+
+Cointelegraph is committed to providing independent, high-quality journalism across the crypto, blockchain, AI, and fintech industries. To support open access to our website and sustain editorial operations, certain commercial or partner references may appear on our site. These arrangements help maintain an accessible platform and do not result in additional costs to readers.
+
+All news, reviews, and analysis are produced with full journalistic independence and integrity. For more details on our standards and processes, please read ourEditorial Policy.

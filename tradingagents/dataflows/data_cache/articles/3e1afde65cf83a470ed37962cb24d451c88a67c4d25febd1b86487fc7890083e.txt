@@ -1,0 +1,53 @@
+Title: The privacy paradox: regulating zero-knowledge finance in the EU and beyond
+Source: CoinDesk
+URL: https://www.coindesk.com/opinion/2026/03/19/the-privacy-paradox-regulating-zero-knowledge-finance-in-the-eu-and-beyond
+
+Financial compliance has always been balanced on a delicate line: regulators need sufficient visibility to keep bad actors out, but users want their financial lives kept private just to make a payment or trade. In 2025, that tension is sharper than ever. We have stricter anti-money laundering (AML) rules, broader data-protection regimes, more cross-border activity and, at the same time, better privacy-enhanced technology than we’ve ever had.
+
+The good news is we no longer have to sacrifice privacy to ensure compliance. Zero-knowledge proofs (ZKPs) provide a solution to the so-calledprivacy paradox:regulators need assurance that rules are followed, but exposing full identities and transaction details creates security, legal, and data protection risks. ZKPs let us flip the model from “show me the data” to “show me a proof,” enabling firms to demonstrate compliance without revealing underlying information.
+
+This approach is not designed to obscure regulatory oversight. Instead, it modernizes the compliance toolset so regulated firms can demonstrate compliance with their legal duties (sanctions screening checks, KYC obligations, segregation of client assets, capital checks) without transferring or exposing the underlying data. ZKPs may be better for users and, in the long term, for regulatory compliance, because proofs are verifiable and tamper-evident.
+
+A zero-knowledge proof is a cryptographically powered way of saying: “I can prove to you that I followed rule X, but I won’t show you the sensitive information usually required to prove that.” In finance, “rule X” can be very concrete: “this wallet was screened against the current sanctions list”; “this user holds a valid KYC credential from a trusted issuer”; “this exchange holds client assets 1:1 and they reconcile to liabilities”; “this transaction is below (or within) an allowed range,” and so on.
+
+Today, we can be required by law to report large datasets to specific regulators. We comply with applicable data protection laws, but this also increases the risk of cybersecurity breaches and misuse. A ZK-based approach proves the outcome, not all the inputs. If a regulator needs to go deeper, a process can be designed for selective disclosure of particular required data (viewing keys, time-bound access, and full audit logs, granted under due process as necessary), like a permissioned regulatory portal or window.
+
+In the EU, supervisors are making anti-money laundering (AML) controls more granular, while GDPR and other privacy regimes emphasise data minimisation and purpose limitation. These can be complementary rather than opposing each other: compliance should provide the same or better assurance with less routine exposure of personal data. This objective may be achieved by utilising privacy-preserving reporting techniques.
+
+Second, digital identity frameworks (such as those envisaged under eIDAS 2.0) are getting closer to reality. They are built on the same building blocks as ZK: verifiable credentials, selective disclosure and cryptographic attestations. That makes it far more realistic to issue portable “I passed KYC” or “I am not sanctioned” credentials that can be proven, not re-collected, across multiple services.
+
+Third, supervisors are exploring privacy-enhancing technologies, including proof verification models.
+
+We already have live examples. ZK-enhanced proof-of-reserves is the best-known one: an exchange proves it has the assets to meet customer liabilities without revealing individual balances. That is a zero-knowledge assurance.
+
+You can do the same for sanctions screening. Instead of sending the full identity every time, a wallet presents a proof that it was checked against the latest list at a specific time. The regulator, or a regulated VASP on the other side, runs a verifier node to confirm the proof is valid and up to date. It is important to note that ‘verifier nodes’ are a policy proposal that operate as an oversight infrastructure for supervisors to validate proofs without collecting bulk data.
+
+You can also do it for segregation: a custodian proves that client assets are not co-mingled with house funds via a range or sum proof, without publishing the entire ledger. You can even layer this into smart contracts: transactions don’t execute unless the proof passes. That is “programmable compliance” – rules enforced at transaction time in ‘real time’, rather than afterwards.
+
+For regulators, the key shift is from collecting raw data to verifying cryptographic evidence. They still get assurance, auditability and traceability when there is a legal basis to unmask. But they do not have to hold or process significant amounts of personal data by default, reducing both operational and legal risk.
+
+Regulators are already beginning to embrace targeted ZK pilots, ranging from verifiable proof-of-reserves to Travel Rule compliance that validates user attributes without exposing full datasets. As these primitives mature, they naturally scale into market-integrity controls, allowing firms to demonstrate they are within concentration and exposure limits through range and sum proofs without revealing underlying positions.
+
+Critically, ZK is not a synonym for opacity; well-architected systems utilizeselective disclosurevia viewing or multi-party keys. This ensures that law enforcement access is narrow, provable and subject to due process rather than remaining universal and silent.
+
+To work across borders, we need standards: standard proof types (e.g., “not on sanctions list X as of date Y”), standard credential formats and standard verifier logic that can be inspected. That is how you avoid every exchange, wallet, or bank building its own version and creating unnecessary supervisory complexity for supervisors.
+
+Concretely, regulators may benefit from six things:
+
+Binance is a global exchange that already uses ZKPs for demonstrating reserves. Our proof-of-reserves (POR) system uses a Merkle tree – a cryptographic structure that condenses many account entries into a single “fingerprint” – together with zero-knowledge proofs to demonstrate that customer assets are fully backed without revealing individual balances. With each POR update, users can confirm that their balance is included in the tree, while ZKPs ensure that the overall totals are correct and that no negative or fake balances are included. The result is independent, privacy-preserving verification of reserves that builds trust without compromising personal data.
+
+But this is bigger than one company. If we get this right, we can make financial compliance more precise, more respectful of privacy law, and easier to supervise.
+
+This will take collaboration. Regulators will need to develop proof standards they accept; industry will need to align on, and incorporate the proof standards, and standard-setting bodies will ensure proof standards are interoperable across borders.
+
+Success is when a user can prove legitimacy without oversharing; a bank, VASP, or exchange can meet AML/Travel Rule obligations with smaller data disclosures; a regulator can run a verifier node and get real-time assurance; and bad actors can be unmasked under clear, narrow, lawful conditions.
+
+In short, assurance with less disclosure. As cyber risk rises, privacy laws evolve, and cross-border digital finance grows, moving from routine bulk data collection to verifiable proofs is a pragmatic upgrade to supervisory practice.References to EU privacy law in this op-ed reflect the framework as of November 2025; the Commission’s Digital Omnibus proposals remain subject to change through the ordinary legislative process.
+
+Note: The views expressed in this column are those of the author and do not necessarily reflect those of CoinDesk, Inc. or its owners and affiliates.
+
+As stablecoins evolve into core financial infrastructure, North America leads. This report maps the regulation, market shifts, and players driving adoption.
+
+Stablecoins are entering their third phase of evolution - the institutionalization era - becoming increasingly embedded into core financial infrastructure. As institutions prioritize transparency and compliance, regulated issuers like USDC, RLUSD, and PYUSD are steadily gaining share with RLUSD surpassing $1B in market cap within its first year. North America, leading in regulatory frameworks and institutional distribution, is at the center of it all.
+
+Regulated insurance and standardized benchmarks are pivoting staked ETH from a crypto experiment to a legitimate institutional yield asset.

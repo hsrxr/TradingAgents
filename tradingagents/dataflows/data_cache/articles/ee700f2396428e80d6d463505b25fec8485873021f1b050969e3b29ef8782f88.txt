@@ -1,0 +1,31 @@
+Title: Why big banks are snubbing open ledgers to build their own private blockchains
+Source: CoinDesk
+URL: https://www.coindesk.com/business/2026/03/26/why-big-banks-are-snubbing-open-ledgers-to-build-their-own-private-blockchains
+
+Wall Street firms may embrace blockchain technology, just not in its current form. The open, distributed ledger visible to all comers runs counter to the way traditional finance works, said Don Wilson, the founder and CEO of DRW, a TradFi trading firm that's been active in crypto for over a decade.
+
+"There is no world in which institutions are going to say, ‘Oh yeah, just publish all of my trades onchain,’” Wilson said at the Digital Asset Summit in New York on Thursday. “Any money manager would view it as a failure of fiduciary duty to publish to the world every trade that they’re doing.”
+
+Having every trade visible conflicts with how institutions manage risk and protect trading strategies, Wilson said. If an investor with a large stake in a company starts selling the stock, other market participants will be able to detect the pattern and the initial trades will have a "huge price impact" on the investor's later trades. In other words, the transparency works against the trader.
+
+“The problem is not the technology itself, but how it is implemented," Wilson said. "I think that it’s a mistake to put stuff on these chains that have complete transparency.”
+
+DRW was founded in 1992 and introduced Cumberland in 2014, one of the first institutional crypto trading desks, just as bitcoinBTC$67,782.84markets began to take shape. That early entry gave the firm a front-row seat to how digital assets evolved from niche markets into infrastructure that banks now study.
+
+Wilson’s current focus reflects that shift. He pointed to efforts to bring traditional assets onchain, and warned against doing so on fully transparent networks.
+
+Ethereumhas long been pitchedas the blockchain most likely to plug into Wall Street, with developers highlighting its large decentralized finance (DeFi) ecosystem and role in early tokenization efforts.
+
+But, like Bitcoin, all transactions are visible, and large banks have taken a different path. Many have spent years building or backing private, permissioned networks, arguing that financial institutions need tighter control over data, access and compliance. Firms like JPMorgan, the largest U.S. bank by assets, have developedin-house systems, while others have supported platforms designed to limit who can see and validate transactions.
+
+Wilson argued for systems that limit visibility. “Privacy is kind of at the top of the list,” he said, describing the features needed for institutional adoption. He also cited market structure issues like front-running. “That ability for people to reorder transactions … that’s just not suitable for financial markets.”
+
+His comments come as tokenizationgains traction across the industry. Banks and asset managers are testing ways to move stocks, bonds and other assets onto blockchain-based systems. Wilson agrees the opportunity is large, especially for major asset classes. But he expects the design to look different from today’s public chains.
+
+“I think it’s obvious that that will not happen,” he said, referring to the idea that institutions will adopt fully transparent systems. “Everybody thinks I’m crazy … so I don’t know. Maybe I’m wrong. We’ll see.”
+
+As stablecoins evolve into core financial infrastructure, North America leads. This report maps the regulation, market shifts, and players driving adoption.
+
+Stablecoins are entering their third phase of evolution - the institutionalization era - becoming increasingly embedded into core financial infrastructure. As institutions prioritize transparency and compliance, regulated issuers like USDC, RLUSD, and PYUSD are steadily gaining share with RLUSD surpassing $1B in market cap within its first year. North America, leading in regulatory frameworks and institutional distribution, is at the center of it all.
+
+The video retailer sparked speculations of selling bitcoin after it transferred nearly all its coins to Coinbase Prime in January.

@@ -1,0 +1,27 @@
+Title: Stablecoin Giant Tether Expands Leading Gold-Backed Token to BNB Chain
+Source: Decrypt
+URL: https://decrypt.co/362448/stablecoin-giant-expands-leading-gold-backed-token-bnb-chain
+
+Stablecoin Giant Tether Expands Leading Gold-Backed Token to BNB Chain
+
+Tether said Thursday that it has launched its gold-backed token XAUT onBNB Chain, expanding access to the dominant tokenized gold product after the precious metal soared to new price heights in recent months.
+
+The listing connects BNB Chain's ecosystem to XAUT, which is the largest gold-backed token on the market with a nearly $2.5 billion market cap, as of this writing. That’s nearly half the total tokenized gold market, which currently sits at $5.3 billion, per data from CoinGecko. Paxos’ PAX Gold isn’t far behind XAUT with a market cap around $2.3 billion.
+
+Originally launched onEthereum, each XAUT token represents one fine troy ounce of physical gold held in Swiss vaults as London Good Delivery bars, with 1:1 backing confirmed by independent attestations. Per Tether’s latest attestation report, the firm held over 520,000 troy ounces of gold as of the end of 2025.
+
+Leading crypto exchange Binance—which launched the BNB token and BNB Chain network—has opened spot trading for XAUT pairs including USDT, Bitcoin, FDUSD, USDC, and TRY.
+
+“People understand gold. They trust it because it has held value for millennia,” said Tether CEO Paolo Ardoino, in astatement. “With XAUT, we are not changing what gold is; we are making it usable in a modern financial system. You still have direct exposure to physical gold, but now it can move instantly, settle globally, and integrate seamlessly with digital markets.
+
+“Listing on BNB Chain expands that access to hundreds of millions of users,” he added, “bringing gold into a system where it can actually be used, not just held.”
+
+The price of gold peaked above $5,500 in late January and was still above the $5,000 level earlier this month, but has since ticked down to arecent price of $4,442, falling nearly 15% in the last month. Users on prediction market Myriad—which is operated byDecrypt's parent company, Dastan—remain bullish on the asset,giving a 64% chancethat it will next rise to $4,900 rather than fall to $3,700.
+
+Tether is the firm behind USDT, the leading dollar-pegged stablecoin with an $184 billion market cap and recent daily trading volume above $64 billion. Earlier this week, the company said that it hassecured a “Big Four” accounting firmfor the first time to perform a full independent audit on USDT reserves, but has yet to identify the firm in question.
+
+Your gateway into the world of Web3
+
+The latest news, articles, and resources, sent to your inbox weekly.
+
+© A next-generation media company.2026Decrypt Media, Inc.

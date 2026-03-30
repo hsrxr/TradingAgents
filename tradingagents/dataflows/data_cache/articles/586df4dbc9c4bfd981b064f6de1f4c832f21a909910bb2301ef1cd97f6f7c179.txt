@@ -1,0 +1,35 @@
+Title: CoinShares says up to 20% of Bitcoin miners are unprofitable
+Source: Cointelegraph
+URL: https://cointelegraph.com/news/bitcoin-mining-squeeze-narrows-field-of-viable-operators-coinshares?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+
+CoinShares says up to 20% of Bitcoin miners may be unprofitable at current hashprice levels, particularly those running older machines or paying higher power costs.
+
+Cointelegraph in your social feed
+
+Bitcoin mining economics are tightening to levels that are pushing a portion of the global fleet below profitability, according to a report from asset manager CoinShares.
+
+In its Bitcoin (BTC) mining report for Q1 2026, CoinSharessaidhashprice, a keymeasure of miner revenue, fell to around $28 per petahash per second per day (PH/s/day) in February 2026, marking a new post-halving low and compressing margins across the sector.
+
+At the time of writing, mining data provider Hashrate Indexshowsthat hashprice has recovered to about $33 PH/s/day, though it remains among the lowest levels seen in the past five years. Even with the recovery, CoinShares estimates that roughly 15% to 20% of the global Bitcoin mining fleet is unprofitable at these levels, particularly among operators running older hardware or facing higher electricity costs.
+
+The report suggests the downturn is not just cyclical but is increasingly narrowing the field of viable operators to those with structural advantages, such as more efficient fleets or access to low-cost power, as a mining squeeze driven by lower Bitcoin prices, rising network difficulty and weak transaction fees compresses miner revenue.
+
+The squeeze has already started to show up in network data. On March 20, Bitcoin’s mining difficulty fell about 7.7%,marking one of the sharpest declinesthis year as pressure on miners persisted. A lower difficulty reduces the computational work required to mine a block, offering some relief to operators who remain online.
+
+CoinShares said miners running mid-generation hardware were operating below breakeven at current hashprice levels, particularly those paying around $0.05 per kilowatt-hour or more for electricity.
+
+The report said miners using mid-generation hardware need access to sub-5 cent power to remain cash-profitable, while latest-generation fleets can still retain meaningful margins at typical industrial electricity rates.
+
+Related:Omnes, Apex to tokenize Bitcoin mining exposure via structured note on Base
+
+CoinShares expects further pressure on mining economics if Bitcoin prices remain subdued. James Butterfill, head of research at CoinShares, wrote that a sustained downturn could force miners to shut down unprofitable rigs, which may reduce hashrate growth and stabilize returns.
+
+“If prices were to stay below $80k for the remainder of the year, we forecast the hashprice to continue to fall,” he wrote, adding that in such a scenario, “the hashprice would more likely flatline” as weaker operators exit the network.
+
+Magazine:Big Questions: Can Bitcoin save you from the dreaded Cantillon Effect?
+
+Cointelegraph covers fintech, blockchain and Bitcoin bringing you the latest crypto news and analyses on the future of money.
+
+Cointelegraph is committed to providing independent, high-quality journalism across the crypto, blockchain, AI, and fintech industries. To support open access to our website and sustain editorial operations, certain commercial or partner references may appear on our site. These arrangements help maintain an accessible platform and do not result in additional costs to readers.
+
+All news, reviews, and analysis are produced with full journalistic independence and integrity. For more details on our standards and processes, please read ourEditorial Policy.

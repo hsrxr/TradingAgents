@@ -49,7 +49,7 @@ venv/
 ENV/
 env/
 .env
-.env.local
+.env.example
 
 # IDEs
 .vscode/
@@ -230,3 +230,11 @@ dist/
 __pycache__/
 *.egg-info/
 .eggs/
+
+eval_results/
+eval_results/**/*
+
+examples/
+
+trade_memory/
+unused_archive/

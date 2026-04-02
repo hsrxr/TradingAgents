@@ -1,0 +1,43 @@
+Title: Interactive Brokers expands crypto trading to retail investors in Europe
+Source: Cointelegraph
+URL: https://cointelegraph.com/news/interactive-brokers-expands-crypto-trading-to-retail-investors-in-europe?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+
+Brokerage clients in the European Economic Area can now trade 11 cryptocurrencies alongside traditional assets within a single account.
+
+Cointelegraph in your social feed
+
+Interactive Brokers has launched crypto trading for retail investors in the European Economic Area (EEA), allowing eligible clients to buy and sell 11 digital assets, including Bitcoin and Ethereum, alongside traditional assets on its platform.
+
+According to Tuesday’sannouncement, the EEA Operation will be  offered through the company’s Ireland-based entity, an authorized crypto-asset service provider in the region. Clients will see spot crypto trading integrated into existing brokerage accounts with commissions starting at 0.12%–0.18% and 24/7 market access.
+
+Tradable assets include Bitcoin (BTC), Ether (ETH), Solana (SOL), XRP (XRP), Cardano (ADA) and Dogecoin (DOGE), among others. Zerohash provides the underlying trading and custody infrastructure.
+
+To be sure, Interactive is just getting started in the crypto space. On a January earningscallwith stock analysts, CEO and President Milan Galik said “crypto revenues are, at the moment, small relative to the overall company's revenues.”
+
+He said then that a European debut was expected for the first quarter and that the company was hoping to soon support client asset transfers and that “some crypto assets will migrate to our platform and take advantage of our superior pricing.”
+
+Interactive Brokers is a US-based electronic brokerage that provides trading across stocks, options, futures, currencies and other assets on more than 170 markets worldwide.
+
+Related:BNP Paribas adds six Bitcoin, Ether ETNs for retail clients in France
+
+Traditional financial institutions have been expanding their involvement in digital assets, with brokerages and banks rolling out trading, custody and infrastructure services as client demand grows.
+
+Fidelity Investments, one of the earlier major traditional asset managers to offer crypto trading, now provides directtradingin four cryptocurrencies, access to crypto-linked funds via brokerage accounts, and the ability to hold digital assets in retirement accounts.
+
+The company has also issueda US dollar-pegged stablecoin, Fidelity Digital Dollar (FIDD), as part of a broader push into tokenized financial products.
+
+In January,Charles Schwab signaled plans to launch spot Bitcoin trading, with CEO Rick Wurster indicating the company could roll out the service as early as April 2026 amid rising client demand for digital assets.
+
+The same month, Morgan Stanley outlinedplans to launch a digital asset wallet in 2026, alongside expanding crypto trading through its E*TRADE unit to support assets such as Bitcoin, Ether and Solana.
+
+The news followed a company guideline released in Octoberrecommending crypto allocationsof up to 4% in higher-risk, growth-oriented portfolios.
+
+Shortly after being released, Bitwise CEO Hunter Horsleysaidon X that the report was “huge” and signals growing mainstream adoption of crypto.
+
+Magazine:Are DeFi devs liable for the illegal activity of others on their platforms?
+
+Cointelegraph covers fintech, blockchain and Bitcoin bringing you the latest crypto news and analyses on the future of money.
+
+Cointelegraph is committed to providing independent, high-quality journalism across the crypto, blockchain, AI, and fintech industries. To support open access to our website and sustain editorial operations, certain commercial or partner references may appear on our site. These arrangements help maintain an accessible platform and do not result in additional costs to readers.
+
+All news, reviews, and analysis are produced with full journalistic independence and integrity. For more details on our standards and processes, please read ourEditorial Policy.

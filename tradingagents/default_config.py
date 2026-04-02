@@ -20,6 +20,7 @@ DEFAULT_CONFIG = {
     "openai_reasoning_effort": None,    # "medium", "high", "low"
     "llm_timeout_seconds": 180.0,
     "llm_max_retries": 5,
+    "enable_llm_streaming": True,
 
     # Debate and discussion settings
     "max_debate_rounds": 1,

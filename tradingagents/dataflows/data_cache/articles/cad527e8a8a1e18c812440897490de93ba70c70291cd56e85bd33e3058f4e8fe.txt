@@ -1,0 +1,31 @@
+Title: Hong Kong hasn’t issued a single HKD stablecoin license after March target
+Source: CoinDesk
+URL: https://www.coindesk.com/policy/2026/04/01/hong-kong-hasn-t-issued-a-single-hkd-stablecoin-license-after-march-target
+
+Hong Kong has missed its own March timeline for HKD stablecoin licensing, with the Hong Kong Monetary Authority (HKMA) yet to approve any issuers despite public signals that the rollout would begin last month.
+
+At Consensus Hong Kong in February, Financial Secretary Paul Chan Mo-posaid licenseswould begin to be issued in March as part of the city’s push to position itself as a regulated hub for stablecoins and tokenized finance. The lack of approvals so far pushes that timeline into April and raises questions about how quickly the framework will move from policy to implementation.
+
+"In giving our licenses, we ensure that licensees have novel use cases, a credible and sustainable business model and strong regulatory compliance capabilities," he said at CoinDesk's Hong Kong conference.
+
+Hong Kong's South China Morning Postreported in Marchthat HSBC and a joint venture between Standard Chartered and Animoca were expected to be some of the first recipients of stablecoin licenses.
+
+HSBC and Standard Chartered are two of the city’snote-issuing banks, a status that ties them directly to the Hong Kong dollar’s issuance framework and underscores how closely the stablecoin regime is being linked to existing monetary infrastructure.
+
+This system that dates back to 1846, when private banks began issuing currency backed by silver deposits in the absence of a colonial central bank.
+
+Today, each note-issuing bank deposits U.S. dollars with the government's Exchange Fund at the fixed rate of HK$7.80 per dollar and receives Certificates of Indebtedness in return, against which it prints banknotes.
+
+HKMA Chief Executive Eddie Yuedrew the parallelin a December 2023 blog post.
+
+Pre-1935 banknotes issued by commercial banks in exchange for deposited silver were a form of "private money," Yue wrote, and stablecoins function as their blockchain-based equivalent — tokens with stable value that can serve as a medium of exchange on-chain.
+
+An HKMA spokesperson would not give a reason for the delay.
+
+"The HKMA is actively taking forward the licensing matter and will announce further details in due course," a spokesperson told CoinDesk.
+
+Most crypto privacy models weaken as blockchain data grows. Encryption-based models like Zcash strengthen. CoinDesk Research maps the five privacy approaches and examines the widening gap.
+
+As blockchain adoption scales, the metadata available to machine learning models scales with it. Obfuscation-based privacy approaches are structurally degrading as a result. This report provides a comprehensive comparison of all five major crypto privacy architectures and a framework for evaluating which models remain durable as AI capabilities improve.
+
+The asset manager says innovation can proceed under current SEC rules as the Clarity Act faces debate in Congress.

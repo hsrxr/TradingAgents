@@ -51,6 +51,11 @@ class OpenAIClient(BaseLLMClient):
             api_key = os.environ.get("XAI_API_KEY")
             if api_key:
                 llm_kwargs["api_key"] = api_key
+        elif self.provider == "deepseek":
+            llm_kwargs["base_url"] = self.base_url or "https://api.deepseek.com/v1"
+            api_key = os.environ.get("DEEPSEEK_API_KEY") or os.environ.get("OPENAI_API_KEY")
+            if api_key:
+                llm_kwargs["api_key"] = api_key
         elif self.provider == "openrouter":
             llm_kwargs["base_url"] = "https://openrouter.ai/api/v1"
             api_key = os.environ.get("OPENROUTER_API_KEY")
@@ -62,7 +67,7 @@ class OpenAIClient(BaseLLMClient):
         elif self.base_url:
             llm_kwargs["base_url"] = self.base_url
 
-        for key in ("timeout", "max_retries", "reasoning_effort", "api_key", "callbacks"):
+        for key in ("timeout", "max_retries", "reasoning_effort", "api_key", "callbacks", "streaming"):
             if key in self.kwargs:
                 llm_kwargs[key] = self.kwargs[key]
 

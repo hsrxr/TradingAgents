@@ -1,0 +1,37 @@
+Title: Ethereum Foundation Stakes More ETH, Boosting Total to $50 Million
+Source: Decrypt
+URL: https://decrypt.co/362768/ethereum-foundation-stakes-eth-50-million
+
+Ethereum Foundation Stakes More ETH, Boosting Total to $50 Million
+
+TheEthereumFoundation staked another 22,517 ETH, or $46.2 million worth, as part of its previously announced staking initiative, according to on-chain data curated by blockchain analytics firm Arkham Intelligence.
+
+The latest batch wasstaked in 11 distinct transactions, with 2,047 ETH or around $4.2 million worth staked each time. In total, the firm has now staked 24,623 ETH, valued around $50 million, since it began proactively implementing staking as part of arevamped treasury strategy unveiled last June.
+
+As part of that newly established strategy, the organization promised tomore frequently utilize staking and DeFiprotocols to “enhance financial sustainability and to support a key application category that is delivering on the promise of permissionless secure access to base civilizational infrastructure.”
+
+Staking refers to the act of locking up tokens to help validate Ethereum's proof-of-stake network, and provides back ETH token rewards in the form of yield to those who do so. Approximately $78 billion worth of ETH is currently staked in the network.
+
+The Ethereum Foundation intends to ultimately stake around 70,000 ETH, or $142 million worth of the second largest crypto asset, with all the rewards flowing back to the Foundation. Based ondata from Arkham, the Foundation holds around 147,000 ETH at present time, with a portfolio valued at more than $364 million in total.
+
+THE ETHEREUM FOUNDATION IS STAKING ETH
+
+The Ethereum Foundation just staked $46.2M of ETH. This is more ETH than they have EVER staked before.pic.twitter.com/gCCc0qK6VN
+
+— Arkham (@arkham)March 30, 2026
+
+The organization’s on-chain activity comes amid itsfunding of the Ethereum Economic Zone(EEZ), a new framework designed to better align infrastructure and stakeholders within the Ethereum ecosystem.
+
+Proposed by Gnosis and Zisk, the “economic zone” aims to address barriers and limitations currently present for Ethereum’slayer-2 scaling networks. For example, under the EEZ framework, layer-2s can operate in shared environments, avoiding duplicative work while removing some of the isolation that layer-2 networks may have from Ethereum mainnet.
+
+The EEZ’s introduction comes shortly after Ethereum co-founder Vitalik Buterin pressed theimportance of a “new path” for the layer-2 network roadmap, asking for scaling networks to act less like “extensions” of Ethereum mainnet.
+
+Buterin has not yet publicly commented on the Ethereum Economic Zone, but hedid re-post the introductory announcementfrom the EEZ on X—a potential sign of endorsement.
+
+A representative for the Ethereum Foundation did not immediately respond toDecrypt’srequest for comment.
+
+Your gateway into the world of Web3
+
+The latest news, articles, and resources, sent to your inbox weekly.
+
+© A next-generation media company.2026Decrypt Media, Inc.

@@ -29,6 +29,7 @@ from tradingagents.dataflows.calculate_indicators import (
 )
 from tradingagents.dataflows.rss_processor import fetch_and_parse_crypto_news
 from tradingagents.dataflows.get_full_articles import fetch_article_full_text
+from tradingagents.triggers.observers import fetch_trigger_watch_news
 
 from .conditional_logic import ConditionalLogic
 from .setup import GraphSetup
@@ -166,6 +167,7 @@ class TradingAgentsGraph:
         self.curr_state = None
         self.ticker = None
         self.log_states_dict = {}  # date to full state dict
+        self.current_trace_file: Optional[str] = None
 
         # Set up the primary graph
         self.graph = self.graph_setup.setup_graph(selected_analysts)
@@ -220,6 +222,9 @@ class TradingAgentsGraph:
         if llm_max_retries is not None:
             kwargs["max_retries"] = llm_max_retries
 
+        if self.config.get("enable_llm_streaming") is not None:
+            kwargs["streaming"] = bool(self.config.get("enable_llm_streaming"))
+
         if provider == "google":
             thinking_level = self.config.get("google_thinking_level")
             if thinking_level:
@@ -271,6 +276,7 @@ class TradingAgentsGraph:
                     # get_news,
                     # get_global_news,
                     # get_insider_transactions,
+                    fetch_trigger_watch_news,
                     fetch_and_parse_crypto_news,
                     fetch_article_full_text,
                 ]
@@ -297,6 +303,7 @@ class TradingAgentsGraph:
         run_ts = datetime.datetime.now().strftime("%Y%m%d_%H%M%S")
         safe_trade_date = str(trade_date).replace(":", "-").replace("/", "-")
         trace_file = trace_dir / f"full_trace_{safe_trade_date}_{run_ts}.jsonl"
+        self.current_trace_file = str(trace_file)
         self.progress_tracker.start_run(
             str(trace_file),
             metadata={"company": company_name, "trade_date": str(trade_date), "parallel_mode": self.parallel_mode},

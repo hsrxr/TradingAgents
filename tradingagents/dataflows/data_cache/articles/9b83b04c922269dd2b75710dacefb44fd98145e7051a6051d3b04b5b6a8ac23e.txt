@@ -1,0 +1,45 @@
+Title: CFTC’s top enforcer puts prediction market insider traders on notice
+Source: Cointelegraph
+URL: https://cointelegraph.com/news/cftc-enforcement-chief-warns-insider-traders-on-prediction-markets-will-be-prosecuted?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+
+“There’s a myth in mainstream media and social media that insider trading doesn’t apply in the prediction markets … That is wrong,” said CFTC enforcement director David Miller.
+
+Cointelegraph in your social feed
+
+The US commodities regulator’s chief enforcement director sent a cautionary message to prediction market insider traders on Tuesday, vowing that violators will face enforcement action.
+
+“We are aware of the speculation about insider trading,” CFTC enforcement director David Miller said at a panel at New York University on Tuesday. “We are watching.”
+
+Miller, a former federal prosecutor who was appointed to the position on March 2, said the Commission will use its prosecutorial discretion and will not dedicate resources to “trivial” cases.
+
+“We will only be prosecuting cases against those who tip or trade with misappropriated information,” he said,accordingto Bloomberg.
+
+Prediction market insider trading has become a top-of-mind issue among US lawmakers in recent months, threatening the credibility of an industry that recently exceeded $20 billion in monthly volume,accordingto TRM Labs.
+
+“Our position is that event contracts are not gaming. The event contracts at issue are swaps. Insider trading law applies,” Miller said,accordingto Reuters.
+
+He said that the Commission will also focus on a few ​core enforcement areas, including market abuse and violations of laws designed to prevent money laundering.
+
+Related:Democrats press CFTC, ethics watchdog on prediction market insider trading
+
+Prediction market insider trading concerns heightened after a number of well-timed trades ‌ahead of US President Donald Trump’s major announcements.
+
+In another case, an anonymous trader who bet on the capture of Venezuelan leader Nicolás Maduromade over $400,000.
+
+More recently, users engaged in suspicious trades related to the invasion of Iran and the death of Ayatollah Khamenei, sparking national security concerns.
+
+In response to mounting public pressure, both leading prediction market platforms,KalshiandPolymarket, recently introduced new insider trading rules.
+
+In late March, US lawmakersunveiledthe bipartisan Public Integrity in Financial Prediction Markets Act of 2026, aimed at curbing insider trading by government officials.
+
+That same week,lawmakers introducedthe Preventing Real-time Exploitation and Deceptive Insider Congressional Trading Act (PREDICT Act).
+
+The CFTC has also come under pressure from Democratic lawmakers recently, who demanded that the agency warn federal employees not to useinside knowledgeto trade in prediction markets.
+
+Magazine:Are DeFi devs liable for the illegal activity of others on their platforms?
+
+Cointelegraph covers fintech, blockchain and Bitcoin bringing you the latest crypto news and analyses on the future of money.
+
+Cointelegraph is committed to providing independent, high-quality journalism across the crypto, blockchain, AI, and fintech industries. To support open access to our website and sustain editorial operations, certain commercial or partner references may appear on our site. These arrangements help maintain an accessible platform and do not result in additional costs to readers.
+
+All news, reviews, and analysis are produced with full journalistic independence and integrity. For more details on our standards and processes, please read ourEditorial Policy.

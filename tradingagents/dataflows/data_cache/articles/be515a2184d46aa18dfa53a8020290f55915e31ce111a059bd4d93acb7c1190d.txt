@@ -1,0 +1,27 @@
+Title: Stablecoin Market to Hit $2 Trillion in 2028 Even as Velocity Doubles: Standard Chartered
+Source: Decrypt
+URL: https://decrypt.co/362882/stablecoin-market-2-trillion-2028-velocity-doubles-standard-chartered
+
+Stablecoin Market to Hit $2 Trillion in 2028 Even as Velocity Doubles: Standard Chartered
+
+Stablecoin velocity has now doubled in the past two years, with coins changing hands an average of six times per month, Standard Chartered flagged in a note Tuesday morning.
+
+That's prompted the bank to revisit a key assumption behind its stablecoin market forecast. Geoff Kendrick, global head of digital assets research at the bank, said that's out of sync with the bank's longstanding forecast. Standard Chartered has predicted that the stablecoin market will reach $2 trillion in total market cap by the end of 2028—and it was premised on velocity remaining stable.
+
+Higher velocity, in theory, means fewer coins are needed to support the same volume of transactions, Kendrick wrote. But he stands by the $2 trillion forecast for 2028.
+
+"The good news is that these new use cases are, so far, additive to overall stablecoin transactions. Furthermore, the higher velocity of these use cases has not impacted the low-velocity [emerging markets] savings use case," he wrote.
+
+Kendrick found that it'sUSDCthat has driven new use cases for stablecoins. The Circle-issued token, which accounts for roughly 25% of the market, began decoupling from Tether's USDT in mid-2024 as it started displacing traditional banking rails—a trend that accelerated after theGENIUS Actestablished a federal regulatory framework for stablecoins last summer.
+
+Then, starting in October 2025, USDC velocity onSolanaandBasesurged sharply. Kendrick attributes that second leg to early AI agent payments via x402, an open-source payment protocol developed by Coinbase. Those volumes have since pulled back, the bank notes, suggesting the initial surge may have been transient.
+
+"As a result, our $2 trillion market estimate for end of 2028 remains intact," Kendrick wrote, "but we will watch stablecoin velocity more closely going forward, as we think it is a key input."
+
+He added that USDT's velocity, dominated by lower-turnover emerging-market savings, has remained comparatively stable. The two market leaders, the note argues, have diverged by use case: emerging market savings for USDT, TradFi replacement for USDC.
+
+Your gateway into the world of Web3
+
+The latest news, articles, and resources, sent to your inbox weekly.
+
+© A next-generation media company.2026Decrypt Media, Inc.

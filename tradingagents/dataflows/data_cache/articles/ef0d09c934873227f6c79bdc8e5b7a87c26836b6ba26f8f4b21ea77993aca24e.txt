@@ -1,0 +1,47 @@
+Title: Ethereum bulls must hold $2K: Volatility metric hints at ‘strong’ move next
+Source: Cointelegraph
+URL: https://cointelegraph.com/news/ethereum-bulls-must-hold-2k-volatility-hints-strong-price-move?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+
+A sharp drop in Ether’s realized volatility could result in significant ETH price moves if history repeats, making $2,000 a key support level to keep an eye on.
+
+Cointelegraph in your social feed
+
+Ether (ETH) price is down 6% over the last seven days to trade at $2,040 on Tuesday. Declining price volatility is also suggesting that a deeper correction could be in store.
+
+Ether’s realized volatility on Binance has dropped sharply to its lowest level since mid-January.
+
+ETH bulls must defend the $1,800-$2,000 support level to avoid further losses.
+
+Ether’s volatility has seen a sharp decline from February highs, reflecting a “significant decrease in price volatility and a reduction in speculative activity,”  according to data from CryptoQuant.
+
+Volatility reflects how much and how quickly Ether’s price fluctuates over a given period.
+
+The chart below shows that the realized volatility (30-day) indicator on Binance dropped sharply to 0.62 on Tuesday from 1.15 in mid-February. The last time the metric was at this level was in early January when it traded above $3,000.
+
+Meanwhile, its volatility Z-Score has dropped into the negative at -0.43, indicating that current volatility levels are below the historical average.
+
+A drop in realized volatility to such low levels indicates that the “market is experiencing an unusual period of calm compared to previous months,” CryptoQuant analyst Arab Chainsaidin a QuickTake analysis, adding:
+
+The last time the volatility saw such a sharp drop was in August-September 2025, accompanying an 18% decline in ETH price to $3,800.
+
+After that, it rallied 25% to $4,740 in less than two weeks. A similar drop in December 2025 preceded a 20% rally in Ether’s price. If history repeats itself, this spike in volatility could mark the end of the ongoing consolidation,setting up ETH for a relief rally.
+
+The ETH/USD pair continued to trade in range above $2,000, a key support level, which the bulls must hold to prevent further losses.
+
+The price is now retesting the middle level of the range, as shown in the chart below.
+
+“Any bounce is getting retraced quickly, which is a sign that Ethereum wants to go down,” analyst Ted Pillowssaidin an X post on Tuesday, adding:
+
+A key area of interest below lies between $1,750 and $1,800, where investorsaccumulatedmore than 1.4 million ETH in the past three months, according to Glassnode’s cost-basis distribution data.
+
+IfETH loses this level, it risks going lower toward $1,150, coinciding with the measured target of the bear flag.
+
+The bulls, meanwhile, must flip the $2,100-$2,200 supply zone into support, where the 50-day exponentialmoving average(SMA) is. Above that, the next resistance will likely be the local high at $2,380 reached on March 16.
+
+This article is produced in accordance with Cointelegraph's Editorial Policy and is intended for informational purposes only. It does not constitute investment advice or recommendations. All investments and trades carry risk; readers are encouraged to conduct independent research before making any decisions. Cointelegraph makes no guarantees regarding the accuracy or completeness of the information presented, including forward-looking statements, and will not be liable for any loss or damage arising from reliance on this content.
+
+Cointelegraph covers fintech, blockchain and Bitcoin bringing you the latest crypto news and analyses on the future of money.
+
+Cointelegraph is committed to providing independent, high-quality journalism across the crypto, blockchain, AI, and fintech industries. To support open access to our website and sustain editorial operations, certain commercial or partner references may appear on our site. These arrangements help maintain an accessible platform and do not result in additional costs to readers.
+
+All news, reviews, and analysis are produced with full journalistic independence and integrity. For more details on our standards and processes, please read ourEditorial Policy.

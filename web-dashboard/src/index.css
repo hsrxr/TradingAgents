@@ -1,0 +1,70 @@
+@import url("https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500;600&family=Space+Grotesk:wght@400;500;600;700&display=swap");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  color-scheme: dark;
+}
+
+@layer base {
+  * {
+    @apply border-zinc-800;
+  }
+
+  html,
+  body,
+  #root {
+    @apply min-h-screen;
+  }
+
+  body {
+    @apply bg-matrix font-sans text-zinc-100 antialiased;
+  }
+}
+
+@layer components {
+  .agent-markdown {
+    @apply min-w-0 max-w-full;
+    overflow-wrap: anywhere;
+    word-break: break-word;
+  }
+
+  .agent-markdown > * {
+    @apply min-w-0 max-w-full;
+  }
+
+  .agent-markdown p {
+    @apply my-1;
+  }
+
+  .agent-markdown ul,
+  .agent-markdown ol {
+    @apply my-1 ml-5;
+  }
+
+  .agent-markdown li {
+    @apply my-0.5;
+  }
+
+  .agent-markdown code {
+    @apply rounded bg-zinc-800/80 px-1 py-0.5 font-mono text-xs;
+  }
+
+  .agent-markdown pre {
+    @apply my-2 overflow-x-auto rounded-md border border-zinc-800 bg-zinc-900/90 p-2;
+  }
+
+  .agent-markdown table {
+    @apply block max-w-full overflow-x-auto;
+  }
+
+  .agent-markdown pre code {
+    @apply bg-transparent p-0;
+  }
+
+  .agent-markdown blockquote {
+    @apply my-2 border-l-2 border-zinc-700 pl-3 text-zinc-300;
+  }
+}

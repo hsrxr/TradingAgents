@@ -1,0 +1,25 @@
+Title: Australia passes crypto regulation requiring exchanges to obtain financial services licenses
+Source: CoinDesk
+URL: https://www.coindesk.com/policy/2026/04/01/australia-passes-crypto-licensing-bill-as-ausd24-billion-opportunity-comes-into-focus
+
+Australia passed legislation on Wednesday, creating its first comprehensive regulatory framework for digital assets that requires crypto exchanges and custody providers to obtain financial services licenses.
+
+TheCorporations Amendment (Digital Assets Framework) Bill 2025cleared both houses on April 1, bringing firms that hold digital assets on behalf of customers into the existing Australian Financial Services Licence regime.
+
+Australia's bill creates two new regulated categories under the Corporations Act: digital asset platforms, which hold crypto on behalf of users, and tokenized custody platforms, which hold real-world assets and issue a corresponding digital token.
+
+Operators of both must obtain an Australian Financial Services License from ASIC, bringing them under the same core rules as brokers or fund managers, including requirements to safeguard client assets, provide standardized disclosures, avoid misleading conduct, and maintain dispute resolution and compensation systems.
+
+Instead of regulating crypto itself, the law targets the companies in the middle that control customer funds, aiming to reduce risks like commingling, insolvency, and misuse of assets that have caused losses in past crypto failures.
+
+Research from the Digital Finance Cooperative Research Center and industry groupsestimates Australia could generate as much as A$24 billion annuallyfrom tokenized markets, payments, and digital assets, roughly 1% of GDP. Under the previous regulatory path, the country was on track to capture just A$1 Billion of that by 2030.
+
+A Kraken spokesperson said the law provides a “top-down signal” that Australia is serious about digital assets, adding that clearer rules would give firms confidence to invest and expand locally.
+
+Kate Cooper, CEO of OKX Australia and co-chair of the Digital Economy Council of Australia, called the bill a “pivotal moment,” saying it establishes a foundation for institutional participation and long-term capital allocation.
+
+Most crypto privacy models weaken as blockchain data grows. Encryption-based models like Zcash strengthen. CoinDesk Research maps the five privacy approaches and examines the widening gap.
+
+As blockchain adoption scales, the metadata available to machine learning models scales with it. Obfuscation-based privacy approaches are structurally degrading as a result. This report provides a comprehensive comparison of all five major crypto privacy architectures and a framework for evaluating which models remain durable as AI capabilities improve.
+
+Officials flagged March for initial approvals, but licensing has yet to begin with no updated timeline

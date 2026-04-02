@@ -1,0 +1,15 @@
+Title: Bitcoin, stocks rise, oil slides, after report of Iran's willingness to end conflict
+Source: CoinDesk
+URL: https://www.coindesk.com/markets/2026/03/31/bitcoin-stocks-rise-oil-slides-after-report-of-iran-s-willingness-to-end-conflict
+
+BitcoinBTC$68,435.38rose alongside U.S. stocks after Iran’s President Masoud Pezeshkianreportedlysaid the country would be prepared to end the conflict if it receives security guarantees.
+
+The crypto asset was trading at $67,762, up nearly 2% over the past 24 hours. The Nasdaq about doubled its gain on the news, now higher by 3.1%. WTI crude oil, meanwhile, tumbled from just shy of $105 per barrel to $102.
+
+Pezeshkian's unconfirmed remarks are raising the prospect of a diplomatic off-ramp, easing fears of a wider conflict that could disrupt oil flows, fuel inflation and continue to rattle global markets.
+
+Most crypto privacy models weaken as blockchain data grows. Encryption-based models like Zcash strengthen. CoinDesk Research maps the five privacy approaches and examines the widening gap.
+
+As blockchain adoption scales, the metadata available to machine learning models scales with it. Obfuscation-based privacy approaches are structurally degrading as a result. This report provides a comprehensive comparison of all five major crypto privacy architectures and a framework for evaluating which models remain durable as AI capabilities improve.
+
+Asian stocks surged 4% and S&P 500 futures jumped after Trump said the conflict could conclude without a deal with Tehran, while Morgan Stanley's newly approved bitcoin ETF at 14 basis points opens a $6.2 trillion advisory channel.

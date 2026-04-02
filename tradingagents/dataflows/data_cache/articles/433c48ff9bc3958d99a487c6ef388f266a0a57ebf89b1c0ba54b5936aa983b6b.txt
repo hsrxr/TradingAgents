@@ -1,0 +1,25 @@
+Title: U.S. rule change may open trillions in 401(k) funds to crypto
+Source: CoinDesk
+URL: https://www.coindesk.com/policy/2026/03/30/u-s-rule-change-may-open-trillions-in-401-k-funds-to-crypto
+
+The U.S. Department of Labor has proposed a rule that would make it easier for 401(k) plans to include alternative assets such as cryptocurrencies, private equity and real estate.
+
+Theproposalis in response to President Donald Trump’sexecutive order, released in August, which directed the Labor Department and the Securities and Exchange Commission to facilitate expanded access to alternative assets in 401(k)s.
+
+“This proposed rule will show how plans can consider products that better reflect the investment landscape as it exists today,” Labor Secretary Lori Chavez-DeRemer said in a statement.
+
+If adopted, the rule would mark a shift in how retirement plans are built. For years, most 401(k)s have focused on stocks and bonds. The new approach would allow plan providers to add a broader mix of assets, including digital tokens and private-market funds that are not traded on public exchanges.
+
+The move builds on earlier changes. Last May, the Labor Department rescinded prior guidance that urged fiduciaries to exercise “extreme care” before adding crypto to retirement plans. Trump’s executive order went further, calling for digital assets to be treated on par with other investment options.
+
+Still, the proposal has drawn criticism from some lawmakers and financial advisors.
+
+“As cracks emerge in the private credit market, private equity returns fall to 16-year lows, and crypto keeps tumbling, President Trump has decided now is the time to stick all of these risky assets into Americans’ 401(k)s,” Senator Elizabeth Warren said in a statement. She warned the rule could expose workers to losses while benefiting large financial firms.
+
+The stakes for crypto could be large. U.S. 401(k) plans hold trillions of dollars in retirement savings, and even a small shift into digital assets could send new capital into the market. If a large plan with tens of thousands of workers were to allocate just 1% of its portfolio to bitcoin, that would translate into millions of dollars flowing into crypto funds or tokens.
+
+As stablecoins evolve into core financial infrastructure, North America leads. This report maps the regulation, market shifts, and players driving adoption.
+
+Stablecoins are entering their third phase of evolution - the institutionalization era - becoming increasingly embedded into core financial infrastructure. As institutions prioritize transparency and compliance, regulated issuers like USDC, RLUSD, and PYUSD are steadily gaining share with RLUSD surpassing $1B in market cap within its first year. North America, leading in regulatory frameworks and institutional distribution, is at the center of it all.
+
+Members of the House and Senate asked the CFTC and federal ethics office to remind government employees it's illegal to make insider derivatives trades.

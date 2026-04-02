@@ -1,0 +1,37 @@
+Title: Oil hits three-year high above $105: Will Bitcoin crash again?
+Source: Cointelegraph
+URL: https://cointelegraph.com/news/oil-prices-hit-3-year-high-above-dollar105-will-bitcoin-crash-again?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+
+Historical data shows Bitcoin bear markets deepening when oil prices rally to record highs. Will Monday’s $105 WTI price lead to a BTC crash?
+
+Cointelegraph in your social feed
+
+$105 WTI crude often triggers Bitcoin price corrections, with history showing a 14% to 27% sell-off within weeks.
+
+The BTC to oil correlation remains uncertain as events like Mt. Gox and the Terra-Luna collapse likely deepened previous crypto bear markets.
+
+Oil prices surged to $105 on Monday, reaching their highest level in nearly four years. Historically, this specific threshold has aligned with major Bitcoin (BTC) price corrections. However, since these occurrences only took place once in 2014 and twice in 2022, a more granular analysis is required to determine if current market fears are justified.
+
+On June 12, 2014, West Texas Intermediate (WTI) climbed above $105 after the Islamic State (ISIS) advanced into northern Iraq and captured Mosul and Tikrit.
+
+While the price action in the first week was muted, Bitcoin faced a 21% correction in less than 10 weeks, falling to $468 from $600. It would take over two years for Bitcoin to reclaim the $600 level. The next instance would happen almost 8 years later. On March 1, 2022, WTI prices surged above $105 following the escalation of the Russia-Ukraine war.
+
+Bitcoin price faced a 14% correction within seven days, trading down to $38,100 from $44,370 on March 1, 2022. However, the losses were entirely reversed within less than a month, despite oil prices remaining above the $105 level.
+
+The most recent instance of WTI oil prices surging above $105 occurred on May 4, 2022, after the European Commission formallyproposeda phased-in embargo on all Russian oil imports.
+
+Bitcoin prices faced a steep 27% crash over the next 7 days, and investors endured a much longer bear market as its price entered a 19-month bear market before finally reclaiming the $39,700 level. While oil prices remained below $100 for several years, they returned to triple digits this week.
+
+Related:Hyperliquid whale opens $53M Bitcoin short: Should traders take notice?
+
+US President Donald Trump said that his preference would be for the US to control the oil industry in Iran “indefinitely,”accordingto Yahoo Finance. While $105 oil is seen as a bearish sign for Bitcoin, three events in 12 years do not prove a correlation.
+
+Other factors, like theMt. Gox exchange liquidationin February 2014 and theTerra-Luna ecosystem collapsein May 2022, likely caused those prolonged bear markets. Thus, pinning a Bitcoin crash on an arbitrary oil price threshold seems far-fetched.
+
+This article is produced in accordance with Cointelegraph's Editorial Policy and is intended for informational purposes only. It does not constitute investment advice or recommendations. All investments and trades carry risk; readers are encouraged to conduct independent research before making any decisions. Cointelegraph makes no guarantees regarding the accuracy or completeness of the information presented, including forward-looking statements, and will not be liable for any loss or damage arising from reliance on this content.
+
+Cointelegraph covers fintech, blockchain and Bitcoin bringing you the latest crypto news and analyses on the future of money.
+
+Cointelegraph is committed to providing independent, high-quality journalism across the crypto, blockchain, AI, and fintech industries. To support open access to our website and sustain editorial operations, certain commercial or partner references may appear on our site. These arrangements help maintain an accessible platform and do not result in additional costs to readers.
+
+All news, reviews, and analysis are produced with full journalistic independence and integrity. For more details on our standards and processes, please read ourEditorial Policy.

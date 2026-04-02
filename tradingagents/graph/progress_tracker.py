@@ -5,6 +5,7 @@ Displays agent prompts, outputs, and execution progress.
 
 import logging
 import json
+import threading
 from datetime import datetime
 from typing import Any, Dict, List, Optional
 from enum import Enum
@@ -193,7 +194,8 @@ class ProgressTracker:
                       analyst_name: str, 
                       prompt: str, 
                       response: str,
-                      duration: float) -> None:
+                      duration: float,
+                      tool_calls: Optional[List[Dict[str, Any]]] = None) -> None:
         """
         Track an LLM call with its prompt and response.
         
@@ -209,6 +211,7 @@ class ProgressTracker:
             "prompt": prompt,
             "response": response,
             "duration": duration,
+            "tool_calls": tool_calls or [],
         })
 
         self._write_jsonl_event({
@@ -218,10 +221,33 @@ class ProgressTracker:
             "prompt": prompt,
             "response": response,
             "duration": duration,
+            "tool_calls": tool_calls or [],
         })
         
         if self.verbose:
             self._print_llm_call(analyst_name, prompt, response, duration)
+
+    def track_tool_event(self, event_name: str, tool_name: str, payload: Any) -> None:
+        """Track tool start/end events for real-time UI consumption."""
+        self._write_jsonl_event(
+            {
+                "event": event_name,
+                "timestamp": datetime.now().strftime("%Y-%m-%d %H:%M:%S"),
+                "tool_name": tool_name,
+                "payload": payload,
+            }
+        )
+
+    def track_llm_token(self, analyst_name: str, token: str) -> None:
+        """Track incremental streamed LLM tokens."""
+        self._write_jsonl_event(
+            {
+                "event": "llm_token",
+                "timestamp": datetime.now().strftime("%Y-%m-%d %H:%M:%S"),
+                "analyst": analyst_name,
+                "token": token,
+            }
+        )
     
     def track_analyst_report(self, analyst_name: str, report: str, duration: float) -> None:
         """
@@ -430,20 +456,82 @@ class LangChainProgressCallback(BaseCallbackHandler):
             progress_tracker: The ProgressTracker instance to update
         """
         self.progress_tracker = progress_tracker
-        self.current_prompt = None
-        self.start_time = None
+        self.current_prompt: Optional[str] = None
+        self.start_time: Optional[float] = None
+        self._lock = threading.Lock()
+        self._run_prompts: Dict[str, str] = {}
+        self._run_start_times: Dict[str, float] = {}
+        self._run_actors: Dict[str, str] = {}
+
+    def _extract_run_key(self, kwargs: Dict[str, Any]) -> Optional[str]:
+        run_id = kwargs.get("run_id")
+        if run_id is None:
+            return None
+        try:
+            return str(run_id)
+        except Exception:
+            return None
+
+    def _resolve_actor_name(self, kwargs, fallback_prompt: Optional[str] = None) -> str:
+        """Infer actor name from callback context and prompt content."""
+        run_key = self._extract_run_key(kwargs)
+        if run_key:
+            with self._lock:
+                cached_actor = self._run_actors.get(run_key)
+            if cached_actor:
+                return cached_actor
+
+        explicit_name = kwargs.get("name")
+        if explicit_name and explicit_name != "Unknown":
+            return str(explicit_name)
+
+        run_name = kwargs.get("run_name")
+        if run_name:
+            return str(run_name)
+
+        prompt_text = (fallback_prompt or self.current_prompt or "").lower()
+        mappings = [
+            ("quantitative strategy signal analyst", "Quant Analyst"),
+            ("crypto news analyst", "News Analyst"),
+            ("crypto market analyst", "Market Analyst"),
+            ("bull researcher", "Bull Researcher"),
+            ("bear researcher", "Bear Researcher"),
+            ("risk management", "Risk Engine"),
+            ("trader", "Trader"),
+        ]
+        for key, label in mappings:
+            if key in prompt_text:
+                if run_key:
+                    with self._lock:
+                        self._run_actors[run_key] = label
+                return label
+
+        return "Unknown"
     
     def on_llm_start(self, serialized, prompts, **kwargs):
         """Called at the start of LLM execution."""
         import time
-        self.start_time = time.time()
-        if prompts:
-            self.current_prompt = prompts[0]
+        started_at = time.time()
+        prompt_text = prompts[0] if prompts else None
+        self.start_time = started_at
+        self.current_prompt = prompt_text
+
+        run_key = self._extract_run_key(kwargs)
+        if run_key:
+            with self._lock:
+                self._run_start_times[run_key] = started_at
+                if prompt_text:
+                    self._run_prompts[run_key] = prompt_text
+
+            if prompt_text:
+                self._resolve_actor_name(kwargs, fallback_prompt=prompt_text)
 
     def on_chat_model_start(self, serialized, messages, **kwargs):
         """Called at the start of chat model execution."""
         import time
-        self.start_time = time.time()
+        started_at = time.time()
+        self.start_time = started_at
+        prompt_text: Optional[str] = None
         try:
             if messages and messages[0]:
                 chunks = []
@@ -453,17 +541,38 @@ class LangChainProgressCallback(BaseCallbackHandler):
                     if isinstance(content, list):
                         content = " ".join(str(item) for item in content)
                     chunks.append(f"[{role}] {content}")
-                self.current_prompt = "\n".join(chunks)
+                prompt_text = "\n".join(chunks)
+                self.current_prompt = prompt_text
         except Exception:
             self.current_prompt = None
+
+        run_key = self._extract_run_key(kwargs)
+        if run_key:
+            with self._lock:
+                self._run_start_times[run_key] = started_at
+                if prompt_text:
+                    self._run_prompts[run_key] = prompt_text
+
+            if prompt_text:
+                self._resolve_actor_name(kwargs, fallback_prompt=prompt_text)
     
     def on_llm_end(self, response, **kwargs):
         """Called at the end of LLM execution."""
         import time
-        duration = time.time() - self.start_time if self.start_time else 0
+        run_key = self._extract_run_key(kwargs)
+
+        prompt_for_run: Optional[str] = None
+        start_time_for_run: Optional[float] = self.start_time
+        if run_key:
+            with self._lock:
+                prompt_for_run = self._run_prompts.get(run_key)
+                start_time_for_run = self._run_start_times.get(run_key, start_time_for_run)
+
+        duration = time.time() - start_time_for_run if start_time_for_run else 0
         
         # Extract response text
         response_text = ""
+        collected_tool_calls: List[Dict[str, Any]] = []
         if hasattr(response, "generations") and response.generations:
             for generation in response.generations:
                 candidate = generation[0] if generation else None
@@ -477,18 +586,55 @@ class LangChainProgressCallback(BaseCallbackHandler):
                     if isinstance(content, list):
                         content = " ".join(str(item) for item in content)
                     response_text += str(content)
+
+                    msg_tool_calls = getattr(msg, "tool_calls", None)
+                    if isinstance(msg_tool_calls, list):
+                        for call in msg_tool_calls:
+                            if isinstance(call, dict):
+                                collected_tool_calls.append(self.progress_tracker._to_jsonable(call))
         
-        if self.current_prompt and response_text:
-            analyst_name = kwargs.get("name", "Unknown")
+        effective_prompt = prompt_for_run or self.current_prompt
+        if effective_prompt and response_text:
+            analyst_name = self._resolve_actor_name(kwargs, fallback_prompt=effective_prompt)
             self.progress_tracker.track_llm_call(
                 analyst_name,
-                self.current_prompt,
+                effective_prompt,
                 response_text,
-                duration
+                duration,
+                tool_calls=collected_tool_calls,
             )
+
+        if run_key:
+            with self._lock:
+                self._run_prompts.pop(run_key, None)
+                self._run_start_times.pop(run_key, None)
+                self._run_actors.pop(run_key, None)
+
+    def on_llm_new_token(self, token: str, **kwargs):
+        """Called for each streamed LLM token when streaming is enabled."""
+        if not token:
+            return
+        analyst_name = self._resolve_actor_name(kwargs)
+        self.progress_tracker.track_llm_token(analyst_name, token)
+
+    def on_tool_start(self, serialized, input_str, **kwargs):
+        """Called when a tool starts."""
+        tool_name = serialized.get("name", "unknown_tool") if isinstance(serialized, dict) else "unknown_tool"
+        self.progress_tracker.track_tool_event("tool_start", str(tool_name), input_str)
+
+    def on_tool_end(self, output, **kwargs):
+        """Called when a tool ends."""
+        tool_name = kwargs.get("name") or kwargs.get("run_name") or "unknown_tool"
+        self.progress_tracker.track_tool_event("tool_end", str(tool_name), output)
     
     def on_llm_error(self, error, **kwargs):
         """Called if LLM execution errors."""
+        run_key = self._extract_run_key(kwargs)
+        if run_key:
+            with self._lock:
+                self._run_prompts.pop(run_key, None)
+                self._run_start_times.pop(run_key, None)
+                self._run_actors.pop(run_key, None)
         logger.error(f"LLM Error: {error}")
 
 

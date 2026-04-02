@@ -1,0 +1,39 @@
+Title: Watch Out Bitcoin: Cryptography-Breaking Quantum Computers May Be Closer Than Expected, Says Caltech
+Source: Decrypt
+URL: https://decrypt.co/362988/cryptography-breaking-quantum-computers-closer-expected-caltech-bitcoin
+
+Watch Out Bitcoin: Cryptography-Breaking Quantum Computers May Be Closer Than Expected, Says Caltech
+
+Quantum computers capable of breaking modern cryptography may require far fewer qubits than previously believed, according to newresearchfrom the California Institute of Technology.
+
+In thestudypublished Monday, Caltech worked with Pasadena-basedOratomic, aquantum computingstartup founded by Caltech researchers, to develop a new neutral-atom system in which individual atoms are trapped and controlled with lasers to act as qubits. Doing so could allow a fault-tolerant quantum computer to run Shor’s algorithm, which could derive private keys from the public keys used inBitcoin’s elliptic-curve cryptography, with as few as 10,000 reconfigurable atomic qubits.
+
+Oratomic co-founder and CEO Dolev Bluvstein, a visiting associate in physics at Caltech, said advances in quantum computing are accelerating the timeline for practical machines and increasing pressure to migrate to quantum-resistant cryptography.
+
+“People are used to quantum computers always being 10 years away,” Bluvstein toldDecrypt.“But when you look at where we were a little over ten years ago, the best estimates of what would be required for Shor’s algorithm were one billion qubits at a time when the best systems we had in the lab were roughly five qubits.”
+
+Today’s most common error-correction systems often require about 1,000 physical qubits to create a single reliable, logical qubit, the error-corrected unit used to perform calculations. That overhead has helped push estimates for practical fault-tolerant systems into the million-qubit range, slowing progress toward machines capable of running algorithms that could threaten RSA and elliptic-curve cryptography used byBitcoinandEthereum.
+
+Bluvstein noted that current lab systems are already approaching—and in some cases exceeding—6,000 physical qubits. In other words, the cryptography risk may be much sooner than experts previously expected.
+
+“You can really see the system size and controllability increasing over time as the required system size goes down,” he said.
+
+In September, Caltech researchersrevealeda neutral-atom quantum computer operating 6,100 qubits with 99.98% accuracy and 13-second coherence times. It was a milestone toward error-corrected quantum machines that also renewed concerns about future threats to Bitcoin from Shor’s algorithm.
+
+The threat has prompted governments and technology firms to begin migrating to post-quantum cryptography, or encryption designed to withstand quantum attacks. Researchers, however, caution that major engineering challenges remain, including scaling quantum systems while maintaining extremely low error rates.
+
+“Just having 10,000 physical qubits is something that could happen within a year,” Bluvstein said. “But that's really not the goalpost people think it is. It’s not like when you design a computer, you just put the transistors on the chip, wash your hands, and say you’re done. It’s a highly non-trivial, extremely complicated task to actually go and build one of these.”
+
+Despite this, Bluvstein said a practical quantum computer could emerge before the end of the decade.
+
+The news comes as Google researchersreportednew findings on Tuesday, suggesting future quantum computers could break elliptic curve cryptography with fewer resources than previously thought. That added urgency to calls for a transition to post-quantum cryptography before such machines become viable.
+
+Although the cryptocurrency industry has increasingly begun to focus onquantum risk, Bluvstein said that risk extends far beyond blockchain networks and requires changes across much of the modern digital world.
+
+“I think the whole world’s digital infrastructure. It’s not just blockchain. It’s internet of things devices, internet communication, routers, satellites,” he said. “It spans the entire global digital infrastructure, and it’s complicated.”
+
+Your gateway into the world of Web3
+
+The latest news, articles, and resources, sent to your inbox weekly.
+
+© A next-generation media company.2026Decrypt Media, Inc.

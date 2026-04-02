@@ -1,0 +1,35 @@
+Title: Ethereum Funds Shed $222 Million as Crypto Bill Fears Rattle Investors
+Source: Decrypt
+URL: https://decrypt.co/362698/ethereum-funds-shed-222-million-crypto-bill-fears-rattle-investors
+
+Ethereum Funds Shed $222 Million as Crypto Bill Fears Rattle Investors
+
+Ethereum funds bore the heaviest losses among all digital asset exchange-traded products last week as broader risk-off sentiment collided with growing concern about theClarity Act, the upcoming U.S. crypto market structure bill.
+
+That's pushed total crypto fund outflows to $414 million—the first weekly net negative in five weeks, according toCoinShares' weekly fund flows report.
+
+Ethereuminvestment products shed $222 million, dragging the asset's year-to-date flows to a net outflow of $273 million—the worst of any crypto product tracked by the European digital asset manager.
+
+As of late Monday morning, Ethereum was trading at $2,041 after having gained 2.3% in the past day as it recovered from a weekend slump, according to crypto price aggregator CoinGecko.
+
+The Ethereum funds drawdown was "likely related to the Clarity Act news," CoinShares Head of Research James Butterfill wrote in a report. A new draft of the legislation hasdrawn scrutinyfor its potential implications for staked ETH products and yield-bearing stablecoin programs.
+
+"Regionally, the negative sentiment was almost solely focused on the U.S., seeing $445 million in outflows," he said, adding that "minor outflows were also seen in Switzerland totaling $4 million."
+
+The Clarity Act fallout hasn't been limited to Ethereum funds.
+
+USDC issuer Circle saw itsshares drop roughly a quarterof their value in the past week on speculation that the new Clarity Act draft will specifically target yield-bearing stablecoin programs. Circle doesn't offer any yield on USDC directly, but it does benefit from exchanges like Kraken andCoinbasepaying users rewards to hold USDC balances in their wallets.
+
+The broader sell-off was driven by the same forces thatrattled Bitcoin ETFs.Escalating geopolitical tensions around Iranand a sharp reversal in Federal Reserve rate expectations have also played a role.
+
+Users on Myriad, a prediction market platform owned byDecrypt's parent company Dastan, have grown increasingly certain that theFed will not cut ratesby more than 25 basis points before July. At the time of writing, 91.5% of users on the platform think it won't happen.
+
+A month ago, roughly 25% of traders thought that the Federal Open Market Committee might drop rates during itsJune meeting, according to the CME FedWatch Tool. But now traders are 97.4% certain the FOMC will hold the current rates—and 2.6% think the Fed might raise rates a quarter of a percentage point.
+
+The FOMC will next vote on interest rates at its April 28 meeting.
+
+Your gateway into the world of Web3
+
+The latest news, articles, and resources, sent to your inbox weekly.
+
+© A next-generation media company.2026Decrypt Media, Inc.

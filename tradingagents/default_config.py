@@ -43,7 +43,7 @@ DEFAULT_CONFIG = {
 
     # Outer trigger runtime settings
     "enable_trigger_runtime": False,
-    "trigger_pairs": ["WETH/USDC"],
+    "trigger_pairs": ["ETHUSD", "BTCUSD", "BNBUSD", "SOLUSD",],
     "trigger_poll_interval_seconds": 10,
     "trigger_aggregation_window_seconds": 90,
     "trigger_cooldown_seconds": 300,

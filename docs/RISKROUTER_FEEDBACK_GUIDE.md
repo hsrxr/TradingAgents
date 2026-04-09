@@ -474,7 +474,7 @@ rejections = checker.get_rejection_events(agent_id=40)
 □ portfolio database initialized
 □ chromadb directory exists (trade_memory/chromadb)
 □ agent-id.json has valid claim.balanceEth
-□ test_riskrouter_feedback.py all pass ✓
+□ unused_archive/legacy_tests_and_utils/test_riskrouter_feedback.py all pass ✓
 
 监控指标:
 □ approval_rate: TradeApproved / TradeIntentSubmitted

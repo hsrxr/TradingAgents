@@ -14,6 +14,8 @@ from typing import Any, Dict, List, Optional
 from enum import Enum
 
 from tradingagents.web3_layer.client import HackathonWeb3Client
+from web3._utils.events import get_event_data
+from hexbytes import HexBytes
 
 logger = logging.getLogger(__name__)
 
@@ -95,12 +97,66 @@ class TradeStatusChecker:
         self.client = client
         self.contract = client.risk_router
         self.w3 = client.w3
+        self.risk_router_address = self.contract.address
         
         # Cache of known events to avoid re-processing
         self._approval_cache: Dict[str, TradeApprovalEvent] = {}
         self._rejection_cache: Dict[str, TradeRejectionEvent] = {}
         self._last_block_checked = 0
         self._max_block_range = 50000
+
+    def _build_topic_filter(self, event_name: str, agent_id: int) -> List[HexBytes]:
+        """Build topic[0]/topic[1] for eth_getLogs with indexed agentId filter."""
+        signatures = {
+            "TradeApproved": "TradeApproved(uint256,bytes32,uint256)",
+            "TradeRejected": "TradeRejected(uint256,bytes32,string)",
+        }
+        signature = signatures.get(event_name)
+        if not signature:
+            raise ValueError(f"Unsupported event name for topic filter: {event_name}")
+
+        event_topic = HexBytes(self.w3.keccak(text=signature))
+        agent_topic = HexBytes(int(agent_id).to_bytes(32, byteorder="big", signed=False))
+        return [event_topic, agent_topic]
+
+    def _decode_raw_logs(self, logs: List[Any], event_name: str) -> List[Any]:
+        """Decode raw logs from eth_getLogs into event objects compatible with downstream parsing."""
+        event_factory = getattr(self.contract.events, event_name)
+        event_abi = event_factory().abi
+
+        decoded = []
+        for log in logs:
+            try:
+                decoded.append(get_event_data(self.w3.codec, event_abi, log))
+            except Exception as decode_error:
+                try:
+                    decoded.append(event_factory().process_log(log))
+                except Exception as process_error:
+                    logger.debug(
+                        "Failed to decode %s log via get_event_data/process_log: %s | %s",
+                        event_name,
+                        decode_error,
+                        process_error,
+                    )
+        return decoded
+
+    def _fetch_logs_via_rpc(
+        self,
+        event_name: str,
+        agent_id: int,
+        from_block: int,
+        to_block: int,
+    ) -> List[Any]:
+        """Query logs via eth_getLogs and decode them to event entries."""
+        logs = self.client.w3.eth.get_logs(
+            {
+                "address": self.risk_router_address,
+                "topics": self._build_topic_filter(event_name, agent_id),
+                "fromBlock": from_block,
+                "toBlock": to_block,
+            }
+        )
+        return self._decode_raw_logs(logs, event_name)
 
     def _resolve_block_window(
         self,
@@ -163,36 +219,26 @@ class TradeStatusChecker:
                 )
                 events = event_filter.get_all_entries()
             except Exception as filter_error:
-                # Fallback: query all events and filter manually
-                logger.debug(f"Filter error, using fallback approach: {filter_error}")
-                events = []
+                # Fallback: use raw RPC logs with explicit topic filters.
+                logger.debug("TradeApproved create_filter failed; fallback to eth_getLogs: %s", filter_error)
                 try:
-                    # Try using web3.py's newer API
-                    events = self.contract.events.TradeApproved.get_logs(
-                        from_block=from_block,
-                        to_block=to_block
+                    events = self._fetch_logs_via_rpc(
+                        "TradeApproved",
+                        agent_id,
+                        from_block,
+                        to_block,
                     )
-                except Exception as get_logs_error:
-                    logger.warning(f"get_logs failed: {get_logs_error}, trying eth_getLogs")
-                    # Last resort: call eth_getLogs directly
-                    try:
-                        logs = self.client.w3.eth.get_logs({
-                            "address": self.risk_router_address,
-                            "topics": [self.contract.events.TradeApproved.signature],
-                            "fromBlock": from_block,
-                            "toBlock": to_block
-                        })
-                        # Parse logs manually
-                        events = [self.contract.events.TradeApproved().process_log(log) for log in logs]
-                    except Exception as eth_error:
-                        logger.error(f"eth_getLogs also failed: {eth_error}")
-                        events = []
+                except Exception as eth_error:
+                    logger.error("TradeApproved eth_getLogs failed: %s", eth_error)
+                    events = []
             
             approval_events = []
             for event in events:
                 try:
                     # Handle both dict and Log object formats
                     event_args = event.get("args") if isinstance(event, dict) else event.args
+                    if event_args is None:
+                        continue
                     if int(event_args.get("agentId", -1)) != int(agent_id):
                         continue
 
@@ -201,10 +247,13 @@ class TradeStatusChecker:
                         intent_hash = intent_hash.hex()
 
                     tx_hash = event.get("transactionHash") if isinstance(event, dict) else event.transactionHash
-                    if hasattr(tx_hash, "hex"):
+                    if tx_hash is not None and hasattr(tx_hash, "hex"):
                         tx_hash = tx_hash.hex()
 
                     block_num = event.get("blockNumber") if isinstance(event, dict) else event.blockNumber
+                    if block_num is None:
+                        continue
+                    block_num = int(block_num)
                     approval_obj = TradeApprovalEvent(
                         agent_id=event_args["agentId"],
                         intent_hash=str(intent_hash),
@@ -262,36 +311,26 @@ class TradeStatusChecker:
                 )
                 events = event_filter.get_all_entries()
             except Exception as filter_error:
-                # Fallback: query all events and filter manually
-                logger.debug(f"Filter error, using fallback approach: {filter_error}")
-                events = []
+                # Fallback: use raw RPC logs with explicit topic filters.
+                logger.debug("TradeRejected create_filter failed; fallback to eth_getLogs: %s", filter_error)
                 try:
-                    # Try using web3.py's newer API
-                    events = self.contract.events.TradeRejected.get_logs(
-                        from_block=from_block,
-                        to_block=to_block
+                    events = self._fetch_logs_via_rpc(
+                        "TradeRejected",
+                        agent_id,
+                        from_block,
+                        to_block,
                     )
-                except Exception as get_logs_error:
-                    logger.warning(f"get_logs failed: {get_logs_error}, trying eth_getLogs")
-                    # Last resort: call eth_getLogs directly
-                    try:
-                        logs = self.client.w3.eth.get_logs({
-                            "address": self.risk_router_address,
-                            "topics": [self.contract.events.TradeRejected.signature],
-                            "fromBlock": from_block,
-                            "toBlock": to_block
-                        })
-                        # Parse logs manually
-                        events = [self.contract.events.TradeRejected().process_log(log) for log in logs]
-                    except Exception as eth_error:
-                        logger.error(f"eth_getLogs also failed: {eth_error}")
-                        events = []
+                except Exception as eth_error:
+                    logger.error("TradeRejected eth_getLogs failed: %s", eth_error)
+                    events = []
             
             rejection_events = []
             for event in events:
                 try:
                     # Handle both dict and Log object formats
                     event_args = event.get("args") if isinstance(event, dict) else event.args
+                    if event_args is None:
+                        continue
                     if int(event_args.get("agentId", -1)) != int(agent_id):
                         continue
 
@@ -300,10 +339,13 @@ class TradeStatusChecker:
                         intent_hash = intent_hash.hex()
 
                     tx_hash = event.get("transactionHash") if isinstance(event, dict) else event.transactionHash
-                    if hasattr(tx_hash, "hex"):
+                    if tx_hash is not None and hasattr(tx_hash, "hex"):
                         tx_hash = tx_hash.hex()
 
                     block_num = event.get("blockNumber") if isinstance(event, dict) else event.blockNumber
+                    if block_num is None:
+                        continue
+                    block_num = int(block_num)
                     rejection_obj = TradeRejectionEvent(
                         agent_id=event_args["agentId"],
                         intent_hash=str(intent_hash),
@@ -407,7 +449,12 @@ class TradeStatusChecker:
             
             time.sleep(poll_interval_seconds)
         
-        logger.warning(f"Trade {intent_hash} poll timeout after {max_wait_seconds}s")
+        logger.warning(
+            "Trade %s poll timeout after %ss. Explicit reason: no matching TradeApproved/TradeRejected event was found for agent_id=%s within the queried block windows. Potential causes include: tx pending/not mined yet, event not emitted, wrong agent_id or intent_hash, or RPC/indexing delay.",
+            intent_hash,
+            max_wait_seconds,
+            agent_id,
+        )
         return None
     
     def get_pending_trades(
@@ -455,7 +502,9 @@ class TradeStatusChecker:
         """
         try:
             block = self.w3.eth.get_block(block_number)
-            return int(block["timestamp"])
+            if isinstance(block, dict):
+                return int(block.get("timestamp", time.time()))
+            return int(getattr(block, "timestamp", time.time()))
         except Exception as e:
             logger.warning(f"Failed to get block timestamp for {block_number}: {e}")
             return int(time.time())

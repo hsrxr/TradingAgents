@@ -79,12 +79,18 @@ class TradingAgentsGraph:
         self.callbacks = callbacks or []
         self.parallel_mode = parallel_mode
         self.selected_analysts = selected_analysts
+        self.use_trader_v2 = bool(self.config.get("use_trader_v2", False))
 
         if self.parallel_mode and len(selected_analysts) <= 2:
             logger.info(
                 "parallel_mode=True with %s analysts. Overhead/retries may outweigh speedup.",
                 len(selected_analysts),
             )
+
+        logger.info(
+            "Trader prompt mode: %s",
+            "v2 (BUY/SELL only)" if self.use_trader_v2 else "legacy (BUY/SELL/HOLD)",
+        )
 
         # Update the interface's config
         set_config(self.config)
@@ -155,6 +161,7 @@ class TradingAgentsGraph:
                 self.invest_judge_memory,
                 self.risk_manager_memory,
                 self.conditional_logic,
+                use_trader_v2=self.use_trader_v2,
             )
         else:
             self.graph_setup = GraphSetup(
@@ -167,9 +174,11 @@ class TradingAgentsGraph:
                 self.invest_judge_memory,
                 self.risk_manager_memory,
                 self.conditional_logic,
+                use_trader_v2=self.use_trader_v2,
             )
 
         self.propagator = Propagator()
+        self.portfolio_manager = self.propagator.portfolio_manager
         self.reflector = Reflector(self.quick_thinking_llm)
         self.signal_processor = SignalProcessor(self.quick_thinking_llm)
 
@@ -216,6 +225,7 @@ class TradingAgentsGraph:
                 self.invest_judge_memory,
                 self.risk_manager_memory,
                 self.conditional_logic,
+                use_trader_v2=self.use_trader_v2,
             )
             self.serial_graph = serial_setup.setup_graph(selected_analysts)
 
@@ -459,16 +469,21 @@ class TradingAgentsGraph:
                     logger.info("Waiting for RiskRouter feedback...")
                     submission_result = self.on_chain_integrator.wait_for_feedback(
                         submission_result,
-                        max_wait_seconds=300,
+                        max_wait_seconds=120,
                         poll_interval_seconds=5,
                     )
-                    
-                    # Apply feedback to portfolio and memory
-                    self._apply_on_chain_feedback(
-                        submission_result,
-                        final_state,
-                        trade_date,
-                    )
+
+                    # Apply feedback only if RiskRouter actually resolved the trade.
+                    if submission_result.trade_approved or submission_result.trade_rejected:
+                        self._apply_on_chain_feedback(
+                            submission_result,
+                            final_state,
+                            trade_date,
+                        )
+                    else:
+                        logger.warning(
+                            "Skipping portfolio feedback application because no on-chain approval/rejection was received."
+                        )
                     
             except Exception as e:
                 logger.error(f"Unexpected error during on-chain submission: {e}", exc_info=True)

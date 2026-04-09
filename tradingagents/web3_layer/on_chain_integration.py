@@ -288,21 +288,6 @@ class OnChainIntegrator:
             result.metadata["trade_intent"] = intent
             result.metadata["intent_nonce"] = nonce
             
-            # Record trade in virtual ledger
-            confidence = float(decision.get("confidence", 0.5))
-            notes_raw = decision.get("reason", "")
-            trade_id = self.ledger.submit_trade(
-                agent_id=self.agent_id,
-                pair=pair,
-                action=action,
-                amount_usd=amount_usd_scaled / 100.0,
-                intent_hash=result.trade_intent_hash,
-                confidence=confidence,
-                notes=str(notes_raw)[:500],
-            )
-            result.metadata["virtual_trade_id"] = trade_id
-            logger.info(f"Trade recorded in virtual ledger: {trade_id}, balance=${self.ledger.get_balance():.2f}")
-            
         except Exception as e:
             result.trade_error = f"TradeIntent submission failed: {str(e)}"
             logger.error(result.trade_error, exc_info=True)
@@ -383,8 +368,15 @@ class OnChainIntegrator:
             else:
                 logger.warning(
                     f"No feedback received for trade {intent_hash[:16]}... "
-                    f"within {max_wait_seconds}s"
+                    f"within {max_wait_seconds}s. Explicit reason: no matching TradeApproved/TradeRejected event was observed in polling window (possible pending tx, RPC indexing lag, or event/agent mismatch)."
                 )
+                if self.ledger.mark_trade_feedback_timeout(
+                    intent_hash,
+                    reason="RiskRouter feedback timeout; trade remains pending in virtual ledger",
+                ):
+                    logger.info(
+                        f"Virtual ledger marked trade as timeout-pending: {intent_hash[:16]}..."
+                    )
                 if not submission_result.metadata:
                     submission_result.metadata = {}
                 submission_result.metadata["feedback_timeout"] = True

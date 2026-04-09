@@ -26,6 +26,7 @@ class GraphSetup:
         invest_judge_memory,
         risk_manager_memory,
         conditional_logic: ConditionalLogic,
+        use_trader_v2: bool = False,
     ):
         """Initialize with required components."""
         self.quick_thinking_llm = quick_thinking_llm
@@ -37,6 +38,7 @@ class GraphSetup:
         self.invest_judge_memory = invest_judge_memory
         self.risk_manager_memory = risk_manager_memory
         self.conditional_logic = conditional_logic
+        self.use_trader_v2 = use_trader_v2
         self.global_context_node = create_context_merge_node()
 
     def _normalize_selected_analysts(self, selected_analysts: List[str]) -> List[str]:
@@ -106,7 +108,8 @@ class GraphSetup:
         bear_researcher_node = create_bear_researcher(
             self.quick_thinking_llm, self.bear_memory
         )
-        chief_trader_node = create_trader(self.quick_thinking_llm, self.trader_memory)
+        trader_factory = create_trader_v2 if self.use_trader_v2 else create_trader
+        chief_trader_node = trader_factory(self.quick_thinking_llm, self.trader_memory)
         risk_engine_node = create_risk_engine()
 
         # Create workflow

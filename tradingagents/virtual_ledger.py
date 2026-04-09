@@ -245,6 +245,34 @@ class VirtualLedger:
         logger.warning("Trade not found or already processed: hash=%s", intent_hash[:16])
         return False
 
+    def mark_trade_feedback_timeout(
+        self,
+        intent_hash: str,
+        reason: str = "feedback_timeout",
+    ) -> bool:
+        """Mark a submitted trade as unresolved when on-chain feedback does not arrive.
+
+        This keeps the reserved balance in place and records that the trade is still
+        pending an external confirmation instead of treating it as rejected.
+        """
+        for trade in self.trades:
+            if trade["intent_hash"] == intent_hash and trade["status"] == "submitted":
+                trade["feedback_status"] = "timeout"
+                trade["feedback_reason"] = reason
+                trade["last_checked_at"] = datetime.now(timezone.utc).isoformat()
+                self._persist()
+
+                logger.info(
+                    "Trade feedback timeout recorded: hash=%s, reason=%s, balance=$%.2f",
+                    intent_hash[:16],
+                    reason,
+                    self.get_balance(),
+                )
+                return True
+
+        logger.warning("Trade not found or already processed for timeout marker: hash=%s", intent_hash[:16])
+        return False
+
     def close_trade(
         self,
         intent_hash: str,

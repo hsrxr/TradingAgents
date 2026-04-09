@@ -1,0 +1,39 @@
+Title: Bessent ramps up pressure on Congress to pass CLARITY Act
+Source: Cointelegraph
+URL: https://cointelegraph.com/news/bessent-presses-congress-to-pass-clarity-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+
+US Treasury Secretary Scott Bessent says the CLARITY Act is vital to set clear rules for crypto, tokenized assets and decentralized exchanges, and that US leadership is at stake.
+
+Cointelegraph in your social feed
+
+US Treasury Secretary Scott Bessent has asked Congress to pass the Digital Asset Market Clarity (CLARITY) Act without delay, warning that Senate floor time is limited and now is the moment to act.
+
+In a Wall Street Journal op-ed on Wednesday, Bessentsaidthe legislation is critical for providing clear regulatory rules for digital assets, including cryptocurrencies, tokenized assets and decentralized exchanges. He warned that with the global crypto market rising to $3 trillion and nearly one in six Americans holding digital assets, the stakes for US leadership in financial innovation are higher than ever.
+
+“To preserve it and rise to the challenge before us, Congress must pass the Clarity Act. Senate floor time is scarce, and now is the time to act,” he wrote.
+
+The US House of Representativespassed the CLARITY Actin July 2025, but the legislation has been repeatedly met with delays in the Senate over how stablecoin yields would be treated under the legislation.
+
+Traditional financial institutions have warned that stablecoin yields couldsignificantly reduce bank lending, while industry advocates argue they areessential to unlock innovationandkeep the US competitive.
+
+Related:Chainalysis claims stablecoin volumes could reach $1.5 quadrillion by 2035
+
+On Wednesday, a report by White House economists challenged claims by banking groups that stablecoin yields significantly threaten traditional lending, revealing that banning yields on stablecoins wouldhave a minimal impacton bank lending.
+
+The Council of Economic Advisers estimated that banning stablecoin yields would lift total US bank lending by only $2.1 billion, or 0.02% of the $12 trillion market, with community banks gaining just $500 million. On the other hand, they found that such a ban would impose an $800 million annual welfare loss per year due to lost yield for users.
+
+President Donald Trump has alsoslammed banks for obstructingcrypto legislation, arguing they are using stablecoin yield disagreements to hold the CLARITY Act and GENIUS Act “hostage.”
+
+Related:Dubai clarifies token issuance rules for RWAs and stablecoins
+
+On Wednesday, the Treasuryproposed new rulesunder the GENIUS Act requiring payment stablecoin issuers to implement Anti-Money Laundering and Counter-Terrorism Financing programs. The framework would mandate sanctions compliance and give issuers the authority to block, freeze or reject certain transactions, treating them as financial institutions under the Bank Secrecy Act.
+
+Industry experts say the move effectively turns stablecoin issuers into bank-like gatekeepers. Snir Levi, CEO of blockchain intelligence firm Nominis, told Cointelegraph that compliance could lead to significantly more wallet freezes, transaction blocking and asset seizures at scale.
+
+Magazine:Your guide to surviving this mini-crypto winter
+
+Cointelegraph covers fintech, blockchain and Bitcoin bringing you the latest crypto news and analyses on the future of money.
+
+Cointelegraph is committed to providing independent, high-quality journalism across the crypto, blockchain, AI, and fintech industries. To support open access to our website and sustain editorial operations, certain commercial or partner references may appear on our site. These arrangements help maintain an accessible platform and do not result in additional costs to readers.
+
+All news, reviews, and analysis are produced with full journalistic independence and integrity. For more details on our standards and processes, please read ourEditorial Policy.

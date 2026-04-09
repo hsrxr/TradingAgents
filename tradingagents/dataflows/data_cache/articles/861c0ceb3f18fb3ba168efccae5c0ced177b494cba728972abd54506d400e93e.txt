@@ -1,0 +1,41 @@
+Title: Morgan Stanley Bitcoin ETF trails BlackRock with $30M in first-day inflows
+Source: Cointelegraph
+URL: https://cointelegraph.com/news/morgan-stanley-bitcoin-etf-trails-blackrock-with-30m-in-first-day-inflows?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+
+Morgan Stanley’s Bitcoin ETF drew $30.6 million in first-day inflows, ranking second behind BlackRock’s IBIT as US spot Bitcoin ETFs clocked net outflows on Wednesday.
+
+Cointelegraph in your social feed
+
+The Morgan Stanley Bitcoin Trust (MSBT), the first spot Bitcoin exchange-traded fund (ETF) offered by a US bank, recorded $30.6 million in inflows on its trading debut, giving the Wall Street bank a respectable, but not blockbuster, entry into the spot Bitcoin ETF market.
+
+MSBT started trading on the NYSE Arca on Wednesday,generating$34 million in trading volume, slightly above the expectations of Bloomberg ETF analyst Eric Balchunas, whopredictedfirst-day volume would reach $30 million.
+
+As of April 8, MSBTheld444.4 Bitcoin (BTC), worth around $31.7 million, accounting for roughly 0.03% of the estimated 1.29 million BTC collectivelyheldby US spot BTC ETFs.
+
+Offering the lowest fee among its peers, Morgan Stanley’s ETF trailed only BlackRock’s iShares Bitcoin Trust (IBIT) on the day, which saw $40 million in inflows, highlighting competition in a market dominated by a few large issuers.
+
+The debut matters less as a challenge to BlackRock than as a sign that traditional finance still sees room in Bitcoin ETFs, but Morgan Stanley is arriving two years late to a market where the 2024 launch class set a far higher bar for first-day demand.
+
+IBIT and MSBT’s inflows were not enough to offset selling from other funds, as the Fidelity Wise Origin Bitcoin Fund (FBTC) and the ARK 21Shares Bitcoin ETF (ARKB) saw outflows of $79 million and about $75 million, respectively,accordingto Farside data.
+
+The Grayscale Bitcoin Trust ETF (GBTC) added another $11 million in redemptions, bringing total daily outflows from US spot Bitcoin ETFs to $124.5 million.
+
+The outflows marked two consecutive days of selling, following Tuesday’s $159 million in outflows, after thefunds recorded $471 million in inflowson Monday, the largest daily inflows since late February.
+
+Related:Canary Capital submits application for US-based spot PEPE ETF
+
+MSBT’s debut was modest compared with theJanuary 2024 launch wavethat followed the Securities and Exchange Commission’s approval of the first US spot Bitcoin ETFs.
+
+GBTC and IBIT handled $2.3 billion and $1 billionin opening day volume, respectively. IBIT saw about $112 million in inflows on its first day, while GBTC recorded $95 million in outflows.
+
+Although trailing, Morgan Stanley’s Bitcoin ETF is still on track to be among the top ETF launches in the past year, according to Bloomberg’s Balchunas.
+
+The ETF analyst referred to funds such as the Bitwise Solana Staking ETF (BSOL), the Canary XRP ETF (XRPC) and the Roundhill Memory ETF (DRAM), highlighting a $60 million volume threshold.
+
+Magazine:Your guide to surviving this mini-crypto winter
+
+Cointelegraph covers fintech, blockchain and Bitcoin bringing you the latest crypto news and analyses on the future of money.
+
+Cointelegraph is committed to providing independent, high-quality journalism across the crypto, blockchain, AI, and fintech industries. To support open access to our website and sustain editorial operations, certain commercial or partner references may appear on our site. These arrangements help maintain an accessible platform and do not result in additional costs to readers.
+
+All news, reviews, and analysis are produced with full journalistic independence and integrity. For more details on our standards and processes, please read ourEditorial Policy.

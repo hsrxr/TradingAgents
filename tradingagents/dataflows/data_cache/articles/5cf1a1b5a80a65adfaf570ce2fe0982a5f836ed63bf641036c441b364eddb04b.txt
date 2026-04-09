@@ -1,0 +1,15 @@
+Title: Bitcoin stalls below key resistance as analysts clash over next move
+Source: CoinDesk
+URL: https://www.coindesk.com/markets/2026/04/09/bitcoin-stalls-below-key-resistance-as-analysts-clash-over-next-move
+
+The crypto market remains pinned just below its early-February ceiling, with bitcoinBTC$71,324.31hovering at $71,200 and ether (ETH) trading at $2,185. The sideways crawl comes despite a risk-on boost from the recent US-Iran ceasefire, leaving analysts sharply divided on the next leg.
+
+Bloomberg's Mike McGlone said this week that BTCneeds to reclaim $75,000or risk a meltdown to $10,000. Fundstrat Tom Lee has taken a contrasting view, claiming that the"bottom is in"on Wednesday, although it's worth noting that his fund holds $10.4 billion worth of ETH.
+
+BTC is up by around 0.3% since midnight UTC while ETH is flat having outperformed the broader market on Wednesday, and while BTC has posted a modest gain, all eyes remain on whether this range-bound stability is a launchpad or a trap.
+
+Most crypto privacy models weaken as blockchain data grows. Encryption-based models like Zcash strengthen. CoinDesk Research maps the five privacy approaches and examines the widening gap.
+
+As blockchain adoption scales, the metadata available to machine learning models scales with it. Obfuscation-based privacy approaches are structurally degrading as a result. This report provides a comprehensive comparison of all five major crypto privacy architectures and a framework for evaluating which models remain durable as AI capabilities improve.
+
+High yield structure keeps STRC pinned at par while enabling large scale bitcoin purchases.

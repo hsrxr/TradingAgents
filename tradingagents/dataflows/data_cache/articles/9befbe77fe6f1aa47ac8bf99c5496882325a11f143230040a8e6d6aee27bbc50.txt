@@ -1,0 +1,35 @@
+Title: Dubai clarifies token issuance rules for RWAs and stablecoins
+Source: Cointelegraph
+URL: https://cointelegraph.com/news/dubai-vara-clarifies-token-issuance-rules?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+
+Dubai’s regulator issued new guidance placing token launches into three buckets, tightening disclosure and governance standards for stablecoins, RWAs and other digital assets.
+
+Cointelegraph in your social feed
+
+Dubai’s Virtual Assets Regulatory Authority (VARA) published detailed guidance on Thursday that clarifies how token issuers should structure, disclose and distribute virtual assets in the emirate, sharpening rules for stablecoins and real-world asset (RWA) tokens.
+
+Thedocument, which interprets VARA’s existing Virtual Asset Issuance Rulebook rather than creating new law, sets out three distinct issuance pathways and spells out who is responsible for what in each.
+
+Rather than treating all tokens as if they pose the same risks, the framework draws clear lines between Category 1 issuances (including fiat-referenced virtual assets and asset-referenced virtual assets), Category 2 issuances that must be distributed via a VARA-licensed intermediary, and exempt virtual assets with limited functionality.
+
+VARA positions the regime as a purpose-built issuance framework calibrated to virtual assets, contrasting it with approaches that apply general securities or payments law to token launches, including fiat-referenced tokens (stablecoins) and asset-referenced tokens (RWA-style structures). The guidance also clarifies the role of licensed distributors in Category 2 issuances, making them responsible for due diligence and ongoing validation of compliance.
+
+The clarification adds to Dubai’s push to build a bespoke crypto rulebook rather than forcing token launches into generic securities or payments law, and it comes just over a week afterVARA expanded its exchange rulebookto cover exchange-traded crypto derivatives.
+
+Related:Bybit doubles down on Middle East operations amid regional tensions
+
+Although framed as guidance, Ruben Bombardi, general counsel at VARA, told Cointelegraph that a bespoke issuance regime offers issuers concrete benefits beyond traditional securities law approaches, including “greater regulatory clarity” because manyvirtual assetsdo not map neatly onto existing categories. For investors and users, it aims to support “informed decision-making” by improving transparency around an asset’s characteristics and risks.
+
+Bombardi said this approach creates a “more tailored approach to issuance,” and provides “a single, dedicated reference point” for how virtual assets may be issued, disclosed and distributed in Dubai’s licensed regime.
+
+Bombardi also highlighted several features VARA sees as differentiating Dubai from other regimes internationally. These include specific treatment for asset-referenced virtual assets, with expectations around reserve assets, redemption rights and legal structuring, and a strongly disclosure-led approach anchored in whitepapers and separate risk disclosure statements that must be “clear, accurate, and accessible” to users.
+
+He added that VARA expects the framework to be of interest to foreign regulators and standard setters, although its immediate focus remains on providing practical clarity for market participants in Dubai.
+
+Magazine:South Korea gets rich from crypto… North Korea gets weapons
+
+Cointelegraph covers fintech, blockchain and Bitcoin bringing you the latest crypto news and analyses on the future of money.
+
+Cointelegraph is committed to providing independent, high-quality journalism across the crypto, blockchain, AI, and fintech industries. To support open access to our website and sustain editorial operations, certain commercial or partner references may appear on our site. These arrangements help maintain an accessible platform and do not result in additional costs to readers.
+
+All news, reviews, and analysis are produced with full journalistic independence and integrity. For more details on our standards and processes, please read ourEditorial Policy.

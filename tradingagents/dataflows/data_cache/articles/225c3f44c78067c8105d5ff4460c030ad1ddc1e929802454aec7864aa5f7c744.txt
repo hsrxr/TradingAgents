@@ -1,0 +1,43 @@
+Title: The ‘bottom is in’: Why Tom Lee says the Iran ceasefire is the starting gun for a massive bitcoin rally
+Source: CoinDesk
+URL: https://www.coindesk.com/markets/2026/04/09/fundstrat-s-tom-lee-says-the-bottom-is-in-for-stocks-paving-a-bull-case-for-bitcoin-and-ether
+
+Fundstrat co-founder Tom Lee is calling the bottom on the stock market, a prediction that, if correct, would flow directly into bitcoinBTC$71,409.19, ether (ETH) and the broader crypto market given how the asset classes tend to correlate.
+
+The macro strategist said that the Iran ceasefire meant "the bottom is in" for the stock market, and that a break above the S&P 500's 200-day moving average at 6,617 would trigger "a decisive move higher,"in a CNBC appearanceon Wednesday.
+
+E-mini futures were alreadytrading at 6,820by Thursday morning, well past his trigger.
+
+Lee'sframework rests on two points. First, stocks rose from mid-March through early April even as oil climbed from $87 to $116 and the war escalated. The S&P 500 moved from 6,300 to 6,600 while conditions were getting worse, meaning equities were absorbing war risk without breaking.
+
+Second, the ceasefire is what he calls a "positive rate of change inflection." Even if the truce is not definitive, the shift from escalation to de-escalation produced a 2.5% equity rally, a 15% oil crash, and VIX below 20 in one session.
+
+An observation,Point 1: stocks higher on bad news 📰- from  mid-March,$oilrose from $87 to $116- S&P 500$SPYrise from 6,300 to 6,600- stocks rose even as Iran war progress worsePoint 2: positive inflection ‘rate of change’ 📈- yesterday proposed ceasefire- is a…https://t.co/D4NG4JWCJP
+
+Bitcoin and the broader crypto market are direct beneficiaries of a bottom in equities.
+
+BTC's surge past $72,000 late on Wednesday came alongside S&P 500 futures jumping 1.9%. Every major risk-on move since the war began has been a cross-asset trade where stocks, metals and crypto move in concert on the same geopolitical catalyst.
+
+A sustained equity recovery doesn't just helpcrypto sentiment, but removes the macro headwind that has kept bitcoin pinned in a $65,000 to $73,000 range for six weeks.
+
+The onchain setup supports the timing. Bitcoin's realized price sits at $54,286, 21% below its spot price, the closest approach to the metric that historically defines cycle bottoms outside of outright crashes.
+
+The Fear and Greed Index spent the past month in single digits, the most bearish sustained reading since the 2022 bottom. ETF inflows held at roughly 50,000 BTC per month through March despite the extreme sentiment, as CoinDesk reported.
+
+The bull case has additional legs for ether (ETH) specifically. The Ethereum Foundation completed its 70,000 ETH staking target last week, putting $143 million to work generating yield rather than selling into the market, a shift the community had demanded for years.
+
+Spot ether ETF flows flipped positive on Monday with $120 million in inflows, the highest since mid-March. And network fundamentals around tokenization and agentic AI infrastructure continue to build regardless of price action.
+
+Tom Lee is also chairman of Bitmine Immersion Technologies (BMNR), the largest corporate ether holder on earth with 4.8 million ETH worth roughly $10 billion. Bitmine bought 71,252 ETH last week, its biggest single-week purchase since December 2025, and is actively targeting 5% of total ether supply. Every percentage point of ether appreciation adds roughly $100 million to the company's treasury.
+
+Lee may well be right about the bottom, but he also has one of the largest financial incentives in the industry for the market to agree with him.
+
+That test comes quickly, however. Iran's parliament said late Wednesday that three clauses of the ceasefire havealready been breached. The Strait of Hormuz remains effectively closed, and oil rebounded 2% to $97 on Thursday after Wednesday's 15% plunge.
+
+If the truce unravels, the bottom call unravels with it and both equities and crypto retest the lows.
+
+Most crypto privacy models weaken as blockchain data grows. Encryption-based models like Zcash strengthen. CoinDesk Research maps the five privacy approaches and examines the widening gap.
+
+As blockchain adoption scales, the metadata available to machine learning models scales with it. Obfuscation-based privacy approaches are structurally degrading as a result. This report provides a comprehensive comparison of all five major crypto privacy architectures and a framework for evaluating which models remain durable as AI capabilities improve.
+
+High yield structure keeps STRC pinned at par while enabling large scale bitcoin purchases.

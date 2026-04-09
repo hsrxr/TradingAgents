@@ -1,0 +1,25 @@
+Title: Bithumb moves to seize assets over mistaken $8 million bitcoin dispute
+Source: CoinDesk
+URL: https://www.coindesk.com/business/2026/04/09/bithumb-moves-to-seize-assets-over-mistaken-usd8-million-bitcoin-dispute
+
+South Korean cryptocurrency exchange Bithumb has asked a local court to freeze seven bitcoinBTC$71,387.35, worth roughly $8 million, that remain unreturned after a February payout error. The move escalates a dispute with a small group of users who refused to return the funds.
+
+The exchange said it began a provisional seizure, a pre-lawsuit step that blocks a debtor from moving assets, according tolocal media. A civil case is expected to follow.
+
+It all began on Feb. 6, when the exchange ran a promotion intended to pay 620,000 won (~$460) to 249 winners. Staff mistakenly entered “BTC” instead of “KRW,” which led to the system crediting each winner with 620,000 bitcoin on Bithumb’s internal ledgers. This was human error that briefly made it look like the exchange had created over $40 billion worth of BTC.
+
+Within minutes, some users sold roughly 1,788 BTC before Bithumb froze accounts, pushing its BTC/KRW price down to the low 80 million won ($54,000) range.
+
+The exchange reversed most entries and recovered the bulk of sold coins, but about 12.3 billion won ($8.3 million) remained outstanding. That figure has since fallen to seven bitcoin after months of outreach.
+
+Legal experts in Korea, per the local reports, say such cases fall under unjust enrichment, meaning recipients must return the assets. If coins were sold, users may need to buy them back at higher prices to repay.
+
+This episode highlights how a human error, combined with the speed and irreversibility of crypto transactions, can turn minor mistakes into multi-million–dollar crises.
+
+Bithumb is the second-largest cryptocurrency exchange in South Korea, according to Coingecko, with a 24-hour trading volume of $388 million, trailing only Upbit, which recorded $788 million over the same period.
+
+Most crypto privacy models weaken as blockchain data grows. Encryption-based models like Zcash strengthen. CoinDesk Research maps the five privacy approaches and examines the widening gap.
+
+As blockchain adoption scales, the metadata available to machine learning models scales with it. Obfuscation-based privacy approaches are structurally degrading as a result. This report provides a comprehensive comparison of all five major crypto privacy architectures and a framework for evaluating which models remain durable as AI capabilities improve.
+
+The settlement avoids a trial and ends the dispute over the RR/BAYC NFTs, which claimed to parody Bored Ape Yacht Club, one of the most recognizable NFT brands.

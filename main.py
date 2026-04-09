@@ -21,6 +21,7 @@ config["deep_think_llm"] = "deepseek-reasoner"
 config["quick_think_llm"] = "deepseek-chat"  
 config["enable_on_chain_submission"] = True
 config["on_chain_submit_hold_decisions"] = True  # True: HOLD 也提交到 RiskRouter
+config["use_trader_v2"] = True  # True: 仅 BUY/SELL; False: BUY/SELL/HOLD
 
 start_time = time.time()
 # Initialize with custom config

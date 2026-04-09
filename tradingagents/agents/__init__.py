@@ -11,7 +11,7 @@ from .researchers.bull_researcher import create_bull_researcher
 
 from .managers.risk_engine import create_risk_engine
 
-from .trader.trader import create_trader
+from .trader.trader import create_trader, create_trader_v2
 
 __all__ = [
     "FinancialSituationMemory",
@@ -26,4 +26,5 @@ __all__ = [
     "create_quant_signal_analyst",
     "create_risk_engine",
     "create_trader",
+    "create_trader_v2",
 ]

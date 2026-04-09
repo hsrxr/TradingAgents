@@ -4,7 +4,7 @@ import json
 import os
 
 
-def create_trader(llm, memory):
+def _build_trader_node(llm, memory, allow_hold: bool):
     def trader_node(state, name):
         company_name = state["company_of_interest"]
         investment_plan = state.get("investment_plan", "")
@@ -30,10 +30,21 @@ def create_trader(llm, memory):
         agent_id = int(os.getenv("AGENT_ID", "0") or "0")
         agent_wallet = os.getenv("AGENT_WALLET_ADDRESS", "")
         deadline_hint = int(time.time()) + 300
+        action_schema = '"BUY" | "SELL" | "HOLD"' if allow_hold else '"BUY" | "SELL"'
+        hold_decision_rule = (
+            "- If signal quality is weak or conflicting, choose HOLD with amountUsdScaled=0."
+            if allow_hold
+            else "- HOLD is not allowed. If confidence is weak, still choose BUY or SELL and reduce amountUsdScaled."
+        )
+        action_requirement = (
+            "- action must be exactly BUY, SELL, or HOLD."
+            if allow_hold
+            else "- action must be exactly BUY or SELL. HOLD is invalid."
+        )
 
         context = {
             "role": "user",
-            "content": f"You are the Chief Trader and portfolio manager for {company_name} in the crypto market. Use the merged analyst context, bull/bear debate transcript, and portfolio constraints to produce a **TradeIntent** for RiskRouter.\n\nDecision rules:\n- Prioritize executable short-horizon setups over long-term narratives.\n- If signal quality is weak or conflicting, choose HOLD with amountUsdScaled=0.\n- Pair must be tradable as a pair string, e.g. ETHUSDC, BTCUSDT, XBTUSD.\n\nMerged Analyst Context:\n{investment_plan}\n\nBull/Bear Debate Transcript:\n{debate_history}\n\nGlobal Portfolio Context (hard constraints):\n{global_portfolio_context}\n\nPortfolio Balance:\n{json.dumps(portfolio_balance, ensure_ascii=False)}\n\nOutput STRICT JSON ONLY using this shape (TradeIntent + required metadata):\n{{\n  \"agentId\": {agent_id},\n  \"agentWallet\": \"{agent_wallet}\",\n  \"pair\": \"{company_name}\",\n  \"action\": \"BUY\" | \"SELL\" | \"HOLD\",\n  \"amountUsdScaled\": integer,\n  \"maxSlippageBps\": integer,\n  \"nonce\": integer,\n  \"deadline\": integer,\n  \"confidence\": number between 0 and 1,\n  \"reasoning\": \"concise rationale for this intent\"\n}}\n\nField guidance:\n- amountUsdScaled is USD * 100 (e.g., 250.00 USD -> 25000).\n- maxSlippageBps default 100 unless strong reason.\n- nonce should be 0 as placeholder (will be replaced before submit).\n- deadline should be unix seconds, use ~now+300. Example: {deadline_hint}.\n- confidence must reflect conviction quality and consistency.\n- reasoning should be concise and directly explain the action.",
+            "content": f"You are the Chief Trader and portfolio manager for {company_name} in the crypto market. Use the merged analyst context, bull/bear debate transcript, and portfolio constraints to produce a **TradeIntent** for RiskRouter.\n\nDecision rules:\n- Prioritize executable short-horizon setups over long-term narratives.\n{hold_decision_rule}\n- Pair must be tradable as a pair string, e.g. ETHUSDC, BTCUSDT, XBTUSD.\n\nMerged Analyst Context:\n{investment_plan}\n\nBull/Bear Debate Transcript:\n{debate_history}\n\nGlobal Portfolio Context (hard constraints):\n{global_portfolio_context}\n\nPortfolio Balance:\n{json.dumps(portfolio_balance, ensure_ascii=False)}\n\nOutput STRICT JSON ONLY using this shape (TradeIntent + required metadata):\n{{\n  \"agentId\": {agent_id},\n  \"agentWallet\": \"{agent_wallet}\",\n  \"pair\": \"{company_name}\",\n  \"action\": {action_schema},\n  \"amountUsdScaled\": integer,\n  \"maxSlippageBps\": integer,\n  \"nonce\": integer,\n  \"deadline\": integer,\n  \"confidence\": number between 0 and 1,\n  \"reasoning\": \"concise rationale for this intent\"\n}}\n\nField guidance:\n- amountUsdScaled is USD * 100 (e.g., 250.00 USD -> 25000).\n- maxSlippageBps default 100 unless strong reason.\n- nonce should be 0 as placeholder (will be replaced before submit).\n- deadline should be unix seconds, use ~now+300. Example: {deadline_hint}.\n- confidence must reflect conviction quality and consistency.\n- reasoning should be concise and directly explain the action.",
         }
 
         messages = [
@@ -41,7 +52,7 @@ def create_trader(llm, memory):
                 "role": "system", 
                 "content": f"""You are the Chief Trader for a crypto, hourly-frequency strategy. Produce strict JSON only (no markdown, no prose outside JSON).
 Requirements:
-- action must be exactly BUY, SELL, or HOLD.
+{action_requirement}
 - amountUsdScaled must be an integer >= 0 and in cents.
 - maxSlippageBps must be a positive integer.
 - nonce must be an integer placeholder (0 is acceptable).
@@ -62,3 +73,13 @@ Leverage these past lessons: {past_memory_str}""",
         }
 
     return functools.partial(trader_node, name="Trader")
+
+
+def create_trader(llm, memory):
+    """Legacy trader prompt: allows BUY/SELL/HOLD."""
+    return _build_trader_node(llm, memory, allow_hold=True)
+
+
+def create_trader_v2(llm, memory):
+    """V2 trader prompt: restricts action to BUY or SELL only."""
+    return _build_trader_node(llm, memory, allow_hold=False)

@@ -1,0 +1,39 @@
+Title: South Korea court cancels Upbit suspension, citing regulatory gaps: Report
+Source: Cointelegraph
+URL: https://cointelegraph.com/news/south-korea-court-cancels-dunamu-upbit-suspension-fiu?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+
+The decision closes a legal battle spanning more than a year, after Dunamu moved to overturn the sanction and halt its enforcement.
+
+Cointelegraph in your social feed
+
+A South Korean court has canceled the Financial Intelligence Unit’s (FIU) three-month partial business suspension of Dunamu, the operator of crypto exchange Upbit, according to local reports.
+
+Yonhap News Agencyreportedon Tuesday that the Seoul Administrative Court sided with Dunamu in its lawsuit against the FIU, overturning the sanction tied to alleged Anti-Money Laundering (AML) violations.
+
+The court said clear rules existed for transactions above 1 million won (about $675), but found that regulations for smaller transfers were not specific enough, weakening the basis for enforcement within the case.
+
+The ruling narrows the FIU’s ability to impose major AML sanctions on crypto exchanges where the underlying compliance standards are not spelled out clearly enough in practice. It also ends a dispute that began after FIU imposed the sanction in February 2025, and that was later paused by the court while Dunamu’s challenge was under review.
+
+Addressing the FIU’s claim that Dunamu failed to take adequate measures, the court said the regulator had not provided specific guidance on what actions were required. In that context, the court found that the company had taken its own measures.
+
+The court said that even if those measures appear insufficient in hindsight, it is difficult to conclude that Dunamu failed to fulfill its obligations due to intent or gross negligence, undermining the basis for the sanction.
+
+Related:Bithumb launches legal action to recover 7 Bitcoin from payout error
+
+On Feb. 25, 2025, the FIUimposed a three-month partial suspension on Dunamu, restricting new Upbit users from transferring digital assets.
+
+The regulator said the measure followed an on-site inspection that found Dunamu had facilitated transactions with unregistered overseas virtual asset providers (VASPs) and failed to meet customer due diligence requirements.
+
+The FIU previously said itidentified over 600,000 suspectedKnow Your Customer violations during a review of Upbit’s exchange business license.
+
+In response to the sanction, Dunamu filed a lawsuit and requested an injunction to halt its enforcement shortly after the penalty was announced. On Feb. 28, 2025, Dunamu said it had submitted the caseseeking to overturn the partial suspension order.
+
+On March 27, 2025, the courtgranted the injunction, allowing Upbit to continue onboarding new users while the case was under review.
+
+Magazine:Asia Express: Phantom Bitcoin checks, China tracks tax on blockchain
+
+Cointelegraph covers fintech, blockchain and Bitcoin bringing you the latest crypto news and analyses on the future of money.
+
+Cointelegraph is committed to providing independent, high-quality journalism across the crypto, blockchain, AI, and fintech industries. To support open access to our website and sustain editorial operations, certain commercial or partner references may appear on our site. These arrangements help maintain an accessible platform and do not result in additional costs to readers.
+
+All news, reviews, and analysis are produced with full journalistic independence and integrity. For more details on our standards and processes, please read ourEditorial Policy.

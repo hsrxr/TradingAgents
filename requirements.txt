@@ -21,3 +21,4 @@ langchain_anthropic
 langchain-google-genai
 python-dotenv
 web3
+chromadb

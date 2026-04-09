@@ -1,0 +1,43 @@
+Title: Crypto payments to pass Strait of Hormuz is the next logical step for Iran’s sanctions-skirting trade network
+Source: CoinDesk
+URL: https://www.coindesk.com/policy/2026/04/09/crypto-payments-to-pass-strait-of-hormuz-is-the-next-logical-step-for-iran-s-sanctions-skirting-trade-network
+
+It’s no surprise that Iran is now accepting cryptocurrency payments from cargo ships passing through the Strait of Hormuz. Experts in blockchain criminality say this move fits perfectly with Tehran’s existing sanctions‑skirting trade networks.
+
+Iran's crypto tolls havenow been confirmedvia recent comments from a spokesperson for Iran’s Oil, Gas and Petrochemical Products Exporters’ Union who said bitcoin is being accepted as a payment method. Aprevious reportsuggested stablecoins were being accepted to allow a select few oil tankers to pass unharmed. Both reports stated the fee was $1 per barrel of oil, with the largest tankers carrying up to two million barrels.
+
+The formalization of a system of shipping toll payments made using bitcoin and USD-pegged stablecoins appears to be an audacious move. However, in reality the Iranian regime, and more specifically the Islamic Revolutionary Guard Corps (IRGC), has been increasingly using cryptocurrency over the last few years to facilitate cross border commercial trade, especially with Iranian oil sales, according to data from blockchain analytics specialist Chainalysis.
+
+“It's highly unsurprising that this type of trade would be happening via cryptocurrency as well,” said Andrew Fierman, head of national security intelligence at Chainalysis, referring to the toll paid by ships allowed to sail through the Strait of Hormuz, a narrow sea channel where about a fifth of the world’s oil and liquefied natural gas usually passes.
+
+A snapshot of sanctioned activity from over the last year and a half shows a growing and complex network using crypto wallets. Back in December of 2024, a U.S.-sanctioned, IRGC-affiliatedfinancier linked to the Iran-backed Houthi regimefacilitated Iranian oil sales to Yemen involving cryptocurrency addresses. This came to over $178 million in transfers in a single year.
+
+Then, in April of 2025, a broader network of Houthi financiers werepurchasing weapons and commodities from Russia. Their cryptocurrency addresses were included in a sanctions designation accounting for nearly a billion dollars in activity – again in just about the course of the year.
+
+Interestingly, the Houthis, an Iran-backed armed group that controls much of northern Yemen, have now raised the prospect ofimposing a second chokepointon the world’s oil and gas shipping trade at the Bab-al-Mandeb channel that connects the Red Sea to the Gulf of Aden.
+
+In any case, the picture is one of IRGC-affiliated networks using crypto at commercial scale to facilitate cross border trade, according to Fierman of Chianalysis. It’s a system that’s much more complex and established than simply a handful of wallets being used in perpetuity, he said.
+
+“They have a network of cryptocurrency wallets that the regime is using to facilitate this cross border activity. To accept these payments in crypto would make it easier than potentially utilizing the traditional banking system and there’s enough liquidity out there that they don't even need to really use cryptocurrency exchanges either,” Fierman said in an interview.
+
+The way the IRGC is broadly adopting cryptocurrency, specifically stablecoins, as a payment mechanism for cross border trade, is really the inverse of the situation with North Korea, Fierman pointed out, where the main goal is stealing billions of dollars in crypto and laundering it.
+
+The Iranian regime has been comprehensively sanctioned since 1979, including individual sanctions on almost every bank, so its inability to access U.S. dollar-pegged assets makes it a challenge for them to trade internationally.
+
+“The reality is that most counterparts don't want to trade in Rials or in Tomans, especially considering the hyperinflation that is regularly happening in the country as well. So this ability to get a US dollar-pegged asset creates a mechanism that allows them to trade globally with anyone who's willing to trade with them, in an alternative mechanism that doesn't rely on the traditional banking system,” Fierman said.
+
+In Iran, the official currency is the Rial (IRR), but people universally use Tomans on a daily basis in shops, for instance; one Toman is equivalent to 10 Rials.
+
+Tom Keatinge, founding director of the Centre for Finance and Security (CFS) at UK defence think tank RUSI, agreed that USD-backed stablecoins have become an increasingly important payment mechanism for the Iranian regime that avoids sanctions and western banking controls.
+
+“Whilst the use of stablecoins might open users up to Western regulatory intervention, evidence suggests that this risk is low,” Keatinge said in an email.
+
+Lee Reiners, a lecturing fellow at Duke University’s Financial Economics Center, suggested a novel way the Iranian regime could further its sanctions-skirting stablecoin goals.
+
+“If Iran was thinking strategically, it might take a cue from its neighbors across the Strait in the UAE and demand payment inUSD1,” Reiners said, referring to the stablecoin launched by the Trump family-affiliated World Liberty Financial in March of 2025. “Then the President of the United States would have a financial incentive to lift sanctions and allow them to charge whatever tolls they want.”
+
+Most crypto privacy models weaken as blockchain data grows. Encryption-based models like Zcash strengthen. CoinDesk Research maps the five privacy approaches and examines the widening gap.
+
+As blockchain adoption scales, the metadata available to machine learning models scales with it. Obfuscation-based privacy approaches are structurally degrading as a result. This report provides a comprehensive comparison of all five major crypto privacy architectures and a framework for evaluating which models remain durable as AI capabilities improve.
+
+Federal lawsuit argues event contracts are swaps under U.S. law, not state-level gaming law, deepening a split with states that view the products as illegal gambling

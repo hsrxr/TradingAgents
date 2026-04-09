@@ -1,0 +1,41 @@
+Title: Everyone’s awaiting U.S. inflation figures, but bitcoin traders couldn’t care less
+Source: CoinDesk
+URL: https://www.coindesk.com/markets/2026/04/09/everyone-s-awaiting-u-s-inflation-figures-but-bitcoin-traders-couldn-t-care-less
+
+The latest U.S. inflation report for March, due Friday, is seen as a vital indicator by several observers, given the backdrop of the Iran war and its inflationary impact.
+
+Yet, the latest activity in the bitcoinBTC$71,035.52market shows that traders do not see it as a major market mover.
+
+“The bitcoin market is currently pricing in just a 2.5% swing in either direction on the back of the inflation data,” Markus Thielen, founder of 10x Research, told CoinDesk in an email. These probabilities are derived from options and derivatives pricing, which reflect traders’ expectations of how much Bitcoin could move over a given time frame.
+
+A 2.5% swing is well within bitcoin’s recent average volatility, indicating that the market isn’t expecting any major directional moves from the inflation data.
+
+The market calm is also evident in the widely tracked 30-day implied volatility, represented by the BVIV index, which has dropped to 46.5%, the lowest since Jan. 31, according to data source TradingView.
+
+This translates to an expected daily move of about 2.9%, which is well below the 30-day average of 3.4%. Implied volatility is determined by demand for options, or hedging bets, and represents traders' expectations for price swings over a specific period.
+
+The data clearly shows that traders are largely treating Friday’s consumer price index (CPI) release as a non-event. That’s somewhat uncanny, given that the data is likely to offer a glimpse of the inflationary impact of the Iran war, which began in late February.
+
+"Even if the U.S. price figures for March are unlikely to reflect the full extent of the situation, they do provide an initial indication of how strongly the Middle East conflict could be felt in US prices," Commerzbank said.
+
+It’s worth noting that interest rate markets have largely dialed back expectations for Fed rate cuts this year as the Iran war and the resulting energy price shock have increased inflation risks.
+
+The CPI data, scheduled for release on Friday at 8:30 ET, is expected to show that the cost of living rose 3.4% year-on-year in March, a sharp increase from February's 2.4% reading, according to data source MarketWatch. The core figure, which excludes the volatile food and energy component, is forecast to have increased by 2.7% following March's 2.5% rise.
+
+The expected sharp upswing is largely due to fuel and energy price spike triggered by the Iran war and the oil price surge. U.S. gasoline prices surged in March 2026, exceeding $4 per gallon nationally for the first time since August 2022.
+
+Several experts believe that macro conditions, particularly inflation data, are the dominant market drivers.
+
+"With the energy shock still feeding through to prices, every inflation print carries asymmetric weight for crypto — a softer read reopens the rate-cut conversation; a hotter one hardens the higher-for-longer narrative further," Iliya Kalchev, analyst at Nexo, said in an email. Nexo is a digital asset wealth manager with $8 billion in assets under management.
+
+Timothy Misir, head of research, BRN, said that the next leg in bitcoin hinges on Friday's inflation data and the Fed meeting to be held on April 28-29.
+
+"Those two events will tell the market whether policymakers still think inflation is containable after the oil shock, or whether the war is extending the no-cuts regime," Misir said in an email.
+
+Long story short: There’s a wide gap between expert expectations and how traders are pricing Friday’s inflation data. Whether markets are right to shrug or the data proves pivotal, Friday will finally show which side has it right.
+
+Most crypto privacy models weaken as blockchain data grows. Encryption-based models like Zcash strengthen. CoinDesk Research maps the five privacy approaches and examines the widening gap.
+
+As blockchain adoption scales, the metadata available to machine learning models scales with it. Obfuscation-based privacy approaches are structurally degrading as a result. This report provides a comprehensive comparison of all five major crypto privacy architectures and a framework for evaluating which models remain durable as AI capabilities improve.
+
+Elevated volume and modest institutional buying fail to support price, with sellers continuing to dominate near resistance.

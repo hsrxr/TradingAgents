@@ -193,6 +193,7 @@ RISK_ROUTER_ABI = [
     {
         "type": "event",
         "name": "TradeApproved",
+        "anonymous": False,
         "inputs": [
             {"indexed": True, "name": "agentId", "type": "uint256"},
             {"indexed": False, "name": "intentHash", "type": "bytes32"},
@@ -202,6 +203,7 @@ RISK_ROUTER_ABI = [
     {
         "type": "event",
         "name": "TradeRejected",
+        "anonymous": False,
         "inputs": [
             {"indexed": True, "name": "agentId", "type": "uint256"},
             {"indexed": False, "name": "intentHash", "type": "bytes32"},
@@ -487,7 +489,7 @@ class HackathonWeb3Client:
         }
 
         signable = encode_typed_data(full_message=typed_data)
-        digest = Web3.keccak(b"\x19" + signable.version + signable.header + signable.body).hex()
+        digest = f"0x{Web3.keccak(b'\x19' + signable.version + signable.header + signable.body).hex()}"
         return digest, checkpoint
 
     def post_checkpoint_attestation(
@@ -503,7 +505,7 @@ class HackathonWeb3Client:
         return self._send_contract_tx(
             self.validation_registry.functions.postEIP712Attestation(
                 int(agent_id),
-                checkpoint_hash,
+                checkpoint_hash if str(checkpoint_hash).startswith("0x") else f"0x{checkpoint_hash}",
                 int(score),
                 notes,
             ),

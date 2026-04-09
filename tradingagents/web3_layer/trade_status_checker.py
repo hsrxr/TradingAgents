@@ -154,34 +154,65 @@ class TradeStatusChecker:
         try:
             from_block, to_block = self._resolve_block_window(from_block, to_block)
             
-            # Query TradeApproved events
-            events = self.contract.events.TradeApproved.get_logs(
-                from_block=from_block,
-                to_block=to_block,
-            )
+            # Query TradeApproved events using proper filter
+            try:
+                event_filter = self.contract.events.TradeApproved.create_filter(
+                    from_block=from_block,
+                    to_block=to_block,
+                    argument_filters={"agentId": agent_id}
+                )
+                events = event_filter.get_all_entries()
+            except Exception as filter_error:
+                # Fallback: query all events and filter manually
+                logger.debug(f"Filter error, using fallback approach: {filter_error}")
+                events = []
+                try:
+                    # Try using web3.py's newer API
+                    events = self.contract.events.TradeApproved.get_logs(
+                        from_block=from_block,
+                        to_block=to_block
+                    )
+                except Exception as get_logs_error:
+                    logger.warning(f"get_logs failed: {get_logs_error}, trying eth_getLogs")
+                    # Last resort: call eth_getLogs directly
+                    try:
+                        logs = self.client.w3.eth.get_logs({
+                            "address": self.risk_router_address,
+                            "topics": [self.contract.events.TradeApproved.signature],
+                            "fromBlock": from_block,
+                            "toBlock": to_block
+                        })
+                        # Parse logs manually
+                        events = [self.contract.events.TradeApproved().process_log(log) for log in logs]
+                    except Exception as eth_error:
+                        logger.error(f"eth_getLogs also failed: {eth_error}")
+                        events = []
             
             approval_events = []
             for event in events:
                 try:
-                    if int(event["args"].get("agentId", -1)) != int(agent_id):
+                    # Handle both dict and Log object formats
+                    event_args = event.get("args") if isinstance(event, dict) else event.args
+                    if int(event_args.get("agentId", -1)) != int(agent_id):
                         continue
 
-                    intent_hash = event["args"]["intentHash"]
+                    intent_hash = event_args["intentHash"]
                     if hasattr(intent_hash, "hex"):
                         intent_hash = intent_hash.hex()
 
-                    tx_hash = event["transactionHash"]
+                    tx_hash = event.get("transactionHash") if isinstance(event, dict) else event.transactionHash
                     if hasattr(tx_hash, "hex"):
                         tx_hash = tx_hash.hex()
 
+                    block_num = event.get("blockNumber") if isinstance(event, dict) else event.blockNumber
                     approval_obj = TradeApprovalEvent(
-                        agent_id=event["args"]["agentId"],
+                        agent_id=event_args["agentId"],
                         intent_hash=str(intent_hash),
-                        amount_usd_scaled=event["args"]["amountUsdScaled"],
+                        amount_usd_scaled=event_args["amountUsdScaled"],
                         nonce=0,  # Not in event, will be fetched separately if needed
-                        block_number=event["blockNumber"],
+                        block_number=block_num,
                         transaction_hash=str(tx_hash),
-                        timestamp=self._get_block_timestamp(event["blockNumber"]),
+                        timestamp=self._get_block_timestamp(block_num),
                     )
                     approval_events.append(approval_obj)
                     self._approval_cache[approval_obj.intent_hash] = approval_obj
@@ -222,34 +253,65 @@ class TradeStatusChecker:
         try:
             from_block, to_block = self._resolve_block_window(from_block, to_block)
             
-            # Query TradeRejected events
-            events = self.contract.events.TradeRejected.get_logs(
-                from_block=from_block,
-                to_block=to_block,
-            )
+            # Query TradeRejected events using proper filter
+            try:
+                event_filter = self.contract.events.TradeRejected.create_filter(
+                    from_block=from_block,
+                    to_block=to_block,
+                    argument_filters={"agentId": agent_id}
+                )
+                events = event_filter.get_all_entries()
+            except Exception as filter_error:
+                # Fallback: query all events and filter manually
+                logger.debug(f"Filter error, using fallback approach: {filter_error}")
+                events = []
+                try:
+                    # Try using web3.py's newer API
+                    events = self.contract.events.TradeRejected.get_logs(
+                        from_block=from_block,
+                        to_block=to_block
+                    )
+                except Exception as get_logs_error:
+                    logger.warning(f"get_logs failed: {get_logs_error}, trying eth_getLogs")
+                    # Last resort: call eth_getLogs directly
+                    try:
+                        logs = self.client.w3.eth.get_logs({
+                            "address": self.risk_router_address,
+                            "topics": [self.contract.events.TradeRejected.signature],
+                            "fromBlock": from_block,
+                            "toBlock": to_block
+                        })
+                        # Parse logs manually
+                        events = [self.contract.events.TradeRejected().process_log(log) for log in logs]
+                    except Exception as eth_error:
+                        logger.error(f"eth_getLogs also failed: {eth_error}")
+                        events = []
             
             rejection_events = []
             for event in events:
                 try:
-                    if int(event["args"].get("agentId", -1)) != int(agent_id):
+                    # Handle both dict and Log object formats
+                    event_args = event.get("args") if isinstance(event, dict) else event.args
+                    if int(event_args.get("agentId", -1)) != int(agent_id):
                         continue
 
-                    intent_hash = event["args"]["intentHash"]
+                    intent_hash = event_args["intentHash"]
                     if hasattr(intent_hash, "hex"):
                         intent_hash = intent_hash.hex()
 
-                    tx_hash = event["transactionHash"]
+                    tx_hash = event.get("transactionHash") if isinstance(event, dict) else event.transactionHash
                     if hasattr(tx_hash, "hex"):
                         tx_hash = tx_hash.hex()
 
+                    block_num = event.get("blockNumber") if isinstance(event, dict) else event.blockNumber
                     rejection_obj = TradeRejectionEvent(
-                        agent_id=event["args"]["agentId"],
+                        agent_id=event_args["agentId"],
                         intent_hash=str(intent_hash),
-                        rejection_reason=event["args"]["reason"],
+                        rejection_reason=event_args["reason"],
                         nonce=0,  # Not in event
-                        block_number=event["blockNumber"],
+                        block_number=block_num,
                         transaction_hash=str(tx_hash),
-                        timestamp=self._get_block_timestamp(event["blockNumber"]),
+                        timestamp=self._get_block_timestamp(block_num),
                     )
                     rejection_events.append(rejection_obj)
                     self._rejection_cache[rejection_obj.intent_hash] = rejection_obj

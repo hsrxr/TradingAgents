@@ -1,0 +1,21 @@
+Title: Bitcoin buyers gobbled up nearly 850,000 BTC between $60,000 and $70,000
+Source: CoinDesk
+URL: https://www.coindesk.com/markets/2026/04/08/bitcoin-buyers-gobbled-up-nearly-850-000-btc-between-usd60-000-and-usd70-000
+
+BitcoinBTC$71,460.29may have recently looked choppy under $70,000, but a ton of BTC was traded then, in a sign of strong dip demand.
+
+That's evident from blockchain data, which shows the total amount of BTC that last moved on-chain in the $60,000-$70,000 range now stands at 1,845,766 BTC, up from 1,001,491 BTC on Jan. 1, according to data sourceGlassnode. This increase of 844,275 BTC indicates that some market participants aggressively bought the dip below $70,000.
+
+More importantly, that 1.84 million BTC figure accounts for about 9.23% of bitcoin's circulating supply. It means valuations below $70,000 could act as a floor because a lot of coins are “anchored” there and sellers might be reluctant to sell below it.
+
+These numbers are derived from Glassnode's Realized Price Distribution (URPD) metric, which shows the price levels where the current set of bitcoin UTXOs – basically, individual chunks of bitcoin in wallets – were last moved. Each bar, as seen in the feature image, represents how much bitcoin is held at a given price. This version is entity-adjusted, meaning coins held by the same owner are grouped together based on the average price they were acquired at.
+
+While the $60,000 to $70,000 range has seen heavy activity, $70,000 to $80,000 looks relatively thin, according to Glassnode. Just 400,000 BTC sit in this range, which is nearly half of the amount transacted below $70,000.
+
+Bitcoin has bounced back above $70,000 following the temporary ceasefire between the U.S. and Iran. The cryptocurrency spent a better part of the past five weeks or so trading back and forth below $70,000. Yet, it remained resilient relative to traditional risk assets, such as stocks, which wilted as Iran war lifted per barrel oil prices above $100.
+
+Most crypto privacy models weaken as blockchain data grows. Encryption-based models like Zcash strengthen. CoinDesk Research maps the five privacy approaches and examines the widening gap.
+
+As blockchain adoption scales, the metadata available to machine learning models scales with it. Obfuscation-based privacy approaches are structurally degrading as a result. This report provides a comprehensive comparison of all five major crypto privacy architectures and a framework for evaluating which models remain durable as AI capabilities improve.
+
+Bitcoin clears a key technical hurdle and eyes $76,000 as a temporary ceasefire with Iran and Morgan Stanley’s landmark ETF debut restore market confidence.

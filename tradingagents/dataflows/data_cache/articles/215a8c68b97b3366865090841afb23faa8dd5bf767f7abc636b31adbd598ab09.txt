@@ -1,0 +1,65 @@
+Title: MEXC's new CEO wants to tame a memecoin machine without killing what made it work
+Source: CoinDesk
+URL: https://www.coindesk.com/markets/2026/04/08/mexc-s-new-ceo-wants-to-tame-a-memecoin-machine-without-killing-what-made-it-work
+
+Vugar Usi, the newly appointed CEO of MEXC, has a provocative explanation for the collapse in memecoin trading: the tokens didn’t lose their appeal, the rest of the financial system caught up to them.
+
+Gold moves on a Trump tweet. Oil spikes on a geopolitical rumor. Equities swing on a single Fed headline.
+
+“Everything has kind of become a meme at this point,” Usi said in an interview with CoinDesk.
+
+“Meme coins were driven by social sentiment, virality, speculation,” he continued, adding that today one of “President Trump’s tweets does all these three.”
+
+That thesis underpins his plan to reposition MEXC, long synonymous with memecoin speculation, into a broader “trade everything” platform spanning tokenized equities, commodities and prediction markets, built around a retail base that accounts for roughly 98% of activity by his estimate.
+
+“It’s very funny to see that memecoins today are fighting for the same attention that gold and silver does,” Usi said.
+
+The bet is that retail doesn't need replacing with institutional flow, it needs more things to speculate on.
+
+Usi points to prediction markets, where traders bet on the outcome of events rather than the price of assets, and to political announcements that move commodities and equities before most of the market has time to react — what he describes as trading by people "who have their close proximity to the news."
+
+The whole thesis hinges on whether retail is fading or simply migrating to whatever asset is most volatile at any given moment.
+
+That view puts MEXC on a different trajectory from its largest competitors.
+
+Binance, OKX, and Bybit have spent the last two years courting institutional liquidity, building out derivatives desks, and positioning for the ETF-driven flows that increasingly dominate bitcoin's price discovery.
+
+Usi, a Bitget veteran who helped scale that exchange to the world's fourth-largest before joining MEXC, is betting in the opposite direction. At Bitget, he said, roughly 80% of trading volume came from institutions. At MEXC, it is almost entirely retail, and he wants to keep it that way.
+
+"Retail is our bread and butter," Usi said, framing MEXC's zero-fee model — which he claims returned $1.1 billion to users in 2025 — as the real marketing engine, in contrast to the Messi endorsements and Formula One sponsorships that defined his previous employer's rise.
+
+His plan is to extend that model across asset classes, adding tokenized stocks, gold, silver, prediction markets, and eventually card and earn products, positioning MEXC less as a crypto exchange than as a retail-first Robinhood competitor operating offshore taking cues from Asia's superapps.
+
+The harder question is whether MEXC can expand without tripping over the regulatory problems that have plagued it over the past few years.
+
+MEXCspent much of 2025 managing falloutfrom the so-called White Whale incident, in which a pseudonymous trader alleged that $3 million of his funds had been frozen under opaque risk-control rules.
+
+After months of public pressure, MEXC's chief strategy officer Cecilia Hsueh issued a public apology in October, acknowledging that the company's "risk, operations, and PR teams have not kept up" with its growth.
+
+“We fucked up. We apologize to The White Whale, and his money is already been released. He can claim it at any time,”Hsueh wrote on X.
+
+Data showsthat withdrawals from MEXC surged in the aftermath and remain elevated throughout 2025. But, in the last few months, that trend has reversed.
+
+Data from CoinDesk Researchshows MEXC commanded second place in exchange volume at the end of 2025 with a 5% market share, whileCoinGecko highlightsits 90% growth in volume throughout the year.
+
+"MEXC commands a high market share despite falling in the lower-tier category (grade C). This continues to underline the disconnect between volume capture and assessed risk/compliance among certain venues," a CoinDesk data exchangebenchmark report from November reads.
+
+Compliance readiness was “one of the key missing points in MEXC’s growth,” Usi told CoinDesk.
+
+He said the exchange has “kick-started” conversations with regulators across Europe, the Middle East, and Southeast Asia, with the goal of building a platform that is “more transparent, more compliant.”
+
+On a potential U.S. entry, even in the event the CLARITY Act passes, he was noncommittal, calling the market "expensive and complex."
+
+That hesitation reflects a deeper constraint: the speed, extreme listing breadth, and minimal friction that powered MEXC's rise are the same traits that draw regulatory scrutiny, leaving it to pursue a global "everything app" strategy without the licenses, banking rails, or institutional clients its competitors are building around.
+
+There's a certain kind of crypto trader that loves everything MEXC is and would hate to see it change.
+
+The question is whether MEXC can clean up its model without losing the memecoin chaos that made it work.
+
+Or, is that even necessary? Data shows that MEXC's growing loyal traders might not care.
+
+Most crypto privacy models weaken as blockchain data grows. Encryption-based models like Zcash strengthen. CoinDesk Research maps the five privacy approaches and examines the widening gap.
+
+As blockchain adoption scales, the metadata available to machine learning models scales with it. Obfuscation-based privacy approaches are structurally degrading as a result. This report provides a comprehensive comparison of all five major crypto privacy architectures and a framework for evaluating which models remain durable as AI capabilities improve.
+
+A ton of BTC was recently traded below $70,000 in a sign of strong dip demand.

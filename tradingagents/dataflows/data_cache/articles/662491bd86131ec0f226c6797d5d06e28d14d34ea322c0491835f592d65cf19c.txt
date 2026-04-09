@@ -1,0 +1,41 @@
+Title: Spot Bitcoin ETF inflows top $471M but BTC is pinned under $70K: Here’s why
+Source: Cointelegraph
+URL: https://cointelegraph.com/news/spot-bitcoin-etf-inflows-top-dollar471m-but-btc-is-pinned-under-dollar70k-here-s-why?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+
+Bitcoin ETF inflows hit $471 million, but stress on digital asset treasuries, selling from miners, and the war in Iran are keeping BTC stuck below $70,000.
+
+Cointelegraph in your social feed
+
+BTC failed to hold $70,000 despite strong ETF inflows as selling by public miners offset recent institutional buying.
+
+Options markets reflect high demand for downside protection as a 17% put premium signals cautious sentiment.
+
+Bitcoin (BTC) failed to sustain Monday’s $70,000 level despite $471 million in net inflows into US-listed spot exchange-traded funds (ETFs). The market’s initial excitement faded following reports that multiple US and Israeli aircraft and equipment were destroyed during a military operation in Iran over the weekend.
+
+Since the S&P 500 remained relatively flat between Friday and Tuesday, Bitcoin’s inability to maintain bullish momentum likely stems from other factors.
+
+The US-listed Bitcoin ETFs recorded $471 million in net inflows on Monday, the highest in over five weeks; however, the trend for the preceding two weeks remained muted, signaling a lack of conviction. Part of traders’ concern stems from recent Bitcoin sales by publicly listed miners.
+
+MARA Holdings (MARA US) reportedly transferred 250 BTC on Tuesday, according to Lookonchaindata. MARA previously announced thesale of 15,133 BTC in Marchand reported 38,689 BTC held in total. Traders fear additional sell pressure as multiple miners focus on trimming debt to fund a strategic shift toward AI computing data centers.
+
+Riot Platforms (RIOT US) transferred 1,500 BTC for sale during the first week of April, according to Arkhamdata. Per the latest operational update, the company held 15,680 BTC, intensifyingfears of continued liquidationsas high energy costs negatively impact operations.
+
+Other addresses linked to large miners sold 265 BTC on Tuesday after accumulating since early 2024,accordingto Lookonchain. The address 3PFNdgGi…myCh139 still holds 112 BTC. Regardless of the rationale behind these movements, sentiment worsened after Bitcoin’s hashrate dropped to 953 exahashes on Monday, down from 1,083 exahashes in late February.
+
+Strategy (MSTR US) continued accumulating Bitcoin, totaling 4,871 BTC in the previous week alone. However, investors increasingly fear that few buyers remain after a two-month bear market, especially as companies that raised debt to accumulate Bitcoin face heavy pressure and are forced to sell some reserves.
+
+Among the companies thatreduced Bitcoin holdingsover the past month are Sequans Communications (SQNS FR) and Nakamoto Inc (NAKA US). More concerning, a handful of other listed companies face losses of 35% or more on their Bitcoin holdings, including GD Culture Group (GDC US) and OranjeBTC (OBTC3 BR), according to BitcoinTreasuries data.
+
+Related:Bitcoin price risks '$15K shakeout' in the next 5 months, BTC analyst warns
+
+Bitcoin options markets signaled discomfort on Tuesday as put (sell) options traded at a 17% premium relative to call (buy) instruments. Traders believe whales have a better gauge of the market, but the options skew results from regular traders constantly buying downside protection rather than a premeditated movement from market makers.
+
+There is no indication that professional traders are leaning bearish, but a single day of strong ETF net inflows does not prove heightened institutional demand. Hence, even if a deal to reopen the Strait of Hormuz lifts risk markets, odds are Bitcoin could struggle to sustain levels above $75,000 given the risk-averse sentiment.
+
+This article is produced in accordance with Cointelegraph's Editorial Policy and is intended for informational purposes only. It does not constitute investment advice or recommendations. All investments and trades carry risk; readers are encouraged to conduct independent research before making any decisions. Cointelegraph makes no guarantees regarding the accuracy or completeness of the information presented, including forward-looking statements, and will not be liable for any loss or damage arising from reliance on this content.
+
+Cointelegraph covers fintech, blockchain and Bitcoin bringing you the latest crypto news and analyses on the future of money.
+
+Cointelegraph is committed to providing independent, high-quality journalism across the crypto, blockchain, AI, and fintech industries. To support open access to our website and sustain editorial operations, certain commercial or partner references may appear on our site. These arrangements help maintain an accessible platform and do not result in additional costs to readers.
+
+All news, reviews, and analysis are produced with full journalistic independence and integrity. For more details on our standards and processes, please read ourEditorial Policy.

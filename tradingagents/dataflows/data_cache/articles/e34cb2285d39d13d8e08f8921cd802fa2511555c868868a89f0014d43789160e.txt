@@ -1,0 +1,21 @@
+Title: Morgan Stanley’s bitcoin ETF draws $34 million on day one
+Source: CoinDesk
+URL: https://www.coindesk.com/markets/2026/04/08/morgan-stanley-s-bitcoin-etf-draws-usd34-million-on-day-one
+
+Morgan Stanley’s spot bitcoin exchange-traded fund (ETF)began trading Wednesdaywith solid early activity, logging more than 1.6 million shares traded and roughly $34 million in inflows, the bank said.
+
+The fund, listed under the ticker MSBT, tracks the CoinDesk Bitcoin Benchmark 4 PM New York Settlement Rate and charges a 0.14% expense ratio. It is the cheapest fund in the category, offering a clear, if narrow, pricing advantage to competitors.
+
+MSBT entered the market with a different strength than others: distribution. Morgan Stanley’s wealth management arm oversees trillions of dollars in client assets and operates one of the largest financial advisor networks in the industry. That reach could help the fund gain traction as more investors access bitcoin through advisors rather than direct trading platforms.
+
+Some experts anticipate the fund todraw capital from existing products, especially BlackRock's iShares Bitcoin Trust (IBIT), the largest spot bitcoin ETF currently on the market. MSBT has a lot of catching up to do. IBIT, which launched among nine other ETFs in January 2024, has amassed over $53 billion in assets, quickly becoming the asset manager's most successful ETF.
+
+Wednesday's trading offers an early signal of demand, though it remains to be seen whether MSBT can sustain momentum in a market dominated by a handful of large players.
+
+UPDATE (April 8, 2026, 20:00 UTC):Adds additional detail.
+
+Most crypto privacy models weaken as blockchain data grows. Encryption-based models like Zcash strengthen. CoinDesk Research maps the five privacy approaches and examines the widening gap.
+
+As blockchain adoption scales, the metadata available to machine learning models scales with it. Obfuscation-based privacy approaches are structurally degrading as a result. This report provides a comprehensive comparison of all five major crypto privacy architectures and a framework for evaluating which models remain durable as AI capabilities improve.
+
+Elevated volume and modest institutional buying fail to support price, with sellers continuing to dominate near resistance.

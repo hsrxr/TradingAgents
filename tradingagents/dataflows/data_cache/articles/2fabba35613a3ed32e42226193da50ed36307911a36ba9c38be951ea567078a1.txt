@@ -1,0 +1,19 @@
+Title: Crypto markets rally as Trump announces two-week Iran ceasefire
+Source: CoinDesk
+URL: https://www.coindesk.com/markets/2026/04/08/crypto-markets-rally-as-trump-announces-two-week-iran-ceasefire
+
+The crypto market enjoyed a much-needed boost on Tuesday evening after U.S. president Donald Trump announced a two-week ceasefire in Iran.
+
+BitcoinBTC$71,622.43spiked to around $72,700 after settling in the $71,800 region, ether (ETH), meanwhile, is changing hands at $2,250 after posting a 6% gain in the past 24 hours.
+
+The market remains trapped in the same range it has been since early February despite the overnight rise. Bitcoin will need to trade above $75,000 to confirm a breakout, while a rejection here could signal a move back to around $65,000.
+
+Traders will be waiting cautiously for the ceasefire to end in a fortnight's time to see whether a deal can be reached or the conflict will start up again.
+
+Oil dipped heavily following the the news, with brent crude now trading at $94 per barrel, down from Tuesday's high of $114.
+
+Most crypto privacy models weaken as blockchain data grows. Encryption-based models like Zcash strengthen. CoinDesk Research maps the five privacy approaches and examines the widening gap.
+
+As blockchain adoption scales, the metadata available to machine learning models scales with it. Obfuscation-based privacy approaches are structurally degrading as a result. This report provides a comprehensive comparison of all five major crypto privacy architectures and a framework for evaluating which models remain durable as AI capabilities improve.
+
+Bitcoin clears a key technical hurdle and eyes $76,000 as a temporary ceasefire with Iran and Morgan Stanley’s landmark ETF debut restore market confidence.

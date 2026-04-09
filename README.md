@@ -230,27 +230,169 @@ npm run dev
 - 后端：包装 `TradingAgentsGraph`，以HTTP API形式暴露运行控制和事件查询
 - 核心引擎：`tradingagents/` 中的多代理图和风险流程
 
+---
+
+## ⛓️ ERC-8004 Path B 链上交互（Sepolia 共享合约）
+
+仓库已内置 Path B 所需的链上交互层，使用独立脚本 `web3_path_b.py` 即可运行。
+
+### 1. 环境变量
+
+在项目根目录 `.env` 中配置：
+
+```env
+SEPOLIA_RPC_URL=https://ethereum-sepolia-rpc.publicnode.com
+
+# operatorWallet: 持有 agent NFT、发交易、付 gas
+OPERATOR_PRIVATE_KEY=0x...
+
+# agentWallet: 专门用于 EIP-712 TradeIntent 签名
+AGENT_WALLET_PRIVATE_KEY=0x...
+
+# Path B 文档中的共享合约地址（可不填，代码内置默认值）
+AGENT_REGISTRY_ADDRESS=0x97b07dDc405B0c28B17559aFFE63BdB3632d0ca3
+HACKATHON_VAULT_ADDRESS=0x0E7CD8ef9743FEcf94f9103033a044caBD45fC90
+RISK_ROUTER_ADDRESS=0xd6A6952545FF6E6E6681c2d15C59f9EB8F40FdBC
+REPUTATION_REGISTRY_ADDRESS=0x423a9904e39537a9997fbaF0f220d79D7d545763
+VALIDATION_REGISTRY_ADDRESS=0x92bF63E5C7Ac6980f237a7164Ab413BE226187F1
+
+# 注册完成后写入
+AGENT_ID=123
+```
+
+### 2. 注册 Agent
+
+```bash
+uv run python web3_path_b.py register \
+    --name "My Agent" \
+    --description "A trustless AI trading agent" \
+    --capabilities "trading,eip712-signing" \
+    --agent-uri "https://example.com/agent-metadata.json"
+```
+
+执行后会输出并写入 `agent-id.json`（包含 `agentId` 与 `txHash`）。
+
+### 3. 领取 0.05 ETH 沙盒资金
+
+```bash
+uv run python web3_path_b.py claim --agent-id 123
+```
+
+查询余额/是否已领取：
+
+```bash
+uv run python web3_path_b.py balance --agent-id 123
+```
+
+### 4. 提交 TradeIntent（EIP-712）
+
+先模拟：
+
+```bash
+uv run python web3_path_b.py simulate-intent \
+    --agent-id 123 \
+    --pair XBTUSD \
+    --action BUY \
+    --amount-usd-scaled 50000 \
+    --max-slippage-bps 100
+```
+
+再提交：
+
+```bash
+uv run python web3_path_b.py submit-intent \
+    --agent-id 123 \
+    --pair XBTUSD \
+    --action BUY \
+    --amount-usd-scaled 50000 \
+    --max-slippage-bps 100
+```
+
+命令会自动获取链上 nonce、签名并提交到 RiskRouter。
+
+### 5. 发布验证 Checkpoint
+
+```bash
+uv run python web3_path_b.py post-checkpoint \
+    --agent-id 123 \
+    --action BUY \
+    --pair XBTUSD \
+    --amount-usd-scaled 50000 \
+    --price-usd-scaled 185000 \
+    --score 85 \
+    --reasoning "Momentum signal confirmed by volume" \
+    --notes "Round 1 execution"
+```
+
+该命令会：
+- 生成 checkpoint 的 EIP-712 digest（`checkpointHash`）
+- 调用 `ValidationRegistry.postEIP712Attestation`
+- 追加本地审计日志 `checkpoints.jsonl`
+
+### 6. 查询验证分与信誉分
+
+```bash
+uv run python web3_path_b.py scores --agent-id 123
+```
+
+返回：`validationScore` 与 `reputationScore`。
+
 ### 后端API一览（runtime_api_server.py）
 
 - `GET /healthz`
     - 健康检查
+    ---
 - `POST /api/run/start`
+    ## 🔄 自动链上集成 — Agent 决策自动提交
     - 启动一次交易流程
+    **新增功能**：Agent 生成交易决策后，可自动签名并提交 `TradeIntent` 到 RiskRouter，以及向 ValidationRegistry 提交 `Checkpoint`。
     - 请求体示例：
+    无需手动调用 `web3_path_b.py`，一切自动化。
 
+    ### 启用自动链上提交
 ```json
+    #### 1. 配置 `.env`
 {
+    ```bash
+    SEPOLIA_RPC_URL=https://ethereum-sepolia-rpc.publicnode.com
+    OPERATOR_PRIVATE_KEY=0x...              # 操作者钱包私钥
+    AGENT_WALLET_PRIVATE_KEY=0x...          # Agent 钱包私钥
+    AGENT_ID=123                            # 已注册的 Agent ID
+    AGENT_WALLET=0x...                      # Agent 钱包地址
+    ```
     "pair": "WETH/USDC",
+    参考 `.env.example_on_chain`。
     "tradeDate": "2026-04-02 10:00:00",
+    #### 2. 启用配置
     "selectedAnalysts": ["market", "news", "quant"],
+    ```python
+    config = DEFAULT_CONFIG.copy()
+    config["enable_on_chain_submission"] = True
     "parallelMode": true
+    ta = TradingAgentsGraph(..., config=config)
+    final_state, decision = ta.propagate("WETH/USDC", trade_date)
+    # TradeIntent 和 Checkpoint 自动提交！
+    ```
 }
+    #### 3. 查看日志
 ```
+    ```
+    INFO - Submitting on-chain: action=BUY, pair=WETH/USDC, amount=500.00 USD
+    INFO - TradeIntent submitted: 0xabc123...
+    INFO - Checkpoint submitted: 0xdef456...
+    ```
 
+    ### 工作流
 - `GET /api/runs`
+    ```
+    Agent 决策 → 解析 → 模拟 [可选] → 签名 → 提交 TradeIntent → 构建 Checkpoint → 提交
+    ```
     - 查看最近runs列表与状态
+    **无需修改 Agent 代码** — 自动适配 `final_trade_decision` JSON。
 - `GET /api/runs/{runId}/events?after={offset}`
+    详情见 [ON_CHAIN_INTEGRATION.md](./ON_CHAIN_INTEGRATION.md)
     - 增量拉取事件流（前端默认约900ms轮询）
+    ---
 
 前端调用入口可参考：
 

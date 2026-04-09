@@ -1,0 +1,33 @@
+Title: Bitcoin, ether, oil shorts lead $427 million wipeout on US-Iran ceasefire
+Source: CoinDesk
+URL: https://www.coindesk.com/markets/2026/04/08/bitcoin-ether-oil-shorts-lead-usd427-million-wipeout-on-us-iran-ceasefire
+
+Days of bearish positioning unraveled in about two hours on Tuesday night as bitcoin surged past $72,700 after Trump confirmed a two-week ceasefire with Iran via Truth Social just before his 8 p.m. ET deadline.
+
+The move triggered $595 million in total crypto liquidations across 118,489 traders, according toCoinGlass data.
+
+Short positions accounted for $427 million versus $168 million in longs, a ratio of more than 2.5-to-1 that reflects just how heavily the market was positioned for further downside heading into the deadline.
+
+The largest single liquidation was an $11.79 million BTC-USDT short on Binance. Bitcoin accounted for $245 million in total liquidations, ether followed at $126 million, and tokenized Brent oil futures on Hyperliquid added $33 million as crude collapsed more than 10%, with a further $42 million in CL (WTI crude) contracts.
+
+Oil, which has been among the top liquidated crypto assets throughout the war, flipped to the other side of the trade as Brent dropped to roughly $99 and WTI fell to about $95.
+
+The 12-hour window was where the real damage concentrated. Of the $595 million total, $508 million was liquidated in just 12 hours, with shorts taking $398 million of that, the most aggressive short squeeze since March 4 when bitcoin rallied on the first round of ceasefire speculation.
+
+Solana's SOL added $19.6 million in liquidations, ZEC saw $13.4 million, and XRP contributed smaller amounts alongside a long tail of altcoins. Even tokenized silver and gold positions got caught in the unwind as the commodity complex repriced the removal of war premium.
+
+The ceasefire itself is conditional.
+
+Trump called it a "double sided ceasefire" and said the U.S. had "already met and exceeded all military objectives." Iran confirmed the suspension but hedged on the Strait of Hormuz, saying oil tankers could transit for two weeks "via coordination with Iran's armed forces and with due consideration to technical limitations."
+
+For context on how extreme the positioning had become, the Fear and Greed Index sat at 8 on Sunday, continuing a tread of readings under 10 throughout the entire conflict. Elsewhere,Santiment data showed five bearish social media postsfor every four bullish ones. Every sentiment and positioning indicator was pointing in one direction. The ceasefire pushed the market violently in the other.
+
+Bitcoin's move to $72,700 puts it at the top of the $65,000 to $73,000 range that has contained every rally and selloff since the war began.
+
+Whether this breaks the range or becomes another headfake depends on what "two weeks" turns into.
+
+Most crypto privacy models weaken as blockchain data grows. Encryption-based models like Zcash strengthen. CoinDesk Research maps the five privacy approaches and examines the widening gap.
+
+As blockchain adoption scales, the metadata available to machine learning models scales with it. Obfuscation-based privacy approaches are structurally degrading as a result. This report provides a comprehensive comparison of all five major crypto privacy architectures and a framework for evaluating which models remain durable as AI capabilities improve.
+
+Bitcoin, equities, and gold rise while oil and volatility drop amid improving risk sentiment.

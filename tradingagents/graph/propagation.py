@@ -40,7 +40,7 @@ class Propagator:
         
         # Calculate drawdown metrics
         total_assets = cash_usd + position_usd + unrealized_pnl
-        initial_capital = 10000.0  # Baseline
+        initial_capital = self.portfolio_manager.get_initial_capital()
         drawdown_pct = ((total_assets - initial_capital) / initial_capital * 100) if initial_capital > 0 else 0
         
         global_portfolio_context = (

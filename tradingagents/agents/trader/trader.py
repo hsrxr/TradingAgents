@@ -1,6 +1,7 @@
 import functools
 import time
 import json
+import os
 
 
 def create_trader(llm, memory):
@@ -26,20 +27,27 @@ def create_trader(llm, memory):
         else:
             past_memory_str = "No past memories found."
 
+        agent_id = int(os.getenv("AGENT_ID", "0") or "0")
+        agent_wallet = os.getenv("AGENT_WALLET_ADDRESS", "")
+        deadline_hint = int(time.time()) + 300
+
         context = {
             "role": "user",
-            "content": f"You are the Chief Trader and portfolio manager for {company_name} in the crypto market. Use the merged analyst context, bull/bear debate transcript, and portfolio constraints to produce a **hourly trade intent** for the next 6-24h.\n\nDecision rules:\n- Prioritize executable short-horizon setups over long-term narratives.\n- If signal quality is weak or conflicting, choose HOLD with clear reasoning.\n- Confidence must reflect signal quality and consistency across market/news/sentiment/fundamentals.\n\nMerged Analyst Context:\n{investment_plan}\n\nBull/Bear Debate Transcript:\n{debate_history}\n\nGlobal Portfolio Context (hard constraints):\n{global_portfolio_context}\n\nPortfolio Balance:\n{json.dumps(portfolio_balance, ensure_ascii=False)}\n\nReturn ONLY JSON with this schema:\n{{\n  \"action\": \"BUY\" | \"SELL\" | \"HOLD\",\n  \"confidence\": 0.0-1.0,\n  \"thesis\": \"short explanation for next 6-24h\",\n  \"time_horizon\": \"intraday|swing|position\"\n}}\n\nFor this strategy, default to \"intraday\" unless strong evidence supports a longer horizon.",
+            "content": f"You are the Chief Trader and portfolio manager for {company_name} in the crypto market. Use the merged analyst context, bull/bear debate transcript, and portfolio constraints to produce a **TradeIntent** for RiskRouter.\n\nDecision rules:\n- Prioritize executable short-horizon setups over long-term narratives.\n- If signal quality is weak or conflicting, choose HOLD with amountUsdScaled=0.\n- Pair must be tradable as a pair string, e.g. ETHUSDC, BTCUSDT, XBTUSD.\n\nMerged Analyst Context:\n{investment_plan}\n\nBull/Bear Debate Transcript:\n{debate_history}\n\nGlobal Portfolio Context (hard constraints):\n{global_portfolio_context}\n\nPortfolio Balance:\n{json.dumps(portfolio_balance, ensure_ascii=False)}\n\nOutput STRICT JSON ONLY using this shape (TradeIntent + required metadata):\n{{\n  \"agentId\": {agent_id},\n  \"agentWallet\": \"{agent_wallet}\",\n  \"pair\": \"{company_name}\",\n  \"action\": \"BUY\" | \"SELL\" | \"HOLD\",\n  \"amountUsdScaled\": integer,\n  \"maxSlippageBps\": integer,\n  \"nonce\": integer,\n  \"deadline\": integer,\n  \"confidence\": number between 0 and 1,\n  \"reasoning\": \"concise rationale for this intent\"\n}}\n\nField guidance:\n- amountUsdScaled is USD * 100 (e.g., 250.00 USD -> 25000).\n- maxSlippageBps default 100 unless strong reason.\n- nonce should be 0 as placeholder (will be replaced before submit).\n- deadline should be unix seconds, use ~now+300. Example: {deadline_hint}.\n- confidence must reflect conviction quality and consistency.\n- reasoning should be concise and directly explain the action.",
         }
 
         messages = [
             {
-                "role": "system",
+                "role": "system", 
                 "content": f"""You are the Chief Trader for a crypto, hourly-frequency strategy. Produce strict JSON only (no markdown, no prose outside JSON).
 Requirements:
 - action must be exactly BUY, SELL, or HOLD.
-- confidence must be a float between 0 and 1.
-- thesis must be concise and focused on the next 6-24h.
-- Prefer time_horizon='intraday' for this strategy unless there is strong cross-signal confirmation for longer duration.
+- amountUsdScaled must be an integer >= 0 and in cents.
+- maxSlippageBps must be a positive integer.
+- nonce must be an integer placeholder (0 is acceptable).
+- deadline must be unix seconds.
+- confidence must be a float in [0, 1].
+- reasoning must be a concise plain-text rationale.
 Leverage these past lessons: {past_memory_str}""",
             },
             context,

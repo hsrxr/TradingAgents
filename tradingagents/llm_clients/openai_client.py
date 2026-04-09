@@ -1,5 +1,6 @@
 import os
 from typing import Any, Optional
+import httpx
 
 from langchain_openai import ChatOpenAI
 
@@ -44,6 +45,13 @@ class OpenAIClient(BaseLLMClient):
         llm_kwargs = {"model": self.model, 
                       'timeout': 120.0, 
                       'max_retries': 3}
+
+        trust_env = str(os.environ.get("LLM_TRUST_ENV", "false")).strip().lower() in {
+            "1",
+            "true",
+            "yes",
+            "on",
+        }
         
 
         if self.provider == "xai":
@@ -70,6 +78,12 @@ class OpenAIClient(BaseLLMClient):
         for key in ("timeout", "max_retries", "reasoning_effort", "api_key", "callbacks", "streaming"):
             if key in self.kwargs:
                 llm_kwargs[key] = self.kwargs[key]
+
+        # httpx may inherit system proxy settings via trust_env. In some Windows
+        # environments this forces HTTPS CONNECT tunneling and can trigger
+        # SSL EOF handshake failures for LLM APIs.
+        timeout_s = float(llm_kwargs.get("timeout", 120.0))
+        llm_kwargs["http_client"] = httpx.Client(trust_env=trust_env, timeout=timeout_s)
 
         return UnifiedChatOpenAI(**llm_kwargs)
 

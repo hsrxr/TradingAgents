@@ -20,12 +20,22 @@ from tradingagents.agents.utils.agent_states import (
     RiskDebateState,
 )
 from tradingagents.dataflows.config import set_config
+from tradingagents.web3_layer.on_chain_integration import (
+    create_on_chain_integrator,
+    OnChainIntegrator,
+    OnChainSubmissionResult,
+)
 
 # Import direct DEX tools from dataflow layer
 from tradingagents.dataflows.geckoterminal_price import get_dex_ohlcv
 from tradingagents.dataflows.calculate_indicators import (
     get_dex_indicators,
     get_builtin_quant_signals,
+)
+from tradingagents.dataflows.binance_price import (
+    get_binance_ohlcv,
+    get_binance_indicators,
+    get_binance_builtin_quant_signals,
 )
 from tradingagents.dataflows.rss_processor import fetch_and_parse_crypto_news
 from tradingagents.dataflows.get_full_articles import fetch_article_full_text
@@ -168,6 +178,25 @@ class TradingAgentsGraph:
         self.ticker = None
         self.log_states_dict = {}  # date to full state dict
         self.current_trace_file: Optional[str] = None
+        
+        # Initialize on-chain integration (optional)
+        self.on_chain_integrator: Optional[OnChainIntegrator] = None
+        if self.config.get("enable_on_chain_submission", False):
+            self.on_chain_integrator = create_on_chain_integrator(
+                enable_simulation=self.config.get("on_chain_simulation_enabled", True),
+                submit_hold_decisions=self.config.get("on_chain_submit_hold_decisions", False),
+            )
+            if self.on_chain_integrator:
+                logger.info("On-chain integration enabled")
+            else:
+                logger.warning("On-chain integration requested but not available (missing .env config)")
+        else:
+            logger.debug("On-chain integration disabled")
+        
+        # Initialize trade outcome recorder for memory feedback
+        from tradingagents.graph.trade_outcome_recorder import create_trade_outcome_recorder
+        self.trade_outcome_recorder = create_trade_outcome_recorder()
+        logger.debug("Trade outcome recorder initialized")
 
         # Set up the primary graph
         self.graph = self.graph_setup.setup_graph(selected_analysts)
@@ -267,7 +296,10 @@ class TradingAgentsGraph:
                 [
                     # Decentralized exchange data
                     get_dex_ohlcv,
-                    get_dex_indicators,                                      
+                    get_dex_indicators,
+                    # Centralized exchange data (Binance)
+                    get_binance_ohlcv,
+                    get_binance_indicators,
                 ]
             ),
             "news": ToolNode(
@@ -287,6 +319,10 @@ class TradingAgentsGraph:
                     get_dex_ohlcv,
                     get_dex_indicators,
                     get_builtin_quant_signals,
+                    # Binance alternatives for symbols unavailable on DEX pools.
+                    get_binance_ohlcv,
+                    get_binance_indicators,
+                    get_binance_builtin_quant_signals,
                 ]
             ),
         }
@@ -382,6 +418,50 @@ class TradingAgentsGraph:
 
         # Log state
         self._log_state(trade_date, final_state)
+        
+        # Submit to on-chain contracts (if configured)
+        if self.on_chain_integrator:
+            try:
+                submission_result = self.on_chain_integrator.submit_decision(
+                    final_decision_json=final_state.get("final_trade_decision", ""),
+                    current_price_usd_scaled=0,  # Optional: could be fetched from market data
+                    trade_date=str(trade_date),
+                )
+                
+                if submission_result.trade_submitted:
+                    logger.info(
+                        f"TradeIntent submitted on-chain: {submission_result.trade_intent_hash}"
+                    )
+                
+                if submission_result.checkpoint_submitted:
+                    logger.info(
+                        f"Checkpoint submitted on-chain: {submission_result.checkpoint_hash}"
+                    )
+                
+                if submission_result.trade_error:
+                    logger.error(f"TradeIntent submission error: {submission_result.trade_error}")
+                
+                if submission_result.checkpoint_error:
+                    logger.error(f"Checkpoint submission error: {submission_result.checkpoint_error}")
+                
+                # Wait for RiskRouter feedback (approval/rejection)
+                if submission_result.trade_submitted:
+                    logger.info("Waiting for RiskRouter feedback...")
+                    submission_result = self.on_chain_integrator.wait_for_feedback(
+                        submission_result,
+                        max_wait_seconds=300,
+                        poll_interval_seconds=5,
+                    )
+                    
+                    # Apply feedback to portfolio and memory
+                    self._apply_on_chain_feedback(
+                        submission_result,
+                        final_state,
+                        trade_date,
+                    )
+                    
+            except Exception as e:
+                logger.error(f"Unexpected error during on-chain submission: {e}", exc_info=True)
 
         # Return decision and processed signal
         return final_state, self.process_signal(final_state["final_trade_decision"])
@@ -462,3 +542,139 @@ class TradingAgentsGraph:
     def process_signal(self, full_signal):
         """Process a signal to extract the core decision."""
         return self.signal_processor.process_signal(full_signal)
+    
+    def _apply_on_chain_feedback(
+        self,
+        submission_result: "OnChainSubmissionResult",
+        final_state: dict,
+        trade_date,
+    ) -> None:
+        """Apply RiskRouter feedback to portfolio and memory.
+        
+        Args:
+            submission_result: Result from wait_for_feedback()
+            final_state: Final decision state from analysis
+            trade_date: Date of the trade
+        """
+        from tradingagents.web3_layer import (
+            create_portfolio_feedback_engine,
+        )
+        
+        if not submission_result.trade_submitted:
+            logger.warning("No trade submitted, skipping feedback application")
+            return
+        
+        try:
+            # Extract trade intent from metadata
+            trade_intent = submission_result.metadata.get("trade_intent", {})
+            if not trade_intent:
+                logger.warning("No trade intent in submission result, cannot apply feedback")
+                return
+            
+            # Create feedback engine
+            feedback_engine = create_portfolio_feedback_engine(self.portfolio_manager)
+            
+            # Apply approved or rejected trade
+            if submission_result.trade_approved and submission_result.approval_event:
+                outcome = feedback_engine.apply_approved_trade(
+                    approval_event=submission_result.approval_event,
+                    trade_intent=trade_intent,
+                    execution_price_usd=None,  # TODO: fetch from DEX execution logs
+                    execution_amount_filled=None,
+                )
+                
+                if outcome.success:
+                    logger.info(f"Portfolio updated with approved trade: {outcome.message}")
+                    
+                    # Record in memory that trade was approved and executed
+                    self._record_trade_outcome_in_memory(
+                        decision_state=final_state,
+                        approval_status="approved",
+                        approval_event=submission_result.approval_event,
+                        outcome=outcome,
+                        trade_date=trade_date,
+                    )
+                else:
+                    logger.error(f"Failed to apply approved trade: {outcome.message}")
+            
+            elif submission_result.trade_rejected and submission_result.rejection_event:
+                outcome = feedback_engine.apply_rejected_trade(
+                    rejection_event=submission_result.rejection_event,
+                    trade_intent=trade_intent,
+                )
+                
+                if outcome.success:
+                    logger.info(f"Rejection recorded: {outcome.message}")
+                    
+                    # Record in memory that trade was rejected
+                    self._record_trade_outcome_in_memory(
+                        decision_state=final_state,
+                        approval_status="rejected",
+                        rejection_event=submission_result.rejection_event,
+                        rejection_reason=submission_result.rejection_reason,
+                        trade_date=trade_date,
+                    )
+                else:
+                    logger.error(f"Failed to record rejection: {outcome.message}")
+            
+            else:
+                logger.warning("No approval/rejection feedback available")
+                if submission_result.metadata.get("feedback_timeout"):
+                    logger.warning("Feedback collection timed out, trade status unknown")
+                    # Could implement fallback recovery here
+        
+        except Exception as e:
+            logger.error(f"Error applying on-chain feedback: {e}", exc_info=True)
+    
+    def _record_trade_outcome_in_memory(
+        self,
+        decision_state: dict,
+        approval_status: str,
+        trade_date,
+        approval_event: Optional[Dict[str, Any]] = None,
+        rejection_event: Optional[Dict[str, Any]] = None,
+        rejection_reason: Optional[str] = None,
+        outcome: Optional["TradeExecutionOutcome"] = None,
+    ) -> None:
+        """Record the trade outcome in agent memory for learning.
+        
+        Args:
+            decision_state: Final decision state
+            approval_status: "approved" or "rejected"
+            trade_date: Date of trade
+            approval_event: TradeApprovalEvent dict (if approved)
+            rejection_event: TradeRejectionEvent dict (if rejected)
+            rejection_reason: Rejection reason (if rejected)
+            outcome: TradeExecutionOutcome (if approved)
+        """
+        try:
+            # Collect all agent memories
+            agent_memories = {
+                "bull": self.bull_memory,
+                "bear": self.bear_memory,
+                "trader": self.trader_memory,
+                "invest_judge": self.invest_judge_memory,
+                "risk_manager": self.risk_manager_memory,
+            }
+            
+            # Record in all agent memories using the outcome recorder
+            results = self.trade_outcome_recorder.record_trade_outcome_for_all_agents(
+                agent_memories=agent_memories,
+                decision_state=decision_state,
+                approval_status=approval_status,
+                trade_date=str(trade_date),
+                approval_event=approval_event,
+                rejection_event=rejection_event,
+                rejection_reason=rejection_reason,
+                portfolio_outcome=outcome.to_dict() if outcome else None,
+            )
+            
+            # Log results
+            success_count = sum(1 for v in results.values() if v)
+            logger.info(
+                f"Trade outcome recorded in {success_count}/{len(results)} agent memories "
+                f"[status: {approval_status}]"
+            )
+        
+        except Exception as e:
+            logger.error(f"Error recording trade outcome in memory: {e}", exc_info=True)

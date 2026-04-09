@@ -1,5 +1,6 @@
 import os
 import time
+import datetime
 from tradingagents.graph.trading_graph import TradingAgentsGraph
 from tradingagents.default_config import DEFAULT_CONFIG
 
@@ -18,13 +19,15 @@ config["llm_provider"] = "deepseek"  # Switch to DeepSeek provider
 config["backend_url"] = "https://api.deepseek.com/v1" 
 config["deep_think_llm"] = "deepseek-reasoner"  
 config["quick_think_llm"] = "deepseek-chat"  
+config["enable_on_chain_submission"] = True
+config["on_chain_submit_hold_decisions"] = True  # True: HOLD 也提交到 RiskRouter
 
 start_time = time.time()
 # Initialize with custom config
 ta = TradingAgentsGraph(debug=True, selected_analysts=['market', 'news', 'quant'], config=config, parallel_mode=True)
 
-# forward propagate NVDA
-final_state, decision = ta.propagate("WETH/USDC", "2026-3-30 21:00:00")
+# XBTUSD ETHUSD SOLUSD BNBUSD
+final_state, decision = ta.propagate("ETHUSD", datetime.datetime.now(datetime.timezone.utc))
 end_time = time.time()
 
 print(decision)

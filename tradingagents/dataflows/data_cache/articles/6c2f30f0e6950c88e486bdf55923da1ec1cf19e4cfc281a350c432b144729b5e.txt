@@ -1,0 +1,37 @@
+Title: Cango sells 2,000 BTC, cuts Bitcoin production cost by 19% in March
+Source: Cointelegraph
+URL: https://cointelegraph.com/news/cango-sells-2-000-btc-cuts-bitcoin-production-cost?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+
+Bitcoin miner Cango said it sold 2,000 BTC to pay off debt and cut its BTC production cost by 19% as part of its strategic pivot to energy and AI infrastructure.
+
+Cointelegraph in your social feed
+
+Bitcoin mining company Cango said on Wednesday it slashed its Bitcoin production cost to $68,215 per coin, a 19.3% cost reduction compared to the average cash cost of $84,552 per coin reported in the fourth quarter of 2025.
+
+The company attributed the reduction to its shift toward a “lean-production model” that prioritizes margin resilience over raw scale, according to its monthly operationalreport. Cango said the production cost reduction will help the company weather the volatility of Bitcoin prices.
+
+The company sold 2,000 Bitcoin (BTC) in March at an average price between $68,000 and $69,000, a spokesperson for Cango told Cointelegraph, netting the company around $137 million. Cango said the proceeds were used to reduce outstanding Bitcoin-backed loans. As of March 31, Cango had $30.6 million in Bitcoin-backed loans outstanding and held 1,025.69 BTC in its treasury.
+
+The update shows how some listed Bitcoin miners are prioritizing deleveraging and cash-margin discipline over raw scale as financing conditions remain tight. Cango also reported a $65 million equity investment from members of the company’s leadership team and a $10 million convertible bond from DL Holdings. The Bitcoin miner said it will continue de-leveraging to support its planned transition into energy and artificial intelligence (AI) infrastructure.
+
+Cango is the world’s sixth-largest Bitcoin mining company by hashrate, with 27.9 exahashes per second (EH/s), accounting for 2.82% of the global Bitcoin mining hash power,accordingto data from BitcoinMiningStock.
+
+The company reported a total operational hashrate of 37.01 EH/s, including 27.9 EH/s in self-mining and 9.02 EH/s in hashrate leasing.
+
+Cango’s stock price rose 3.44% in pre-market trading on Wednesday, but has fallen by around 72% year-to-date, according to Google Financedata.
+
+Related:Bitcoin ETFs log biggest outflows in 3 weeks as Iran war fears rise
+
+Cango’s sale also comes as other listed Bitcoin-linked companies have used treasury sales to strengthen balance sheets.
+
+MARA Holdings, the second-largest BTC miner, disclosed that itsold about $1.1 billion worth of Bitcoinin March to repurchase convertible debt at a discount.
+
+Still, the largest public holder of Bitcoin continues to accumulate. MichaelSaylor’s Strategy discloseda $330 million Bitcoin acquisition on Monday, bought at an average price of $67,718 per coin, despite paper losses on its holdings surpassing $14.5 billion during the first quarter of the year.
+
+Magazine:Metaplanet’s Japan Bitcoin bet, Bithumb ordered suspension: Asia Express
+
+Cointelegraph covers fintech, blockchain and Bitcoin bringing you the latest crypto news and analyses on the future of money.
+
+Cointelegraph is committed to providing independent, high-quality journalism across the crypto, blockchain, AI, and fintech industries. To support open access to our website and sustain editorial operations, certain commercial or partner references may appear on our site. These arrangements help maintain an accessible platform and do not result in additional costs to readers.
+
+All news, reviews, and analysis are produced with full journalistic independence and integrity. For more details on our standards and processes, please read ourEditorial Policy.

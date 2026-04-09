@@ -1,0 +1,39 @@
+Title: Ceasefire lifts bitcoin, but animal spirits may not return just yet
+Source: CoinDesk
+URL: https://www.coindesk.com/markets/2026/04/08/ceasefire-lifts-bitcoin-but-animal-spirits-may-not-return-just-yet
+
+The crypto market is back on the front-foot after a two-weekceasefire betweenthe U.S. and Iran removed some of the geopolitical uncertainty and sent oil prices tumbling. Still, energy market dynamics are such that it may be too early to assume the return of animal spirits to risk assets.
+
+BitcoinBTC$71,460.29has jumped 3% to $71,600 in the past 24 hours while ether (ETH), XRP (XRP), and solana (SOL) have all gained more than 5%. The CoinDesk 20 Index has outperformed bitcoin, rising 4.2 percent, which is typical when altcoins outpace the market leader.
+
+Oil has plunged after Iran agreed to open the Strait of Hormuz, a key route for global shipments. WTI crude futures trading on NYMEX are down nearly 16 percent to $95 a barrel. When crude drops sharply, inflation fears ease, Fed rate hike calls weaken and crypto tends to rally.
+
+Supporting the move is a drop in bitcoin and ether 30-day implied volatility, which measures market fear. Since the debut of spot ETFs two years ago, these numbers have evolved into VIX-like metrics, spiking during sell-offs and calming as panic fades.
+
+The mood could get another lift later ifMorgan Stanley’s bitcoin ETFdebuts with strong volumes and inflows on day one. That would reinforce the story of institutional adoption.
+
+"The recent pattern has been institutional demand showing up again through ETFs. When inflows are present, dips are bought faster and the market holds higher levels even when momentum cools," Marex said.
+
+Still, there are reasons to be cautious. The overnight rally was partly fueled by short positions being unwound after traders betting on a U.S.-Iran escalation got caught off guard. Shorts worth $431 million were liquidated in 24 hours, the largest since March 4, according to Coinglass. In cases like this, the market often chops around waiting for fresh demand. Without it, gains can quickly reverse.
+
+While oil is down to $85, it's still $30 higher than before the conflict started on Feb. 28. Moreover, the ceasefire is temporary and not a permanent fix and for oil to drop further,hormuz tanker traffic and insurance ratesneed to normalize to pre-war levels. Until then, oil could stay near $100 and keep risk assets like crypto in check. Stay alert.
+
+Iran ceasefire effect: Oil plunges as European markets surge(euronews): Oil prices plunged below $100 a barrel and European and Asian markets surged after the U.S. and Iran agreed to a two-week ceasefire that includes the reopening of the Strait of Hormuz.
+
+Dollar hits four-week low as ceasefire boosts risk appetite(Bloomberg): The greenback slid as much as 0.97% to a four-week low as the agreement drove down Treasury yields, further reducing support. The South African rand and the Swedish krona each gained roughly 2%.
+
+European stocks soar 4% after U.S.-Iran ceasefire deal; travel stocks lead gains up 7%(CNBC): European stocks opened sharply higher on Wednesday. The pan-European Stoxx 600 index was 3.4% higher, with all sectors besides oil and gas in the green. Autos, miners and travel stocks led gains, rising 5.6%, 6%, and 7.3%, respectively.
+
+U.S. bank with $1.9 trillion in assets could debut its bitcoin ETF Wednesday(CoinDesk): The Morgan Stanley Bitcoin Trust could start trading NYSE Arca under the ticker MSBT, Bloomberg's ETF Analyst Eric Balchunas said on X, an NYSE listing notice that points to an April 8 launch.
+
+The chart shows bitcoin's daily price swings in candlestick format since October. The yellow line represents the 50-day simple moving average (SMA) of the price and the white line shows the 100-day average.
+
+As shown, the spot price has decisively moved above the 50-day average, a widely watched measure of near-term trends. The move indicates strengthening of bullish momentum and follows the recent bounce from the support of the trendline from February lows.
+
+Prices, therefore, could see more upside ahead, with $76,100, the 100-day average, as the next level to watch. On the downside, the late March lows near $65,000 are expected to act as a demand zone, supporting pullbacks. If that level fails, prices could fall to $60,000.
+
+Most crypto privacy models weaken as blockchain data grows. Encryption-based models like Zcash strengthen. CoinDesk Research maps the five privacy approaches and examines the widening gap.
+
+As blockchain adoption scales, the metadata available to machine learning models scales with it. Obfuscation-based privacy approaches are structurally degrading as a result. This report provides a comprehensive comparison of all five major crypto privacy architectures and a framework for evaluating which models remain durable as AI capabilities improve.
+
+A ton of BTC was recently traded below $70,000 in a sign of strong dip demand.

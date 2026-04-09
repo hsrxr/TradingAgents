@@ -1,0 +1,121 @@
+Title: Will quantum-safe cryptography slow Ethereum down? The performance tradeoff explained
+Source: Cointelegraph
+URL: https://cointelegraph.com/explained/will-quantum-safe-cryptography-slow-ethereum?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+
+Ethereum relies on cryptographic systems that remain secure against classical computers. However, sufficiently advanced quantum machines could one day break these systems, potentially exposing private keys and putting billions of dollars in value at risk.
+
+Ethereum’s post-quantum initiative sends a clear message: there is no immediate threat, yet delaying action is not an option.
+
+Upgrading a global, decentralized network is a complex, multiyear effort that requires:
+
+comprehensive testing and verification
+
+For that reason, Ethereum istargeting quantum-safe readinessaround 2029, well before the threat is expected to become practical.
+
+At first glance, quantum-safe cryptography comes with a key tradeoff: many post-quantum schemes are more resource-intensive than the cryptographic systems Ethereum uses today.
+
+Compared with today’s cryptographic signatures, most post-quantum alternatives tend to:
+
+generate larger signatures, increasing the amount of data per transaction
+
+require more computational resources for verification
+
+lack efficient built-in aggregation capabilities
+
+This creates three keychallenges for Ethereum:
+
+more data moving across the network
+
+faster growth in blockchain storage requirements
+
+Validators are responsible for verifying signatures. If those signatures become more complex:
+
+the network’s decentralization could suffer
+
+Ethereum’s consensus layercurrently benefits from Boneh-Lynn-Shacham (BLS) signatures, whichallowefficient aggregation. Most quantum-safe schemes do not support this capability natively, creating a significant scalability hurdle.
+
+The most significant performance risk lies in Ethereum’s consensus layer. Thousands of validators currently submit attestations that are efficiently aggregated through BLS signatures. This helps maintain:
+
+Many quantum-safe alternatives do not currently offer the same level of efficiency, especially in areas such as aggregation.
+
+If Ethereum were to simply replace BLS with a heavier alternative, the network could face:
+
+Did you know?Ethereum is not replacing signatures outright. Instead, it is usingSNARKsto compress thousands of heavy proofs into a single, compact cryptographic receipt.
+
+Instead of accepting a performance slowdown, Ethereum developers are pursuing a smarter path: redesigning the system to operate within quantum-safe constraints. The core idea is SNARK-based aggregation.
+
+Rather than verifying thousands of large signatures one by one, the network verifies a single compact cryptographic proof that attests to the validity of all the underlying signatures.
+
+compresses large amounts of data into compact proofs
+
+Put simply, Ethereum is working to rebuild efficiency on top of more resource-intensive cryptography.
+
+The execution layer, where wallets and transactions operate, is where users would feel the effects most directly.
+
+modestly higher gas costs due to more complex signature verification
+
+updated wallet designs that leverage account abstraction
+
+a phased migration rather than an abrupt, network-wide transition
+
+The goal is to minimize disruption while allowing:
+
+the old and new cryptographic systems to operate alongside each other
+
+users to upgrade on their own timeline
+
+developers to adapt in a controlled manner
+
+Did you know?Quantum-safe upgrades are not just about security. They represent a full-stack challenge involving cryptography, networking, economics and wallet design. Ethereum is turning a potential headache into an engineering opportunity.
+
+Quantum-safe cryptography affects more than individual transactions. It also places additional strain on Ethereum’s data layer.
+
+Larger cryptographic elements can:
+
+increase pressure on data availability systems
+
+affectblob storageused in scaling solutions
+
+That is why Ethereum’s roadmap includes upgrades across multiple layers, rather than focusing solely on signature replacements.
+
+At its core, the discussion goes beyond speed alone. It is about striking the right balance among:
+
+security (protection against quantum attacks)
+
+performance (throughput and latency)
+
+cost (gas feesand validator resources)
+
+decentralization (keeping node requirements accessible)
+
+If handled poorly, quantum-safe upgrades could lead to:
+
+advantages for larger validators
+
+However, if executed well, they could:
+
+Did you know?Without careful engineering, quantum-safe cryptography could raise gas fees and push smaller validators out. Ethereum’s multilayer approach aims to keep the network fast, affordable and truly decentralized.
+
+Ethereum is intentionally avoiding a rush toward any single solution. There are several reasons for this.
+
+Choosing the wrong cryptographic system could:
+
+lock the network into inefficient designs
+
+open attack surfaces that did not previously exist
+
+Instead, developers are prioritizing cryptographic agility:
+
+the ability to upgrade algorithms over time as needed
+
+the flexibility to respond to new discoveries
+
+the avoidance of irreversible tradeoffs
+
+The push toward quantum-safe cryptography is revealing a deeper reality. This is not just a security issue. It is a full-stack engineering challenge spanning cryptography, networking, economics and user experience.
+
+If Ethereum were to adopt quantum-safe cryptography without redesigning its underlying architecture, the network would almost certainly become heavier, slower, and more expensive to run.
+
+But that is not the strategy Ethereum is following. Instead, it is using several technologies to absorb the overhead of quantum security without passing the costs on to users:
+
+Ethereum is working to absorb the overhead of quantum security without burdening users with the consequences.

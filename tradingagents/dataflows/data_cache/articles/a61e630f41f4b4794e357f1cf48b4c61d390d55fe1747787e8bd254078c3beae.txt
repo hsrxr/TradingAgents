@@ -1,0 +1,35 @@
+Title: U.S. Treasury to propose demands that stablecoin firms be set to police bad transactions
+Source: CoinDesk
+URL: https://www.coindesk.com/policy/2026/04/08/u-s-treasury-to-propose-demands-that-stablecoin-firms-be-set-to-police-bad-transactions
+
+A firm issuing stablecoins in the U.S. would have an array of new duties to head off criminals and keep government watchdogs informed about malicious actors, according to rules poised for proposal by the U.S. Department of the Treasury that were reviewed by CoinDesk.
+
+A joint proposal from the Treasury's Financial Crimes Enforcement Network (FinCEN) and Office of Foreign Assets Control (OFAC) will outline the deep controls that stablecoin businesses would have to put in place, including abilities to "block, freeze and reject" transactions and internal protections to comply with the Bank Secrecy Act that governs most of the U.S. financial system.
+
+In one of the most significant moves yet to implement last year's Guiding and Establishing National Innovation for U.S. Stablecoins (GENIUS) Act — the first major crypto-sector law for the U.S. — the two arms of the Treasury Department that police illicit finance are setting out a tailored approach for stablecoin firms, which will be opened for a public comment period and potential revisions before it's finalized. But the agencies are also sending a message of deference to the industry, suggesting the companies understand their own hazards best.
+
+A summary of the joint proposal reviewed by CoinDesk said it's focused on effectiveness "and that financial institutions are best positioned to identify and evaluate their money laundering, terrorist financing and illicit finance risks." The department's effort contends that a firm that's running appropriate money-laundering preventions is generally safe from enforcement actions unless it's showing "a significant or systemic failure to maintain that program."
+
+On that money-laundering front, FinCEN would expect stablecoin issuers' programs to be able to halt specifically flagged transactions and to know where to devote "more attention and resources toward higher-risk customers and activities." When the U.S. authorities are pursuing a specific target, the regulated issuers subjected to this proposed rule would have to scour their own records for any activity tied to individuals or entities flagged by FinCEN.
+
+Also, the issuers will be expected to act as allies in the agency's pursuit of entities identified as "primary money laundering concerns." As recently as 2023, the agencyhad sought to tag crypto mixerssuch as Tornado Cash under that label, though earlier this year, the Treasury Departmentreversed courseto suggest that mixers could serve legitimate and legal privacy uses.
+
+On the sanctions front, OFAC would require stablecoin issuers run risk-based safeguards for stablecoin activity on primary or secondary markets, and the policies must spot and reject transactions "that may violate or would violate U.S. sanctions." Sanction missteps — including past flagrant violations — have been a critical concern of crypto industry detractors, includingrecent scrutiny focused on the world's biggest exchange, Binance.
+
+Treasury Secretary Scott Bessent said in a statement that his department's latest efforts "will protect the U.S. financial system from national security threats without hindering American companies’ ability to forge ahead in the payment stablecoin ecosystem.”
+
+The crypto industry and its stablecoin leaders — including Tether, Circle, Ripple and the firm partially owned and controlled by the family of President Donald Trump, World Liberty Financial — have been awaiting regulation that helps further establish their bespoke assets as safe and reliable. Some tensions remain in the wider crypto community, which has had a tumultuous relationship with governments since its beginnings, when its founding principles aimed to keep cryptocurrencies outside of government control.
+
+The decentralized finance (DeFi) sector remains a space that seeks to cut away intermediaries and maintain direct interactions, but the illicit-finance controls for that arena are still unresolved in the ongoing negotiations among the industry, securities sector and lawmakers over the Digital Asset Market Clarity Act in the U.S. Senate. While the Treasury's stablecoin proposal and others from U.S. financial regulators are beginning to sketch out the guardrails, wide swaths of crypto activity still need to be addressed.
+
+Earlier this year, a third arm of the Treasury — the independent Office of the Comptroller of the Currency that regulates national banks and trusts —proposed its standards and proceduresfor issuers it'll watch as the primary federal regulator. This week, its sister regulator, the Federal Deposit Insurance Corp. did the same with alargely parallel proposal.
+
+The GENIUS Act is meant to go into full effect by 2027. Well before that, firms have been pursuing charters and partnerships to get involved in stablecoins. The Trump-tied World Liberty, for instance,applied for a charter as a trust bankin January and manages the USD1 stablecoin.
+
+The company is under fresh scrutiny this week afterreportedly being unawarethat its AB DAO partner was involved in a project with potential ties to Cambodia’s Prince Group,the target of major U.S. investigations, sanctioning and the seizure last yearof a record $14 billion in bitcoinBTC$71,256.15. Those types of business relationships at stablecoin issuers would be under stringent new industry-managed controls in the Treasury Department's pending proposal.
+
+Most crypto privacy models weaken as blockchain data grows. Encryption-based models like Zcash strengthen. CoinDesk Research maps the five privacy approaches and examines the widening gap.
+
+As blockchain adoption scales, the metadata available to machine learning models scales with it. Obfuscation-based privacy approaches are structurally degrading as a result. This report provides a comprehensive comparison of all five major crypto privacy architectures and a framework for evaluating which models remain durable as AI capabilities improve.
+
+White House economists said banning rewards wouldn't significantly boost banks' financial health, amplifying the crypto industry view in the Clarity Act debate.

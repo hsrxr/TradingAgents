@@ -1,4 +1,6 @@
 import json
+import os
+import time
 from typing import Any, Dict
 from tradingagents.portfolio_manager import PortfolioManager
 
@@ -44,30 +46,48 @@ def _extract_json_candidate(text: str) -> str:
     return candidate
 
 
-def _extract_action_and_confidence(trader_plan: str) -> Dict[str, Any]:
-    """Extract action and confidence from Chief Trader JSON/text output."""
-    action = "HOLD"
-    confidence = 0.5
+def _extract_trader_trade_intent(trader_plan: str, state: Dict[str, Any]) -> Dict[str, Any]:
+    """Extract TradeIntent-like payload from Trader output with safe defaults."""
+    now_ts = int(time.time())
+    default_agent_id = int(os.getenv("AGENT_ID", "0") or "0")
+    default_agent_wallet = os.getenv("AGENT_WALLET_ADDRESS", "")
+    default_pair = str(state.get("company_of_interest", ""))
 
-    # Strict JSON parse after sanitizing markdown code fences.
+    parsed = {
+        "agentId": default_agent_id,
+        "agentWallet": default_agent_wallet,
+        "pair": default_pair,
+        "action": "HOLD",
+        "amountUsdScaled": 0,
+        "maxSlippageBps": 100,
+        "nonce": 0,
+        "deadline": now_ts + 300,
+        "confidence": 0.5,
+        "reasoning": "",
+    }
+
     try:
         obj = json.loads(_extract_json_candidate(trader_plan))
-        candidate_action = str(obj.get("action", "HOLD")).upper()
-        if candidate_action in {"BUY", "SELL", "HOLD"}:
-            action = candidate_action
-        confidence = _safe_float(obj.get("confidence", 0.5), 0.5)
-        return {"action": action, "confidence": max(0.0, min(1.0, confidence))}
     except Exception:
-        pass
+        obj = {}
 
-    # Fallback text heuristics (no regex confidence extraction to avoid accidental numeric capture).
-    upper_text = trader_plan.upper()
-    if "SELL" in upper_text:
-        action = "SELL"
-    elif "BUY" in upper_text:
-        action = "BUY"
+    action = str(obj.get("action", "HOLD")).upper()
+    if action in {"BUY", "SELL", "HOLD"}:
+        parsed["action"] = action
 
-    return {"action": action, "confidence": max(0.0, min(1.0, confidence))}
+    parsed["agentId"] = int(_safe_float(obj.get("agentId", parsed["agentId"]), parsed["agentId"]))
+    parsed["agentWallet"] = str(obj.get("agentWallet", parsed["agentWallet"]))
+    parsed["pair"] = str(obj.get("pair", parsed["pair"]))
+    parsed["amountUsdScaled"] = max(0, int(_safe_float(obj.get("amountUsdScaled", 0), 0)))
+    parsed["maxSlippageBps"] = max(1, int(_safe_float(obj.get("maxSlippageBps", 100), 100)))
+    parsed["nonce"] = max(0, int(_safe_float(obj.get("nonce", 0), 0)))
+    parsed["confidence"] = max(0.0, min(1.0, _safe_float(obj.get("confidence", 0.5), 0.5)))
+    parsed["reasoning"] = str(obj.get("reasoning", obj.get("thesis", ""))).strip()
+
+    deadline = int(_safe_float(obj.get("deadline", parsed["deadline"]), parsed["deadline"]))
+    parsed["deadline"] = deadline if deadline > now_ts else now_ts + 300
+
+    return parsed
 
 
 def create_risk_engine():
@@ -83,73 +103,83 @@ def create_risk_engine():
 
     def risk_engine_node(state) -> Dict[str, Any]:
         trader_plan = state.get("trader_investment_plan", "")
-        parsed = _extract_action_and_confidence(trader_plan)
+        trader_intent = _extract_trader_trade_intent(trader_plan, state)
 
-        action = parsed["action"]
-        confidence = parsed["confidence"]
+        action = str(trader_intent["action"]).upper()
+        requested_amount_usd_scaled = int(trader_intent["amountUsdScaled"])
+        requested_notional_usd = requested_amount_usd_scaled / 100.0
 
         # Read portfolio directly from persistent database (single source of truth)
         current_portfolio = portfolio_manager.load_latest_portfolio()
-        cash_usd = _safe_float(current_portfolio.get("cash_usd", 10000.0), 10000.0)
+        initial_capital = portfolio_manager.get_initial_capital()
+        cash_usd = _safe_float(current_portfolio.get("cash_usd", initial_capital), initial_capital)
         position_usd = _safe_float(current_portfolio.get("position_usd", 0.0), 0.0)
         unrealized_pnl = _safe_float(current_portfolio.get("unrealized_pnl", 0.0), 0.0)
         realized_pnl = _safe_float(current_portfolio.get("realized_pnl", 0.0), 0.0)
 
         # Risk management parameters
-        max_position_pct = 0.20
+        max_position_pct = 0.40
         max_single_order_pct = 0.10
-        confidence_floor = 0.35
-        max_drawdown_pct = 0.05  # Stop loss at 5% drawdown
+        hard_max_trade_usd = 500.0  # RiskRouter default limit from shared contract docs
 
-        capped_confidence = max(confidence_floor, confidence)
-        target_gross_limit = cash_usd * max_position_pct
-        max_order_notional = cash_usd * max_single_order_pct
-
-        # Kelly formula position sizing: f = (bp - q) / b
-        # Where b=odds, p=win_probability, q=loss_probability
-        # Simplified: kelly_fraction = confidence - (1 - confidence) = 2*confidence - 1
-        kelly_fraction = max(0.0, 2 * capped_confidence - 1)
-        kelly_adjusted_notional = max_order_notional * kelly_fraction
+        # For risk calculations, use total_assets if cash is depleted but positions exist
+        # This allows trading from held positions
+        total_assets_for_risk = cash_usd + position_usd + unrealized_pnl
+        risk_basis = total_assets_for_risk if (cash_usd < 0.01 and position_usd > 0.01) else cash_usd
+        
+        target_gross_limit = risk_basis * max_position_pct
+        max_order_notional = risk_basis * max_single_order_pct
+        risk_cap_notional = min(max_order_notional, hard_max_trade_usd)
 
         if action == "HOLD":
-            order_notional = 0.0
+            approved_notional = 0.0
             risk_status = "blocked: hold"
         elif action == "BUY":
-            # Check drawdown limit before allowing new positions
-            initial_capital = 10000.0
-            total_assets = cash_usd + position_usd + unrealized_pnl
-            drawdown = (total_assets - initial_capital) / initial_capital if initial_capital > 0 else 0
-            
-            if drawdown < -max_drawdown_pct:
-                order_notional = 0.0
-                risk_status = f"blocked: drawdown_exceeded ({drawdown*100:.2f}% vs limit {-max_drawdown_pct*100:.2f}%)"
-            else:
-                available_for_buy = max(0.0, target_gross_limit - position_usd)
-                order_notional = min(kelly_adjusted_notional, available_for_buy)
-                risk_status = "allowed" if order_notional > 0 else "blocked: position_limit"
+            available_for_buy = max(0.0, target_gross_limit - position_usd)
+            approved_notional = min(requested_notional_usd, risk_cap_notional, available_for_buy)
+            risk_status = "allowed" if approved_notional > 0 else "blocked: position_limit"
         else:  # SELL
             # Always allow sells for risk management
-            order_notional = min(kelly_adjusted_notional, position_usd if position_usd > 0 else max_order_notional)
-            risk_status = "allowed" if order_notional > 0 else "blocked: no_position"
+            max_sellable = position_usd if position_usd > 0 else 0.0
+            approved_notional = min(requested_notional_usd, risk_cap_notional, max_sellable)
+            risk_status = "allowed" if approved_notional > 0 else "blocked: no_position"
+
+        approved_amount_usd_scaled = int(round(approved_notional * 100))
+        checked_action = action if approved_amount_usd_scaled > 0 else "HOLD"
+
+        checked_trade_intent = {
+            "agentId": int(trader_intent["agentId"]),
+            "agentWallet": str(trader_intent["agentWallet"]),
+            "pair": str(trader_intent["pair"]),
+            "action": checked_action,
+            "amountUsdScaled": approved_amount_usd_scaled,
+            "maxSlippageBps": int(trader_intent["maxSlippageBps"]),
+            "nonce": int(trader_intent["nonce"]),
+            "deadline": int(trader_intent["deadline"]),
+        }
 
         order = {
-            "ticker": state.get("company_of_interest", ""),
-            "side": action,
+            "ticker": checked_trade_intent["pair"],
+            "side": checked_trade_intent["action"],
             "order_type": "market",
-            "notional_usd": round(order_notional, 2),
+            "notional_usd": round(approved_notional, 2),
             "quantity": None,
-            "confidence": round(confidence, 3),
-            "kelly_fraction": round(kelly_fraction, 3),
+            "confidence": None,
+            "kelly_fraction": None,
             "risk_status": risk_status,
             "max_position_pct": max_position_pct,
             "max_single_order_pct": max_single_order_pct,
+            "requested_notional_usd": round(requested_notional_usd, 2),
+            "hard_max_trade_usd": hard_max_trade_usd,
         }
 
         final_decision = {
-            "action": action,
-            "confidence": round(confidence, 3),
+            "action": checked_trade_intent["action"],
+            "confidence": round(float(trader_intent.get("confidence", 0.5)), 3),
+            "trade_intent": checked_trade_intent,
             "order": order,
-            "reason": "Risk engine applied Kelly-adjusted position sizing with drawdown protection.",
+            "reason": trader_intent.get("reasoning") or "No trader reasoning provided.",
+            "risk_reason": "Risk engine validated and capped trader TradeIntent with position and per-trade notional limits.",
         }
 
         # Persist portfolio state update after order processing

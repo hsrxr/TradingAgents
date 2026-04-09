@@ -1,0 +1,37 @@
+Title: Morgan Stanley's bitcoin ETF opens today, giving BlackRock’s $55 billion IBIT fund its toughest rival yet
+Source: CoinDesk
+URL: https://www.coindesk.com/markets/2026/04/08/morgan-stanley-s-bitcoin-etf-opens-today-giving-blackrock-s-usd55-billion-ibit-fund-its-toughest-rival-yet
+
+BlackRock’s most successful exchange-traded fund (ETF) is facing its clearest challenge yet, as Morgan Stanley rolls out a cheaper rival with direct access to trillions in client capital.
+
+Morgan Stanley’s ETF, trading under MSBT, began trading Tuesday with a 0.14% expense ratio, below the iShares Bitcoin Trust’s (IBIT) 0.25%. The difference is narrow but lands in a market where price is one of the few levers investors can pull.
+
+Each spot bitcoin ETF holds bitcoinBTC$72,151.23and tracks its price. That leaves cost, liquidity and access as the main points of difference. IBIT has led on scale and trading activity since launch, becoming the most liquid vehicle for both shares and options tied to bitcoin ETFs with roughly $55 billion in assets-under-management.
+
+That liquidity gives IBIT an edge that may be hard to replicate.
+
+“The launch will impact things but it will be interesting to see if it can actually siphon assets from other funds,” said James Seyffart, ETF analyst at Bloomberg Intelligence. “IBIT is the most liquid ETF for trading and in the options market and it’s unlikely MSBT will ever compete with that. At least not anytime remotely soon.”
+
+Still, Morgan Stanley’s entry changes the competitive balance.
+
+The bank can tap its vast wealth management network, where advisors can shift client allocations with a single trade. In practice, that means new demand may be directed toward MSBT rather than existing funds like IBIT.
+
+“Distribution is king in the ETF space, and Morgan Stanley has that in spades with its army of wealth managers,” said Nate Geraci, president of the ETF Store. “Combined with MSBT being the lowest-cost spot bitcoin ETF on the market, that’s a strong recipe for success.”
+
+Geraci added that MSBT, which uses  undercuts IBIT by 11 basis points, a gap large enough to draw attention from both investors and BlackRock.
+
+IBIT’s position reflects how the market has evolved. Early inflows favored large, trusted issuers with deep liquidity. Over time, as more trusted names have entered the market, fee sensitivity has grown.
+
+Morgan Stanley’s launch may speed up that shift, even if IBIT retains its lead in trading volume.
+
+The result is a more defined split in the market. IBIT offers depth and liquidity for active traders.
+
+Newer entrants like MSBT compete on cost and distribution. Morgan Stanley’s wealth management arm oversees trillions in client assets and has one of the largest adviser networks in the industry, giving the bank a steep advantage. As more capital moves through financial advisors rather than direct trading, that channel may carry increasing weight.
+
+For now, IBIT remains the benchmark. But with fees falling and new entrants targeting its position, its grip on flows may face its first sustained test.
+
+Most crypto privacy models weaken as blockchain data grows. Encryption-based models like Zcash strengthen. CoinDesk Research maps the five privacy approaches and examines the widening gap.
+
+As blockchain adoption scales, the metadata available to machine learning models scales with it. Obfuscation-based privacy approaches are structurally degrading as a result. This report provides a comprehensive comparison of all five major crypto privacy architectures and a framework for evaluating which models remain durable as AI capabilities improve.
+
+A ton of BTC was recently traded below $70,000 in a sign of strong dip demand.

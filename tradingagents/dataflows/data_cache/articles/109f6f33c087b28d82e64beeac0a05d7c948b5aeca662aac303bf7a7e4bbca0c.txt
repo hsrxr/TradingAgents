@@ -1,0 +1,29 @@
+Title: Bitcoin under $71,000, ETH, SOL, XRP drop as Iran ceasefire frays within 48 hours of being signed
+Source: CoinDesk
+URL: https://www.coindesk.com/markets/2026/04/09/bitcoin-under-usd71-000-eth-sol-xrp-drop-as-iran-ceasefire-frays-within-48-hours-of-being-signed
+
+Bitcoin traded at $70,981 on Thursday, down 0.5% over 24 hours but still up 6.1% on the week, as the two-week ceasefire between the U.S. and Iran that triggered Tuesday's broad rally began showing cracks less than 48 hours after it was announced.
+
+Iranian Parliament Speaker Mohammad Bagher Ghalibaf said three clauses of the ceasefire proposal had been contravened, without specifying which ones. Israeli attacks continued in Lebanon.
+
+And the Strait of Hormuz, the critical shipping lane whose reopening was supposed to be the centerpiece of the deal, remains effectively closed with minimal tanker traffic passing through despite Iran's pledge to allow "coordinated" transit.
+
+Brent crude rebounded 2% to about $97 after Wednesday's collapse of more than 10%, its worst single-day plunge in six years. The reversal reflects how quickly the market has moved from pricing in peace to pricing in uncertainty about whether the ceasefire holds through the weekend, let alone for the full two weeks.
+
+Ether fell 2.6% to $2,180 after leading the ceasefire rally with a 5.2% weekly gain. Solana's SOL dropped 3.1% to $81.96, XRP lost 3% to $1.33, and dogecoin slid 3.4% to $0.091. BNB held relatively flat at $600, down 2.2%.
+
+The MSCI Asia Pacific Index fell 0.9% with two stocks declining for every one that rose, after surging the most in a year on Wednesday's ceasefire euphoria. S&P 500 and European futures pointed to a 0.2% decline, signaling the four-day winning streak for global equities was about to end. Treasuries were steady after wiping out an earlier rally on concern that higher oil prices would feed back into inflation.
+
+Meanwhile, The Federal Reserve continues to highlight upside inflation risks alongside softening labor conditions, keeping the higher-for-longer rate narrative intact. Japan's wage growth has hit multi-decade highs, strengthening expectations for further rate hikes.
+
+That combination amounts to what one analyst described as "uncoordinated tightening" across major economies, layered on top of geopolitical uncertainty that prevents any stable anchor for rate expectations.
+
+For bitcoin specifically, the move from $67,000 to $72,700 on the ceasefire and the subsequent hold above $70,000 despite Thursday's wobble is the most constructive price action since the war began six weeks ago.
+
+The $65,000 to $73,000 range that has contained every move since late February is still intact, but bitcoin is now testing the upper half rather than grinding along the bottom.
+
+Most crypto privacy models weaken as blockchain data grows. Encryption-based models like Zcash strengthen. CoinDesk Research maps the five privacy approaches and examines the widening gap.
+
+As blockchain adoption scales, the metadata available to machine learning models scales with it. Obfuscation-based privacy approaches are structurally degrading as a result. This report provides a comprehensive comparison of all five major crypto privacy architectures and a framework for evaluating which models remain durable as AI capabilities improve.
+
+Analysts say a sustained 15%–16% decline in crude could revive Fed rate cut bets, sending BTC higher.

@@ -1,0 +1,29 @@
+Title: Solana Foundation to Help Secure DeFi Protocols Following $285 Million Drift Hack
+Source: Decrypt
+URL: https://decrypt.co/363521/solana-foundation-help-secure-defi-protocols-285-million-drift-hack
+
+Solana Foundation to Help Secure DeFi Protocols Following $285 Million Drift Hack
+
+Nearly a week after a prominentSolana-based decentralized exchange washit with a $285 million hackthat’s beenlinked to North Korean hackers, the Solana Foundation has revealed plans to help secure the network’s largest DeFi protocols.
+
+The Solana Foundation and Asymmetric Researchlaunched STRIDE, a tiered security program that provides 24/7 threat monitoring for DeFi protocols with over $10 million in total value locked (TVL). For protocols with over $100 million TVL, the Foundation will offer “formal verification”—described in a post as “a mathematical, proof-based method that guarantees smart contract correctness by exhaustively checking every possible state and execution path.”
+
+STRIDE—or Solana Trust, Resilience and Infrastructure for DeFi Enterprises—evaluates protocols against security standards before providing ongoing protection services. The initiative marks a significant escalation in blockchain security infrastructure as attackers target Solana's growing billions in locked value with increasingly sophisticated methods.
+
+The program launched alongside the Solana Incident Response Network (SIRN), a membership-based collective of security firms dedicated to rapid ecosystem defense. Founding participants include Asymmetric Research along with OtterSec, Neodyme, Squads, and ZeroShadow. The framework will evolve based on real-world assessment feedback, with version 0.1 currently live.
+
+The timing underscores an urgent need—Drift Protocol suffered an exploit where attackers drained $285 million in under 12 minutes on April 1, demonstrating the speed and scale at which modern DeFi vulnerabilities can be exploited. Driftsaid on Sundaythat it discovered that North Korean hackers had spent six months infiltrating its team and infrastructure before executing the attack.
+
+Such incidents highlight why major blockchain networks are taking more direct responsibility for ecosystem-wide security rather than leaving individual protocols to defend themselves.
+
+The tiered approach based on TVL thresholds reflects how layer-1 networks are institutionalizing security as decentralized finance matures. Rather than treating all protocols equally, STRIDE allocates resources proportionally to risk—acknowledging that protocols managing hundreds of millions of dollars' worth of assets require different protection than smaller experiments.
+
+This shift recognizes that individual smart contract audits alone cannot match the innovation pace of adversaries targeting blockchain infrastructure. Rapidly advancing AI is also a key concern, as it can help attackers and developers alike find flaws.
+
+An upcoming Anthropic AI model codenamed Claude Mythos is being viewed as a particular threat to cybersecurity—so much so that top cybersecurity stock pricesfell late last monthwhen first details of the model were leaked. On the other hand, arecently fixed Zcash software exploitwas discovered with the help of AI tooling.
+
+Your gateway into the world of Web3
+
+The latest news, articles, and resources, sent to your inbox weekly.
+
+© A next-generation media company.2026Decrypt Media, Inc.

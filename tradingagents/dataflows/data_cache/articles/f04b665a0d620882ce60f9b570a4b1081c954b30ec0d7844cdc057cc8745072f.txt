@@ -1,0 +1,37 @@
+Title: FDIC moves to regulate stablecoin issuers under the GENIUS Act
+Source: Cointelegraph
+URL: https://cointelegraph.com/news/fdic-moves-to-regulate-stablecoin-issuers-under-the-genius-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+
+FDIC’s proposed rules providing insurance for corporate deposits of stablecoin issuers will not extend to the stablecoin holders, as it would conflict with the GENIUS Act’s text, the FDIC said.
+
+Cointelegraph in your social feed
+
+The US Federal Deposit Insurance Corporation (FDIC) has proposed new rules to regulate FDIC-supervised stablecoin issuers in accordance with the Guiding and Establishing National Innovation for US Stablecoins (GENIUS) Act, which was signed into law nine months ago.
+
+In a statement on Tuesday, the FDICsaidits board of directors voted to issue a proposal that wouldsetreserve, redemption, capital, risk management and custody standards for stablecoin issuers and insured depository institutions under its supervision.
+
+The FDIC insures deposits at more than 4,000 financial institutions and supervises over 2,700 banks and savings associations to maintain stability in the US financial system.
+
+The GENIUS Act granted the FDIC authority to overseestablecoin activitywithin the banks and institutions that it supervises when it was signed into law in July, though it is scheduled to take effect on Jan. 18, 2027, if not earlier.
+
+While reserve deposits backing a payment stablecoin would be insured under the FDIC’s proposed rules, thatprotection won’t extendto stablecoin holders, the FDIC said.
+
+The FDIC argued that treatingstablecoin holdersas the insured depositors “seems inconsistent” with the GENIUS Act’s prohibition onpayment stablecoinsbeing subject to federal deposit insurance.
+
+Related:Stablecoins flip automated clearing house volume in February
+
+However, the FDIC said its rules would still provide a more “secure environment” for stablecoin holders by offering them “increased assurance that their payment stablecoins are subject to elevated regulatory and supervisory standards.”
+
+The FDIC invited the public to offer feedback on 144 questions related to how it should regulate stablecoin issuers. Comments will be accepted for the next 60 days.
+
+It marks the FDIC’s second proposal for implementing the GENIUS Act, following a Dec. 19 plan toestablishan application procedure for IDIs seeking approval to issue payment stablecoins through subsidiaries.
+
+TheOffice of the Comptrollerof the Currency (OCC) is also working to implement the GENIUS Act. The OCC would cover a broader scope of stablecoin activity than the FDIC, as it oversees national bank subsidiaries and certain nonbank issuers.
+
+Magazine:Would Bitcoin really be at $200K if not for Jane Street? Trade Secrets
+
+Cointelegraph covers fintech, blockchain and Bitcoin bringing you the latest crypto news and analyses on the future of money.
+
+Cointelegraph is committed to providing independent, high-quality journalism across the crypto, blockchain, AI, and fintech industries. To support open access to our website and sustain editorial operations, certain commercial or partner references may appear on our site. These arrangements help maintain an accessible platform and do not result in additional costs to readers.
+
+All news, reviews, and analysis are produced with full journalistic independence and integrity. For more details on our standards and processes, please read ourEditorial Policy.

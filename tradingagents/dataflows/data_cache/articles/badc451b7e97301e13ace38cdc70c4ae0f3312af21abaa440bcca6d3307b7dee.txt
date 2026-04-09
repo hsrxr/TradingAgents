@@ -1,0 +1,21 @@
+Title: Pre-market crypto stocks are glowing green after the ceasefire news
+Source: CoinDesk
+URL: https://www.coindesk.com/markets/2026/04/08/pre-market-crypto-stocks-are-glowing-green-after-the-ceasefire-news
+
+BitcoinBTC$71,698.32climbed to as high as $72,750 following news of atwo-week ceasefire between the U.S. and Iran, before easing back to just below $72,000.
+
+The move came alongside a broader risk on rally in pre-market trading for equities, with the Invesco QQQ gaining more than 3.3% and the iShares Expanded Tech Software ETF (IGV) posting similar strength. Gold also moved higher, rising over 2% to $4,800 per ounce.
+
+In contrast, oil markets sold off sharply. WTI crude dropped to $92 before rebounding to $96 per barrel, still down more than 12.5%, while Brent crude is lower by over 7.5% in the past 24 hours.
+
+Volatility has compressed across both traditional and crypto markets. The VIX is down 20%, while the Bitcoin Volmex Implied Volatility Index (BVIV) has fallen more than 6% to 46, pointing to calmer conditions.
+
+Crypto-linked equities are also advancing, with Strategy (MSTR), Galaxy Digital (GLXY), Coinbase (COIN) and Circle (CRCL) all showing healthy gains in pre-market trading. Similarly. AI and HPC data centre firms such as IREN (IREN) and Cipher Digital (CIFR) have gained 7% and 9%, respectively.
+
+Bond markets have stabilised, with the U.S. 10-year Treasury yield falling 1.5% to 4.2%.
+
+Most crypto privacy models weaken as blockchain data grows. Encryption-based models like Zcash strengthen. CoinDesk Research maps the five privacy approaches and examines the widening gap.
+
+As blockchain adoption scales, the metadata available to machine learning models scales with it. Obfuscation-based privacy approaches are structurally degrading as a result. This report provides a comprehensive comparison of all five major crypto privacy architectures and a framework for evaluating which models remain durable as AI capabilities improve.
+
+A trader named Loracle closed his short position in oil futures early Wednesday, pocketing $2 million in profit.

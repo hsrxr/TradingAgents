@@ -44,20 +44,24 @@ def create_context_merge_node():
             
             # Calculate portfolio metrics
             total_assets = cash_usd + position_usd + unrealized_pnl
-            initial_capital = 10000.0
+            initial_capital = portfolio_manager.get_initial_capital()
             
             drawdown_pct = (
                 ((total_assets - initial_capital) / initial_capital * 100)
                 if initial_capital > 0 else 0
             )
             
+            # For risk calculations, use total_assets if cash is depleted but positions exist
+            # This allows trading from held positions
+            risk_basis = total_assets if (cash_usd < 0.01 and position_usd > 0.01) else cash_usd
+            
             position_utilization = (
-                (position_usd / (cash_usd * 0.20) * 100)
-                if cash_usd > 0 else 0
+                (position_usd / (risk_basis * 0.40) * 100)
+                if risk_basis > 0 else 0
             )
             
-            position_limit = cash_usd * 0.20
-            order_limit = cash_usd * 0.10
+            position_limit = risk_basis * 0.40
+            order_limit = risk_basis * 0.10
             remaining_position_capacity = max(0, position_limit - position_usd)
             
             # Format global context for injection into prompts
@@ -101,8 +105,8 @@ def create_context_merge_node():
             if "global_portfolio_context" not in state:
                 state["global_portfolio_context"] = (
                     "Portfolio context unavailable. Proceed with standard risk limits.\n"
-                    "Maximum order size: $1000 (10% of typical $10k account)\n"
-                    "Maximum position: $2000 (20% of typical $10k account)"
+                    "Maximum order size: 10% of configured cash\n"
+                    "Maximum position: 20% of configured cash"
                 )
 
         return state

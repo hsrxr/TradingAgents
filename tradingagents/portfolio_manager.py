@@ -9,6 +9,8 @@ Manages the single source of truth for:
 
 import sqlite3
 import json
+import os
+import requests
 from datetime import datetime
 from pathlib import Path
 from typing import Dict, Any, Optional, List
@@ -62,6 +64,112 @@ class PortfolioManager:
             """)
             conn.commit()
 
+    def _read_claim_balance_eth(self) -> Optional[float]:
+        """Read claimed ETH balance from agent-id.json if available."""
+        try:
+            project_root = Path(self.db_path).resolve().parent.parent
+            agent_id_path = project_root / "agent-id.json"
+            if not agent_id_path.exists():
+                return None
+
+            payload = json.loads(agent_id_path.read_text(encoding="utf-8"))
+            balance_eth = payload.get("claim", {}).get("balanceEth")
+            if balance_eth is None:
+                return None
+
+            value = float(balance_eth)
+            return value if value > 0 else None
+        except Exception:
+            return None
+
+    def _resolve_eth_usd_rate(self) -> float:
+        """Resolve ETH/USD conversion rate for claim balance conversion.
+
+        Priority:
+        1) TRADING_ETH_USD_RATE env var
+        2) ETH_USD_RATE env var
+        3) live ETHUSD quote (Binance ETHUSDT, fallback CoinGecko)
+        4) fallback 2000.0
+        """
+        for env_key in ("TRADING_ETH_USD_RATE", "ETH_USD_RATE"):
+            raw = os.getenv(env_key)
+            if not raw:
+                continue
+            try:
+                value = float(raw)
+                if value > 0:
+                    return value
+            except (TypeError, ValueError):
+                continue
+
+        timeout_s = float(os.getenv("TRADING_PRICE_TIMEOUT_SECONDS", "5") or "5")
+
+        # Prefer Binance live quote. Binance spot mostly exposes ETHUSDT rather than ETHUSD.
+        # For this conversion we treat USDT ~= USD.
+        try:
+            resp = requests.get(
+                "https://api.binance.com/api/v3/ticker/price",
+                params={"symbol": "ETHUSDT"},
+                timeout=timeout_s,
+            )
+            resp.raise_for_status()
+            payload = resp.json()
+            rate = float(payload.get("price", 0))
+            if rate > 0:
+                logger.info("Resolved ETH/USD rate from Binance ETHUSDT: %.2f", rate)
+                return rate
+        except Exception as exc:
+            logger.warning("Failed to fetch Binance ETHUSDT live quote: %s", exc)
+
+        # Fallback to CoinGecko public simple price endpoint.
+        try:
+            resp = requests.get(
+                "https://api.coingecko.com/api/v3/simple/price",
+                params={"ids": "ethereum", "vs_currencies": "usd"},
+                timeout=timeout_s,
+            )
+            resp.raise_for_status()
+            payload = resp.json()
+            rate = float(payload.get("ethereum", {}).get("usd", 0))
+            if rate > 0:
+                logger.info("Resolved ETH/USD rate from CoinGecko: %.2f", rate)
+                return rate
+        except Exception as exc:
+            logger.warning("Failed to fetch CoinGecko ETH/USD quote: %s", exc)
+
+        return 2000.0
+
+    def get_initial_capital(self) -> float:
+        """Resolve initial capital from env or agent-id.json claim balance.
+
+        Priority:
+        1) TRADING_INITIAL_CASH_USD env var
+        2) agent-id.json -> claim.balanceEth converted to USD
+        3) fallback 10000.0
+        """
+        raw_env = os.getenv("TRADING_INITIAL_CASH_USD")
+        if raw_env:
+            try:
+                value = float(raw_env)
+                if value > 0:
+                    return value
+            except (TypeError, ValueError):
+                pass
+
+        balance_eth = self._read_claim_balance_eth()
+        if balance_eth is not None:
+            eth_usd_rate = self._resolve_eth_usd_rate()
+            converted = balance_eth * eth_usd_rate
+            logger.info(
+                "Resolved initial capital from claim balance: %.6f ETH * %.2f USD/ETH = %.2f USD",
+                balance_eth,
+                eth_usd_rate,
+                converted,
+            )
+            return converted
+
+        return 10000.0
+
     def load_latest_portfolio(self) -> Dict[str, Any]:
         """Load the latest portfolio state from database.
         
@@ -73,7 +181,7 @@ class PortfolioManager:
             cursor = conn.execute("""
                 SELECT cash_usd, positions, unrealized_pnl, realized_pnl, timestamp
                 FROM portfolio_state
-                ORDER BY timestamp DESC
+                ORDER BY id DESC
                 LIMIT 1
             """)
             row = cursor.fetchone()
@@ -81,6 +189,32 @@ class PortfolioManager:
         if row:
             cash_usd, positions_json, unrealized_pnl, realized_pnl, timestamp = row
             positions = json.loads(positions_json) if positions_json else {}
+
+            # Auto-heal legacy rows that mistakenly stored claim ETH directly in cash_usd.
+            claim_eth = self._read_claim_balance_eth()
+            expected_usd = self.get_initial_capital()
+            if (
+                claim_eth is not None
+                and abs(float(cash_usd) - float(claim_eth)) < 1e-9
+                and expected_usd >= 1.0
+                and not positions
+            ):
+                logger.warning(
+                    "Detected legacy portfolio baseline using ETH as USD (cash_usd=%.6f). "
+                    "Auto-correcting to %.2f USD.",
+                    cash_usd,
+                    expected_usd,
+                )
+                cash_usd = expected_usd
+                self.save_portfolio_state(
+                    {
+                        "cash_usd": cash_usd,
+                        "positions": positions,
+                        "unrealized_pnl": unrealized_pnl,
+                        "realized_pnl": realized_pnl,
+                        "timestamp": datetime.utcnow().isoformat(),
+                    }
+                )
             
             logger.info(
                 f"Loaded portfolio state from {timestamp}: "
@@ -98,8 +232,9 @@ class PortfolioManager:
         else:
             # First initialization: inject initial capital
             logger.info("No portfolio state found; initializing with default state")
+            initial_capital = self.get_initial_capital()
             default_state = {
-                "cash_usd": 10000.0,
+                "cash_usd": initial_capital,
                 "positions": {},
                 "position_usd": 0.0,
                 "unrealized_pnl": 0.0,

@@ -1,0 +1,43 @@
+Title: Bitcoin tops $72K after $280M liquidation targets bears: Will the ‘fragile truce’ hold?
+Source: Cointelegraph
+URL: https://cointelegraph.com/news/bitcoin-tops-dollar72k-after-dollar280m-liquidation-targets-bears-will-the-fragile-truce-hold?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+
+Bitcoin and global markets rallied after the US and Iran announced a ceasefire, but data show BTC bears have not closed most of their positions yet.
+
+Cointelegraph in your social feed
+
+The US and Iran ceasefire boosted stock markets and Bitcoin, but BTC derivatives suggest limited bullish momentum.
+
+Legislative setbacks and a "fragile truce" between the US and Iran keep bears active with a potential $68,000 correction on the cards.
+
+Bitcoin (BTC) rallied 6% in less than four hours on Tuesday, following gains in global stock markets after the US and Iran reached a two-week ceasefire deal. The rally caught traders off guard, triggering a $280 million liquidation event in Bitcoin futures markets.
+
+Bitcoin bears could be in trouble if the war in Iran effectively winds down, but BTC derivatives signal that sustainable bullish momentum above $80,000 could take longer than anticipated.
+
+Bitcoin’s high correlation with the S&P 500 futures suggests that BTC’s rally was mainly led by the potential reopening of the Strait of Hormuz. US President Donald Trump said that Iran’s nuclear program will be deactivated in exchange for tariff and sanctions relief. However, Bitcoin bears’ hopes jumped after US Vice President JD Vancesaidthat the Iran ceasefire is a "fragile truce."
+
+A sustainable de-escalation would likely lead to lower oil prices and reduced inflationary pressure, potentially paving the way for expansionist monetary policies. The US Federal Reserve has remained reluctant to trim interest rates despite signs of a weakening job market. Traders who previously exited risk markets changed their minds as the odds of a severe economic impact declined.
+
+While $280 million in forced liquidations of bearish leveraged positions accelerated the rally, BTC derivatives positioning showed no major shifts.
+
+Bitcoin futures aggregate open interest reached 593,930 BTC on Wednesday, up 2.5% from Tuesday. Crucially, liquidations of $200 million to $300 million are relatively common, having occurred five other times over the past 90 days. This $280 million instance remains minor compared to the total $42 billion aggregate futures position.
+
+The Bitcoin futures annualized premium relative to regular spot markets stood at 3% on Wednesday, flat from two days prior. The lack of demand for bullish positions has pushed the indicator below the neutral 4% threshold since late January.
+
+Demand for downside protection Bitcoin options has prevailed over the past two weeks. Premiums on put (sell) options have outpaced the buy (call) instruments, although distancing themselves from the extreme fear levels seen on March 26.
+
+Bitcoin bulls’ confidence had already been hit from the Oct. 10, 2025, flash crash, the disappointment with regulation and the lack of progress on the US Strategic Bitcoin Reserve. The latest draft of the PARITY Actfailed to include tax exemptionsfor small Bitcoin payments or deferred capital gains for mining. Additionally, David Sacks stepped down from his role as the White HouseAI and cryptocurrency czaron March 26.
+
+Related:Iran is weighing crypto tolls for ships using Strait of Hormuz–Report
+
+Despite multiple mentions from US Treasury Secretary Scott Bessent in 2025 regarding “budget neutral” strategies to acquire Bitcoin without adding new taxes, no clear path was ever disclosed. Simultaneously, the US Democratic Party has requested that regulatorsscrutinize the Trump family’scryptocurrency ventures based on potential conflicts of interest.
+
+There is no indication that Bitcoin bears are rushing to close their shorts despite the recent rally. Inflationary pressure has not yet faded, as Brent crude oil prices held at $95 per barrel, up from $72 per barrel in late February. More importantly, a two-week ceasefire is far from a long-term solution, leaving the odds of a correction to $68,000 wide open.
+
+This article is produced in accordance with Cointelegraph's Editorial Policy and is intended for informational purposes only. It does not constitute investment advice or recommendations. All investments and trades carry risk; readers are encouraged to conduct independent research before making any decisions. Cointelegraph makes no guarantees regarding the accuracy or completeness of the information presented, including forward-looking statements, and will not be liable for any loss or damage arising from reliance on this content.
+
+Cointelegraph covers fintech, blockchain and Bitcoin bringing you the latest crypto news and analyses on the future of money.
+
+Cointelegraph is committed to providing independent, high-quality journalism across the crypto, blockchain, AI, and fintech industries. To support open access to our website and sustain editorial operations, certain commercial or partner references may appear on our site. These arrangements help maintain an accessible platform and do not result in additional costs to readers.
+
+All news, reviews, and analysis are produced with full journalistic independence and integrity. For more details on our standards and processes, please read ourEditorial Policy.

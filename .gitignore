@@ -233,6 +233,7 @@ __pycache__/
 
 eval_results/
 eval_results/**/*
+logs/
 
 examples/
 

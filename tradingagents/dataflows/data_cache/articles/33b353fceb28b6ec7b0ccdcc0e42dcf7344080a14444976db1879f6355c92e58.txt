@@ -1,0 +1,35 @@
+Title: Solana Exchange Stabble Warns Users to Pull Liquidity After North Korean Hacker Scare
+Source: Decrypt
+URL: https://decrypt.co/363579/solana-exchange-stabble-warns-users-north-korean-hacker-scare
+
+Solana Exchange Stabble Warns Users to Pull Liquidity After North Korean Hacker Scare
+
+Solanadecentralized exchange Stabble has urged users to pull liquidity from the platform, leading to a 62% drop in its total value locked (TVL) Tuesday after the firm learned its former chief technology officer was flagged as an alleged North Korean hacker.
+
+The protocol, which was recently taken over by a new team, began the day with around $1.75 million in TVL,according to data from DeFiLlama. After publicly sounding the alarm to a potential emergency, that value isdown to less than $663,000.
+
+“EMERGENCY!” the new protocol teamposted on X. “Guys, please temporarily withdraw your liquidity instantly! Better safe than sorry.”
+
+The alert hit social media around 9:34 a.m. ET on Tuesday, about seven hours after pseudonymous on-chain sleuth ZachXBT had identified an alleged North Korean hacker, Keisuke Watanabe, whoreportedly worked as the CTO at Stabble last year.
+
+EMERGENCY ! guys please temporally withdraw your liquidity instantly !
+
+— stabble (@stabbleorg)April 7, 2026
+
+Despite there being no disclosed exploit on the platform, the firm said it was working on audits to ensure everything is fully secure.
+
+“We received a message and are acting on it, our primary focus is the safety of our LPs,” thenew Stabble team posted.“We're not PR people, we're quants and early DeFi degens. We hear you, and your feedback matters.”
+
+The platform’s hasty move to alert the public comes less than a week after leading Solana DeFi protocol Drift wasexploited for more than $285 millionby hackers linked to North Korea.
+
+In a complex, sophisticated scheme played out over six months, it is alleged that the attackers usedfabricated professional identities and in-person conference meetingsbefore deploying malicious developer tools to execute the drain.
+
+North Korea’s connection to DeFi and on-chain exploits is a long-standing issue. Last year, hackers fromNorth Korea exploited crypto exchange Bybit for $1.4 billion, the largest crypto hack of all-time, and individuals believed to be from North Koreaare trying to get hired at Binance every day,according to its chief security officer.
+
+On Monday, the Solana Foundation launched multiple new security efforts for the ecosystem, saying that it would help secure DeFi protocols with a total value locked of at least $10 million.
+
+Your gateway into the world of Web3
+
+The latest news, articles, and resources, sent to your inbox weekly.
+
+© A next-generation media company.2026Decrypt Media, Inc.

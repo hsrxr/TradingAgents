@@ -1,0 +1,41 @@
+Title: Ethereum stablecoin supply hits $180B all-time high: Token Terminal
+Source: Cointelegraph
+URL: https://cointelegraph.com/news/stablecoin-supply-ethereum-hits-180b-all-time-high-token-terminal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+
+Ethereum could see $850 billion in “new flows” by 2030 if the trend continues, according to Token Terminal.
+
+Cointelegraph in your social feed
+
+The onchain value of stablecoins on the Ethereum network has reached an all-time high of $180 billion, according to blockchain analytics firm Token Terminal.
+
+Ethereum holds 60% of the stablecoin supply at $180 billion, which is up 150% over the past three years, the firmreportedTuesday.
+
+The company projected that around $1.7 trillion is expected to come onchain across all networks over the next four years and that Ethereum could see $850 billion in “new flows” by 2030, if it grows 470% in that time.
+
+Standard Charteredpredicted in late 2025that more than $1 trillion may exit banks and flow into stablecoins by 2028.
+
+Ethereum has been the dominant network for stablecoins and tokenized real-world assets (RWAs), with major financial institutions such as BlackRock, JPMorgan andAmundilaunching tokenized funds on the network as the total stablecoin supply across all networks reached a record $315 billion in the first quarter.
+
+Real-world asset metrics provider RWA.xyzreportsa slightly lower figure of $168 billion in stablecoin value on Ethereum.
+
+It also confirms that Ethereum is the industry leader with a market share of 56%. This increases to over 65% when EVM (Ethereum Virtual Machine) and layer-2 networks such as Arbitrum, ZKsync Era, and Base are included.
+
+Related:Stablecoin supply reaches $315B in Q1 as USDC rises, USDT declines
+
+The data highlights Ethereum’s dominance in stablecoins and onchain liquidity, “fueling strong positive sentiment and crypto’s recent rally,” Nick Ruck, director of LVRG Research, told Cointelegraph on Wednesday.
+
+“This momentum strongly supports a sustained long-term bull cycle driven by tokenized assets and institutional adoption, though competition from rival chains, regulatory hurdles, and macro volatility remain key roadblocks to further upside,” he added.
+
+JPMorgan CEO Jamie Dimonacknowledgedthat a “whole new set of competitors is emerging based on blockchain, which includes stablecoins, smart contracts, and other forms of tokenization,” in the annual shareholder letter released on Tuesday.
+
+The Wall Street banklaunchedits first tokenized money market fund (MONY) on Ethereum in December.
+
+“The world’s largest bank is live on Ethereum, and its CEO is publicly saying they’re still not moving fast enough,”statedEthereum infrastructure startup Etherealize on Tuesday.
+
+Magazine:No more 85% Bitcoin collapses, Taiwan needs BTC war reserve: Hodler’s Digest
+
+Cointelegraph covers fintech, blockchain and Bitcoin bringing you the latest crypto news and analyses on the future of money.
+
+Cointelegraph is committed to providing independent, high-quality journalism across the crypto, blockchain, AI, and fintech industries. To support open access to our website and sustain editorial operations, certain commercial or partner references may appear on our site. These arrangements help maintain an accessible platform and do not result in additional costs to readers.
+
+All news, reviews, and analysis are produced with full journalistic independence and integrity. For more details on our standards and processes, please read ourEditorial Policy.

@@ -1,0 +1,51 @@
+Title: White House study bolsters crypto's stance in stablecoin yield fight against bankers
+Source: CoinDesk
+URL: https://www.coindesk.com/policy/2026/04/08/white-house-study-bolsters-crypto-s-stance-in-stablecoin-yield-fight-against-bankers
+
+AWhite House reportreleased Wednesday directly challenges the banking industry's claims that stablecoin yields would drain deposits and weaken lending to households and small businesses.
+
+Instead, banning those stablecoin rewards would have only a negligible impact on credit creation, the analysis, released by the Council of Economic Advisers (CEA), found.
+
+The White House economists behind the 21-page report said their findings are based on a stylized economic model calibrated with Federal Reserve and FDIC data on deposits, lending and bank liquidity, as well as industry disclosures on stablecoin reserves and academic estimates of how consumers shift funds between assets.
+
+The report, which specifically analyzes theGENIUS Act, signed in July 2025, also warns that proposed updates to the Digital Asset Market Clarity Act to further restrict "yield-like" rewards from intermediaries like Coinbase could be counterproductive.
+
+“In short, a yield prohibition would do very little to protect bank lending, while forgoing the consumer benefits of competitive returns on stablecoin holdings,” the report emphasized. It added that “the conditions for finding a positive welfare effect from prohibiting yield are simply implausible.”
+
+The report marks the latest development in the ongoing conflict between U.S. banks and the cryptocurrency industry that has stalled digital asset legislation in Congress, wheresenators are seeking a compromiseto unlock the stalled Clarity Act. President Donald Trump and his advisers have been eager for negotiators — including the crypto industry, bankers and senators from both sides of the aisle — to strike a deal that advances the long-awaited bill, which is one of the administration's legislative priorities.
+
+While the crypto firms and their legislative supporters argue they should be allowed to offer yield-like rewards on stablecoins,banks warn that would leadto funds being siphoned away from the traditional financial system. But Wednesday's findings could undercut a core argument from banking groups: Even a full ban on stablecoin yield would increase lending only marginally.
+
+In other words, the report claimed, the prohibition would do little to protect lending while stripping consumers of competitive returns.
+
+The American Bankers Association (ABA)insists that if stablecoins begin offering yieldscomparable to high-yield savings accounts, depositors will move money out of banks and into digital dollars, reducing the funds banks use to make loans. The banking lobbyists have argued that community bankers will be especially harmed — an argument that caught the ear of lawmakers such as Senators Thom Tillis, a Republican, and Angela Alsobrooks, a Democrat, who have been seeking a legislative compromise that won't harm Main Street institutions.
+
+However, the White House economists said that the bankers' argument misunderstands how stablecoins interact with the broader financial system. In one example, the report describes how funds used to buy stablecoins are often reinvested in Treasury bills and ultimately redeposited into other banks, leaving overall deposit levels largely unchanged,
+
+The report also addresses concerns that community banks could lose out as funds flow into Treasuries and large institutions, finding the impact on smaller lenders is limited. It estimates community banks would account for just 24% of any incremental lending under a yield ban or about $500 million, and notes that stablecoin activity is already concentrated among large financial institutions, suggesting the real-world effect on smaller banks may be even smaller.
+
+“The answer lies not in the level of deposits, but in their composition,” the report explained. Under the current “ample reserves” regime, these shifts between banks do not force lenders to shrink their balance sheets.
+
+Rather than disappearing from the banking sector, much of the money backing stablecoins is recycled through it. When issuers invest reserves in Treasury bills or similar instruments, those funds typically end up redeposited elsewhere in the banking system, preserving overall deposit levels even if individual banks see outflows.
+
+Only a small share of stablecoin reserves, estimated at about 12% in the report’s baseline, is held in forms that could meaningfully restrict lending. Even then, the effect is heavily diluted by bank reserve requirements and liquidity buffers, which absorb much of the potential impact before it reaches borrowers.
+
+The result is a multi-step dampening effect: tens of billions of dollars may move between stablecoins and deposits, but only a fraction ultimately translates into new loans.
+
+That dynamic also weakens the argument that stablecoin yields pose a particular threat to community banks. According to the report, smaller lenders would see just $500 million in additional lending under a yield ban, an increase of roughly 0.026%.
+
+In other words, the White House economists contend that the policy delivers minimal benefits to the very institutions it is often framed as protecting.
+
+The report said generating large lending effects requires hypothetically stacking several extreme conditions at once: a stablecoin market many times larger than today’s, reserves fully locked away from lending and a shift in Federal Reserve policy away from its current ample-reserves framework. Absent those scenarios, the impact remains marginal, it said.
+
+The report also reinforced the crypto industry’s arguments in consumer terms. By eliminating yield, policymakers would effectively reduce returns on a growing category of dollar-based assets that compete with traditional deposits.
+
+The economists estimated that such a prohibition would carry a net welfare cost, as users give up yield without receiving meaningful improvements in credit availability in return. Rather than assuming stablecoin yields are destabilizing, the report suggested policymakers must demonstrate that restricting them would deliver tangible benefits to the real economy, particularly to small businesses and households that rely on bank lending.
+
+So far, according to the administration’s own economists, that case remains unproven.
+
+Most crypto privacy models weaken as blockchain data grows. Encryption-based models like Zcash strengthen. CoinDesk Research maps the five privacy approaches and examines the widening gap.
+
+As blockchain adoption scales, the metadata available to machine learning models scales with it. Obfuscation-based privacy approaches are structurally degrading as a result. This report provides a comprehensive comparison of all five major crypto privacy architectures and a framework for evaluating which models remain durable as AI capabilities improve.
+
+The new rules apply uniform criteria for withdrawal exceptions based on account history and transaction patterns.

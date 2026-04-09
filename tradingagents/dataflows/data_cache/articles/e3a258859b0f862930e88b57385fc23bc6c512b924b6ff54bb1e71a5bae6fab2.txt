@@ -1,0 +1,55 @@
+Title: Ethereum buyers are back, data shows, as bulls defend $2K support
+Source: Cointelegraph
+URL: https://cointelegraph.com/news/ethereum-buyers-are-back-data-shows-as-bulls-defend-2k-support?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+
+Ethereum analysts said buyers were back in control, but holding the $2,000 support was key to reversing the market structure.
+
+Cointelegraph in your social feed
+
+Market analysts say Ether (ETH) could be ready for a “regime shift” as buying pressure builds up, but bulls must hold $2,000.
+
+Ether shows resilience above $2,000, as onchain data shows signs of returning demand, suggesting a possible “regime shift”.
+
+ETH price support around $1,800-$2,000 needs to hold for a positive trend change.
+
+Ether’s net taker volume suggests the “formation of a stronger bottom“ as demand for ETH derivatives returned, data from CryptoQuant shows.
+
+Net taker volume, a metric that measures the imbalance between aggressive buyers and sellers in derivatives markets, has remained positive since March 6.
+
+Related:Ethereum Foundation nearly reaches 70,000 staked ETH goal
+
+The chart below shows that while the net taker volume has remained negative most of the time since 2023, it is now positive, rising to as high as $140 million on March 16.
+
+Currently, the indicator shows that “buying pressure is prevailing, with $104 million,” CryptoQuant analyst Darkfostsaidin an X post on Tuesday.
+
+“This is the first time since the previous bear market that we are witnessing such a regime shift in Ethereum derivatives,” the analyst said, adding:
+
+The futuresopen interest(OI), the total number of outstanding futures contracts that have not been settled or closed, further reinforces this picture.
+
+The metric now stands at now stands at 6.4 million ETH, close to itsall-time high of 7.8 million ETHreached in July 2025.
+
+“After falling to 5 million ETH in October, open interest has gradually recovered,” Darkfostsaidin an X post on Sunday, adding:
+
+Meanwhile,spot Ether ETFflows flipped positive, with these investment products recording $120 million in net inflows on Monday, the highest since mid-March.
+
+This pointed to a return in demand from US investors following a couple of days of outflows, which could propel ETH price higher.
+
+On the price chart, ETH/USD remains cautiously bullish as long as it holds the $1,800-$2,000 support zone. This is where the 20-day exponentialmoving average(EMA) and the lower boundary of a symmetrical triangle converge.
+
+“As long as the $2,000 support zone holds, Ethereum could have another upside move,” analyst Ted Pillowssaidin a Tuesday X post, adding:
+
+The importance of this support level is reinforced by cost basis distribution. The heatmap belowshowsthat over 3.5 million ETH were acquired for around $2,000.
+
+Below that, the next line of defense is the $1,750-$1,800 demand zone, where investors acquired 1.36 million ETH.
+
+If the ETH price drops below this level, it would be on a free-fall toward the measured target of the symmetrical triangle at $1,460, or 30% below the current price.
+
+AsCointelegraph reported, holding $1,800-$2,000 would be a sign of strength among the bulls who mustpush the ETH/USD pair above the $2,400 range highto regain control.
+
+This article is produced in accordance with Cointelegraph's Editorial Policy and is intended for informational purposes only. It does not constitute investment advice or recommendations. All investments and trades carry risk; readers are encouraged to conduct independent research before making any decisions. Cointelegraph makes no guarantees regarding the accuracy or completeness of the information presented, including forward-looking statements, and will not be liable for any loss or damage arising from reliance on this content.
+
+Cointelegraph covers fintech, blockchain and Bitcoin bringing you the latest crypto news and analyses on the future of money.
+
+Cointelegraph is committed to providing independent, high-quality journalism across the crypto, blockchain, AI, and fintech industries. To support open access to our website and sustain editorial operations, certain commercial or partner references may appear on our site. These arrangements help maintain an accessible platform and do not result in additional costs to readers.
+
+All news, reviews, and analysis are produced with full journalistic independence and integrity. For more details on our standards and processes, please read ourEditorial Policy.

@@ -1,0 +1,23 @@
+Title: Bitcoin is above $70,000 on Iran ceasefire, but rally is turning cautious for good reasons
+Source: CoinDesk
+URL: https://www.coindesk.com/markets/2026/04/08/bitcoin-is-above-usd70-000-on-iran-ceasefire-but-rally-is-turning-cautious-for-good-reasons
+
+BitcoinBTC$71,689.42has pulled above $70,000 on news of the Iran ceasefire, but the rally is, for now, fairly cautious.
+
+There may be good reasons for that.
+
+One of the more reliable signals for gauging where bitcoin may be headed comes from tracking margin long positions on Bitfinex. These positions, which reflect bullish bets funded with borrowed capital, still remain elevated at 80,057 BTC, around the highest level in more than two years, according to TradingView data.
+
+The data suggests these long positions are not being unwound despite the price being more than 15% higher since bottoming at $60,000 two months ago. This suggests that, in aggregate, market participants may not view the recent rally as sufficient confirmation that risks have fully subsided.
+
+Historically, Bitfinex margin long positions have functioned as a contrarian indicator. They tend to build during periods of market stress and are reduced as prices rise. For example, long positions were sharply reduced near local bottoms during the yen carry trade unwind in August 2024, when bitcoin fell to $49,000, and again in April 2025 amid tariff tensions under President Trump, when bitcoin dropped to $76,000.
+
+At the same time, theCoinbase Bitcoin Premium Indexis fluctuating between a premium and a discount, pointing to a lack of consistent buying pressure from U.S. investors.
+
+The index, which tracks the price difference between bitcoin on Coinbase and the broader global market, is often used as a proxy for institutional demand.Its indecisive positioning suggests that U.S. flows are not strongly supporting the rally, raising questions about the move's sustainability.
+
+Most crypto privacy models weaken as blockchain data grows. Encryption-based models like Zcash strengthen. CoinDesk Research maps the five privacy approaches and examines the widening gap.
+
+As blockchain adoption scales, the metadata available to machine learning models scales with it. Obfuscation-based privacy approaches are structurally degrading as a result. This report provides a comprehensive comparison of all five major crypto privacy architectures and a framework for evaluating which models remain durable as AI capabilities improve.
+
+Similarities reflect shared early research, not proof, said Back. Others have questions too.

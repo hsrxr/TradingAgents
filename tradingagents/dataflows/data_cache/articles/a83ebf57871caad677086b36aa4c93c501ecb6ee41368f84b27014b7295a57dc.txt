@@ -1,0 +1,49 @@
+Title: Morning Minute: Crypto Soars, Oil Tumbles on 2-Week Ceasefire
+Source: Decrypt
+URL: https://decrypt.co/363624/morning-minute-crypto-soars-oil-tumbles-on-2-week-ceasefire
+
+Morning Minute: Crypto Soars, Oil Tumbles on 2-Week Ceasefire
+
+Morning Minute is a daily newsletter written byTyler Warner. The analysis and opinions expressed are his own and do not necessarily reflect those of Decrypt.And check out ournew daily news showcovering all of the top stories in 5 minutes or less, downloadable on Apple Pod or Spotify.
+
+At 6:32 PM ET Tuesday, ninety minutes before his own deadline to bomb Iranian bridges and power plants,Trump posted on Truth Socialannouncing a “double sided CEASEFIRE.”
+
+He said he’d suspend attacks on Iran for two weeks, contingent on Iran immediately reopening the Strait of Hormuz, and cited a 10-point Iranian proposal as “a workable basis on which to negotiate.” Iran’s Supreme National Security Council formally accepted. Israel agreed too, per two White House officials who spoke to Reuters.
+
+The market response was swift. Bitcoinsurged from sub-$68,000 to $72,700on the news, reversing a selloff that started when Trump posted his “whole civilization will die tonight” threat that same morning. Oil collapsed, falling over 20%. US stock futures popped across the board, with the Nasdaq up 3.5% and the Dow up over 1k points.
+
+So where does this leave us? Analysts had flagged a confirmed Hormuz reopening as the one catalyst capable of pushing BTC to $90,000+. Two weeks is not peace; far from it. But if the Strait opens, oil drops, and the Fed gets the breathing room markets have been desperate for since late February. The new clock is running.
+
+The FDIC dropped its proposed rulemaking under the GENIUS Act Tuesday, laying out how FDIC-supervised banks can issue payment stablecoins through subsidiaries.
+
+The framework covers reserve standards, mandatory redemption at par, liquidity controls, audits, and custody requirements. Notably, stablecoins are explicitly excluded from FDIC deposit insurance.
+
+This is the detail that matters for institutional adoption. Banks can issue stablecoins. Their clients know exactly what the rules are. But a stablecoin run won’t be backstopped by the government the way a bank deposit would be.
+
+The IMFflagged this exact dynamicyesterday, stating that stablecoins behave like money market funds, not deposits. Now the regulatory framework makes that official.
+
+The SECgreen-lit the Morgan Stanley Bitcoin Truston Tuesday, and the fund starts trading on NYSE Arca Wednesday morning. The fee is 0.14%, notable because it’s the lowest of any spot Bitcoin ETF currently trading. BlackRock’s IBIT charges 0.25%; so does Fidelity’s FBTC.
+
+Even more notable (and relevant for bulls), Morgan Stanley has approximately 16,000 financial advisors on its payroll, and the firm’s Global Investment Committee already recommended allocating up to 4% of portfolios to crypto for “opportunistic growth” last year.
+
+Those advisors now have a Morgan Stanley-branded product to recommend to clients, which Bloomberg senior ETF analyst Eric Balchunas called a “captive audience.”
+
+SEC Chair Paul Atkins said Tuesday the Commission is close to releasing what he’s calling “Reg Crypto,” as a formal regulatory framework to address crypto fundraising questions.
+
+The implication here is that the SEC is building a crypto-native offering regime so projects don’t have to squeeze into Reg A, Reg D, or existing securities exemptions that weren’t designed for digital assets.
+
+This is the last major piece of the regulatory stack:
+
+If all three land, the US framework is effectively complete.
+
+The SDNY prosecutors aren’t done with Roman Storm.
+
+On Tuesday, U.S. Attorney Jay Claytonfiled a response to Storm’s motionto get the remaining charges dropped before a retrial. Storm’s lawyers had cited a landmark March 2026 Supreme Court ruling, Cox Communications v. Sony Music, which found that ISPs can’t be held liable for copyright infringement just because they knew their service was being used to infringe. The argument was that if an internet provider isn’t liable for what its users do with knowledge alone, a software developer shouldn’t be either.
+
+Clayton rejected it, saying that Storm’s conduct “bears no resemblance” to the Cox case, which was a civil copyright dispute. Calling the legal theory “window dressing at best and outright misdirection at worst,” Clayton argued a civil copyright case “has no relevance here in the first place” - Storm faces criminal charges for money laundering and sanctions evasion, a completely different legal standard.
+
+Your gateway into the world of Web3
+
+The latest news, articles, and resources, sent to your inbox weekly.
+
+© A next-generation media company.2026Decrypt Media, Inc.

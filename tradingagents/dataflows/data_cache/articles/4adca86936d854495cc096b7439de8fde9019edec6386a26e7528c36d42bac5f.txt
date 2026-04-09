@@ -1,0 +1,33 @@
+Title: U.S. bank with $1.9 trillion in assets could debut its bitcoin ETF Wednesday
+Source: CoinDesk
+URL: https://www.coindesk.com/markets/2026/04/08/bitcoin-etf-by-a-major-u-s-bank-with-usd9-3-trillion-in-client-assets-could-debut-wednesday
+
+More than two years after the first 11 spot bitcoin ETFs began trading in the U.S., a 12th, issued by a top-10 Wall Street bank with$1.9 trillion inassets under management, could debut Wednesday.
+
+The Morgan Stanley Bitcoin Trust could start trading NYSE Arca under the ticker MSBT, Bloomberg's ETF Analyst Eric Balchunas said on X, an NYSE listing notice that points to an April 8 launch.
+
+Morgan Stanley Bitcoin ETF$MBSTgoing effective tomorrow looks like, Wed 4/8, via NYSE listing notice.pic.twitter.com/n95IKdbefU
+
+The ETF hold actual bitcoin and tracks the CoinDesk Bitcoin Benchmark 4 PM NY Settlement Rate. It does not use leverage, derivatives, or active trading to beat bitcoin's price swings. BNY and Coinbase Custody will handle bitcoin storage, and the fund is launching with about $1 million in initial capital (seed) and 50,000 shares ready for trading.
+
+Like its peers, the fund gives investors exposure to the cryptocurrency without having to own or safeguard it themselves.
+
+Where it stands out is on cost: the trust charges a 0.14% annual fee, undercutting BlackRock’s iShares Bitcoin Trust at 0.25% and most rivals.
+
+The impending launch marks a milestone for the market, signaling the first time a major U.S. bank is bringing a spot bitcoin ETF to investors. It underscoring the surging demand for exposure to alternative assets like bitcoin.
+
+Morgan Stanley is pushing deeper into digital assets, having filed earlier this year for spot Solana ETFs and planning to roll out trading in bitcoin, ethereum and solana on E*Trade in the first half of 2026 via a collab with Zero Hash.
+
+Spot ETFs have become a go-to vehicle for institutions seeking exposure to the cryptocurrency. Since the first 11 funds debuted in January 2024, they have collectively drawn more than $56 billion in net inflows, according to data source SoSoValue.
+
+Activity in derivatives linked to these products has surged as well, with the mechanics of options tied to iShares Bitcoin Trust widely seen as amplifying bitcoin’s price slide in early February.
+
+These alternative investment vehicles have driven the mainstream financialization of Bitcoin, helping to dampen its volatility. Market dynamicshave evolved, with BTC’s implied volatility increasingly mirroring Wall Street’s fear gauge, the VIX – rising during price declines and falling during rallies.
+
+Morgan Stanley’s upcoming ETF is likely to reinforce these trends.
+
+Most crypto privacy models weaken as blockchain data grows. Encryption-based models like Zcash strengthen. CoinDesk Research maps the five privacy approaches and examines the widening gap.
+
+As blockchain adoption scales, the metadata available to machine learning models scales with it. Obfuscation-based privacy approaches are structurally degrading as a result. This report provides a comprehensive comparison of all five major crypto privacy architectures and a framework for evaluating which models remain durable as AI capabilities improve.
+
+Bitcoin clears a key technical hurdle and eyes $76,000 as a temporary ceasefire with Iran and Morgan Stanley’s landmark ETF debut restore market confidence.

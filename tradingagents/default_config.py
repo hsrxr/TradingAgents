@@ -37,6 +37,8 @@ DEFAULT_CONFIG = {
     # Progress tracking settings
     "enable_progress_tracking": True,   # Enable real-time progress display
     "enable_colored_output": True,      # Use colored output for better readability
+    "enable_on_chain_submission": False,      # Whether to submit trades on-chain (requires additional config)
+    "on_chain_submit_hold_decisions": False,  # Whether HOLD decisions should still submit TradeIntent to RiskRouter
 
     # Outer trigger runtime settings
     "enable_trigger_runtime": False,

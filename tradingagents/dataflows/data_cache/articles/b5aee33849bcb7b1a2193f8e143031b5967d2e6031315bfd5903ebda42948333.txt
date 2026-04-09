@@ -1,0 +1,33 @@
+Title: Bitcoin Surged Overnight After Iran Ceasefire—This New 'AfterDark' ETF Would've Caught the Move
+Source: Decrypt
+URL: https://decrypt.co/363636/bitcoin-surged-overnight-iran-ceasefire-afterdark-etf-wouldve-caught-move
+
+Bitcoin Surged Overnight After Iran Ceasefire—This New 'AfterDark' ETF Would've Caught the Move
+
+Investors gained access to an exchange-traded fund on Wednesday that’s designed to avoid the U.S. trading session, offering exposure toBitcoinwhile Wall Street sleeps. It launches right as anafter-hours Bitcoin price surgeshows exactly why such a fund could be beneficial to investors.
+
+The Nicholas Bitcoin and Treasuries AfterDark ETF debuted on the New York Stock Exchange, representing the ETF industry’s latest attempt at establishing novel product structures.
+
+The ETF, offered by issuer XFunds, seeks stability during the daytime through a mix of cash and U.S. Treasuries, according to an announcement. Around 4:30 p.m. ET, the fund allocates to Bitcoin futures, options, and other ETFs before exiting the following morning.
+
+XFunds’ product stems from a partnership with Tidal Investments. When that firm filed for the ETF in December, it appeared that Bitcoin consistently fell after the opening bell. “Did someone disable the buy button for Americans?” one onlookerwonderedon X at the time.
+
+Since then, market conditions appear to have changed, with President Donald Trump often making market-moving statements outside of U.S. trading hours. A ceasefire was reached between the U.S. and Israel on Tuesday evening. Between Tuesday’s market close and Wednesday’s open, Bitcoin rose 5.8% to $72,600 from $68,600, according toCoinGecko.
+
+In an interview withDecrypt, XFunds CEO David Nicholas acknowledged that a focus among investors on Bitcoin’s performance during the beginning of the U.S. trading session had “died down a little,” but he remained optimistic that the ETF would gain traction.
+
+In February, speculation abounded about the disappearance of a purported intraday selling pattern, which some linked to a lawsuit involving quantitative trading firm and liquidity provider Jane Street. Several expertsdismissedthe theory, warning that the focus on a single firm obscured a more complex set of market mechanics for spot Bitcoin ETFs.
+
+XFunds’ AfterDark ETF represents the third crypto-related ETF that the firm has established. Last June, the issuer created one that combines crypto companies with digital assets. Months later, it established another allowing investors to hedge against Bitcoin exposure.
+
+The company has created ETFs applying trading strategies to sectors such as defense and nuclear energy, but Nicholas said that the company’s latest offering “takes the cake” in terms of obscurity because of the way its funds settle.
+
+Stock trades typically settle in one business day, a format known as T+1. Effectively, the AfterDark ETF uses a T-1 settlement procedure to finalize the fund’s accounting before the opening bell rings in New York at 9:30 a.m. ET to ensure overnight moves are reflected.
+
+Although the XFunds AfterDark format is in its infancy, Nicholas raised the prospect of applying it to additional digital assets, includingEthereumandSolana. Nonetheless, he said those moves would hinge on whether the firm’s product achieves any success.
+
+Your gateway into the world of Web3
+
+The latest news, articles, and resources, sent to your inbox weekly.
+
+© A next-generation media company.2026Decrypt Media, Inc.

@@ -1,0 +1,39 @@
+Title: SEC Says Prior Crypto Enforcement Set 'Misguided Expectations' As Actions Drop 22%
+Source: Decrypt
+URL: https://decrypt.co/363638/sec-says-prior-crypto-enforcement-set-misguided-expectations-as-actions-drop-22
+
+SEC Says Prior Crypto Enforcement Set 'Misguided Expectations' As Actions Drop 22%
+
+The SEC has said that the crypto enforcement campaign conducted under its previous leadership set "misguided expectations" in an annualreportthat appears to formally reject its past actions against crypto firms.
+
+Resources "have been misapplied in prior years to pursue media headlines and run up numbers," the Commission said, adding that this has "led to misguided expectations on what constitutes effective enforcement."
+
+It comes as the Commission, now led by SEC Chairman Paul Atkins, moves to replaceenforcement-driven oversightwith formal rulemaking, including a proposed innovation exemption framework and a dedicatedCrypto Task Forceled by Commissioner Hester Peirce.
+
+The agency is now redirecting its resources “toward the types of misconduct that inflict the greatest harm,” Atkins said in a statement, pointing to the agency's efforts at addressing conduct involving “fraud, market manipulation, and abuses of trust.”
+
+Despite the pullback, the Commission still pursued fraud-related crypto cases during the fiscal year, maintaining that outright fraud remains within its enforcement mandate.
+
+Enforcement actions fell 22% to 456 in fiscal year 2025, while monetary relief dropped to $2.7 billion from $8.2 billion the prior year, excluding a legacy Ponzi scheme judgment that inflated the headline figure to $17.9 billion.
+
+At least seven major crypto cases filed under former Chair Gary Gensler weredismissedduring the period, including actions against Consensys, Kraken, and Cumberland DRW, the agency said.
+
+Registration-based crypto actions, off-channel communication sweeps, and dealer-definition cases filed since FY2022 produced "no investor benefit or protection" and reflected "a bias for volume of cases brought versus matters of investor protection," the Commission said.
+
+The enforcement report caps a broader retreat that has seen the Commissiondrop a number of casesanddismissits own appeal of the dealer-definition rule early last year. Democratic lawmakers, meanwhile, havecriticized the pullback, arguing it has eroded investor confidence.
+
+Still, the results indicate a “a pivot from regulation-by-enforcement toward collaborative oversight,” and aims to create new “safe harbors” for decentralization, Markus Levin, co-founder of decentralized data network XYO, toldDecrypt.
+
+This operates alongside a broader reclassification of digital assets as commodities, a regime that could help reduce “legal risk for innovators,” he added.
+
+With those set, the federal agency could now focus on “tackling real investor harms like rug pulls and market manipulation,” instead of going through “technical battles over token classification,” as before, Levin noted. In effect, this provides crypto firms with “more room to engage with regulators without the same risk of retroactive enforcement,” he said.
+
+Such a reversal opens the agency to “a more constructive, rules-based approach” that could help  “ease regulatory overhang and unlock a new wave of institutional capital” into the crypto industry, Dominick John, researcher at Zeus Research, toldDecrypt.
+
+While the move could represent “a hard reset,” the agency’s actions “strips away broad regulatory drag while sharply raising the stakes on governance,” which works to the advantage of institutional operators, he added.
+
+Your gateway into the world of Web3
+
+The latest news, articles, and resources, sent to your inbox weekly.
+
+© A next-generation media company.2026Decrypt Media, Inc.

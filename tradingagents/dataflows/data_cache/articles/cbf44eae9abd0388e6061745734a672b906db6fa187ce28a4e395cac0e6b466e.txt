@@ -1,0 +1,45 @@
+Title: SEC admits certain crypto enforcement cases delivered no investor benefit
+Source: Cointelegraph
+URL: https://cointelegraph.com/news/sec-crypto-enforcement-cases-no-benefit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+
+Under SEC Chair Paul Atkins, the number of SEC enforcement actions against public companies has decreased by about 30%.
+
+Cointelegraph in your social feed
+
+Some past enforcement actions against cryptocurrency companies lacked clear investor benefit and misinterpreted federal securities laws, the US Securities and Exchange Commission (SEC) said on Tuesday.
+
+Since the 2022 fiscal year, the SEC brought 95 actions and imposed $2.3 billion in penalties for “book-and-record violations,” itsaidin a statement about its enforcement results for 2025.
+
+It also reflected a “bias for volume of cases brought versus matters of investor protection,” a misallocation of resources and a misinterpretation of federal securities laws, the SEC said.
+
+It is the latest example of the regulator’s shift in approach towards enforcement since it came under the leadership of SEC Chair Paul Atkins in April 2025.
+
+His predecessor, former SEC Chair Gary Gensler, has been accused of pursuing a regulation-by-enforcement approach toward crypto. Since his departure, the SEC has adopted afriendlier stance toward digitalassets.
+
+In the lead-up toDonald Trump’s 2025 inauguration, the SEC’s enforcement division engaged in an “unprecedented rush” to bring cases and moved ahead with an “aggressive pursuit of novel legal theories,” the agency said.
+
+Atkins said the agency has since shifted away from this approach,ending regulation by enforcementand refocusing on the commission’s core mission by prioritizing cases that provide meaningful investor protection and strengthen market integrity.
+
+“We have redirected resources toward the types of misconduct that inflict the greatest harm—particularly fraud, market manipulation, and abuses of trust—and away from approaches that prioritized volume and record-setting penalties over true investor protection,” he added.
+
+Consulting firm Cornerstone Researchreported in November that under Atkins, the number of enforcement actions against public companies, including those involving crypto, decreased by about 30% in fiscal 2025 compared with fiscal 2024.
+
+In connection with 2025 enforcement actions, the SEC said it obtained orders for monetary relief totaling $17.9 billion, comprising $7.2 billion in civil penalties and the remainder in disgorgement and prejudgment interest.
+
+Related:Crypto market safe harbor lands at White House for review
+
+“This year’s enforcement results clarify the flaws of these actions and their respective penalties and re-establish the definition and measure of enforcement effectiveness, grounded in Congress’ original intent and focused on bringing actions that actually prevent investor harm instead of headlines and inflated numbers,” the SEC said.
+
+Despite the SEC’s enforcement shift, several crypto companies were still hit with enforcement actions in 2025.
+
+In May 2025, Unicoin and four of its current and former executives weresued by the SEC for allegedly raising $100 millionby misleading investors about certificates that purported to convey rights to receive Unicoin tokens and stock. However, the platform hasaccused the agency of distortingits regulatory statements to build a case.
+
+The SEC alsofiled a civil complaintagainst Ramil Ventura Palafox in April 2025, CEO of Praetorian Group International, for allegedly orchestrating a $200 million Ponzi scheme. A parallel criminal case brought by the US Department of Justiceresulted in Palafox's February sentence of 20 yearsin prison.
+
+Magazine:Your guide to surviving this mini-crypto winter
+
+Cointelegraph covers fintech, blockchain and Bitcoin bringing you the latest crypto news and analyses on the future of money.
+
+Cointelegraph is committed to providing independent, high-quality journalism across the crypto, blockchain, AI, and fintech industries. To support open access to our website and sustain editorial operations, certain commercial or partner references may appear on our site. These arrangements help maintain an accessible platform and do not result in additional costs to readers.
+
+All news, reviews, and analysis are produced with full journalistic independence and integrity. For more details on our standards and processes, please read ourEditorial Policy.

@@ -3,6 +3,7 @@ import time
 import json
 from tradingagents.dataflows.calculate_indicators import get_dex_indicators
 from tradingagents.dataflows.geckoterminal_price import get_dex_ohlcv
+from tradingagents.dataflows.binance_price import get_binance_ohlcv, get_binance_indicators
 from tradingagents.dataflows.config import get_config
 
 
@@ -16,6 +17,8 @@ def create_market_analyst(llm):
         tools = [
             get_dex_ohlcv,
             get_dex_indicators,
+            get_binance_ohlcv,
+            get_binance_indicators,
         ]
 
         system_message = (
@@ -53,7 +56,11 @@ Volume-Based Indicators:
 - Select indicators that provide diverse and complementary information.
 - Avoid redundancy (for example, do not choose multiple indicators that say the same thing).
 - When you tool call, use the exact indicator names listed above, otherwise the call may fail.
-- You must call get_dex_ohlcv first, then call get_dex_indicators with specific indicator names.
+- You must choose one primary price source for the current analysis:
+    - DEX path: call get_dex_ohlcv first, then get_dex_indicators.
+    - Binance path: call get_binance_ohlcv first, then get_binance_indicators.
+- You must proactively normalize pair names before Binance calls. Example: XBTUSD should be treated as BTCUSDT on Binance.
+- If ticker naming is ambiguous across venues, explicitly state your resolved pair before analysis.
 
 Report requirements:
 - Start with a one-paragraph executive summary for an hourly crypto trader.

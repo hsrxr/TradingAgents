@@ -37,7 +37,7 @@ def _configure_logging() -> Path:
 
 def _get_max_runtime_seconds() -> int:
     """Read max runtime from env, defaulting to 3 hours."""
-    raw = os.getenv("TRIGGER_MAX_RUNTIME_SECONDS", "10800")
+    raw = os.getenv("TRIGGER_MAX_RUNTIME_SECONDS", "108000")
     try:
         value = int(raw)
     except ValueError:

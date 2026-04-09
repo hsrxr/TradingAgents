@@ -1,4 +1,5 @@
 import json
+import logging
 import time
 from dataclasses import dataclass
 from pathlib import Path
@@ -9,6 +10,9 @@ from eth_account.messages import encode_typed_data
 from web3 import Web3
 from web3.contract import Contract
 from web3.types import TxReceipt
+
+
+logger = logging.getLogger(__name__)
 
 
 SEPOLIA_CHAIN_ID = 11155111
@@ -502,6 +506,13 @@ class HackathonWeb3Client:
         if score < 0 or score > 100:
             raise ValueError("score must be in [0, 100]")
 
+        sender_account = self.agent_account
+
+        logger.info(
+            "Submitting ValidationRegistry checkpoint from agent wallet %s",
+            sender_account.address,
+        )
+
         return self._send_contract_tx(
             self.validation_registry.functions.postEIP712Attestation(
                 int(agent_id),
@@ -509,7 +520,7 @@ class HackathonWeb3Client:
                 int(score),
                 notes,
             ),
-            self.operator_account,
+            sender_account,
         )
 
     def get_validation_score(self, agent_id: int) -> int:

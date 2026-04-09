@@ -273,49 +273,6 @@ class OnChainIntegrator:
             logger.error(result.trade_error, exc_info=True)
             return result
         
-        # Submit checkpoint (best effort, doesn't block if fails)
-        try:
-            checkpoint_hash, checkpoint_dict = self.client.build_checkpoint_hash(
-                agent_id=self.agent_id,
-                action=action,
-                pair=pair,
-                amount_usd_scaled=amount_usd_scaled,
-                price_usd_scaled=current_price_usd_scaled,
-                reasoning=reasoning,
-            )
-            
-            # Build notes/score from trader metadata
-            confidence_raw = decision.get("confidence", 0.5)
-            try:
-                confidence = float(confidence_raw)
-            except (TypeError, ValueError):
-                confidence = 0.5
-            confidence = max(0.0, min(1.0, confidence))
-            notes = reasoning.strip() if reasoning else f"{self.checkpoint_notes_prefix} action={action}"
-            score = int(round(confidence * 100))
-            
-            # Submit checkpoint
-            checkpoint_tx = self.client.post_checkpoint_attestation(
-                agent_id=self.agent_id,
-                checkpoint_hash=checkpoint_hash,
-                score=score,
-                notes=notes,
-            )
-
-            result.checkpoint_submitted = True
-            result.checkpoint_hash = self._normalize_tx_hash(checkpoint_tx.tx_hash)
-            logger.info(f"Checkpoint submitted: {result.checkpoint_hash}")
-            
-            result.metadata["checkpoint"] = checkpoint_dict
-            result.metadata["checkpoint_hash"] = checkpoint_hash
-            result.metadata["checkpoint_notes"] = notes
-            result.metadata["checkpoint_score"] = score
-            
-        except Exception as e:
-            result.checkpoint_error = f"Checkpoint submission failed: {str(e)}"
-            logger.error(result.checkpoint_error, exc_info=True)
-            # Don't fail the whole operation if checkpoint fails
-        
         return result
     
     def wait_for_feedback(

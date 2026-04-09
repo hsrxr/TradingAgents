@@ -1,0 +1,27 @@
+Title: Bitcoin Miner Cango Sells $143 Million in BTC, Slashes Production Costs
+Source: Decrypt
+URL: https://decrypt.co/363730/bitcoin-miner-cango-sells-143-million-btc-slashes-production-costs
+
+Bitcoin Miner Cango Sells $143 Million in BTC, Slashes Production Costs
+
+Publicly traded Bitcoin miner Cango Inc.cut its average production costby 19.3% to $68,216 per BTC in March—down from $84,552 in Q4 last year—achieving the reduction through strategic fleet optimization rather than expansion.
+
+The company decommissioned older mining hardware and relocated operations to regions with cheaper power, while selling 2,000 Bitcoin during the month to retire crypto-backed debt.That tally ofBitcoinis currently valued around $143 million, and the firm used the proceeds to trim its outstanding loan balances to $30.6 million.
+
+Cango still held 1,025.69 BTC in its treasury as of the end of March 31, valued over $73 million as of this writing. The firm’s total hash rate stood at 37.01 EH/s as of the end of March, split between 27.98 EH/s from self-mining and 9.02 EH/s from leasing arrangements.
+
+The operational restructuring involved more than simple downsizing. In high-cost hosting locations, Cango deployed hash rate leasing models to maintain revenue without bearing full operational expenses, according to the company’s announcement.
+
+Cango plans to redirect capital from its deleveraging efforts toward AI computing infrastructure, positioning the cost reductions as preparation for business model expansion. The same filing indicated the company views AI infrastructure as a natural extension of its existing power and facility investments.
+
+The efficiency focus reflects shifting priorities among public Bitcoin miners facing compressed margins and market volatility. Rather than competing solely on hash rate growth, companies are examining unit economics and alternative revenue streams. Several Bitcoin mining firms have made moves into powering AI computing needs, even abandoning their original business focuses in an effort to chase larger profits amid the AI boom.
+
+Cango's operational restructuring follows similar moves across the public mining sector. MARA recentlysold $1.1 billion in Bitcointo buy back convertible debt whilecutting 15% of its workforce. Core Scientific has explored plans tosell all of its Bitcoin holdingsto finance its own AI transition, while Cipher Digitalshifted focus to data center operationswith a 15-year infrastructure deal, highlighting the industry's evolution beyond traditional mining models.
+
+Cango shares (CANG) finished the trading dayup 3.3% on Wednesdayat a price of $0.4291 on a broadly green day for stocks, following a conditional ceasefire between the U.S. and Iran. Despite the daily uptick, however, CANG shares have fallen nearly 39% in the last month.
+
+Your gateway into the world of Web3
+
+The latest news, articles, and resources, sent to your inbox weekly.
+
+© A next-generation media company.2026Decrypt Media, Inc.

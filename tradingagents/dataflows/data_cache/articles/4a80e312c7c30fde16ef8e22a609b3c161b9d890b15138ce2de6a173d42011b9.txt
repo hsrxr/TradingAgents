@@ -1,0 +1,37 @@
+Title: Bitcoin's next big move hinges on oil, and right now it's a total coin flip
+Source: CoinDesk
+URL: https://www.coindesk.com/markets/2026/04/09/bitcoin-s-next-big-move-hinges-on-oil-and-right-now-it-s-a-total-coin-flip
+
+Bitcoin'sBTC$70,954.21next big move may have less to do with crypto fundamentals and more to do with the direction of oil prices.
+
+The leading cryptocurrency by market value has rebounded to $70,900 from early-week lows near $67,000,according to CoinDesk market data, tracking a broader risk-on move after the U.S. and Iran agreed to a two-week ceasefire late Tuesday that sent oil prices tumbling roughly 15% to below $100 a barrel.
+
+Bitcoin has been here before – prices have climbed above the $70,000 mark several times in recent weeks, only for the rallies to fizzle out quickly, underscoring the lack of sustained upside momentum.
+
+Will it be different this time? It largely depends on whether oil price weakness sustains, according to analysts at crypto exchange Bitfinex.
+
+"A 15–16 percent collapse in crude, if sustained, materially brings forward the potential cut window. Futures markets will likely reprice additional rate-cut probability for late 2026, which is a structural tailwind for non-yielding risk assets, including bitcoin," analysts said in a market update.
+
+A sustained decline in oil prices could ripple through the global economy, partially unwinding the inflationary shock triggered by the March surge and giving the Federal Reserve and other major central banks greater room to cut rates later this year.
+
+Should that happen, bitcoin could rally to $80,000, with gains driven by the unwinding of short positions.
+
+"Bitcoin is sitting at $72,000, pressing into a massive cluster of short liquidity. Derivatives heatmaps show roughly $6 billion in leveraged shorts concentrated between $72,200 and $73,500, with peak density around $72,500. If spot demand can force the price through that zone, the resulting liquidation cascade would likely catapult Bitcoin through the supply gap toward $80,000," Adam Saville Brown, head of commercial at Tesseract Group, said in an email.
+
+However, as of now, rate-cut expectations remain muted. Per some analysts, the recent rise in energy costs risks keeping inflation elevated without significantly denting demand, potentially locking the Fed into a prolonged holding pattern in which rates stay at 3.5% with neither hikes nor cuts on the table.
+
+The ceasefire between Iran and the U.S. appears to have already unraveled, according to media reports. Tensions flared after Israel launched intense strikes in Lebanon, saying the territory was not covered under the agreement — a claim that contradicted the supposed mediator, Pakistan. In a further escalation, an Iranian news agency reported that oil traffic through the Strait of Hormuz was halted again, just hours after the first tankers were allowed to pass, citing the renewed hostilities.
+
+This means that oil could rally again, triggering risk aversion if the warring parties fail to reach an agreement in the coming days.
+
+"The bear case is simpler: if talks collapse, oil rips back above $100, and we’re back to where we were ten days ago. The two-week window creates a binary setup that derivatives markets will price aggressively," Brown said.
+
+Bitfinex analysts said that oil could rise to $120 if the Strait of Hormuz remains closed, denting prospects of Fed rate cuts.
+
+"This creates a known binary event approximately 13 days out. Participants holding risk exposure are working within a two-week window. The oil move has been priced; a ceasefire collapse would be incrementally more damaging than the original shock," analysts noted.
+
+Most crypto privacy models weaken as blockchain data grows. Encryption-based models like Zcash strengthen. CoinDesk Research maps the five privacy approaches and examines the widening gap.
+
+As blockchain adoption scales, the metadata available to machine learning models scales with it. Obfuscation-based privacy approaches are structurally degrading as a result. This report provides a comprehensive comparison of all five major crypto privacy architectures and a framework for evaluating which models remain durable as AI capabilities improve.
+
+Elevated volume and modest institutional buying fail to support price, with sellers continuing to dominate near resistance.

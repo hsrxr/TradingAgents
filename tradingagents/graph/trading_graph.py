@@ -189,7 +189,9 @@ class TradingAgentsGraph:
             if self.on_chain_integrator:
                 logger.info("On-chain integration enabled")
             else:
-                logger.warning("On-chain integration requested but not available (missing .env config)")
+                logger.warning(
+                    "On-chain integration requested but not available (check prior logs for root cause, e.g. env/RPC/connectivity)."
+                )
         else:
             logger.debug("On-chain integration disabled")
         

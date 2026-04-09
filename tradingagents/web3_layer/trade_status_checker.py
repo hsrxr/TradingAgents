@@ -158,19 +158,29 @@ class TradeStatusChecker:
             events = self.contract.events.TradeApproved.get_logs(
                 from_block=from_block,
                 to_block=to_block,
-                argument_filters={"agentId": agent_id},
             )
             
             approval_events = []
             for event in events:
                 try:
+                    if int(event["args"].get("agentId", -1)) != int(agent_id):
+                        continue
+
+                    intent_hash = event["args"]["intentHash"]
+                    if hasattr(intent_hash, "hex"):
+                        intent_hash = intent_hash.hex()
+
+                    tx_hash = event["transactionHash"]
+                    if hasattr(tx_hash, "hex"):
+                        tx_hash = tx_hash.hex()
+
                     approval_obj = TradeApprovalEvent(
                         agent_id=event["args"]["agentId"],
-                        intent_hash=event["args"]["intentHash"].hex(),
+                        intent_hash=str(intent_hash),
                         amount_usd_scaled=event["args"]["amountUsdScaled"],
                         nonce=0,  # Not in event, will be fetched separately if needed
                         block_number=event["blockNumber"],
-                        transaction_hash=event["transactionHash"].hex(),
+                        transaction_hash=str(tx_hash),
                         timestamp=self._get_block_timestamp(event["blockNumber"]),
                     )
                     approval_events.append(approval_obj)
@@ -216,19 +226,29 @@ class TradeStatusChecker:
             events = self.contract.events.TradeRejected.get_logs(
                 from_block=from_block,
                 to_block=to_block,
-                argument_filters={"agentId": agent_id},
             )
             
             rejection_events = []
             for event in events:
                 try:
+                    if int(event["args"].get("agentId", -1)) != int(agent_id):
+                        continue
+
+                    intent_hash = event["args"]["intentHash"]
+                    if hasattr(intent_hash, "hex"):
+                        intent_hash = intent_hash.hex()
+
+                    tx_hash = event["transactionHash"]
+                    if hasattr(tx_hash, "hex"):
+                        tx_hash = tx_hash.hex()
+
                     rejection_obj = TradeRejectionEvent(
                         agent_id=event["args"]["agentId"],
-                        intent_hash=event["args"]["intentHash"].hex(),
+                        intent_hash=str(intent_hash),
                         rejection_reason=event["args"]["reason"],
                         nonce=0,  # Not in event
                         block_number=event["blockNumber"],
-                        transaction_hash=event["transactionHash"].hex(),
+                        transaction_hash=str(tx_hash),
                         timestamp=self._get_block_timestamp(event["blockNumber"]),
                     )
                     rejection_events.append(rejection_obj)

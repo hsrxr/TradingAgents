@@ -100,6 +100,40 @@ class TradeStatusChecker:
         self._approval_cache: Dict[str, TradeApprovalEvent] = {}
         self._rejection_cache: Dict[str, TradeRejectionEvent] = {}
         self._last_block_checked = 0
+        self._max_block_range = 50000
+
+    def _resolve_block_window(
+        self,
+        from_block: Optional[int],
+        to_block: Optional[int],
+    ) -> tuple[int, int]:
+        """Resolve a safe [from_block, to_block] range for RPC providers with range limits."""
+        latest_block = int(self.w3.eth.block_number)
+        resolved_to = latest_block if to_block is None else int(to_block)
+
+        if from_block is None:
+            # If we have progressed before, continue from there; otherwise query a bounded recent window.
+            if self._last_block_checked > 0:
+                resolved_from = max(0, self._last_block_checked - 100)
+            else:
+                resolved_from = max(0, resolved_to - self._max_block_range + 1)
+        else:
+            resolved_from = max(0, int(from_block))
+
+        max_span = self._max_block_range - 1
+        if (resolved_to - resolved_from) > max_span:
+            adjusted_from = max(0, resolved_to - max_span)
+            logger.warning(
+                "Adjusting log query window from [%s, %s] to [%s, %s] to satisfy provider max range %s",
+                resolved_from,
+                resolved_to,
+                adjusted_from,
+                resolved_to,
+                self._max_block_range,
+            )
+            resolved_from = adjusted_from
+
+        return resolved_from, resolved_to
     
     def get_approval_events(
         self,
@@ -118,10 +152,7 @@ class TradeStatusChecker:
             List of TradeApprovalEvent objects
         """
         try:
-            if from_block is None:
-                from_block = max(0, self._last_block_checked - 100)
-            if to_block is None:
-                to_block = "latest"
+            from_block, to_block = self._resolve_block_window(from_block, to_block)
             
             # Query TradeApproved events
             events = self.contract.events.TradeApproved.get_logs(
@@ -152,6 +183,8 @@ class TradeStatusChecker:
             # Update last block checked
             if events:
                 self._last_block_checked = max(e["blockNumber"] for e in events)
+            else:
+                self._last_block_checked = max(self._last_block_checked, int(to_block))
             
             logger.info(f"Found {len(approval_events)} approval events for agent {agent_id}")
             return approval_events
@@ -177,10 +210,7 @@ class TradeStatusChecker:
             List of TradeRejectionEvent objects
         """
         try:
-            if from_block is None:
-                from_block = max(0, self._last_block_checked - 100)
-            if to_block is None:
-                to_block = "latest"
+            from_block, to_block = self._resolve_block_window(from_block, to_block)
             
             # Query TradeRejected events
             events = self.contract.events.TradeRejected.get_logs(
@@ -211,6 +241,8 @@ class TradeStatusChecker:
             # Update last block checked
             if events:
                 self._last_block_checked = max(e["blockNumber"] for e in events)
+            else:
+                self._last_block_checked = max(self._last_block_checked, int(to_block))
             
             logger.info(f"Found {len(rejection_events)} rejection events for agent {agent_id}")
             return rejection_events

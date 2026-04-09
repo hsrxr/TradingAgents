@@ -466,7 +466,8 @@ class HackathonWeb3Client:
             "pair": pair,
             "amountUsdScaled": int(amount_usd_scaled),
             "priceUsdScaled": int(price_usd_scaled),
-            "reasoningHash": reasoning_hash.hex(),
+            # bytes32 must be raw 32-byte value or 0x-prefixed 64-hex string.
+            "reasoningHash": f"0x{reasoning_hash.hex()}",
         }
 
         domain = {

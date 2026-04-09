@@ -418,6 +418,10 @@ class TradingAgentsGraph:
 
         # Log state
         self._log_state(trade_date, final_state)
+
+        submission_skipped = not bool(self.on_chain_integrator)
+        trade_submitted = False
+        checkpoint_submitted = False
         
         # Submit to on-chain contracts (if configured)
         if self.on_chain_integrator:
@@ -427,6 +431,10 @@ class TradingAgentsGraph:
                     current_price_usd_scaled=0,  # Optional: could be fetched from market data
                     trade_date=str(trade_date),
                 )
+
+                trade_submitted = bool(submission_result.trade_submitted)
+                checkpoint_submitted = bool(submission_result.checkpoint_submitted)
+                submission_skipped = bool((submission_result.metadata or {}).get("submission_skipped", False))
                 
                 if submission_result.trade_submitted:
                     logger.info(
@@ -462,6 +470,13 @@ class TradingAgentsGraph:
                     
             except Exception as e:
                 logger.error(f"Unexpected error during on-chain submission: {e}", exc_info=True)
+
+        logger.info(
+            "On-chain submission summary: submission_skipped=%s, trade_submitted=%s, checkpoint_submitted=%s",
+            submission_skipped,
+            trade_submitted,
+            checkpoint_submitted,
+        )
 
         # Return decision and processed signal
         return final_state, self.process_signal(final_state["final_trade_decision"])

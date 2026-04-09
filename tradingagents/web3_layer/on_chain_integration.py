@@ -8,10 +8,12 @@ to the Sepolia hackathon contracts after each agent decision.
 import json
 import logging
 import time
-from dataclasses import dataclass
+from dataclasses import dataclass, field
 from typing import Any, Dict, Optional
 
 from tradingagents.web3_layer.client import HackathonWeb3Client
+from tradingagents.virtual_ledger import create_virtual_ledger
+from tradingagents.virtual_ledger import create_virtual_ledger
 
 logger = logging.getLogger(__name__)
 
@@ -33,8 +35,8 @@ class OnChainSubmissionResult:
     approval_event: Optional[Dict[str, Any]] = None
     rejection_event: Optional[Dict[str, Any]] = None
     rejection_reason: Optional[str] = None
-    
-    metadata: Dict[str, Any] = None  # Additional info about the submission
+    field(default_factory=dict)
+    metadata: Dict[str, Any] = field(default_factory=dict)  # Additional info about the submission
 
 
 class TradeIntentAdapter:
@@ -127,6 +129,7 @@ class OnChainIntegrator:
         enable_simulation: bool = True,
         submit_hold_decisions: bool = False,
         checkpoint_notes_prefix: str = "TradingAgent decision:",
+        ledger_path: str = "./trade_memory/virtual_ledger.json",
     ):
         """Initialize the on-chain integrator.
         
@@ -138,6 +141,7 @@ class OnChainIntegrator:
             enable_simulation: If True, simulate intents before submission
             submit_hold_decisions: If True, submit HOLD actions to RiskRouter
             checkpoint_notes_prefix: Prefix for checkpoint notes
+            ledger_path: Path to virtual ledger JSON file
         """
         self.client = web3_client
         self.agent_id = int(agent_id)
@@ -146,6 +150,7 @@ class OnChainIntegrator:
         self.enable_simulation = enable_simulation
         self.submit_hold_decisions = bool(submit_hold_decisions)
         self.checkpoint_notes_prefix = checkpoint_notes_prefix
+        self.ledger = create_virtual_ledger(ledger_path=ledger_path)
 
     @staticmethod
     def _normalize_tx_hash(tx_hash: Any) -> str:
@@ -263,10 +268,40 @@ class OnChainIntegrator:
 
             result.trade_intent_hash = self._normalize_tx_hash(tx_result.tx_hash)
             result.trade_submitted = True
+            
+            # Record trade in virtual ledger
+            confidence = float(decision.get("confidence", 0.5))
+            notes_raw = decision.get("reason", "")
+            trade_id = self.ledger.submit_trade(
+                agent_id=self.agent_id,
+                pair=pair,
+                action=action,
+                amount_usd=amount_usd_scaled / 100.0,
+                intent_hash=result.trade_intent_hash,
+                confidence=confidence,
+                notes=str(notes_raw)[:500],
+            )
+            result.metadata["virtual_trade_id"] = trade_id
+            logger.info(f"Trade recorded in virtual ledger: {trade_id}, balance=${self.ledger.get_balance():.2f}")
             logger.info(f"TradeIntent submitted: {result.trade_intent_hash}")
             
             result.metadata["trade_intent"] = intent
             result.metadata["intent_nonce"] = nonce
+            
+            # Record trade in virtual ledger
+            confidence = float(decision.get("confidence", 0.5))
+            notes_raw = decision.get("reason", "")
+            trade_id = self.ledger.submit_trade(
+                agent_id=self.agent_id,
+                pair=pair,
+                action=action,
+                amount_usd=amount_usd_scaled / 100.0,
+                intent_hash=result.trade_intent_hash,
+                confidence=confidence,
+                notes=str(notes_raw)[:500],
+            )
+            result.metadata["virtual_trade_id"] = trade_id
+            logger.info(f"Trade recorded in virtual ledger: {trade_id}, balance=${self.ledger.get_balance():.2f}")
             
         except Exception as e:
             result.trade_error = f"TradeIntent submission failed: {str(e)}"
@@ -330,6 +365,10 @@ class OnChainIntegrator:
                     submission_result.trade_approved = True
                     submission_result.approval_event = result.get("event")
                     logger.info(f"Trade APPROVED: {intent_hash[:16]}...")
+                    
+                    # Update virtual ledger: approve trade and reserve balance
+                    self.ledger.approve_trade(intent_hash)
+                    logger.info(f"Virtual ledger updated: balance=${self.ledger.get_balance():.2f}")
                 
                 elif result["status"] == "rejected":
                     submission_result.trade_rejected = True
@@ -338,6 +377,9 @@ class OnChainIntegrator:
                     logger.warning(
                         f"Trade REJECTED: {intent_hash[:16]}... - {submission_result.rejection_reason}"
                     )
+                    
+                    # Update virtual ledger: mark trade as rejected (no balance change)
+                    self.ledger.reject_trade(intent_hash, reason=submission_result.rejection_reason)
             else:
                 logger.warning(
                     f"No feedback received for trade {intent_hash[:16]}... "
